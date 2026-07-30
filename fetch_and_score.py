@@ -22,7 +22,6 @@ FEEDS = [
     "https://www.tijd.be/rss/cultuur.xml",
     "https://www.tijd.be/rss/opinie.xml",
     "https://www.tijd.be/rss/sabato.xml",
-    "https://www.tijd.be/rss/markten_live.xml",
     "https://www.tijd.be/rss/fondsen.xml",
     "https://www.tijd.be/rss/netto.xml",
 ]
@@ -49,6 +48,9 @@ KEYWORDS = [
 ]
 NUMBER_RE = re.compile(r"\d+([.,]\d+)?\s*(%|procent|miljoen|miljard|euro)", re.IGNORECASE)
 QUOTE_RE = re.compile(r"['‘’\"“”]")
+
+# Categorieen die eerder korte marktupdates zijn dan volwaardige artikels.
+EXCLUDED_CATEGORIES = {"Markten Live"}
 
 MAX_AGE = timedelta(hours=30)
 MAX_ARTICLES = 40
@@ -166,6 +168,8 @@ def main():
 
         for article in parse_rss_items(xml_bytes):
             if article["id"] in articles_by_id:
+                continue
+            if article["category"] in EXCLUDED_CATEGORIES:
                 continue
             pub_date = parse_pub_date(article["pubDate"])
             if pub_date and pub_date < cutoff:

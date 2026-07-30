@@ -93,12 +93,14 @@
   .comment { font-size: 13px; margin-bottom: 8px; }
   .comment .author { font-weight: 600; }
   .comment .body { color: var(--text); }
-  .comment-form { display: flex; gap: 6px; margin-top: 8px; }
-  .comment-form input[type=text] {
-    flex: 1; padding: 6px 8px; border-radius: 6px; border: 1px solid var(--border);
+  .comment-form { display: flex; gap: 6px; margin-top: 8px; flex-wrap: wrap; }
+  .comment-form input[type=text], .comment-form select {
+    padding: 6px 8px; border-radius: 6px; border: 1px solid var(--border);
     background: var(--bg); color: var(--text); font-size: 13px;
   }
-  .comment-form input[name=body] { flex: 3; }
+  .comment-form select.author-select { flex: 0 0 auto; }
+  .comment-form input.author-custom { flex: 1 1 100px; }
+  .comment-form input[name=body] { flex: 3 1 140px; }
   .comment-form button {
     border: none; background: var(--accent); color: white; border-radius: 6px;
     padding: 6px 12px; font-size: 13px; cursor: pointer;
@@ -151,10 +153,39 @@ function getVoterId() {
 }
 const voterId = getVoterId();
 
+const PRESET_NAMES = ["Bert", "Roan", "Peter", "Niels", "Thijs", "Seppe", "Robbe", "Maarten", "Julie"];
+const CUSTOM_NAME_VALUE = "__custom__";
+
+function getSavedName() {
+  return localStorage.getItem("de7_comment_author") || "";
+}
+function saveName(name) {
+  if (name) localStorage.setItem("de7_comment_author", name);
+}
+
 function escapeHtml(s) {
   return String(s).replace(/[&<>"']/g, c => ({
     "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
   }[c]));
+}
+
+function nameFieldHtml() {
+  const saved = getSavedName();
+  const isPreset = PRESET_NAMES.includes(saved);
+  const options = PRESET_NAMES.map(n =>
+    `<option value="${escapeHtml(n)}" ${saved === n ? "selected" : ""}>${escapeHtml(n)}</option>`
+  ).join("");
+  const customSelected = saved && !isPreset;
+  return `
+    <select class="author-select" name="author">
+      <option value="" ${saved ? "" : "selected"} disabled>Naam...</option>
+      ${options}
+      <option value="${CUSTOM_NAME_VALUE}" ${customSelected ? "selected" : ""}>Andere...</option>
+    </select>
+    <input type="text" class="author-custom" placeholder="Jouw naam"
+      value="${customSelected ? escapeHtml(saved) : ""}"
+      style="display:${customSelected ? "inline-block" : "none"}">
+  `;
 }
 
 function timeAgo(iso) {
@@ -235,11 +266,11 @@ function articleCard(article, netVotes, myVote, comments) {
   return `
   <div class="card" data-id="${article.id}" data-combined="${combined}">
     <div class="card-top">
-      ${imageHtml}
       <div class="card-content">
         <div class="badges">${de7Badge}${catBadge}</div>
         <div class="title"><a href="${escapeHtml(article.link)}" target="_blank" rel="noopener">${escapeHtml(article.title)}</a></div>
       </div>
+      ${imageHtml}
     </div>
     <div class="row">
       <div class="votes">
@@ -253,7 +284,7 @@ function articleCard(article, netVotes, myVote, comments) {
     <div class="comments" id="comments-${article.id}">
       ${commentsHtml || '<div class="muted" style="font-size:13px">Nog geen comments.</div>'}
       <div class="comment-form">
-        <input type="text" name="author" placeholder="Naam">
+        ${nameFieldHtml()}
         <input type="text" name="body" placeholder="Comment...">
         <button class="comment-submit" data-id="${article.id}">Post</button>
       </div>
@@ -311,11 +342,30 @@ async function render() {
   listEl.querySelectorAll(".vote-up, .vote-down").forEach(btn => {
     btn.addEventListener("click", () => castVote(btn.dataset.id, Number(btn.dataset.value)));
   });
+  listEl.querySelectorAll(".author-select").forEach(select => {
+    select.addEventListener("change", () => {
+      const customInput = select.closest(".comment-form").querySelector(".author-custom");
+      if (select.value === CUSTOM_NAME_VALUE) {
+        customInput.style.display = "inline-block";
+        customInput.focus();
+      } else {
+        customInput.style.display = "none";
+        saveName(select.value);
+      }
+    });
+  });
+  listEl.querySelectorAll(".author-custom").forEach(input => {
+    input.addEventListener("input", () => saveName(input.value.trim()));
+  });
   listEl.querySelectorAll(".comment-submit").forEach(btn => {
     btn.addEventListener("click", () => {
       const form = btn.closest(".comments");
-      const author = form.querySelector('input[name=author]').value;
+      const select = form.querySelector(".author-select");
+      const customInput = form.querySelector(".author-custom");
+      const author = select.value === CUSTOM_NAME_VALUE ? customInput.value.trim() : select.value;
       const body = form.querySelector('input[name=body]').value;
+      if (!author) { alert("Kies of typ eerst een naam."); return; }
+      saveName(author);
       addComment(btn.dataset.id, author, body);
     });
   });

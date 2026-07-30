@@ -1,19 +1,8 @@
 {
-  "generated_at": "2026-07-30T13:21:03.936770+00:00",
+  "generated_at": "2026-07-30T13:34:02.811319+00:00",
   "de7_title": "30/07 | 200.000 Vlamingen veranderden van energieleverancier sinds Iran-oorlog | Meta en Microsoft blijven geld pompen in AI | Verzekeringsfraude in opmars",
-  "de7_matched_count": 2,
+  "de7_matched_count": 1,
   "articles": [
-    {
-      "id": "10680590",
-      "title": "AI-inkomsten Microsoft doorbreken kaap van 100 miljard dollar",
-      "link": "https://www.tijd.be/r/t/1/id/10680590",
-      "category": "Markten Live",
-      "description": "De AI-inkomsten van Microsoft hebben het voorbije boekjaar voor het eerst de kaap van 100 miljard dollar gerond. De softwarereus zag de omzet het jongste kwartaal ook sterker groeien dan verwacht.",
-      "pubDate": "Wed, 29 Jul 2026 21:24:10 GMT",
-      "score": 14,
-      "in_de7": true,
-      "image": "https://images.tijd.be/view?iid=Elvis:6TItvzX441MA8_Injus1hq&context=ONLINE&ratio=16/9&width=480&u=1785414894000"
-    },
     {
       "id": "10680375",
       "title": "200.000 Vlamingen veranderden van energieleverancier sinds Iran-oorlog",
@@ -35,17 +24,6 @@
       "score": 5,
       "in_de7": false,
       "image": "https://images.tijd.be/view?iid=Elvis:C_9eo4mWqt-BxAgC5qauAG&context=ONLINE&ratio=16/9&width=480&u=1785410056000"
-    },
-    {
-      "id": "10680569",
-      "title": "Rotatie uit chipaandelen geeft aandelen uit 'oude economie' een stroomstoot",
-      "link": "https://www.tijd.be/r/t/1/id/10680569",
-      "category": "Markten Live",
-      "description": "De hausse in de chipsector is de afgelopen weken dan wel flink bekoeld, de beurzen als geheel houden te midden van het chiptumult verrassend goed stand. Met dank aan de herontdekking van enkele lang verwaarloosde sectoren.",
-      "pubDate": "Wed, 29 Jul 2026 17:37:09 GMT",
-      "score": 5,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:5a19rNLf4J1A2eai1DfJnL&context=ONLINE&ratio=16/9&width=480&u=1785346633000"
     },
     {
       "id": "10680669",
@@ -158,17 +136,6 @@
       "image": "https://images.tijd.be/view?iid=Elvis:5fN8NVkQarF9u70G5ltP2u&context=ONLINE&ratio=16/9&width=480&u=1785397322000"
     },
     {
-      "id": "10680633",
-      "title": "Stortvloed aan cijfers spoelt Bel20-zomerrally weg",
-      "link": "https://www.tijd.be/r/t/1/id/10680633",
-      "category": "Markten Live",
-      "description": "De Europese beurzen kleuren groen, maar de Bel20 staat op de pechstrook. Op de drukste Belgische resultatendag van de zomer valt vooral UCB uit de toon.",
-      "pubDate": "Thu, 30 Jul 2026 13:17:20 GMT",
-      "score": 2,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:86dBvjmxqMkANIIiiBHre0&context=ONLINE&ratio=16/9&width=480&u=1785417439000"
-    },
-    {
       "id": "10680550",
       "title": "Statbel publiceert economische statistieken te laat wegens personeelstekort",
       "link": "https://www.tijd.be/r/t/1/id/10680550",
@@ -177,7 +144,7 @@
       "pubDate": "Thu, 30 Jul 2026 12:56:04 GMT",
       "score": 2,
       "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:1oxkdrkhKIY8-d4WlKrv3f&context=ONLINE&ratio=16/9&width=480&u=1785416468000"
+      "image": "https://images.tijd.be/view?iid=Elvis:1oxkdrkhKIY8-d4WlKrv3f&context=ONLINE&ratio=16/9&width=480&u=1785417673000"
     },
     {
       "id": "10680570",
@@ -206,22 +173,11 @@
       "title": "Aandeel Adidas krijgt rammel na hoge marketinguitgaven voor WK voetbal",
       "link": "https://www.tijd.be/r/t/1/id/10680685",
       "category": "Ondernemen",
-      "description": "Bij de sportreus Adidas leidden enkele honderden miljoenen euro's marketingkosten in het tweede kwartaal tot een lager dan verwachte winst. Het aandeel stevent af op de grootste klap in één dag ooit voor de Duitsers.",
+      "description": "Bij de Duitse sportreus Adidas leidden enkele honderden miljoenen euro's aan marketingkosten in het tweede kwartaal tot een lager dan verwachte winst. Het aandeel stevent af op de grootste klap in één dag ooit.",
       "pubDate": "Thu, 30 Jul 2026 12:16:20 GMT",
       "score": 2,
       "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:Ai75W42B4vD8msZ95LfKE3&context=ONLINE&ratio=16/9&width=480&u=1785416112000"
-    },
-    {
-      "id": "10680694",
-      "title": "Beleggersagenda van vrijdag 31 juli: het rapport van Umicore",
-      "link": "https://www.tijd.be/r/t/1/id/10680694",
-      "category": "Markten Live",
-      "description": "De geïnformeerde belegger is ook vrijdag de vroeg opstaande belegger, want Umicore komt voorbeurs met het halfjaarrapport.",
-      "pubDate": "Thu, 30 Jul 2026 12:00:00 GMT",
-      "score": 2,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:08iNDSUuqr79hCqH6eQYFO&context=ONLINE&ratio=16/9&width=480&u=1785416473000"
+      "image": "https://images.tijd.be/view?iid=Elvis:Ai75W42B4vD8msZ95LfKE3&context=ONLINE&ratio=16/9&width=480&u=1785418390000"
     },
     {
       "id": "10680686",
@@ -243,7 +199,7 @@
       "pubDate": "Thu, 30 Jul 2026 11:14:18 GMT",
       "score": 2,
       "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:6tSXdM_n4yW8s-IOqFUS-X&context=ONLINE&ratio=16/9&width=480&u=1785411239000"
+      "image": "https://images.tijd.be/view?iid=Elvis:6tSXdM_n4yW8s-IOqFUS-X&context=ONLINE&ratio=16/9&width=480&u=1785418211000"
     },
     {
       "id": "10680626",
@@ -298,7 +254,7 @@
       "pubDate": "Thu, 30 Jul 2026 10:16:50 GMT",
       "score": 2,
       "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:BMXxzTDwKfKAXEmgoaKOUA&context=ONLINE&ratio=16/9&width=480&u=1785410046000"
+      "image": "https://images.tijd.be/view?iid=Elvis:BMXxzTDwKfKAXEmgoaKOUA&context=ONLINE&ratio=16/9&width=480&u=1785417976000"
     },
     {
       "id": "10680593",
@@ -398,50 +354,6 @@
       "score": 2,
       "in_de7": false,
       "image": "https://images.tijd.be/view?iid=Elvis:8uTyVLa74KI8Ec1F2duZfi&context=ONLINE&ratio=16/9&width=480&u=1785319695000"
-    },
-    {
-      "id": "10680509",
-      "title": "Herlees de marktenchat over de chipmalaise, AB InBev en meer",
-      "link": "https://www.tijd.be/r/t/1/id/10680509",
-      "category": "Markten Live",
-      "description": "Never a dull moment op de financiële markten, ook niet tijdens de hoogzomer. In onze marktenchat hadden we het deze week onder meer over de verkoopgolf in de chipsector.",
-      "pubDate": "Thu, 30 Jul 2026 10:04:22 GMT",
-      "score": 2,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:38CH7WFO44n9AL5pbUj5vK&context=ONLINE&ratio=16/9&width=480&u=1785409844000"
-    },
-    {
-      "id": "10680610",
-      "title": "Luiermaker Ontex kondigt lagere prognose én extra herstructurering aan",
-      "link": "https://www.tijd.be/r/t/1/id/10680610",
-      "category": "Markten Live",
-      "description": "De Aalsterse luierproducent Ontex verlaagt de jaarprognose en kondigt een extra transformatieplan aan. Het bedrijf kon wel de schuldratio, die beleggers met argusogen opvolgen, licht terugschroeven, blijkt uit het halfjaarrapport.",
-      "pubDate": "Thu, 30 Jul 2026 06:26:35 GMT",
-      "score": 2,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:3ovE92mW4iLAESVl-qs4SP&context=ONLINE&ratio=16/9&width=480&u=1785399851000"
-    },
-    {
-      "id": "10680553",
-      "title": "Wall Street onder druk ondanks rentebeslissing Fed",
-      "link": "https://www.tijd.be/r/t/1/id/10680553",
-      "category": "Markten Live",
-      "description": "Dreigende taal van Donald Trump richting Iran dreef de olieprijs op, wat leidde tot rode cijfers op de Amerikaanse beurzen. De beslissing van de Amerikaanse centrale bank om de rente stabiel te houden kon daar niets aan veranderen.",
-      "pubDate": "Wed, 29 Jul 2026 20:16:24 GMT",
-      "score": 2,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:2aIzXAHeaCa9ZgRitOFyvB&context=ONLINE&ratio=16/9&width=480&u=1785356223000"
-    },
-    {
-      "id": "10680578",
-      "title": "Fed laat rente ongewijzigd, kwart van de bestuurders stemt voor renteverhoging",
-      "link": "https://www.tijd.be/r/t/1/id/10680578",
-      "category": "Markten Live",
-      "description": "De Amerikaanse centrale bank (Fed) laat de rente onveranderd, maar drie van de twaalf stemgerechtigde bestuurders stemden voor een renteverhoging.",
-      "pubDate": "Wed, 29 Jul 2026 18:09:39 GMT",
-      "score": 2,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:3MJNdTeL424Ap5DzPbXSbu&context=ONLINE&ratio=16/9&width=480&u=1785356608000"
     }
   ]
 }
