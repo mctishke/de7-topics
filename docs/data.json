@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T12:05:13.010860+00:00",
+  "generated_at": "2026-07-30T12:18:54.228200+00:00",
   "de7_title": "30/07 | 200.000 Vlamingen veranderden van energieleverancier sinds Iran-oorlog | Meta en Microsoft blijven geld pompen in AI | Verzekeringsfraude in opmars",
   "de7_matched_count": 4,
   "articles": [
@@ -164,6 +164,16 @@
       "in_de7": false
     },
     {
+      "id": "10680694",
+      "title": "Beleggersagenda van vrijdag 31 juli: het rapport van Umicore",
+      "link": "https://www.tijd.be/r/t/1/id/10680694",
+      "category": "Markten Live",
+      "description": "De geïnformeerde belegger is ook vrijdag de vroeg opstaande belegger, want Umicore komt voorbeurs met het halfjaarrapport.",
+      "pubDate": "Thu, 30 Jul 2026 12:01:28 GMT",
+      "score": 2,
+      "in_de7": false
+    },
+    {
       "id": "10680686",
       "title": "State of the Union | Eén jaar na handelsdeal met VS moet echte test nog komen",
       "link": "https://www.tijd.be/r/t/1/id/10680686",
@@ -210,16 +220,6 @@
       "category": "Opinie",
       "description": "Ofwel krijgen we straks een golf van klachten bij de Consumentenombudsdienst, ofwel een stroom van compensaties die er anders nooit zouden komen. In beide scenario’s staat vast wie de rekening betaalt: de onderneming.",
       "pubDate": "Thu, 30 Jul 2026 09:51:11 GMT",
-      "score": 2,
-      "in_de7": false
-    },
-    {
-      "id": "10673992",
-      "title": "Onze favoriete bars in Gent",
-      "link": "https://www.tijd.be/r/t/1/id/10673992",
-      "category": "Sabato",
-      "description": "Op zoek naar een goede bar in Gent? Dit zijn de favoriete bars van onze correspondenten die de stad door en door kennen.",
-      "pubDate": "Thu, 30 Jul 2026 09:20:10 GMT",
       "score": 2,
       "in_de7": false
     },
@@ -334,22 +334,22 @@
       "in_de7": false
     },
     {
+      "id": "10673992",
+      "title": "Onze favoriete bars in Gent",
+      "link": "https://www.tijd.be/r/t/1/id/10673992",
+      "category": "Sabato",
+      "description": "Op zoek naar een goede bar in Gent? Dit zijn de favoriete bars van onze correspondenten die de stad door en door kennen.",
+      "pubDate": "Thu, 30 Jul 2026 09:20:10 GMT",
+      "score": 2,
+      "in_de7": false
+    },
+    {
       "id": "10674921",
       "title": "Antwerpen bezoeken? Deze plekken mag je niet missen",
       "link": "https://www.tijd.be/r/t/1/id/10674921",
       "category": "Sabato",
       "description": "Op zoek naar leuke dingen om te zien en doen in Antwerpen? Dit zijn de favorieten van onze correspondent die de stad door en door kent.",
       "pubDate": "Wed, 29 Jul 2026 10:04:19 GMT",
-      "score": 2,
-      "in_de7": false
-    },
-    {
-      "id": "10680694",
-      "title": "Beleggersagenda van vrijdag 31 juli: het rapport van Umicore",
-      "link": "https://www.tijd.be/r/t/1/id/10680694",
-      "category": "Markten Live",
-      "description": "De geïnformeerde belegger is ook vrijdag de vroeg opstaande belegger, want Umicore komt voorbeurs met het halfjaarrapport.",
-      "pubDate": "Thu, 30 Jul 2026 12:01:28 GMT",
       "score": 2,
       "in_de7": false
     },
