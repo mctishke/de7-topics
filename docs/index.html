@@ -48,16 +48,18 @@
     border-radius: 10px;
     padding: 14px 16px;
     margin-bottom: 12px;
-    overflow: hidden;
   }
+  .card-top { display: flex; gap: 12px; align-items: flex-start; }
   .card-image {
     display: block;
-    width: calc(100% + 32px);
-    margin: -14px -16px 12px;
-    aspect-ratio: 16 / 9;
+    width: 84px;
+    height: 84px;
+    border-radius: 6px;
     object-fit: cover;
     background: var(--border);
+    flex-shrink: 0;
   }
+  .card-content { flex: 1; min-width: 0; }
   .badges { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 6px; }
   .badge {
     font-size: 11px;
@@ -232,9 +234,13 @@ function articleCard(article, netVotes, myVote, comments) {
 
   return `
   <div class="card" data-id="${article.id}" data-combined="${combined}">
-    ${imageHtml}
-    <div class="badges">${de7Badge}${catBadge}</div>
-    <div class="title"><a href="${escapeHtml(article.link)}" target="_blank" rel="noopener">${escapeHtml(article.title)}</a></div>
+    <div class="card-top">
+      ${imageHtml}
+      <div class="card-content">
+        <div class="badges">${de7Badge}${catBadge}</div>
+        <div class="title"><a href="${escapeHtml(article.link)}" target="_blank" rel="noopener">${escapeHtml(article.title)}</a></div>
+      </div>
+    </div>
     <div class="row">
       <div class="votes">
         <button class="vote-up ${myVote === 1 ? "active-up" : ""}" data-id="${article.id}" data-value="1">▲</button>
