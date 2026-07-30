@@ -56,11 +56,31 @@
     color: white; font-weight: 600; background: var(--muted);
   }
 
+  .sort-toggle { display: flex; gap: 6px; margin-top: 14px; }
+  .sort-btn {
+    border: 1px solid var(--border); background: transparent; color: var(--muted);
+    border-radius: 999px; padding: 5px 14px; font-size: 13px; cursor: pointer;
+  }
+  .sort-btn.active { background: var(--accent); color: white; border-color: var(--accent); }
+
+  .section { margin-bottom: 22px; }
+  .section-header {
+    display: flex; align-items: center; gap: 6px; width: 100%; text-align: left;
+    background: none; border: none; cursor: pointer; padding: 4px 0; margin-bottom: 8px;
+  }
+  .chevron { font-size: 11px; color: var(--muted); width: 10px; }
   .section-title {
     font-size: 12px; font-weight: 700; color: var(--muted); text-transform: uppercase;
-    letter-spacing: .04em; margin: 22px 0 10px;
+    letter-spacing: .04em;
   }
-  .section-title:first-child { margin-top: 0; }
+  .section.highlight {
+    background: #18457C;
+    border-radius: 14px;
+    padding: 12px 12px 4px;
+  }
+  .section.highlight .chevron,
+  .section.highlight .section-title { color: #fff; }
+  .pubdate { color: var(--muted); font-size: 11px; margin-top: 2px; }
 
   .card {
     background: var(--card);
@@ -142,6 +162,10 @@
     </div>
     <div class="meta" id="meta">Laden...</div>
     <div class="who-picker" id="who-picker"></div>
+    <div class="sort-toggle" id="sort-toggle">
+      <button class="sort-btn" data-mode="best">Beste</button>
+      <button class="sort-btn" data-mode="recent">Meest recent</button>
+    </div>
   </header>
   <div id="config-warning" class="config-warning" style="display:none">
     Supabase is nog niet geconfigureerd — stemmen en comments worden niet bewaard.
@@ -182,6 +206,9 @@ function currentUser() {
 }
 function setCurrentUser(name) {
   if (name) localStorage.setItem("de7_user", name);
+}
+function clearCurrentUser() {
+  localStorage.removeItem("de7_user");
 }
 
 function escapeHtml(s) {
@@ -229,8 +256,18 @@ function renderWhoPicker() {
 
   el.querySelectorAll(".who-btn").forEach(btn => {
     btn.addEventListener("click", () => {
+      const isAlreadySelected =
+        btn.dataset.name === selected || (btn.dataset.name === "__custom__" && isCustom);
+
+      if (isAlreadySelected) {
+        // Nogmaals klikken op de al-geselecteerde avatar deselecteert.
+        clearCurrentUser();
+        renderWhoPicker();
+        render();
+        return;
+      }
       if (btn.dataset.name === "__custom__") {
-        const name = prompt("Wat is je naam?", isCustom ? selected : "");
+        const name = prompt("Wat is je naam?", "");
         if (name && name.trim()) {
           setCurrentUser(name.trim());
           renderWhoPicker();
@@ -243,6 +280,13 @@ function renderWhoPicker() {
       }
     });
   });
+}
+
+function formatPubDate(raw) {
+  if (!raw) return "";
+  const d = new Date(raw);
+  if (isNaN(d.getTime())) return "";
+  return d.toLocaleString("nl-BE", { day: "numeric", month: "short", hour: "2-digit", minute: "2-digit" });
 }
 
 function timeAgo(iso) {
@@ -340,6 +384,7 @@ function articleCard(article, stars, voters, myStar, comments) {
       <div class="card-content">
         <div class="badges">${de7Badge}${catBadge}</div>
         <div class="title"><a href="${escapeHtml(article.link)}" target="_blank" rel="noopener">${escapeHtml(article.title)}</a></div>
+        <div class="pubdate">${formatPubDate(article.pubDate)}</div>
       </div>
       ${imageHtml}
     </div>
@@ -363,13 +408,24 @@ function articleCard(article, stars, voters, myStar, comments) {
 }
 
 let cachedData = null;
+let sortMode = "best";
+const sectionState = { active: true, suggested: true };
 
-function section(title, items, starsByArticle, votersByArticle, myStarByArticle, commentsByArticle) {
+function section(key, title, items, variant, starsByArticle, votersByArticle, myStarByArticle, commentsByArticle) {
   if (items.length === 0) return "";
+  const expanded = sectionState[key];
   const cards = items.map(a =>
     articleCard(a, starsByArticle[a.id] || 0, votersByArticle[a.id] || [], !!myStarByArticle[a.id], commentsByArticle[a.id])
   ).join("");
-  return `<div class="section-title">${escapeHtml(title)}</div>${cards}`;
+  return `
+    <div class="section ${variant}">
+      <button class="section-header" data-section="${key}">
+        <span class="chevron">${expanded ? "▾" : "▸"}</span>
+        <span class="section-title">${escapeHtml(title)}</span>
+      </button>
+      <div class="section-body" style="display:${expanded ? "block" : "none"}">${cards}</div>
+    </div>
+  `;
 }
 
 async function render() {
@@ -401,12 +457,24 @@ async function render() {
     document.getElementById("config-warning").style.display = "block";
   }
 
-  const articles = [...cachedData.articles];
-  articles.sort((a, b) => {
-    const ca = a.score + (starsByArticle[a.id] || 0) * 2;
-    const cb = b.score + (starsByArticle[b.id] || 0) * 2;
-    return cb - ca;
+  document.querySelectorAll(".sort-btn").forEach(btn => {
+    btn.classList.toggle("active", btn.dataset.mode === sortMode);
   });
+
+  const articles = [...cachedData.articles];
+  if (sortMode === "recent") {
+    articles.sort((a, b) => {
+      const da = a.pubDate ? new Date(a.pubDate).getTime() : 0;
+      const db = b.pubDate ? new Date(b.pubDate).getTime() : 0;
+      return db - da;
+    });
+  } else {
+    articles.sort((a, b) => {
+      const ca = a.score + (starsByArticle[a.id] || 0) * 2;
+      const cb = b.score + (starsByArticle[b.id] || 0) * 2;
+      return cb - ca;
+    });
+  }
 
   if (articles.length === 0) {
     listEl.innerHTML = `<div class="empty">Geen recente artikels gevonden.</div>`;
@@ -417,9 +485,18 @@ async function render() {
   const suggested = articles.filter(a => !((starsByArticle[a.id] || 0) > 0 || (commentsByArticle[a.id] || []).length > 0));
 
   listEl.innerHTML =
-    section(`Met stemmen & comments (${active.length})`, active, starsByArticle, votersByArticle, myStarByArticle, commentsByArticle) +
-    section(`Suggesties (${suggested.length})`, suggested, starsByArticle, votersByArticle, myStarByArticle, commentsByArticle);
+    section("active", `Met stemmen & comments (${active.length})`, active, "highlight", starsByArticle, votersByArticle, myStarByArticle, commentsByArticle) +
+    section("suggested", `Suggesties (${suggested.length})`, suggested, "", starsByArticle, votersByArticle, myStarByArticle, commentsByArticle);
 
+  listEl.querySelectorAll(".section-header").forEach(btn => {
+    btn.addEventListener("click", () => {
+      const key = btn.dataset.section;
+      sectionState[key] = !sectionState[key];
+      const body = btn.nextElementSibling;
+      body.style.display = sectionState[key] ? "block" : "none";
+      btn.querySelector(".chevron").textContent = sectionState[key] ? "▾" : "▸";
+    });
+  });
   listEl.querySelectorAll(".star-btn").forEach(btn => {
     btn.addEventListener("click", () => toggleStar(btn.dataset.id, btn.classList.contains("starred")));
   });
@@ -431,6 +508,13 @@ async function render() {
     });
   });
 }
+
+document.querySelectorAll(".sort-btn").forEach(btn => {
+  btn.addEventListener("click", () => {
+    sortMode = btn.dataset.mode;
+    render();
+  });
+});
 
 renderWhoPicker();
 render().catch(e => {

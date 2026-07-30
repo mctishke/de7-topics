@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T13:50:05.527525+00:00",
+  "generated_at": "2026-07-30T14:31:06.783700+00:00",
   "de7_title": "30/07 | 200.000 Vlamingen veranderden van energieleverancier sinds Iran-oorlog | Meta en Microsoft blijven geld pompen in AI | Verzekeringsfraude in opmars",
   "de7_matched_count": 1,
   "articles": [
@@ -13,6 +13,17 @@
       "score": 12,
       "in_de7": true,
       "image": "https://images.tijd.be/view?iid=Elvis:8zYUP-SVa7G8VUYQr8pIEj&context=ONLINE&ratio=16/9&width=480&u=1785399124000"
+    },
+    {
+      "id": "10680709",
+      "title": "Nieuwe CEO Bekaert: ‘We gaan wellicht overnames doen’",
+      "link": "https://www.tijd.be/r/t/1/id/10680709",
+      "category": "Ondernemen",
+      "description": "Olivier Biebuyck, de nieuwe CEO van de staaltechnologiegroep Bekaert wil meer lijn krijgen in de brede waaier aan activiteiten. ‘We hebben producten van 5 miljoen euro omzet en andere van vele honderden miljoenen. Er is meer focus nodig.’",
+      "pubDate": "Thu, 30 Jul 2026 13:51:22 GMT",
+      "score": 6,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:Fk6bS-yPKJDBXUv1XX1EC0&context=ONLINE&ratio=16/9&width=480&u=1785420233000"
     },
     {
       "id": "10680684",
@@ -79,6 +90,17 @@
       "score": 4,
       "in_de7": false,
       "image": "https://images.tijd.be/view?iid=Elvis:2AG-M_oeau99ji7pehfhmE&context=ONLINE&ratio=16/9&width=480&u=1785336980000"
+    },
+    {
+      "id": "10680730",
+      "title": "Gepersonaliseerde sportauto's leggen Ferrari geen windeieren",
+      "link": "https://www.tijd.be/r/t/1/id/10680730",
+      "category": "Ondernemen",
+      "description": "Met het personaliseren van zijn sportwagens blijft Ferrari hoge ogen gooien. De toenemende vraag naar die personalisatie stuwt het Italiaanse merk naar hogere verwachtingen voor dit jaar.",
+      "pubDate": "Thu, 30 Jul 2026 13:52:48 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:5GtAQSif4pmBs-xf1dYdq2&context=ONLINE&ratio=16/9&width=480&u=1785420325000"
     },
     {
       "id": "10680605",
@@ -334,17 +356,6 @@
       "image": "https://images.tijd.be/view?iid=Elvis:6a-qtnUb4ZFB_aP3ekcD2m&context=ONLINE&ratio=16/9&width=480&u=1785354500000"
     },
     {
-      "id": "10680463",
-      "title": "Frederik Anseel | Wat weet u over AI in China?",
-      "link": "https://www.tijd.be/r/t/1/id/10680463",
-      "category": "Opinie",
-      "description": "Chinese ondernemers gebruiken AI sneller en grootschaliger dan waar ook ter wereld. En toch zijn we vooral gefocust op wat er in Amerika gebeurt.",
-      "pubDate": "Wed, 29 Jul 2026 07:52:10 GMT",
-      "score": 2,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:3fNXZBitKtj92BwVCajf51&context=ONLINE&ratio=16/9&width=480&u=1785354451000"
-    },
-    {
       "id": "10673992",
       "title": "Onze favoriete bars in Gent",
       "link": "https://www.tijd.be/r/t/1/id/10673992",
@@ -354,6 +365,39 @@
       "score": 2,
       "in_de7": false,
       "image": "https://images.tijd.be/view?iid=Elvis:AHb_Vk1Pqpk8mUOIls9Nwg&context=ONLINE&ratio=16/9&width=480&u=1785403210000"
+    },
+    {
+      "id": "10680726",
+      "title": "Kunnen we het echt niet meer eens worden over klimaatbeleid?",
+      "link": "https://www.tijd.be/r/t/1/id/10680726",
+      "category": "Opinie",
+      "description": "Maak van het klimaatbeleid weer een wervend en hoopgevend verhaal. Niet naïef, maar concreet en realistisch.",
+      "pubDate": "Thu, 30 Jul 2026 14:26:12 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:6AT0AbyL4lY8o4JHwErWRR&context=ONLINE&ratio=16/9&width=480&u=1785421576000"
+    },
+    {
+      "id": "10680692",
+      "title": "Hoe groot is oorlogspremie voor ExxonMobil en Chevron?",
+      "link": "https://www.tijd.be/r/t/1/id/10680692",
+      "category": "Ondernemen",
+      "description": "ExxonMobil en Chevron komen vrijdag met hun resultaten over het tweede kwartaal. Analisten rekenen op forse winsten bij de twee Amerikaanse oliereuzen, maar de vraag is wat er zal gebeuren als de olieprijzen minder steun bieden.",
+      "pubDate": "Thu, 30 Jul 2026 14:08:27 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:Djh8rDXaKrq9yTlowFLGI-&context=ONLINE&ratio=16/9&width=480&u=1785420741000"
+    },
+    {
+      "id": "10680683",
+      "title": "Woelige hoorzitting Anthony Fauci brengt coronadiscussie weer tot leven in VS",
+      "link": "https://www.tijd.be/r/t/1/id/10680683",
+      "category": "Politiek & Economie",
+      "description": "Zes jaar nadat hij de strijd tegen corona in de VS heeft geleid, dreigt Anthony Fauci te worden vervolgd wegens minachting van het parlement. Tijdens een bewogen zitting in de Senaat weigerde hij meer dan 100 keer te antwoorden op vragen van Republikeinen. Die beschuldigen hem er zelfs mee verantwoordelijk te zijn voor de uitbraak van het virus.",
+      "pubDate": "Thu, 30 Jul 2026 13:52:47 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:FCaNHPRCKtF8XIe2zwbzc_&context=ONLINE&ratio=16/9&width=480&u=1785420459000"
     }
   ]
 }
