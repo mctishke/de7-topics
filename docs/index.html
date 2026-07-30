@@ -1,0 +1,298 @@
+<!doctype html>
+<html lang="nl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>De 7 Topics</title>
+<style>
+  :root {
+    --bg: #f7f7f5;
+    --card: #ffffff;
+    --border: #e4e2dd;
+    --text: #1c1c1a;
+    --muted: #6b6a66;
+    --accent: #b5121b;
+    --accent-bg: #fdeceb;
+    --up: #1a7f37;
+    --down: #b5121b;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #17181a;
+      --card: #202224;
+      --border: #34363a;
+      --text: #e8e8e6;
+      --muted: #9a9a97;
+      --accent: #ff6b6b;
+      --accent-bg: #3a2323;
+      --up: #4ade80;
+      --down: #ff6b6b;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+  }
+  .wrap { max-width: 760px; margin: 0 auto; padding: 24px 16px 80px; }
+  header { margin-bottom: 20px; }
+  h1 { font-size: 22px; margin: 0 0 4px; }
+  .meta { color: var(--muted); font-size: 13px; }
+  .card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 14px 16px;
+    margin-bottom: 12px;
+  }
+  .badges { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 6px; }
+  .badge {
+    font-size: 11px;
+    padding: 2px 8px;
+    border-radius: 999px;
+    background: var(--border);
+    color: var(--muted);
+  }
+  .badge.de7 { background: var(--accent-bg); color: var(--accent); font-weight: 600; }
+  .title a { color: var(--text); text-decoration: none; font-size: 16px; font-weight: 600; line-height: 1.35; }
+  .title a:hover { text-decoration: underline; }
+  .row { display: flex; align-items: center; justify-content: space-between; margin-top: 10px; gap: 12px; }
+  .votes { display: flex; align-items: center; gap: 8px; }
+  .votes button {
+    border: 1px solid var(--border);
+    background: transparent;
+    color: var(--text);
+    border-radius: 6px;
+    padding: 4px 10px;
+    cursor: pointer;
+    font-size: 14px;
+  }
+  .votes button:hover { background: var(--border); }
+  .votes button.active-up { color: var(--up); border-color: var(--up); }
+  .votes button.active-down { color: var(--down); border-color: var(--down); }
+  .net { font-weight: 600; min-width: 22px; text-align: center; }
+  .score { color: var(--muted); font-size: 12px; }
+  .muted { color: var(--muted); }
+  .comments-toggle { background: none; border: none; color: var(--muted); font-size: 13px; cursor: pointer; padding: 0; }
+  .comments-toggle:hover { text-decoration: underline; }
+  .comments { display: none; margin-top: 10px; border-top: 1px solid var(--border); padding-top: 10px; }
+  .comments.open { display: block; }
+  .comment { font-size: 13px; margin-bottom: 8px; }
+  .comment .author { font-weight: 600; }
+  .comment .body { color: var(--text); }
+  .comment-form { display: flex; gap: 6px; margin-top: 8px; }
+  .comment-form input[type=text] {
+    flex: 1; padding: 6px 8px; border-radius: 6px; border: 1px solid var(--border);
+    background: var(--bg); color: var(--text); font-size: 13px;
+  }
+  .comment-form input[name=body] { flex: 3; }
+  .comment-form button {
+    border: none; background: var(--accent); color: white; border-radius: 6px;
+    padding: 6px 12px; font-size: 13px; cursor: pointer;
+  }
+  .empty, .loading { color: var(--muted); padding: 40px 0; text-align: center; }
+  .config-warning {
+    background: var(--accent-bg); color: var(--accent); border-radius: 8px;
+    padding: 10px 14px; font-size: 13px; margin-bottom: 16px;
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>De 7 Topics</h1>
+    <div class="meta" id="meta">Laden...</div>
+  </header>
+  <div id="config-warning" class="config-warning" style="display:none">
+    Supabase is nog niet geconfigureerd — stemmen en comments worden niet bewaard. Zie SUPABASE_URL / SUPABASE_ANON_KEY bovenaan in index.html.
+  </div>
+  <div id="list"><div class="loading">Topics laden...</div></div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script>
+// ---- CONFIG: vul in na het aanmaken van je Supabase-project ----
+const SUPABASE_URL = "";
+const SUPABASE_ANON_KEY = "";
+// ------------------------------------------------------------------
+
+const supabase = (SUPABASE_URL && SUPABASE_ANON_KEY)
+  ? window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY)
+  : null;
+
+function getVoterId() {
+  let id = localStorage.getItem("de7_voter_id");
+  if (!id) {
+    id = (crypto.randomUUID ? crypto.randomUUID() : String(Math.random()).slice(2));
+    localStorage.setItem("de7_voter_id", id);
+  }
+  return id;
+}
+const voterId = getVoterId();
+
+function escapeHtml(s) {
+  return String(s).replace(/[&<>"']/g, c => ({
+    "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
+  }[c]));
+}
+
+function timeAgo(iso) {
+  const d = new Date(iso);
+  const mins = Math.round((Date.now() - d.getTime()) / 60000);
+  if (mins < 1) return "zonet";
+  if (mins < 60) return `${mins} min geleden`;
+  const hrs = Math.round(mins / 60);
+  return `${hrs} u geleden`;
+}
+
+async function loadVotesAndComments() {
+  if (!supabase) return { netByArticle: {}, myVoteByArticle: {}, commentsByArticle: {} };
+
+  const [{ data: votes, error: vErr }, { data: comments, error: cErr }] = await Promise.all([
+    supabase.from("votes").select("*").order("created_at", { ascending: true }),
+    supabase.from("comments").select("*").order("created_at", { ascending: true }),
+  ]);
+  if (vErr) console.error("votes error", vErr);
+  if (cErr) console.error("comments error", cErr);
+
+  // Per (article_id, voter_id) enkel de laatste stem meetellen.
+  const latestVote = {}; // key: article_id|voter_id -> value
+  (votes || []).forEach(v => {
+    latestVote[`${v.article_id}|${v.voter_id}`] = v.value;
+  });
+
+  const netByArticle = {};
+  const myVoteByArticle = {};
+  Object.entries(latestVote).forEach(([key, value]) => {
+    const [articleId, vId] = key.split("|");
+    netByArticle[articleId] = (netByArticle[articleId] || 0) + value;
+    if (vId === voterId) myVoteByArticle[articleId] = value;
+  });
+
+  const commentsByArticle = {};
+  (comments || []).forEach(c => {
+    (commentsByArticle[c.article_id] = commentsByArticle[c.article_id] || []).push(c);
+  });
+
+  return { netByArticle, myVoteByArticle, commentsByArticle };
+}
+
+async function castVote(articleId, value) {
+  if (!supabase) { alert("Supabase is nog niet geconfigureerd."); return; }
+  await supabase.from("votes").insert({ article_id: articleId, voter_id: voterId, value });
+  await render();
+}
+
+async function addComment(articleId, author, body) {
+  if (!supabase) { alert("Supabase is nog niet geconfigureerd."); return; }
+  if (!body.trim()) return;
+  await supabase.from("comments").insert({
+    article_id: articleId,
+    author: author.trim() || "Anoniem",
+    body: body.trim(),
+  });
+  await render();
+}
+
+function articleCard(article, netVotes, myVote, comments) {
+  const combined = article.score + netVotes * 2;
+  const de7Badge = article.in_de7 ? `<span class="badge de7">🎙️ In De 7</span>` : "";
+  const catBadge = article.category ? `<span class="badge">${escapeHtml(article.category)}</span>` : "";
+
+  const commentsHtml = (comments || []).map(c => `
+    <div class="comment">
+      <span class="author">${escapeHtml(c.author)}</span>
+      <span class="muted">· ${timeAgo(c.created_at)}</span><br>
+      <span class="body">${escapeHtml(c.body)}</span>
+    </div>
+  `).join("");
+
+  return `
+  <div class="card" data-id="${article.id}" data-combined="${combined}">
+    <div class="badges">${de7Badge}${catBadge}</div>
+    <div class="title"><a href="${escapeHtml(article.link)}" target="_blank" rel="noopener">${escapeHtml(article.title)}</a></div>
+    <div class="row">
+      <div class="votes">
+        <button class="vote-up ${myVote === 1 ? "active-up" : ""}" data-id="${article.id}" data-value="1">▲</button>
+        <span class="net">${netVotes}</span>
+        <button class="vote-down ${myVote === -1 ? "active-down" : ""}" data-id="${article.id}" data-value="-1">▼</button>
+        <span class="score">algoritme: ${article.score}</span>
+      </div>
+      <button class="comments-toggle" data-id="${article.id}">💬 ${(comments || []).length} comment${(comments || []).length === 1 ? "" : "s"}</button>
+    </div>
+    <div class="comments" id="comments-${article.id}">
+      ${commentsHtml || '<div class="muted" style="font-size:13px">Nog geen comments.</div>'}
+      <div class="comment-form">
+        <input type="text" name="author" placeholder="Naam">
+        <input type="text" name="body" placeholder="Comment...">
+        <button class="comment-submit" data-id="${article.id}">Post</button>
+      </div>
+    </div>
+  </div>`;
+}
+
+let cachedData = null;
+
+async function render() {
+  const listEl = document.getElementById("list");
+  const metaEl = document.getElementById("meta");
+
+  if (!cachedData) {
+    try {
+      const res = await fetch("data.json", { cache: "no-store" });
+      cachedData = await res.json();
+    } catch (e) {
+      listEl.innerHTML = `<div class="empty">Kon data.json niet laden. Is de GitHub Action al gedraaid?</div>`;
+      return;
+    }
+  }
+
+  if (!SUPABASE_URL || !SUPABASE_ANON_KEY) {
+    document.getElementById("config-warning").style.display = "block";
+  }
+
+  const generated = new Date(cachedData.generated_at);
+  metaEl.textContent = `Laatst ververst: ${generated.toLocaleString("nl-BE")} · ${cachedData.de7_matched_count} topic(s) gematcht met De 7`;
+
+  const { netByArticle, myVoteByArticle, commentsByArticle } = await loadVotesAndComments();
+
+  const articles = [...cachedData.articles];
+  articles.sort((a, b) => {
+    const ca = a.score + (netByArticle[a.id] || 0) * 2;
+    const cb = b.score + (netByArticle[b.id] || 0) * 2;
+    return cb - ca;
+  });
+
+  if (articles.length === 0) {
+    listEl.innerHTML = `<div class="empty">Geen recente artikels gevonden.</div>`;
+    return;
+  }
+
+  listEl.innerHTML = articles.map(a =>
+    articleCard(a, netByArticle[a.id] || 0, myVoteByArticle[a.id] || 0, commentsByArticle[a.id])
+  ).join("");
+
+  listEl.querySelectorAll(".vote-up, .vote-down").forEach(btn => {
+    btn.addEventListener("click", () => castVote(btn.dataset.id, Number(btn.dataset.value)));
+  });
+  listEl.querySelectorAll(".comments-toggle").forEach(btn => {
+    btn.addEventListener("click", () => {
+      document.getElementById(`comments-${btn.dataset.id}`).classList.toggle("open");
+    });
+  });
+  listEl.querySelectorAll(".comment-submit").forEach(btn => {
+    btn.addEventListener("click", () => {
+      const form = btn.closest(".comments");
+      const author = form.querySelector('input[name=author]').value;
+      const body = form.querySelector('input[name=body]').value;
+      addComment(btn.dataset.id, author, body);
+    });
+  });
+}
+
+render();
+</script>
+</body>
+</html>
