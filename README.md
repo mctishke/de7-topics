@@ -70,13 +70,32 @@ cd docs && python3 -m http.server 8731
 ```
 Open `http://localhost:8731`.
 
+## Wie ben jij / avatars
+
+Bovenaan de pagina kies je je naam (onthouden via je browser, geen login).
+Die naam wordt gebruikt voor je stemmen en comments. Voor Bert, Roan, Peter,
+Niels, Thijs, Seppe en Robbe staat er een echte foto (uit de Obsidian-vault
+van Thijs); voor Maarten, Julie en elke andere naam wordt een gekleurde
+initialen-avatar gegenereerd. Nieuwe foto's toevoegen: zet een vierkante PNG
+in `docs/avatars/<naam>.png` en voeg de persoon toe aan de `PEOPLE`-lijst
+bovenaan in `docs/index.html`.
+
+## Migratie: up/downvote -> ster
+
+Deze repo gebruikt intussen 1 ster-knop i.p.v. up/downvote. Als je
+`supabase_schema.sql` al eerder draaide (met de oude -1/1 constraint), moet
+je eenmalig `supabase_migration_star.sql` in de Supabase SQL Editor
+uitvoeren. Nieuwe projecten kunnen gewoon het gewone schema gebruiken.
+
 ## Bekende beperkingen (MVP)
 
-- Geen login: iedereen met de link kan stemmen/reageren; stemmen per
-  browser worden onthouden via een lokaal ID (geen echte accounts).
+- Geen login: iedereen met de link kan stemmen/reageren onder eender welke
+  naam (geen wachtwoord/verificatie).
 - "De 7" wordt gematcht op basis van links in de podcast-omschrijving —
   niet elk van de 7 besproken topics heeft altijd een gelinkt artikel.
 - Leescijfers/kliekdata zijn niet geïntegreerd (intern platform vereist
   login en heeft mogelijk geen bruikbare API) — mogelijke volgende stap.
 - Geen ochtendmelding (Slack/e-mail) in deze testversie — kan later als
   losse GitHub Action stap toegevoegd worden zodra de rest bruikbaar blijkt.
+- De repo staat publiek op GitHub (vereist voor gratis Pages) — ook de
+  avatarfoto's zijn dus wereldwijd zichtbaar, niet enkel voor het team.

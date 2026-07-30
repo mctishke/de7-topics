@@ -15,6 +15,12 @@ from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 
+# Zelfde publieke (anon/publishable) sleutel als in docs/index.html -- enkel
+# gebruikt om te lezen welke artikels al stemmen/comments hebben, zodat we
+# die nooit stilletjes uit de lijst laten vallen.
+SUPABASE_URL = "https://xjzfehxazcsqilczsxhe.supabase.co"
+SUPABASE_ANON_KEY = "sb_publishable_BE2naLXZCC5UiRBHwAJSXA_JqelydgT"
+
 FEEDS = [
     "https://www.tijd.be/rss/nieuws.xml",
     "https://www.tijd.be/rss/ondernemen.xml",
@@ -54,6 +60,13 @@ EXCLUDED_CATEGORIES = {"Markten Live"}
 
 MAX_AGE = timedelta(hours=30)
 MAX_ARTICLES = 40
+
+# Artikels met stemmen/comments blijven langer zichtbaar dan de normale
+# cutoff, zodat activiteit nooit zomaar uit de lijst verdwijnt.
+ACTIVITY_MAX_AGE = timedelta(days=4)
+ACTIVITY_EXTRA_CAP = 30
+
+DATA_FILE = "docs/data.json"
 
 
 def fetch(url):
@@ -116,6 +129,34 @@ def get_de7_ids():
     return ids, title
 
 
+def load_previous_articles():
+    try:
+        with open(DATA_FILE, "r", encoding="utf-8") as f:
+            data = json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError):
+        return {}
+    return {a["id"]: a for a in data.get("articles", [])}
+
+
+def fetch_activity_article_ids():
+    """Artikel-ID's die al minstens 1 stem of comment hebben (publieke,
+    leesbare data via de anon-key -- geen geheim nodig)."""
+    ids = set()
+    for table in ("votes", "comments"):
+        url = f"{SUPABASE_URL}/rest/v1/{table}?select=article_id"
+        try:
+            req = urllib.request.Request(url, headers={
+                "apikey": SUPABASE_ANON_KEY,
+                "Authorization": f"Bearer {SUPABASE_ANON_KEY}",
+            })
+            with urllib.request.urlopen(req, timeout=15) as resp:
+                rows = json.loads(resp.read())
+            ids.update(row["article_id"] for row in rows)
+        except Exception as exc:
+            print(f"Kon activiteit ({table}) niet ophalen: {exc}")
+    return ids
+
+
 def fetch_og_image(url):
     """Leest enkel de eerste paar KB van de artikelpagina om de og:image te
     vinden, zodat we niet de volledige (zware) pagina moeten downloaden."""
@@ -154,11 +195,14 @@ def score_article(article, de7_ids):
 
 def main():
     now = datetime.now(timezone.utc)
-    cutoff = now - MAX_AGE
 
+    # Alles wat we al eerder gezien (en gescoord) hebben, nemen we ongewijzigd
+    # over -- ook als het intussen uit de RSS-feeds gerold is. Daardoor
+    # verandert de volgorde enkel nog doordat er nieuwe artikels bijkomen,
+    # niet doordat bestaande artikels steeds opnieuw herberekend worden.
+    articles_by_id = dict(load_previous_articles())
     de7_ids, de7_title = get_de7_ids()
 
-    articles_by_id = {}
     for feed_url in FEEDS:
         try:
             xml_bytes = fetch(feed_url)
@@ -167,24 +211,39 @@ def main():
             continue
 
         for article in parse_rss_items(xml_bytes):
-            if article["id"] in articles_by_id:
+            article_id = article["id"]
+            if article_id in articles_by_id:
                 continue
             if article["category"] in EXCLUDED_CATEGORIES:
-                continue
-            pub_date = parse_pub_date(article["pubDate"])
-            if pub_date and pub_date < cutoff:
                 continue
             score, in_de7 = score_article(article, de7_ids)
             article["score"] = score
             article["in_de7"] = in_de7
-            articles_by_id[article["id"]] = article
+            articles_by_id[article_id] = article
 
-    articles = sorted(articles_by_id.values(), key=lambda a: a["score"], reverse=True)
-    articles = articles[:MAX_ARTICLES]
+    def within(article, max_age):
+        pub_date = parse_pub_date(article.get("pubDate", ""))
+        return pub_date is None or pub_date >= (now - max_age)
 
+    fresh_pool = [a for a in articles_by_id.values() if within(a, MAX_AGE)]
+    fresh_pool.sort(key=lambda a: a["score"], reverse=True)
+    primary = fresh_pool[:MAX_ARTICLES]
+    primary_ids = {a["id"] for a in primary}
+
+    activity_ids = fetch_activity_article_ids()
+    activity_extra = [
+        a for a in articles_by_id.values()
+        if a["id"] in activity_ids and a["id"] not in primary_ids and within(a, ACTIVITY_MAX_AGE)
+    ]
+    activity_extra.sort(key=lambda a: a["score"], reverse=True)
+    activity_extra = activity_extra[:ACTIVITY_EXTRA_CAP]
+
+    articles = primary + activity_extra
+
+    new_articles = [a for a in articles if "image" not in a]
     with ThreadPoolExecutor(max_workers=IMAGE_FETCH_WORKERS) as pool:
-        images = pool.map(fetch_og_image, [a["link"] for a in articles])
-    for article, image in zip(articles, images):
+        images = pool.map(fetch_og_image, [a["link"] for a in new_articles])
+    for article, image in zip(new_articles, images):
         article["image"] = image
 
     output = {
@@ -194,7 +253,7 @@ def main():
         "articles": articles,
     }
 
-    with open("docs/data.json", "w", encoding="utf-8") as f:
+    with open(DATA_FILE, "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
     print(f"Geschreven: {len(articles)} artikels, {output['de7_matched_count']} uit De 7 gematcht")

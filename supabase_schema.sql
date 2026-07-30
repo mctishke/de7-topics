@@ -5,7 +5,7 @@ create table if not exists votes (
   id bigint generated always as identity primary key,
   article_id text not null,
   voter_id text not null,
-  value smallint not null check (value in (-1, 1)),
+  value smallint not null check (value in (0, 1)), -- 0 = ontsterd, 1 = ster
   created_at timestamptz not null default now()
 );
 

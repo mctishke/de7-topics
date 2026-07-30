@@ -13,8 +13,7 @@
     --muted: #6b6a66;
     --accent: #b5121b;
     --accent-bg: #fdeceb;
-    --up: #1a7f37;
-    --down: #b5121b;
+    --star: #b8860b;
   }
   @media (prefers-color-scheme: dark) {
     :root {
@@ -25,8 +24,7 @@
       --muted: #9a9a97;
       --accent: #ff6b6b;
       --accent-bg: #3a2323;
-      --up: #4ade80;
-      --down: #ff6b6b;
+      --star: #f5c451;
     }
   }
   * { box-sizing: border-box; }
@@ -42,6 +40,28 @@
   .logo { width: 34px; height: 34px; border-radius: 6px; flex-shrink: 0; }
   h1 { font-size: 22px; margin: 0; }
   .meta { color: var(--muted); font-size: 13px; margin-top: 4px; }
+
+  .who-picker { margin-top: 14px; }
+  .who-label { font-size: 12px; color: var(--muted); display: block; margin-bottom: 6px; }
+  .who-avatars { display: flex; gap: 8px; flex-wrap: wrap; }
+  .who-btn {
+    border: 2px solid transparent; background: none; padding: 0;
+    border-radius: 999px; cursor: pointer; line-height: 0;
+  }
+  .who-btn.selected { border-color: var(--accent); }
+
+  .avatar { border-radius: 999px; object-fit: cover; display: inline-block; vertical-align: middle; }
+  .avatar-initials {
+    display: flex; align-items: center; justify-content: center;
+    color: white; font-weight: 600; background: var(--muted);
+  }
+
+  .section-title {
+    font-size: 12px; font-weight: 700; color: var(--muted); text-transform: uppercase;
+    letter-spacing: .04em; margin: 22px 0 10px;
+  }
+  .section-title:first-child { margin-top: 0; }
+
   .card {
     background: var(--card);
     border: 1px solid var(--border);
@@ -71,36 +91,37 @@
   .badge.de7 { background: var(--accent-bg); color: var(--accent); font-weight: 600; }
   .title a { color: var(--text); text-decoration: none; font-size: 16px; font-weight: 600; line-height: 1.35; }
   .title a:hover { text-decoration: underline; }
-  .row { display: flex; align-items: center; justify-content: space-between; margin-top: 10px; gap: 12px; }
+  .row { display: flex; align-items: center; justify-content: space-between; margin-top: 10px; gap: 12px; flex-wrap: wrap; }
   .votes { display: flex; align-items: center; gap: 8px; }
-  .votes button {
+  .star-btn {
     border: 1px solid var(--border);
     background: transparent;
-    color: var(--text);
     border-radius: 6px;
-    padding: 4px 10px;
+    padding: 3px 10px;
     cursor: pointer;
-    font-size: 14px;
+    font-size: 16px;
+    color: var(--muted);
+    line-height: 1.3;
   }
-  .votes button:hover { background: var(--border); }
-  .votes button.active-up { color: var(--up); border-color: var(--up); }
-  .votes button.active-down { color: var(--down); border-color: var(--down); }
-  .net { font-weight: 600; min-width: 22px; text-align: center; }
+  .star-btn:hover { background: var(--border); }
+  .star-btn.starred { color: var(--star); border-color: var(--star); }
+  .net { font-weight: 600; min-width: 14px; text-align: center; }
+  .voters { display: flex; align-items: center; }
+  .voters .avatar { width: 22px; height: 22px; margin-left: -6px; border: 2px solid var(--card); }
+  .voters-extra { font-size: 11px; color: var(--muted); margin-left: 6px; }
   .score { color: var(--muted); font-size: 12px; }
   .muted { color: var(--muted); }
   .comments-label { color: var(--muted); font-size: 13px; }
   .comments { margin-top: 10px; border-top: 1px solid var(--border); padding-top: 10px; }
-  .comment { font-size: 13px; margin-bottom: 8px; }
+  .comment { display: flex; gap: 8px; font-size: 13px; margin-bottom: 10px; }
+  .comment .avatar { width: 24px; height: 24px; flex-shrink: 0; margin-top: 1px; }
   .comment .author { font-weight: 600; }
-  .comment .body { color: var(--text); }
-  .comment-form { display: flex; gap: 6px; margin-top: 8px; flex-wrap: wrap; }
-  .comment-form input[type=text], .comment-form select {
-    padding: 6px 8px; border-radius: 6px; border: 1px solid var(--border);
+  .comment .body { color: var(--text); margin-top: 1px; }
+  .comment-form { display: flex; gap: 6px; margin-top: 8px; }
+  .comment-form input[type=text] {
+    flex: 1; padding: 6px 8px; border-radius: 6px; border: 1px solid var(--border);
     background: var(--bg); color: var(--text); font-size: 13px;
   }
-  .comment-form select.author-select { flex: 0 0 auto; }
-  .comment-form input.author-custom { flex: 1 1 100px; }
-  .comment-form input[name=body] { flex: 3 1 140px; }
   .comment-form button {
     border: none; background: var(--accent); color: white; border-radius: 6px;
     padding: 6px 12px; font-size: 13px; cursor: pointer;
@@ -120,9 +141,10 @@
       <h1>De 7 Topics</h1>
     </div>
     <div class="meta" id="meta">Laden...</div>
+    <div class="who-picker" id="who-picker"></div>
   </header>
   <div id="config-warning" class="config-warning" style="display:none">
-    Supabase is nog niet geconfigureerd — stemmen en comments worden niet bewaard. Zie SUPABASE_URL / SUPABASE_ANON_KEY bovenaan in index.html.
+    Supabase is nog niet geconfigureerd — stemmen en comments worden niet bewaard.
   </div>
   <div id="list"><div class="loading">Topics laden...</div></div>
 </div>
@@ -143,24 +165,23 @@ try {
   console.error("Supabase-client kon niet aangemaakt worden (stemmen/comments werken dan niet):", e);
 }
 
-function getVoterId() {
-  let id = localStorage.getItem("de7_voter_id");
-  if (!id) {
-    id = (crypto.randomUUID ? crypto.randomUUID() : String(Math.random()).slice(2));
-    localStorage.setItem("de7_voter_id", id);
-  }
-  return id;
-}
-const voterId = getVoterId();
+const PEOPLE = [
+  { name: "Bert", avatar: "avatars/bert.png" },
+  { name: "Roan", avatar: "avatars/roan.png" },
+  { name: "Peter", avatar: "avatars/peter.png" },
+  { name: "Niels", avatar: "avatars/niels.png" },
+  { name: "Thijs", avatar: "avatars/thijs.png" },
+  { name: "Seppe", avatar: "avatars/seppe.png" },
+  { name: "Robbe", avatar: "avatars/robbe.png" },
+  { name: "Maarten", avatar: null },
+  { name: "Julie", avatar: null },
+];
 
-const PRESET_NAMES = ["Bert", "Roan", "Peter", "Niels", "Thijs", "Seppe", "Robbe", "Maarten", "Julie"];
-const CUSTOM_NAME_VALUE = "__custom__";
-
-function getSavedName() {
-  return localStorage.getItem("de7_comment_author") || "";
+function currentUser() {
+  return localStorage.getItem("de7_user") || "";
 }
-function saveName(name) {
-  if (name) localStorage.setItem("de7_comment_author", name);
+function setCurrentUser(name) {
+  if (name) localStorage.setItem("de7_user", name);
 }
 
 function escapeHtml(s) {
@@ -169,23 +190,59 @@ function escapeHtml(s) {
   }[c]));
 }
 
-function nameFieldHtml() {
-  const saved = getSavedName();
-  const isPreset = PRESET_NAMES.includes(saved);
-  const options = PRESET_NAMES.map(n =>
-    `<option value="${escapeHtml(n)}" ${saved === n ? "selected" : ""}>${escapeHtml(n)}</option>`
-  ).join("");
-  const customSelected = saved && !isPreset;
-  return `
-    <select class="author-select" name="author">
-      <option value="" ${saved ? "" : "selected"} disabled>Naam...</option>
-      ${options}
-      <option value="${CUSTOM_NAME_VALUE}" ${customSelected ? "selected" : ""}>Andere...</option>
-    </select>
-    <input type="text" class="author-custom" placeholder="Jouw naam"
-      value="${customSelected ? escapeHtml(saved) : ""}"
-      style="display:${customSelected ? "inline-block" : "none"}">
+function hashHue(s) {
+  let h = 0;
+  for (let i = 0; i < s.length; i++) h = (h * 31 + s.charCodeAt(i)) % 360;
+  return h;
+}
+
+function avatarHtml(name, size) {
+  const person = PEOPLE.find(p => p.name === name);
+  if (person && person.avatar) {
+    return `<img class="avatar" src="${escapeHtml(person.avatar)}" alt="${escapeHtml(name)}" title="${escapeHtml(name)}" style="width:${size}px;height:${size}px">`;
+  }
+  const initials = (name || "?").trim().slice(0, 2).toUpperCase();
+  const hue = hashHue(name || "?");
+  return `<div class="avatar avatar-initials" title="${escapeHtml(name || "")}" style="width:${size}px;height:${size}px;font-size:${Math.round(size * 0.4)}px;background:hsl(${hue},50%,42%)">${escapeHtml(initials)}</div>`;
+}
+
+function renderWhoPicker() {
+  const el = document.getElementById("who-picker");
+  const selected = currentUser();
+  const isCustom = selected && !PEOPLE.some(p => p.name === selected);
+
+  const presetHtml = PEOPLE.map(p => `
+    <button class="who-btn ${selected === p.name ? "selected" : ""}" data-name="${escapeHtml(p.name)}">
+      ${avatarHtml(p.name, 34)}
+    </button>
+  `).join("");
+
+  el.innerHTML = `
+    <span class="who-label">${selected ? "Jij bent " + escapeHtml(selected) + ":" : "Kies wie je bent, zodat je kan stemmen en reageren:"}</span>
+    <div class="who-avatars">
+      ${presetHtml}
+      <button class="who-btn who-custom ${isCustom ? "selected" : ""}" data-name="__custom__">
+        ${isCustom ? avatarHtml(selected, 34) : `<div class="avatar avatar-initials" style="width:34px;height:34px">+</div>`}
+      </button>
+    </div>
   `;
+
+  el.querySelectorAll(".who-btn").forEach(btn => {
+    btn.addEventListener("click", () => {
+      if (btn.dataset.name === "__custom__") {
+        const name = prompt("Wat is je naam?", isCustom ? selected : "");
+        if (name && name.trim()) {
+          setCurrentUser(name.trim());
+          renderWhoPicker();
+          render();
+        }
+      } else {
+        setCurrentUser(btn.dataset.name);
+        renderWhoPicker();
+        render();
+      }
+    });
+  });
 }
 
 function timeAgo(iso) {
@@ -198,7 +255,7 @@ function timeAgo(iso) {
 }
 
 async function loadVotesAndComments() {
-  if (!sb) return { netByArticle: {}, myVoteByArticle: {}, commentsByArticle: {} };
+  if (!sb) return { starsByArticle: {}, votersByArticle: {}, myStarByArticle: {}, commentsByArticle: {} };
 
   const [{ data: votes, error: vErr }, { data: comments, error: cErr }] = await Promise.all([
     sb.from("votes").select("*").order("created_at", { ascending: true }),
@@ -207,18 +264,24 @@ async function loadVotesAndComments() {
   if (vErr) console.error("votes error", vErr);
   if (cErr) console.error("comments error", cErr);
 
-  // Per (article_id, voter_id) enkel de laatste stem meetellen.
-  const latestVote = {}; // key: article_id|voter_id -> value
+  // Per (article_id, voter) enkel de laatste stem meetellen (0 = ontsterd, 1 = ster).
+  const latestVote = {};
   (votes || []).forEach(v => {
     latestVote[`${v.article_id}|${v.voter_id}`] = v.value;
   });
 
-  const netByArticle = {};
-  const myVoteByArticle = {};
+  const starsByArticle = {};
+  const votersByArticle = {};
+  const myStarByArticle = {};
+  const me = currentUser();
+
   Object.entries(latestVote).forEach(([key, value]) => {
-    const [articleId, vId] = key.split("|");
-    netByArticle[articleId] = (netByArticle[articleId] || 0) + value;
-    if (vId === voterId) myVoteByArticle[articleId] = value;
+    const [articleId, voter] = key.split("|");
+    if (value === 1) {
+      starsByArticle[articleId] = (starsByArticle[articleId] || 0) + 1;
+      (votersByArticle[articleId] = votersByArticle[articleId] || []).push(voter);
+    }
+    if (voter === me) myStarByArticle[articleId] = value === 1;
   });
 
   const commentsByArticle = {};
@@ -226,36 +289,44 @@ async function loadVotesAndComments() {
     (commentsByArticle[c.article_id] = commentsByArticle[c.article_id] || []).push(c);
   });
 
-  return { netByArticle, myVoteByArticle, commentsByArticle };
+  return { starsByArticle, votersByArticle, myStarByArticle, commentsByArticle };
 }
 
-async function castVote(articleId, value) {
+async function toggleStar(articleId, isStarred) {
+  const user = currentUser();
+  if (!user) { alert("Kies eerst bovenaan wie je bent."); return; }
   if (!sb) { alert("Supabase is nog niet geconfigureerd."); return; }
-  await sb.from("votes").insert({ article_id: articleId, voter_id: voterId, value });
+  await sb.from("votes").insert({ article_id: articleId, voter_id: user, value: isStarred ? 0 : 1 });
   await render();
 }
 
-async function addComment(articleId, author, body) {
+async function addComment(articleId, body) {
+  const user = currentUser();
+  if (!user) { alert("Kies eerst bovenaan wie je bent."); return; }
   if (!sb) { alert("Supabase is nog niet geconfigureerd."); return; }
   if (!body.trim()) return;
-  await sb.from("comments").insert({
-    article_id: articleId,
-    author: author.trim() || "Anoniem",
-    body: body.trim(),
-  });
+  await sb.from("comments").insert({ article_id: articleId, author: user, body: body.trim() });
   await render();
 }
 
-function articleCard(article, netVotes, myVote, comments) {
-  const combined = article.score + netVotes * 2;
+function articleCard(article, stars, voters, myStar, comments) {
   const de7Badge = article.in_de7 ? `<span class="badge de7">🎙️ In De 7</span>` : "";
   const catBadge = article.category ? `<span class="badge">${escapeHtml(article.category)}</span>` : "";
 
+  const shownVoters = (voters || []).slice(0, 8);
+  const votersHtml = shownVoters.map(name => avatarHtml(name, 22)).join("");
+  const votersExtra = (voters || []).length > 8
+    ? `<span class="voters-extra">+${voters.length - 8}</span>`
+    : "";
+
   const commentsHtml = (comments || []).map(c => `
     <div class="comment">
-      <span class="author">${escapeHtml(c.author)}</span>
-      <span class="muted">· ${timeAgo(c.created_at)}</span><br>
-      <span class="body">${escapeHtml(c.body)}</span>
+      ${avatarHtml(c.author, 24)}
+      <div>
+        <span class="author">${escapeHtml(c.author)}</span>
+        <span class="muted">· ${timeAgo(c.created_at)}</span>
+        <div class="body">${escapeHtml(c.body)}</div>
+      </div>
     </div>
   `).join("");
 
@@ -264,7 +335,7 @@ function articleCard(article, netVotes, myVote, comments) {
     : "";
 
   return `
-  <div class="card" data-id="${article.id}" data-combined="${combined}">
+  <div class="card" data-id="${article.id}">
     <div class="card-top">
       <div class="card-content">
         <div class="badges">${de7Badge}${catBadge}</div>
@@ -274,9 +345,9 @@ function articleCard(article, netVotes, myVote, comments) {
     </div>
     <div class="row">
       <div class="votes">
-        <button class="vote-up ${myVote === 1 ? "active-up" : ""}" data-id="${article.id}" data-value="1">▲</button>
-        <span class="net">${netVotes}</span>
-        <button class="vote-down ${myVote === -1 ? "active-down" : ""}" data-id="${article.id}" data-value="-1">▼</button>
+        <button class="star-btn ${myStar ? "starred" : ""}" data-id="${article.id}">${myStar ? "★" : "☆"}</button>
+        <span class="net">${stars}</span>
+        <div class="voters">${votersHtml}${votersExtra}</div>
         <span class="score">algoritme: ${article.score}</span>
       </div>
       <span class="comments-label">💬 ${(comments || []).length} comment${(comments || []).length === 1 ? "" : "s"}</span>
@@ -284,7 +355,6 @@ function articleCard(article, netVotes, myVote, comments) {
     <div class="comments" id="comments-${article.id}">
       ${commentsHtml || '<div class="muted" style="font-size:13px">Nog geen comments.</div>'}
       <div class="comment-form">
-        ${nameFieldHtml()}
         <input type="text" name="body" placeholder="Comment...">
         <button class="comment-submit" data-id="${article.id}">Post</button>
       </div>
@@ -293,6 +363,14 @@ function articleCard(article, netVotes, myVote, comments) {
 }
 
 let cachedData = null;
+
+function section(title, items, starsByArticle, votersByArticle, myStarByArticle, commentsByArticle) {
+  if (items.length === 0) return "";
+  const cards = items.map(a =>
+    articleCard(a, starsByArticle[a.id] || 0, votersByArticle[a.id] || [], !!myStarByArticle[a.id], commentsByArticle[a.id])
+  ).join("");
+  return `<div class="section-title">${escapeHtml(title)}</div>${cards}`;
+}
 
 async function render() {
   const listEl = document.getElementById("list");
@@ -315,9 +393,9 @@ async function render() {
   const generated = new Date(cachedData.generated_at);
   metaEl.textContent = `Laatst ververst: ${generated.toLocaleString("nl-BE")} · ${cachedData.de7_matched_count} topic(s) gematcht met De 7`;
 
-  let netByArticle = {}, myVoteByArticle = {}, commentsByArticle = {};
+  let starsByArticle = {}, votersByArticle = {}, myStarByArticle = {}, commentsByArticle = {};
   try {
-    ({ netByArticle, myVoteByArticle, commentsByArticle } = await loadVotesAndComments());
+    ({ starsByArticle, votersByArticle, myStarByArticle, commentsByArticle } = await loadVotesAndComments());
   } catch (e) {
     console.error("Kon stemmen/comments niet laden (lijst wordt wel getoond):", e);
     document.getElementById("config-warning").style.display = "block";
@@ -325,8 +403,8 @@ async function render() {
 
   const articles = [...cachedData.articles];
   articles.sort((a, b) => {
-    const ca = a.score + (netByArticle[a.id] || 0) * 2;
-    const cb = b.score + (netByArticle[b.id] || 0) * 2;
+    const ca = a.score + (starsByArticle[a.id] || 0) * 2;
+    const cb = b.score + (starsByArticle[b.id] || 0) * 2;
     return cb - ca;
   });
 
@@ -335,42 +413,26 @@ async function render() {
     return;
   }
 
-  listEl.innerHTML = articles.map(a =>
-    articleCard(a, netByArticle[a.id] || 0, myVoteByArticle[a.id] || 0, commentsByArticle[a.id])
-  ).join("");
+  const active = articles.filter(a => (starsByArticle[a.id] || 0) > 0 || (commentsByArticle[a.id] || []).length > 0);
+  const suggested = articles.filter(a => !((starsByArticle[a.id] || 0) > 0 || (commentsByArticle[a.id] || []).length > 0));
 
-  listEl.querySelectorAll(".vote-up, .vote-down").forEach(btn => {
-    btn.addEventListener("click", () => castVote(btn.dataset.id, Number(btn.dataset.value)));
-  });
-  listEl.querySelectorAll(".author-select").forEach(select => {
-    select.addEventListener("change", () => {
-      const customInput = select.closest(".comment-form").querySelector(".author-custom");
-      if (select.value === CUSTOM_NAME_VALUE) {
-        customInput.style.display = "inline-block";
-        customInput.focus();
-      } else {
-        customInput.style.display = "none";
-        saveName(select.value);
-      }
-    });
-  });
-  listEl.querySelectorAll(".author-custom").forEach(input => {
-    input.addEventListener("input", () => saveName(input.value.trim()));
+  listEl.innerHTML =
+    section(`Met stemmen & comments (${active.length})`, active, starsByArticle, votersByArticle, myStarByArticle, commentsByArticle) +
+    section(`Suggesties (${suggested.length})`, suggested, starsByArticle, votersByArticle, myStarByArticle, commentsByArticle);
+
+  listEl.querySelectorAll(".star-btn").forEach(btn => {
+    btn.addEventListener("click", () => toggleStar(btn.dataset.id, btn.classList.contains("starred")));
   });
   listEl.querySelectorAll(".comment-submit").forEach(btn => {
     btn.addEventListener("click", () => {
       const form = btn.closest(".comments");
-      const select = form.querySelector(".author-select");
-      const customInput = form.querySelector(".author-custom");
-      const author = select.value === CUSTOM_NAME_VALUE ? customInput.value.trim() : select.value;
       const body = form.querySelector('input[name=body]').value;
-      if (!author) { alert("Kies of typ eerst een naam."); return; }
-      saveName(author);
-      addComment(btn.dataset.id, author, body);
+      addComment(btn.dataset.id, body);
     });
   });
 }
 
+renderWhoPicker();
 render().catch(e => {
   console.error("Onverwachte fout bij renderen:", e);
   document.getElementById("list").innerHTML =
