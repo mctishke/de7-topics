@@ -118,9 +118,14 @@ const SUPABASE_URL = "https://xjzfehxazcsqilczsxhe.supabase.co";
 const SUPABASE_ANON_KEY = "sb_publishable_BE2naLXZCC5UiRBHwAJSXA_JqelydgT";
 // ------------------------------------------------------------------
 
-const supabase = (SUPABASE_URL && SUPABASE_ANON_KEY)
-  ? window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY)
-  : null;
+let supabase = null;
+try {
+  if (SUPABASE_URL && SUPABASE_ANON_KEY && window.supabase) {
+    supabase = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
+  }
+} catch (e) {
+  console.error("Supabase-client kon niet aangemaakt worden (stemmen/comments werken dan niet):", e);
+}
 
 function getVoterId() {
   let id = localStorage.getItem("de7_voter_id");
@@ -256,7 +261,13 @@ async function render() {
   const generated = new Date(cachedData.generated_at);
   metaEl.textContent = `Laatst ververst: ${generated.toLocaleString("nl-BE")} · ${cachedData.de7_matched_count} topic(s) gematcht met De 7`;
 
-  const { netByArticle, myVoteByArticle, commentsByArticle } = await loadVotesAndComments();
+  let netByArticle = {}, myVoteByArticle = {}, commentsByArticle = {};
+  try {
+    ({ netByArticle, myVoteByArticle, commentsByArticle } = await loadVotesAndComments());
+  } catch (e) {
+    console.error("Kon stemmen/comments niet laden (lijst wordt wel getoond):", e);
+    document.getElementById("config-warning").style.display = "block";
+  }
 
   const articles = [...cachedData.articles];
   articles.sort((a, b) => {
@@ -292,7 +303,11 @@ async function render() {
   });
 }
 
-render();
+render().catch(e => {
+  console.error("Onverwachte fout bij renderen:", e);
+  document.getElementById("list").innerHTML =
+    `<div class="empty">Er ging iets mis bij het laden. Open de browserconsole (rechtermuisklik &gt; Inspecteren &gt; Console) voor details.</div>`;
+});
 </script>
 </body>
 </html>
