@@ -38,14 +38,25 @@
   }
   .wrap { max-width: 760px; margin: 0 auto; padding: 24px 16px 80px; }
   header { margin-bottom: 20px; }
-  h1 { font-size: 22px; margin: 0 0 4px; }
-  .meta { color: var(--muted); font-size: 13px; }
+  .brand { display: flex; align-items: center; gap: 10px; }
+  .logo { width: 34px; height: 34px; border-radius: 6px; flex-shrink: 0; }
+  h1 { font-size: 22px; margin: 0; }
+  .meta { color: var(--muted); font-size: 13px; margin-top: 4px; }
   .card {
     background: var(--card);
     border: 1px solid var(--border);
     border-radius: 10px;
     padding: 14px 16px;
     margin-bottom: 12px;
+    overflow: hidden;
+  }
+  .card-image {
+    display: block;
+    width: calc(100% + 32px);
+    margin: -14px -16px 12px;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+    background: var(--border);
   }
   .badges { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 6px; }
   .badge {
@@ -75,10 +86,8 @@
   .net { font-weight: 600; min-width: 22px; text-align: center; }
   .score { color: var(--muted); font-size: 12px; }
   .muted { color: var(--muted); }
-  .comments-toggle { background: none; border: none; color: var(--muted); font-size: 13px; cursor: pointer; padding: 0; }
-  .comments-toggle:hover { text-decoration: underline; }
-  .comments { display: none; margin-top: 10px; border-top: 1px solid var(--border); padding-top: 10px; }
-  .comments.open { display: block; }
+  .comments-label { color: var(--muted); font-size: 13px; }
+  .comments { margin-top: 10px; border-top: 1px solid var(--border); padding-top: 10px; }
   .comment { font-size: 13px; margin-bottom: 8px; }
   .comment .author { font-weight: 600; }
   .comment .body { color: var(--text); }
@@ -102,7 +111,10 @@
 <body>
 <div class="wrap">
   <header>
-    <h1>De 7 Topics</h1>
+    <div class="brand">
+      <img src="logo.png" alt="De Tijd" class="logo">
+      <h1>De 7 Topics</h1>
+    </div>
     <div class="meta" id="meta">Laden...</div>
   </header>
   <div id="config-warning" class="config-warning" style="display:none">
@@ -214,8 +226,13 @@ function articleCard(article, netVotes, myVote, comments) {
     </div>
   `).join("");
 
+  const imageHtml = article.image
+    ? `<img class="card-image" src="${escapeHtml(article.image)}" alt="" loading="lazy">`
+    : "";
+
   return `
   <div class="card" data-id="${article.id}" data-combined="${combined}">
+    ${imageHtml}
     <div class="badges">${de7Badge}${catBadge}</div>
     <div class="title"><a href="${escapeHtml(article.link)}" target="_blank" rel="noopener">${escapeHtml(article.title)}</a></div>
     <div class="row">
@@ -225,7 +242,7 @@ function articleCard(article, netVotes, myVote, comments) {
         <button class="vote-down ${myVote === -1 ? "active-down" : ""}" data-id="${article.id}" data-value="-1">▼</button>
         <span class="score">algoritme: ${article.score}</span>
       </div>
-      <button class="comments-toggle" data-id="${article.id}">💬 ${(comments || []).length} comment${(comments || []).length === 1 ? "" : "s"}</button>
+      <span class="comments-label">💬 ${(comments || []).length} comment${(comments || []).length === 1 ? "" : "s"}</span>
     </div>
     <div class="comments" id="comments-${article.id}">
       ${commentsHtml || '<div class="muted" style="font-size:13px">Nog geen comments.</div>'}
@@ -287,11 +304,6 @@ async function render() {
 
   listEl.querySelectorAll(".vote-up, .vote-down").forEach(btn => {
     btn.addEventListener("click", () => castVote(btn.dataset.id, Number(btn.dataset.value)));
-  });
-  listEl.querySelectorAll(".comments-toggle").forEach(btn => {
-    btn.addEventListener("click", () => {
-      document.getElementById(`comments-${btn.dataset.id}`).classList.toggle("open");
-    });
   });
   listEl.querySelectorAll(".comment-submit").forEach(btn => {
     btn.addEventListener("click", () => {

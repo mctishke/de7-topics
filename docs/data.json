@@ -1,18 +1,8 @@
 {
-  "generated_at": "2026-07-30T12:18:54.228200+00:00",
+  "generated_at": "2026-07-30T13:21:03.936770+00:00",
   "de7_title": "30/07 | 200.000 Vlamingen veranderden van energieleverancier sinds Iran-oorlog | Meta en Microsoft blijven geld pompen in AI | Verzekeringsfraude in opmars",
-  "de7_matched_count": 4,
+  "de7_matched_count": 2,
   "articles": [
-    {
-      "id": "10677397",
-      "title": "AI-sjoemelaars jagen fraudefactuur verzekeraars naar 800 miljoen euro per jaar",
-      "link": "https://www.tijd.be/r/t/1/id/10677397",
-      "category": "Ondernemen",
-      "description": "Verzekeringsfraude is in opmars nu AI sjoemelen makkelijker maakt en ook georganiseerde misdaadbendes er een businessmodel in zien. Vorig jaar ontdekten de Belgische verzekeraars voor 181 miljoen euro fraudegevallen, al wordt de totale schade nog fors hoger geschat.",
-      "pubDate": "Thu, 30 Jul 2026 03:00:00 GMT",
-      "score": 16,
-      "in_de7": true
-    },
     {
       "id": "10680590",
       "title": "AI-inkomsten Microsoft doorbreken kaap van 100 miljard dollar",
@@ -21,17 +11,8 @@
       "description": "De AI-inkomsten van Microsoft hebben het voorbije boekjaar voor het eerst de kaap van 100 miljard dollar gerond. De softwarereus zag de omzet het jongste kwartaal ook sterker groeien dan verwacht.",
       "pubDate": "Wed, 29 Jul 2026 21:24:10 GMT",
       "score": 14,
-      "in_de7": true
-    },
-    {
-      "id": "10680588",
-      "title": "Meta ziet vrije kasstroom opdrogen, maar neemt geen gas terug met AI-investeringen",
-      "link": "https://www.tijd.be/r/t/1/id/10680588",
-      "category": "Ondernemen",
-      "description": "Meta Platforms heeft in het tweede kwartaal meer omzet geboekt dan verwacht, maar stelde teleur met de winst per aandeel. Tegelijk trok de socialemediareus de ondergrens van zijn verwachte kapitaaluitgaven voor AI-infrastructuur op.",
-      "pubDate": "Wed, 29 Jul 2026 21:53:46 GMT",
-      "score": 12,
-      "in_de7": true
+      "in_de7": true,
+      "image": "https://images.tijd.be/view?iid=Elvis:6TItvzX441MA8_Injus1hq&context=ONLINE&ratio=16/9&width=480&u=1785414894000"
     },
     {
       "id": "10680375",
@@ -41,7 +22,8 @@
       "description": "05:00 Sinds de Iran-oorlog eind februari losbarstte en de energieprijzen piekten, hebben zo’n 200.000 Vlamingen van energieleverancier gewisseld. Het gaat om het hoogste aantal sinds 2022.",
       "pubDate": "Thu, 30 Jul 2026 03:00:00 GMT",
       "score": 12,
-      "in_de7": true
+      "in_de7": true,
+      "image": "https://images.tijd.be/view?iid=Elvis:8zYUP-SVa7G8VUYQr8pIEj&context=ONLINE&ratio=16/9&width=480&u=1785399124000"
     },
     {
       "id": "10680684",
@@ -51,7 +33,8 @@
       "description": "De Duitse autobouwer BMW heeft met zijn kwartaalrapport aangetoond waarom 8.000 banen moeten sneuvelen. De winstmarge van de autodivisie van BMW is gedaald tot 2,3 procent, ruim de helft minder dan een jaar geleden.",
       "pubDate": "Thu, 30 Jul 2026 11:08:01 GMT",
       "score": 5,
-      "in_de7": false
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:C_9eo4mWqt-BxAgC5qauAG&context=ONLINE&ratio=16/9&width=480&u=1785410056000"
     },
     {
       "id": "10680569",
@@ -61,27 +44,19 @@
       "description": "De hausse in de chipsector is de afgelopen weken dan wel flink bekoeld, de beurzen als geheel houden te midden van het chiptumult verrassend goed stand. Met dank aan de herontdekking van enkele lang verwaarloosde sectoren.",
       "pubDate": "Wed, 29 Jul 2026 17:37:09 GMT",
       "score": 5,
-      "in_de7": false
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:5a19rNLf4J1A2eai1DfJnL&context=ONLINE&ratio=16/9&width=480&u=1785346633000"
     },
     {
-      "id": "10680676",
-      "title": "Belgische inflatie versnelt tot 3,6 procent door Iran-oorlog",
-      "link": "https://www.tijd.be/r/t/1/id/10680676",
-      "category": "Politiek & Economie",
-      "description": "De inflatie in ons land is in juli gestegen naar 3,6 procent. De blokkade van de Straat van Hormuz dreef de prijs van olie en gas stevig op.",
-      "pubDate": "Thu, 30 Jul 2026 10:04:17 GMT",
+      "id": "10680669",
+      "title": "Franse wijnboeren bezorgd over bosbranden: 'Wat doet de rook met de smaak?'",
+      "link": "https://www.tijd.be/r/t/1/id/10680669",
+      "category": "Dossiers",
+      "description": "De vlammen in de Gironde hebben de wijnhuizen ten westen van Bordeaux dan wel niet bereikt, sommige domeinen zagen dikke rookwolken overtrekken. De châteaux vrezen voor de gevolgen van de 'monsterbrand'.",
+      "pubDate": "Thu, 30 Jul 2026 12:59:00 GMT",
       "score": 4,
-      "in_de7": false
-    },
-    {
-      "id": "10680662",
-      "title": "Jarenlange celstraffen in grootschalig Limburgs drugsproces 'Costa'",
-      "link": "https://www.tijd.be/r/t/1/id/10680662",
-      "category": "Politiek & Economie",
-      "description": "De rechtbank heeft een vonnis uitgesproken in het grootschalige drugsproces 'Costa', waarbij vier criminele organisaties met internationale vertakkingen betrokken waren. Onder anderen de voormalige rijkswachter Willy Van Mechelen en zijn kompaan Tom Bastiaanse moeten negen en twaalf jaar achter de tralies.",
-      "pubDate": "Thu, 30 Jul 2026 09:55:22 GMT",
-      "score": 4,
-      "in_de7": false
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:74AhGrji4rb8AgN-qi85Gj&context=ONLINE&ratio=16/9&width=480&u=1785416343000"
     },
     {
       "id": "10680618",
@@ -91,7 +66,30 @@
       "description": "Met een stevige inkomstengroei en een strikte kostencontrole heeft de Nederlandse bank ING een sterk tweede kwartaal neergezet. De verwachtingen voor zowel dit jaar als 2027 worden opgetrokken.",
       "pubDate": "Thu, 30 Jul 2026 07:12:58 GMT",
       "score": 4,
-      "in_de7": false
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:98zsvnnMa0RALb69pWpnIO&context=ONLINE&ratio=16/9&width=480&u=1785402360000"
+    },
+    {
+      "id": "10680676",
+      "title": "Belgische inflatie versnelt tot 3,6 procent door Iran-oorlog",
+      "link": "https://www.tijd.be/r/t/1/id/10680676",
+      "category": "Politiek & Economie",
+      "description": "De inflatie in ons land is in juli gestegen naar 3,6 procent. De blokkade van de Straat van Hormuz dreef de prijs van olie en gas stevig op.",
+      "pubDate": "Thu, 30 Jul 2026 10:04:17 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:2lfdouHf4189GEMLv-wNji&context=ONLINE&ratio=16/9&width=480&u=1785406479000"
+    },
+    {
+      "id": "10680662",
+      "title": "Jarenlange celstraffen in grootschalig Limburgs drugsproces 'Costa'",
+      "link": "https://www.tijd.be/r/t/1/id/10680662",
+      "category": "Politiek & Economie",
+      "description": "De rechtbank heeft een vonnis uitgesproken in het grootschalige drugsproces 'Costa', waarbij vier criminele organisaties met internationale vertakkingen betrokken waren. Onder anderen de voormalige rijkswachter Willy Van Mechelen en zijn kompaan Tom Bastiaanse moeten negen en twaalf jaar achter de tralies.",
+      "pubDate": "Thu, 30 Jul 2026 09:55:22 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:DmYIYk_nKhi8uHnhPg6VQ3&context=ONLINE&ratio=16/9&width=480&u=1785410581000"
     },
     {
       "id": "10680585",
@@ -101,7 +99,8 @@
       "description": "Terwijl het alle hens aan dek is in Frankrijk en Spanje, dreigen de komende weken ook Griekenland, Italië en Centraal-Europa getroffen te worden door natuurbranden. Het risico schuift op naar het oosten, waarschuwt het crisiscentrum van de Europese Unie.",
       "pubDate": "Wed, 29 Jul 2026 19:17:24 GMT",
       "score": 4,
-      "in_de7": false
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:BqlCXmbEaSIAqAkomKOwke&context=ONLINE&ratio=16/9&width=480&u=1785352647000"
     },
     {
       "id": "10680551",
@@ -111,17 +110,8 @@
       "description": "De regering van de Amerikaanse president Donald Trump legt een afkoopsom van 765 miljoen dollar op tafel om vier concessies voor windparken op zee in te trekken. Daarbij zit een project waarin het Belgische netbedrijf Elia Group participeert.",
       "pubDate": "Wed, 29 Jul 2026 14:49:16 GMT",
       "score": 4,
-      "in_de7": false
-    },
-    {
-      "id": "10679603",
-      "title": "De Tijdcapsule | Amélie Jageneau (Surya Swimwear): 'Hoe langer ik bezig ben, hoe meer ik de tegenstelling merk tussen de haters en de believers'",
-      "link": "https://www.tijd.be/r/t/1/id/10679603",
-      "category": "Dossiers",
-      "description": "Amélie Jageneau (34) richtte twee jaar geleden Surya Swimwear op, een merk van UV-werende badkleding voor kinderen én volwassenen. Deze week neemt ze plaats in De Tijdcapsule. Vandaag: de oneindige tijd.",
-      "pubDate": "Thu, 30 Jul 2026 10:30:47 GMT",
-      "score": 3,
-      "in_de7": false
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:2AG-M_oeau99ji7pehfhmE&context=ONLINE&ratio=16/9&width=480&u=1785336980000"
     },
     {
       "id": "10680605",
@@ -131,7 +121,8 @@
       "description": "Bekaert zag in het eerste halfjaar de omzet en winst zakken. De West-Vlaamse staaltechnologiegroep tempert de prognose voor de winstmarge voor heel 2026, en dat door hogere prijzen door de Iran-oorlog. Beleggers sturen het aandeel lager.",
       "pubDate": "Thu, 30 Jul 2026 08:02:28 GMT",
       "score": 3,
-      "in_de7": false
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:Fk6bS-yPKJDBXUv1XX1EC0&context=ONLINE&ratio=16/9&width=480&u=1785407169000"
     },
     {
       "id": "10680366",
@@ -141,7 +132,8 @@
       "description": "Alleen onze uitstoot terugdringen volstaat niet langer in de strijd tegen de klimaatverandering. Experts zeggen dat we ook moeten inzetten op adaptatie - de gevolgen van de opwarming erkennen, dus, én ons er beter tegen wapenen. Want bosbranden, hittegolven en overstromingen komen er toch.",
       "pubDate": "Wed, 29 Jul 2026 18:30:00 GMT",
       "score": 3,
-      "in_de7": false
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:DoCXWS_LKtQ9JHaRuQmCMT&context=ONLINE&ratio=16/9&width=480&u=1785413786000"
     },
     {
       "id": "10680376",
@@ -151,7 +143,8 @@
       "description": "Franky De Smet-Van Damme, frontman van Belgiës metaltrots Channel Zero, loopt de komende weken een laatste ereronde langs de festivals. Reden genoeg om terug te blikken op een carrière die begon met cassettebandjes in de brievenbus en die via toeval, trauma en een lange tussenpauze leidde naar uitverkochte zalen.",
       "pubDate": "Wed, 29 Jul 2026 10:43:35 GMT",
       "score": 3,
-      "in_de7": false
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:3cLLBK9eqf98Q6GGt3diA3&context=ONLINE&ratio=16/9&width=480&u=1785344460000"
     },
     {
       "id": "10680328",
@@ -161,7 +154,63 @@
       "description": "Elke week deze zomer openen we een reiskoffer. Deze keer die van de in Antwerpen gevestigde modeontwerper Christian Wijnants. Op het programma: steden in plaats van het strand, een koffer die almaar lichter wordt en, al onderweg naar de luchthaven, het plezier van het werk achter zich te laten.",
       "pubDate": "Thu, 30 Jul 2026 04:45:00 GMT",
       "score": 3,
-      "in_de7": false
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:5fN8NVkQarF9u70G5ltP2u&context=ONLINE&ratio=16/9&width=480&u=1785397322000"
+    },
+    {
+      "id": "10680633",
+      "title": "Stortvloed aan cijfers spoelt Bel20-zomerrally weg",
+      "link": "https://www.tijd.be/r/t/1/id/10680633",
+      "category": "Markten Live",
+      "description": "De Europese beurzen kleuren groen, maar de Bel20 staat op de pechstrook. Op de drukste Belgische resultatendag van de zomer valt vooral UCB uit de toon.",
+      "pubDate": "Thu, 30 Jul 2026 13:17:20 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:86dBvjmxqMkANIIiiBHre0&context=ONLINE&ratio=16/9&width=480&u=1785417439000"
+    },
+    {
+      "id": "10680550",
+      "title": "Statbel publiceert economische statistieken te laat wegens personeelstekort",
+      "link": "https://www.tijd.be/r/t/1/id/10680550",
+      "category": "Politiek & Economie",
+      "description": "De publicatie van cijfers over onder meer de industriële productie en loonkosten heeft maanden vertraging opgelopen. De statistiekdienst Statbel verwijst naar de niet-vervanging van medewerkers die met pensioen gaan.",
+      "pubDate": "Thu, 30 Jul 2026 12:56:04 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:1oxkdrkhKIY8-d4WlKrv3f&context=ONLINE&ratio=16/9&width=480&u=1785416468000"
+    },
+    {
+      "id": "10680570",
+      "title": "De Jardin Mosaïc van Rijsel, een tuin als een caleidoscoop van culturen",
+      "link": "https://www.tijd.be/r/t/1/id/10680570",
+      "category": "Cultuur",
+      "description": "Tijdens de zomervakantie bezoeken we mooie, maar onbekende tuinen in binnen- en buitenland. Vandaag: Mosaïc, 'le jardin des cultures' in Rijsel, die eigenlijk tien tuinen in één bevat en je van Noord-Afrika tot China doet reizen.",
+      "pubDate": "Thu, 30 Jul 2026 12:49:44 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:4xSQerLPKNLBOv5Rv5lwhz&context=ONLINE&ratio=16/9&width=480&u=1785417089000"
+    },
+    {
+      "id": "10680703",
+      "title": "Bosbranden Zuid-Europa: tienduizenden geëvacueerden mogen naar huis",
+      "link": "https://www.tijd.be/r/t/1/id/10680703",
+      "category": "Dossiers",
+      "description": "In Frankrijk, in de omgeving van Bordeaux, mogen donderdag 84.000 mensen die gevlucht waren voor de bosbranden terug naar huis, als het er nog staat. Ook in Spanje is de situatie verbeterd: de noodtoestand is er opgeheven, al zijn de branden nog niet geblust. Dat is evenmin het geval op het Griekse eiland Kreta. Een overzicht.",
+      "pubDate": "Thu, 30 Jul 2026 12:46:56 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:0EwKUujFaPc97rnNIFpRPV&context=ONLINE&ratio=16/9&width=480&u=1785415672000"
+    },
+    {
+      "id": "10680685",
+      "title": "Aandeel Adidas krijgt rammel na hoge marketinguitgaven voor WK voetbal",
+      "link": "https://www.tijd.be/r/t/1/id/10680685",
+      "category": "Ondernemen",
+      "description": "Bij de sportreus Adidas leidden enkele honderden miljoenen euro's marketingkosten in het tweede kwartaal tot een lager dan verwachte winst. Het aandeel stevent af op de grootste klap in één dag ooit voor de Duitsers.",
+      "pubDate": "Thu, 30 Jul 2026 12:16:20 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:Ai75W42B4vD8msZ95LfKE3&context=ONLINE&ratio=16/9&width=480&u=1785416112000"
     },
     {
       "id": "10680694",
@@ -169,9 +218,10 @@
       "link": "https://www.tijd.be/r/t/1/id/10680694",
       "category": "Markten Live",
       "description": "De geïnformeerde belegger is ook vrijdag de vroeg opstaande belegger, want Umicore komt voorbeurs met het halfjaarrapport.",
-      "pubDate": "Thu, 30 Jul 2026 12:01:28 GMT",
+      "pubDate": "Thu, 30 Jul 2026 12:00:00 GMT",
       "score": 2,
-      "in_de7": false
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:08iNDSUuqr79hCqH6eQYFO&context=ONLINE&ratio=16/9&width=480&u=1785416473000"
     },
     {
       "id": "10680686",
@@ -181,7 +231,8 @@
       "description": "Een rampscenario is uitgebleven, maar hoe goed staat de EU er echt voor een jaar na het afsluiten van de handelsdeal met de VS? De gevaarlijkste test moet nog komen.",
       "pubDate": "Thu, 30 Jul 2026 11:54:14 GMT",
       "score": 2,
-      "in_de7": false
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:6J90oFSmajb8G4JMOkH-k0&context=ONLINE&ratio=16/9&width=480&u=1785412457000"
     },
     {
       "id": "10680689",
@@ -191,37 +242,8 @@
       "description": "De Ferrero-groep, bekend van haar Nutella-choco, heeft het Franse koekjesbedrijf Michel & Augustin ondergebracht bij de Belgische sectorgenoot Delacre.",
       "pubDate": "Thu, 30 Jul 2026 11:14:18 GMT",
       "score": 2,
-      "in_de7": false
-    },
-    {
-      "id": "10680672",
-      "title": "Polen onderzoekt krater van 10 meter nabij Oekraïne: mogelijk Russische raketinslag",
-      "link": "https://www.tijd.be/r/t/1/id/10680672",
-      "category": "Dossiers",
-      "description": "De Poolse autoriteiten hebben donderdag een onderzoek geopend naar de crash van een tot nader order ongeïdentificeerd object. Volgens de regering in Kiev ging het om een Russische kruisraket die deel uitmaakte van een grootscheepse aanval op West-Oekraïne.",
-      "pubDate": "Thu, 30 Jul 2026 10:16:50 GMT",
-      "score": 2,
-      "in_de7": false
-    },
-    {
-      "id": "10680509",
-      "title": "Herlees de marktenchat over de chipmalaise, AB InBev en meer",
-      "link": "https://www.tijd.be/r/t/1/id/10680509",
-      "category": "Markten Live",
-      "description": "Never a dull moment op de financiële markten, ook niet tijdens de hoogzomer. In onze marktenchat hadden we het deze week onder meer over de verkoopgolf in de chipsector.",
-      "pubDate": "Thu, 30 Jul 2026 10:04:22 GMT",
-      "score": 2,
-      "in_de7": false
-    },
-    {
-      "id": "10680632",
-      "title": "De consument klaagt, de onderneming betaalt",
-      "link": "https://www.tijd.be/r/t/1/id/10680632",
-      "category": "Opinie",
-      "description": "Ofwel krijgen we straks een golf van klachten bij de Consumentenombudsdienst, ofwel een stroom van compensaties die er anders nooit zouden komen. In beide scenario’s staat vast wie de rekening betaalt: de onderneming.",
-      "pubDate": "Thu, 30 Jul 2026 09:51:11 GMT",
-      "score": 2,
-      "in_de7": false
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:6tSXdM_n4yW8s-IOqFUS-X&context=ONLINE&ratio=16/9&width=480&u=1785411239000"
     },
     {
       "id": "10680626",
@@ -231,7 +253,8 @@
       "description": "De beursgenoteerde energieleverancier EnergyVision van Maarten Michielssens krijgt er zo'n 18.000 klanten bij. Het bedrijf neemt de leveringsactiviteiten van elektriciteit en aardgas over van DATS 24, een onderdeel van de energieholding van de Colruyts.",
       "pubDate": "Thu, 30 Jul 2026 09:05:25 GMT",
       "score": 2,
-      "in_de7": false
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:5zn5vuPIqZN8UsPLb4WRnj&context=ONLINE&ratio=16/9&width=480&u=1785406412000"
     },
     {
       "id": "10680606",
@@ -241,7 +264,8 @@
       "description": "De biofarmagroep UCB rapporteert over de eerste jaarhelft een sterker dan verwachte omzet- en winstgroei, al komen beide met een bijsluiter. Resultaat: een slow clap van de belegger.",
       "pubDate": "Thu, 30 Jul 2026 06:43:54 GMT",
       "score": 2,
-      "in_de7": false
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:58rzpPBGKFG9uSZ8WMoAmN&context=ONLINE&ratio=16/9&width=480&u=1785395382000"
     },
     {
       "id": "10680599",
@@ -251,7 +275,8 @@
       "description": "De Belgische materialengroep Syensqo ziet de vraag naar haar geavanceerde materialen opnieuw aantrekken en verhoogt voorzichtig de jaarprognose. Hoewel de winst achterblijft, zijn beleggers enthousiast.",
       "pubDate": "Thu, 30 Jul 2026 06:00:51 GMT",
       "score": 2,
-      "in_de7": false
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:9Juz74TR4wsAOb6vHHg1aE&context=ONLINE&ratio=16/9&width=480&u=1785398995000"
     },
     {
       "id": "10680601",
@@ -261,7 +286,19 @@
       "description": "AB InBev heeft er een beter dan verwacht tweede kwartaal op zitten. Een sterke prestatie in Latijns-Amerika en een succesvol WK bezorgen de biergigant een stevige winstsprong, ondanks aanzienlijke tegenwind op de Chinese markt.",
       "pubDate": "Thu, 30 Jul 2026 05:48:00 GMT",
       "score": 2,
-      "in_de7": false
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:48ybp-9l4wuARCD8FwZQeE&context=ONLINE&ratio=16/9&width=480&u=1785391662000"
+    },
+    {
+      "id": "10680672",
+      "title": "Polen onderzoekt krater van 10 meter nabij Oekraïne: mogelijk Russische raketinslag",
+      "link": "https://www.tijd.be/r/t/1/id/10680672",
+      "category": "Dossiers",
+      "description": "De Poolse autoriteiten hebben donderdag een onderzoek geopend naar de crash van een tot nader order ongeïdentificeerd object. Volgens de regering in Kiev ging het om een Russische kruisraket die deel uitmaakte van een grootscheepse aanval op West-Oekraïne.",
+      "pubDate": "Thu, 30 Jul 2026 10:16:50 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:BMXxzTDwKfKAXEmgoaKOUA&context=ONLINE&ratio=16/9&width=480&u=1785410046000"
     },
     {
       "id": "10680593",
@@ -271,7 +308,8 @@
       "description": "Het Amerikaanse leger heeft een nieuwe reeks aanvallen op Iraanse doelen uitgevoerd. De nieuwe golf is het door president Donald Trump aangekondigde 'harde antwoord' op de verrassingsaanval van Iran op een Amerikaanse basis in het Midden-Oosten.",
       "pubDate": "Thu, 30 Jul 2026 04:43:43 GMT",
       "score": 2,
-      "in_de7": false
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:5CPU55Jzq1h9yOap98t2NN&context=ONLINE&ratio=16/9&width=480&u=1785391998000"
     },
     {
       "id": "10680541",
@@ -281,7 +319,8 @@
       "description": "Anderhalve week na zijn aantreden als Brits premier wacht Andy Burnham al een eerste electorale test. Slaagt partijgenote Bev Craig erin de burgemeesterssjerp in zijn achtertuin, Greater Manchester, in Labour-rangen te houden?",
       "pubDate": "Wed, 29 Jul 2026 16:05:49 GMT",
       "score": 2,
-      "in_de7": false
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:93TRq4Tq4bEBq-UhnD1LQK&context=ONLINE&ratio=16/9&width=480&u=1785353158000"
     },
     {
       "id": "10680533",
@@ -291,17 +330,19 @@
       "description": "De Inspectie van Financiën gaf drie keer een negatief advies over de dading over de luchthaven van Deurne. Dat sterkt Vlaams Parlementslid Bogdan Vanden Berghe (Groen) in de overtuiging dat de Vlaamse regering al te makkelijk met subsidies is blijven strooien voor de verlieslatende regionale luchthavens.",
       "pubDate": "Wed, 29 Jul 2026 15:48:30 GMT",
       "score": 2,
-      "in_de7": false
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:AYKl1kEu4y49gwT9G9QvhL&context=ONLINE&ratio=16/9&width=480&u=1785346188000"
     },
     {
-      "id": "10680495",
-      "title": "Aanhoudende droogte weegt op aardappel- en groenteteelt",
-      "link": "https://www.tijd.be/r/t/1/id/10680495",
-      "category": "Politiek & Economie",
-      "description": "Bij de Vlaamse boeren groeit de nervositeit over de uitblijvende neerslag. Vooral groenten en aardappelen hebben dringend water nodig voor een groeischeut. Tegelijk anticipeert de landbouw met gesubsidieerde bodembedekkers en wateropvang op het extremere weer.",
-      "pubDate": "Wed, 29 Jul 2026 14:34:19 GMT",
+      "id": "10680632",
+      "title": "De consument klaagt, de onderneming betaalt",
+      "link": "https://www.tijd.be/r/t/1/id/10680632",
+      "category": "Opinie",
+      "description": "Ofwel krijgen we straks een golf van klachten bij de Consumentenombudsdienst, ofwel een stroom van compensaties die er anders nooit zouden komen. In beide scenario’s staat vast wie de rekening betaalt: de onderneming.",
+      "pubDate": "Thu, 30 Jul 2026 09:51:11 GMT",
       "score": 2,
-      "in_de7": false
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:1UUPWNfmanmA_XYg4a324I&context=ONLINE&ratio=16/9&width=480&u=1785415037000"
     },
     {
       "id": "10680580",
@@ -311,7 +352,8 @@
       "description": "Wie draait op voor de aircofactuur van de Vlaamse woonzorgcentra? Als de politiek het debat blijft afblokken, blijven de kwetsbaarsten sowieso de rekening betalen.",
       "pubDate": "Wed, 29 Jul 2026 17:50:22 GMT",
       "score": 2,
-      "in_de7": false
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:4j5dMtnGK0t9QB1vqwLLkm&context=ONLINE&ratio=16/9&width=480&u=1785407466000"
     },
     {
       "id": "10679961",
@@ -321,7 +363,8 @@
       "description": "Straks kraakt de kwantumcomputer de encryptie waarop de hele wereld draait. De tegenzet wordt mee in Leuven bedacht.",
       "pubDate": "Wed, 29 Jul 2026 13:48:08 GMT",
       "score": 2,
-      "in_de7": false
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:6a-qtnUb4ZFB_aP3ekcD2m&context=ONLINE&ratio=16/9&width=480&u=1785354500000"
     },
     {
       "id": "10680463",
@@ -331,7 +374,8 @@
       "description": "Chinese ondernemers gebruiken AI sneller en grootschaliger dan waar ook ter wereld. En toch zijn we vooral gefocust op wat er in Amerika gebeurt.",
       "pubDate": "Wed, 29 Jul 2026 07:52:10 GMT",
       "score": 2,
-      "in_de7": false
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:3fNXZBitKtj92BwVCajf51&context=ONLINE&ratio=16/9&width=480&u=1785354451000"
     },
     {
       "id": "10673992",
@@ -341,7 +385,8 @@
       "description": "Op zoek naar een goede bar in Gent? Dit zijn de favoriete bars van onze correspondenten die de stad door en door kennen.",
       "pubDate": "Thu, 30 Jul 2026 09:20:10 GMT",
       "score": 2,
-      "in_de7": false
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:AHb_Vk1Pqpk8mUOIls9Nwg&context=ONLINE&ratio=16/9&width=480&u=1785403210000"
     },
     {
       "id": "10674921",
@@ -351,17 +396,19 @@
       "description": "Op zoek naar leuke dingen om te zien en doen in Antwerpen? Dit zijn de favorieten van onze correspondent die de stad door en door kent.",
       "pubDate": "Wed, 29 Jul 2026 10:04:19 GMT",
       "score": 2,
-      "in_de7": false
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:8uTyVLa74KI8Ec1F2duZfi&context=ONLINE&ratio=16/9&width=480&u=1785319695000"
     },
     {
-      "id": "10680633",
-      "title": "Stortvloed aan cijfers spoelt Bel20-zomerrally weg",
-      "link": "https://www.tijd.be/r/t/1/id/10680633",
+      "id": "10680509",
+      "title": "Herlees de marktenchat over de chipmalaise, AB InBev en meer",
+      "link": "https://www.tijd.be/r/t/1/id/10680509",
       "category": "Markten Live",
-      "description": "Op de drukste Belgische resultatendag van de zomer valt vooral UCB uit de toon.",
-      "pubDate": "Thu, 30 Jul 2026 08:39:16 GMT",
+      "description": "Never a dull moment op de financiële markten, ook niet tijdens de hoogzomer. In onze marktenchat hadden we het deze week onder meer over de verkoopgolf in de chipsector.",
+      "pubDate": "Thu, 30 Jul 2026 10:04:22 GMT",
       "score": 2,
-      "in_de7": false
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:38CH7WFO44n9AL5pbUj5vK&context=ONLINE&ratio=16/9&width=480&u=1785409844000"
     },
     {
       "id": "10680610",
@@ -371,7 +418,8 @@
       "description": "De Aalsterse luierproducent Ontex verlaagt de jaarprognose en kondigt een extra transformatieplan aan. Het bedrijf kon wel de schuldratio, die beleggers met argusogen opvolgen, licht terugschroeven, blijkt uit het halfjaarrapport.",
       "pubDate": "Thu, 30 Jul 2026 06:26:35 GMT",
       "score": 2,
-      "in_de7": false
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:3ovE92mW4iLAESVl-qs4SP&context=ONLINE&ratio=16/9&width=480&u=1785399851000"
     },
     {
       "id": "10680553",
@@ -381,7 +429,8 @@
       "description": "Dreigende taal van Donald Trump richting Iran dreef de olieprijs op, wat leidde tot rode cijfers op de Amerikaanse beurzen. De beslissing van de Amerikaanse centrale bank om de rente stabiel te houden kon daar niets aan veranderen.",
       "pubDate": "Wed, 29 Jul 2026 20:16:24 GMT",
       "score": 2,
-      "in_de7": false
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:2aIzXAHeaCa9ZgRitOFyvB&context=ONLINE&ratio=16/9&width=480&u=1785356223000"
     },
     {
       "id": "10680578",
@@ -391,7 +440,8 @@
       "description": "De Amerikaanse centrale bank (Fed) laat de rente onveranderd, maar drie van de twaalf stemgerechtigde bestuurders stemden voor een renteverhoging.",
       "pubDate": "Wed, 29 Jul 2026 18:09:39 GMT",
       "score": 2,
-      "in_de7": false
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:3MJNdTeL424Ap5DzPbXSbu&context=ONLINE&ratio=16/9&width=480&u=1785356608000"
     }
   ]
 }

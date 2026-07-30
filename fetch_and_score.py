@@ -11,6 +11,7 @@ import json
 import re
 import urllib.request
 import xml.etree.ElementTree as ET
+from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 
@@ -34,6 +35,9 @@ DE7_FEED = (
 USER_AGENT = "Mozilla/5.0 (compatible; De7TopicsBot/1.0)"
 ARTICLE_ID_RE = re.compile(r"(\d+)(?:\.html)?/?(?:[?#].*)?$")
 DE7_LINK_RE = re.compile(r'href="https://www\.tijd\.be/[^"]*?/(\d+)\.html"')
+OG_IMAGE_RE = re.compile(r'<meta[^>]*property="og:image"[^>]*content="([^"]+)"')
+IMAGE_PREVIEW_BYTES = 20000
+IMAGE_FETCH_WORKERS = 8
 
 # Simpele heuristiek voor "leent zich goed als video op social" -- vrij aan te
 # passen op basis van wat het team in de praktijk goede/slechte topics vindt.
@@ -110,6 +114,23 @@ def get_de7_ids():
     return ids, title
 
 
+def fetch_og_image(url):
+    """Leest enkel de eerste paar KB van de artikelpagina om de og:image te
+    vinden, zodat we niet de volledige (zware) pagina moeten downloaden."""
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+        with urllib.request.urlopen(req, timeout=10) as resp:
+            chunk = resp.read(IMAGE_PREVIEW_BYTES).decode("utf-8", errors="ignore")
+    except Exception:
+        return None
+
+    match = OG_IMAGE_RE.search(chunk)
+    if not match:
+        return None
+    image_url = match.group(1).replace("&amp;", "&")
+    return re.sub(r"width=\d+", "width=480", image_url)
+
+
 def score_article(article, de7_ids):
     score = 1
     in_de7 = article["id"] in de7_ids
@@ -156,6 +177,11 @@ def main():
 
     articles = sorted(articles_by_id.values(), key=lambda a: a["score"], reverse=True)
     articles = articles[:MAX_ARTICLES]
+
+    with ThreadPoolExecutor(max_workers=IMAGE_FETCH_WORKERS) as pool:
+        images = pool.map(fetch_og_image, [a["link"] for a in articles])
+    for article, image in zip(articles, images):
+        article["image"] = image
 
     output = {
         "generated_at": now.isoformat(),
