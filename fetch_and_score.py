@@ -59,6 +59,13 @@ MAX_ARTICLES = 40
 
 DATA_FILE = "docs/data.json"
 
+# Los van de dagelijkse reset van data.json: een rollend archief van de
+# laatste RECENT_MAX_AGE dagen, enkel gebruikt door de "kies de daily"
+# zoekbalk in de frontend -- zodat op een magere nieuwsdag ook een ouder
+# artikel nog gevonden/gelinkt kan worden.
+RECENT_FILE = "docs/recent_articles.json"
+RECENT_MAX_AGE_DAYS = 14
+
 
 def fetch(url):
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
@@ -127,6 +134,38 @@ def load_previous_articles():
     except (FileNotFoundError, json.JSONDecodeError):
         return {}
     return {a["id"]: a for a in data.get("articles", [])}
+
+
+def update_recent_articles(todays_articles, today):
+    try:
+        with open(RECENT_FILE, "r", encoding="utf-8") as f:
+            recent = {a["id"]: a for a in json.load(f).get("articles", [])}
+    except (FileNotFoundError, json.JSONDecodeError):
+        recent = {}
+
+    for article in todays_articles:
+        recent[article["id"]] = {
+            "id": article["id"],
+            "title": article["title"],
+            "link": article["link"],
+            "image": article.get("image"),
+            "category": article.get("category"),
+            "pubDate": article.get("pubDate"),
+        }
+
+    recent = {
+        article_id: a for article_id, a in recent.items()
+        if article_day(a) and (today - article_day(a)).days <= RECENT_MAX_AGE_DAYS
+    }
+
+    def sort_key(a):
+        return parse_pub_date(a["pubDate"]) or datetime.min.replace(tzinfo=timezone.utc)
+
+    with open(RECENT_FILE, "w", encoding="utf-8") as f:
+        json.dump(
+            {"articles": sorted(recent.values(), key=sort_key, reverse=True)},
+            f, ensure_ascii=False, indent=2,
+        )
 
 
 def article_day(article):
@@ -228,6 +267,8 @@ def main():
 
     with open(DATA_FILE, "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
+
+    update_recent_articles(articles, today)
 
     print(f"Geschreven: {len(articles)} artikels, {output['de7_matched_count']} uit De 7 gematcht")
 
