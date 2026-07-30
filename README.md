@@ -80,12 +80,17 @@ Open `http://localhost:8731`.
 ## Wie ben jij / avatars
 
 Bovenaan de pagina kies je je naam (onthouden via je browser, geen login).
-Die naam wordt gebruikt voor je stemmen en comments. Voor Bert, Roan, Peter,
-Niels, Thijs, Seppe en Robbe staat er een echte foto (uit de Obsidian-vault
-van Thijs); voor Maarten, Julie en elke andere naam wordt een gekleurde
-initialen-avatar gegenereerd. Nieuwe foto's toevoegen: zet een vierkante PNG
-in `docs/avatars/<naam>.png` en voeg de persoon toe aan de `PEOPLE`-lijst
-bovenaan in `docs/index.html`.
+Die naam wordt gebruikt voor je stemmen en comments. Voor Bert, Roan, Lara,
+Peter, Niels, Thijs, Seppe en Robbe staat er een echte foto (uit de
+Obsidian-vault van Thijs); voor Maarten, Julie en elke andere naam wordt een
+gekleurde initialen-avatar gegenereerd. Nieuwe foto's toevoegen: zet een
+vierkante PNG in `docs/avatars/<naam>.png` en voeg de persoon toe aan de
+`PEOPLE`-lijst in `docs/common.js`.
+
+De "wie werkt mee"-selectie op de daily gebruikt een kleinere subset
+(`MAKER_PEOPLE` in `docs/common.js`) -- Robbe, Maarten en Julie zijn daar
+bewust uitgesloten, ook al kunnen ze wel gewoon zichzelf kiezen bovenaan om
+te stemmen/reageren.
 
 ## Migraties
 
@@ -95,8 +100,10 @@ die gebruiken gewoon het volledige `supabase_schema.sql`):
 - `supabase_migration_star.sql` — up/downvote (-1/1) -> 1 ster-knop (0/1).
 - `supabase_migration_daily_picks.sql` — voegt de `daily_picks`-tabel toe
   (nodig voor de "dit wordt de daily"-knop en het archief).
+- `supabase_migration_ignored_articles.sql` — voegt de `ignored_articles`-
+  tabel toe (nodig voor de "negeer dit artikel"-knop).
 
-Beide gewoon plakken en runnen in Supabase SQL Editor.
+Gewoon plakken en runnen in Supabase SQL Editor.
 
 ## Bekende beperkingen (MVP)
 

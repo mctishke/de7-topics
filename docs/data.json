@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-30T15:25:06.812314+00:00",
+  "generated_at": "2026-07-30T19:07:35.037501+00:00",
   "date": "2026-07-30",
-  "de7_title": "30/07 | 200.000 Vlamingen veranderden van energieleverancier sinds Iran-oorlog | Meta en Microsoft blijven geld pompen in AI | Verzekeringsfraude in opmars",
+  "de7_title": "De 7 Extra | Reconstructie: Hoe Wouter Vandenhaute Antwerp afsnoepte van Paul Gheysens",
   "de7_matched_count": 1,
   "articles": [
     {
@@ -36,6 +36,17 @@
       "score": 5,
       "in_de7": false,
       "image": "https://images.tijd.be/view?iid=Elvis:C_9eo4mWqt-BxAgC5qauAG&context=ONLINE&ratio=16/9&width=480&u=1785410056000"
+    },
+    {
+      "id": "10680718",
+      "title": "Wat verandert voor uw portemonnee in augustus?",
+      "link": "https://www.tijd.be/r/t/1/id/10680718",
+      "category": "Netto",
+      "description": "17:49 Voortaan geldt nog maar één week opzeg bij een ontslag in de eerste zes maanden, zijn er hogere accijnzen op gas en stookolie en kan een erfenis tot 6.665 euro kosteloos worden verworpen.",
+      "pubDate": "Thu, 30 Jul 2026 15:49:59 GMT",
+      "score": 5,
+      "in_de7": false,
+      "image": null
     },
     {
       "id": "10680669",
@@ -82,6 +93,28 @@
       "image": "https://images.tijd.be/view?iid=Elvis:5GtAQSif4pmBs-xf1dYdq2&context=ONLINE&ratio=16/9&width=480&u=1785420325000"
     },
     {
+      "id": "10680767",
+      "title": "LinkedIn gaat de strijd aan met ‘AI-slop’",
+      "link": "https://www.tijd.be/r/t/1/id/10680767",
+      "category": "Ondernemen",
+      "description": "LinkedIn wil minder ‘AI-slop’. De sociaalnetwerksite gericht op professionele contacten heeft technische systemen gebouwd om AI-gegenereerde berichten te herkennen en vraagt gebruikers zulke posts te melden.",
+      "pubDate": "Thu, 30 Jul 2026 17:42:02 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": null
+    },
+    {
+      "id": "10680671",
+      "title": "Europese economie verrast met bescheiden groeispurt",
+      "link": "https://www.tijd.be/r/t/1/id/10680671",
+      "category": "Politiek & Economie",
+      "description": "De economische groei in de eurozone is in het voorbije kwartaal geland op 0,4 procent. Die bescheiden expansie ligt boven de verwachting van economen, die pessimistisch gestemd waren door de Iran-oorlog en de hoge energieprijzen.",
+      "pubDate": "Thu, 30 Jul 2026 15:32:27 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": null
+    },
+    {
       "id": "10680605",
       "title": "Bekaert waarschuwt voor lagere winstmarge door Iran-oorlog",
       "link": "https://www.tijd.be/r/t/1/id/10680605",
@@ -102,6 +135,28 @@
       "score": 3,
       "in_de7": false,
       "image": "https://images.tijd.be/view?iid=Elvis:5fN8NVkQarF9u70G5ltP2u&context=ONLINE&ratio=16/9&width=480&u=1785397322000"
+    },
+    {
+      "id": "10680762",
+      "title": "Europese landen boycotten WK’s als FIFA plannen om privé-investeerders aan boord te halen doorzet",
+      "link": "https://www.tijd.be/r/t/1/id/10680762",
+      "category": "Ondernemen",
+      "description": "De 55 landen die lid zijn van de Europese voetbalbond UEFA verzetten zich unaniem tegen de plannen van de wereldvoetbalbond FIFA. Die wil zijn commerciële rechten - met het WK als grootste kaskoe - in een apart bedrijf onderbrengen en daarvan een deel verkopen aan privé-investeerders.",
+      "pubDate": "Thu, 30 Jul 2026 17:09:35 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": null
+    },
+    {
+      "id": "10680679",
+      "title": "Oprukkend geweld op Westelijke Jordaanoever: ‘De kolonisten voelen zich onoverwinnelijk en komen om te doden’",
+      "link": "https://www.tijd.be/r/t/1/id/10680679",
+      "category": "Politiek & Economie",
+      "description": "Het kolonistengeweld op de bezette Westelijke Jordaanoever escaleert zienderogen. Na een dodelijke confrontatie werden dorpen afgesloten, tientallen Palestijnen opgepakt en zelfs ambulances urenlang tegengehouden. ‘We zijn hier wel wat gewoon, maar dit is ongezien.’",
+      "pubDate": "Thu, 30 Jul 2026 16:49:53 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": null
     },
     {
       "id": "10680599",
@@ -322,6 +377,50 @@
       "score": 2,
       "in_de7": false,
       "image": "https://images.tijd.be/view?iid=Elvis:5fbwFm2Nq5N8z5mBg3JGl8&context=ONLINE&ratio=16/9&width=480&u=1785424206000"
+    },
+    {
+      "id": "10680604",
+      "title": "Nergens zonder weg in Mechelen",
+      "link": "https://www.tijd.be/r/t/1/id/10680604",
+      "category": "Dossiers",
+      "description": "Verdwalend in eigen land kijkt Rik Van Puymbroeck naar wat verwondert en soms overdondert.",
+      "pubDate": "Thu, 30 Jul 2026 18:32:08 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": null
+    },
+    {
+      "id": "10680745",
+      "title": "Duizenden migranten steken grens over naar enclave Ceuta, Spaanse hulpdiensten overweldigd",
+      "link": "https://www.tijd.be/r/t/1/id/10680745",
+      "category": "Politiek & Economie",
+      "description": "De voorbije dagen hebben duizenden migranten de Spaanse enclave Ceuta in Marokko bereikt. De regionale autoriteiten spreken van een ‘absolute humanitaire en sociale noodsituatie’. De Spaanse regering zet een legereenheid in.",
+      "pubDate": "Thu, 30 Jul 2026 18:21:25 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": null
+    },
+    {
+      "id": "10680716",
+      "title": "X-Fab ruikt herstel in automarkt en zoekt groei in datacenters",
+      "link": "https://www.tijd.be/r/t/1/id/10680716",
+      "category": "Ondernemen",
+      "description": "X-Fab voelt de terugval in de belangrijke automarkt en de industriële sector. Alleen in medische toepassingen boekt de Belgische chipbakker stevige groei.",
+      "pubDate": "Thu, 30 Jul 2026 17:33:30 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": null
+    },
+    {
+      "id": "10680723",
+      "title": "ING België krikt winst met meer dan kwart op",
+      "link": "https://www.tijd.be/r/t/1/id/10680723",
+      "category": "Ondernemen",
+      "description": "ING België heeft net als zijn Nederlandse moederbedrijf een goed kwartaal achter de rug. ‘Toch maak ik me zorgen over de Belgische economie’, zegt topman Peter Adams.",
+      "pubDate": "Thu, 30 Jul 2026 17:19:12 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": null
     }
   ]
 }

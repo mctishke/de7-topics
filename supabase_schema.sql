@@ -34,15 +34,26 @@ create table if not exists daily_picks (
   created_at timestamptz not null default now()
 );
 
+-- Artikels die het team expliciet wil weren uit de suggesties (bv. niet
+-- geschikt als video-onderwerp). 1 rij per artikel, zichtbaar voor iedereen.
+create table if not exists ignored_articles (
+  id bigint generated always as identity primary key,
+  article_id text not null unique,
+  ignored_by text not null,
+  created_at timestamptz not null default now()
+);
+
 -- Row Level Security: dit is een intern team-tool zonder echte login, dus
 -- we staan iedereen met de (publieke) anon-key toe om te lezen en te
--- schrijven. votes/comments zijn bewust insert-only: een gewijzigde stem is
--- gewoon een nieuwe rij (de frontend houdt per stemmer enkel de laatste
--- stem per artikel bij). daily_picks heeft wel update/delete nodig (de
--- daily wijzigen/intrekken, makers toevoegen/verwijderen).
+-- schrijven. votes/comments/ignored_articles zijn bewust insert-only: een
+-- gewijzigde stem is gewoon een nieuwe rij (de frontend houdt per stemmer
+-- enkel de laatste stem per artikel bij). daily_picks heeft wel
+-- update/delete nodig (de daily wijzigen/intrekken, makers toevoegen/
+-- verwijderen).
 alter table votes enable row level security;
 alter table comments enable row level security;
 alter table daily_picks enable row level security;
+alter table ignored_articles enable row level security;
 
 create policy "votes: select all" on votes for select using (true);
 create policy "votes: insert all" on votes for insert with check (true);
@@ -54,3 +65,6 @@ create policy "daily_picks: select all" on daily_picks for select using (true);
 create policy "daily_picks: insert all" on daily_picks for insert with check (true);
 create policy "daily_picks: update all" on daily_picks for update using (true) with check (true);
 create policy "daily_picks: delete all" on daily_picks for delete using (true);
+
+create policy "ignored_articles: select all" on ignored_articles for select using (true);
+create policy "ignored_articles: insert all" on ignored_articles for insert with check (true);
