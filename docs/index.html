@@ -39,6 +39,8 @@
   .brand { display: flex; align-items: center; gap: 10px; }
   .logo { width: 34px; height: 34px; border-radius: 6px; flex-shrink: 0; }
   h1 { font-size: 22px; margin: 0; }
+  .archive-link { margin-left: auto; color: var(--muted); font-size: 13px; text-decoration: none; }
+  .archive-link:hover { text-decoration: underline; }
   .meta { color: var(--muted); font-size: 13px; margin-top: 4px; }
 
   .who-picker { margin-top: 14px; }
@@ -131,7 +133,11 @@
   .voters-extra { font-size: 11px; color: var(--muted); margin-left: 6px; }
   .score { color: var(--muted); font-size: 12px; }
   .muted { color: var(--muted); }
-  .comments-label { color: var(--muted); font-size: 13px; }
+  .pin-btn {
+    border: 1px solid var(--border); background: transparent; color: var(--muted);
+    border-radius: 6px; padding: 3px 10px; font-size: 13px; cursor: pointer;
+  }
+  .pin-btn:hover { background: var(--border); }
   .comments { margin-top: 10px; border-top: 1px solid var(--border); padding-top: 10px; }
   .comment { display: flex; gap: 8px; font-size: 13px; margin-bottom: 10px; }
   .comment .avatar { width: 24px; height: 24px; flex-shrink: 0; margin-top: 1px; }
@@ -146,6 +152,35 @@
     border: none; background: var(--accent); color: white; border-radius: 6px;
     padding: 6px 12px; font-size: 13px; cursor: pointer;
   }
+  .daily-banner {
+    position: relative;
+    border-radius: 14px;
+    overflow: hidden;
+    margin-bottom: 22px;
+    background: #18457C;
+    min-height: 180px;
+  }
+  .daily-banner-image { display: block; width: 100%; height: 220px; object-fit: cover; opacity: .55; }
+  .daily-banner-overlay {
+    position: absolute; inset: 0; display: flex; flex-direction: column; justify-content: flex-end;
+    padding: 16px; background: linear-gradient(to top, rgba(0,0,0,.75), rgba(0,0,0,0) 70%);
+  }
+  .daily-banner-tag {
+    color: #fff; font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: .05em;
+    background: rgba(255,255,255,.15); display: inline-block; padding: 3px 10px; border-radius: 999px;
+    margin-bottom: 8px; width: fit-content;
+  }
+  .daily-banner-title a { color: #fff; font-size: 19px; font-weight: 700; text-decoration: none; line-height: 1.3; }
+  .daily-banner-title a:hover { text-decoration: underline; }
+  .daily-banner-row { display: flex; align-items: center; gap: 10px; margin-top: 10px; flex-wrap: wrap; }
+  .daily-banner-makers { display: flex; }
+  .daily-banner-makers .avatar { margin-left: -6px; border: 2px solid #18457C; }
+  .daily-banner-makers .avatar:first-child { margin-left: 0; }
+  .daily-maker-btn, .daily-remove-btn {
+    border: 1px solid rgba(255,255,255,.4); background: rgba(255,255,255,.1); color: #fff;
+    border-radius: 999px; padding: 4px 12px; font-size: 12px; cursor: pointer;
+  }
+  .daily-remove-btn { border-color: rgba(255,255,255,.25); background: none; opacity: .8; }
   .empty, .loading { color: var(--muted); padding: 40px 0; text-align: center; }
   .config-warning {
     background: var(--accent-bg); color: var(--accent); border-radius: 8px;
@@ -159,6 +194,7 @@
     <div class="brand">
       <img src="logo.png" alt="De Tijd" class="logo">
       <h1>De 7 Topics</h1>
+      <a href="archief.html" class="archive-link">Archief</a>
     </div>
     <div class="meta" id="meta">Laden...</div>
     <div class="who-picker" id="who-picker"></div>
@@ -170,69 +206,13 @@
   <div id="config-warning" class="config-warning" style="display:none">
     Supabase is nog niet geconfigureerd — stemmen en comments worden niet bewaard.
   </div>
+  <div id="daily-banner"></div>
   <div id="list"><div class="loading">Topics laden...</div></div>
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script src="common.js"></script>
 <script>
-// ---- CONFIG: vul in na het aanmaken van je Supabase-project ----
-const SUPABASE_URL = "https://xjzfehxazcsqilczsxhe.supabase.co";
-const SUPABASE_ANON_KEY = "sb_publishable_BE2naLXZCC5UiRBHwAJSXA_JqelydgT";
-// ------------------------------------------------------------------
-
-let sb = null;
-try {
-  if (SUPABASE_URL && SUPABASE_ANON_KEY && window.supabase) {
-    sb = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
-  }
-} catch (e) {
-  console.error("Supabase-client kon niet aangemaakt worden (stemmen/comments werken dan niet):", e);
-}
-
-const PEOPLE = [
-  { name: "Bert", avatar: "avatars/bert.png" },
-  { name: "Roan", avatar: "avatars/roan.png" },
-  { name: "Peter", avatar: "avatars/peter.png" },
-  { name: "Niels", avatar: "avatars/niels.png" },
-  { name: "Thijs", avatar: "avatars/thijs.png" },
-  { name: "Seppe", avatar: "avatars/seppe.png" },
-  { name: "Robbe", avatar: "avatars/robbe.png" },
-  { name: "Maarten", avatar: null },
-  { name: "Julie", avatar: null },
-];
-
-function currentUser() {
-  return localStorage.getItem("de7_user") || "";
-}
-function setCurrentUser(name) {
-  if (name) localStorage.setItem("de7_user", name);
-}
-function clearCurrentUser() {
-  localStorage.removeItem("de7_user");
-}
-
-function escapeHtml(s) {
-  return String(s).replace(/[&<>"']/g, c => ({
-    "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
-  }[c]));
-}
-
-function hashHue(s) {
-  let h = 0;
-  for (let i = 0; i < s.length; i++) h = (h * 31 + s.charCodeAt(i)) % 360;
-  return h;
-}
-
-function avatarHtml(name, size) {
-  const person = PEOPLE.find(p => p.name === name);
-  if (person && person.avatar) {
-    return `<img class="avatar" src="${escapeHtml(person.avatar)}" alt="${escapeHtml(name)}" title="${escapeHtml(name)}" style="width:${size}px;height:${size}px">`;
-  }
-  const initials = (name || "?").trim().slice(0, 2).toUpperCase();
-  const hue = hashHue(name || "?");
-  return `<div class="avatar avatar-initials" title="${escapeHtml(name || "")}" style="width:${size}px;height:${size}px;font-size:${Math.round(size * 0.4)}px;background:hsl(${hue},50%,42%)">${escapeHtml(initials)}</div>`;
-}
-
 function renderWhoPicker() {
   const el = document.getElementById("who-picker");
   const selected = currentUser();
@@ -353,6 +333,77 @@ async function addComment(articleId, body) {
   await render();
 }
 
+async function fetchDailyPick() {
+  if (!sb) return null;
+  const { data, error } = await sb.from("daily_picks").select("*").eq("pick_date", brusselsDateStr()).maybeSingle();
+  if (error) { console.error("daily pick error", error); return null; }
+  return data;
+}
+
+async function pinAsDaily(article) {
+  const user = currentUser();
+  if (!user) { alert("Kies eerst bovenaan wie je bent."); return; }
+  if (!sb) { alert("Supabase is nog niet geconfigureerd."); return; }
+
+  const existing = await fetchDailyPick();
+  if (existing && existing.article_id !== article.id) {
+    if (!confirm(`Dit vervangt de huidige daily-keuze ("${existing.title}"). Doorgaan?`)) return;
+  }
+  const makers = existing && existing.article_id === article.id ? existing.makers : [];
+
+  const { error } = await sb.from("daily_picks").upsert({
+    pick_date: brusselsDateStr(),
+    article_id: article.id,
+    title: article.title,
+    link: article.link,
+    image: article.image,
+    category: article.category,
+    picked_by: user,
+    makers,
+  }, { onConflict: "pick_date" });
+  if (error) { console.error(error); alert("Kon de daily niet instellen."); return; }
+  await render();
+}
+
+async function removeDailyPick(id) {
+  if (!confirm("Daily-keuze van vandaag verwijderen?")) return;
+  await sb.from("daily_picks").delete().eq("id", id);
+  await render();
+}
+
+async function toggleMaker(pick) {
+  const user = currentUser();
+  if (!user) { alert("Kies eerst bovenaan wie je bent."); return; }
+  const makers = pick.makers.includes(user)
+    ? pick.makers.filter(m => m !== user)
+    : [...pick.makers, user];
+  await sb.from("daily_picks").update({ makers }).eq("id", pick.id);
+  await render();
+}
+
+function dailyBannerHtml(pick) {
+  if (!pick) return "";
+  const isMaker = pick.makers.includes(currentUser());
+  const makersHtml = pick.makers.map(name => avatarHtml(name, 26)).join("");
+  const imageHtml = pick.image
+    ? `<img class="daily-banner-image" src="${escapeHtml(pick.image)}" alt="" loading="lazy">`
+    : "";
+  return `
+    <div class="daily-banner">
+      ${imageHtml}
+      <div class="daily-banner-overlay">
+        <span class="daily-banner-tag">📌 Daily van vandaag</span>
+        <div class="daily-banner-title"><a href="${escapeHtml(pick.link)}" target="_blank" rel="noopener">${escapeHtml(pick.title)}</a></div>
+        <div class="daily-banner-row">
+          <div class="daily-banner-makers">${makersHtml}</div>
+          <button class="daily-maker-btn" data-id="${pick.id}">${isMaker ? "− Ik werk niet meer mee" : "+ Ik werk hieraan mee"}</button>
+          <button class="daily-remove-btn" data-id="${pick.id}">Verwijderen</button>
+        </div>
+      </div>
+    </div>
+  `;
+}
+
 function articleCard(article, stars, voters, myStar, comments) {
   const de7Badge = article.in_de7 ? `<span class="badge de7">🎙️ In De 7</span>` : "";
   const catBadge = article.category ? `<span class="badge">${escapeHtml(article.category)}</span>` : "";
@@ -395,10 +446,10 @@ function articleCard(article, stars, voters, myStar, comments) {
         <div class="voters">${votersHtml}${votersExtra}</div>
         <span class="score">algoritme: ${article.score}</span>
       </div>
-      <span class="comments-label">💬 ${(comments || []).length} comment${(comments || []).length === 1 ? "" : "s"}</span>
+      <button class="pin-btn" data-id="${article.id}">📌 Maak dit de daily</button>
     </div>
     <div class="comments" id="comments-${article.id}">
-      ${commentsHtml || '<div class="muted" style="font-size:13px">Nog geen comments.</div>'}
+      ${commentsHtml}
       <div class="comment-form">
         <input type="text" name="body" placeholder="Comment...">
         <button class="comment-submit" data-id="${article.id}">Post</button>
@@ -457,6 +508,19 @@ async function render() {
     document.getElementById("config-warning").style.display = "block";
   }
 
+  let dailyPick = null;
+  try {
+    dailyPick = await fetchDailyPick();
+  } catch (e) {
+    console.error("Kon daily pick niet laden:", e);
+  }
+  const bannerEl = document.getElementById("daily-banner");
+  bannerEl.innerHTML = dailyBannerHtml(dailyPick);
+  if (dailyPick) {
+    bannerEl.querySelector(".daily-maker-btn").addEventListener("click", () => toggleMaker(dailyPick));
+    bannerEl.querySelector(".daily-remove-btn").addEventListener("click", () => removeDailyPick(dailyPick.id));
+  }
+
   document.querySelectorAll(".sort-btn").forEach(btn => {
     btn.classList.toggle("active", btn.dataset.mode === sortMode);
   });
@@ -481,8 +545,12 @@ async function render() {
     return;
   }
 
-  const active = articles.filter(a => (starsByArticle[a.id] || 0) > 0 || (commentsByArticle[a.id] || []).length > 0);
-  const suggested = articles.filter(a => !((starsByArticle[a.id] || 0) > 0 || (commentsByArticle[a.id] || []).length > 0));
+  const articleById = {};
+  articles.forEach(a => { articleById[a.id] = a; });
+
+  const remaining = dailyPick ? articles.filter(a => a.id !== dailyPick.article_id) : articles;
+  const active = remaining.filter(a => (starsByArticle[a.id] || 0) > 0 || (commentsByArticle[a.id] || []).length > 0);
+  const suggested = remaining.filter(a => !((starsByArticle[a.id] || 0) > 0 || (commentsByArticle[a.id] || []).length > 0));
 
   listEl.innerHTML =
     section("active", `Met stemmen & comments (${active.length})`, active, "highlight", starsByArticle, votersByArticle, myStarByArticle, commentsByArticle) +
@@ -499,6 +567,9 @@ async function render() {
   });
   listEl.querySelectorAll(".star-btn").forEach(btn => {
     btn.addEventListener("click", () => toggleStar(btn.dataset.id, btn.classList.contains("starred")));
+  });
+  listEl.querySelectorAll(".pin-btn").forEach(btn => {
+    btn.addEventListener("click", () => pinAsDaily(articleById[btn.dataset.id]));
   });
   listEl.querySelectorAll(".comment-submit").forEach(btn => {
     btn.addEventListener("click", () => {

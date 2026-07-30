@@ -9,12 +9,18 @@ Draait volledig los van je laptop.
 - Een GitHub Action haalt elke 15 min (ma-vr, 7:00-13:45 lokale tijd) de
   RSS-feeds van tijd.be en de "De 7"-podcastfeed op, scoort de artikels
   (basis-score + boost als het topic in De 7 zit + keyword-heuristiek), en
-  commit het resultaat als `docs/data.json`.
+  commit het resultaat als `docs/data.json`. Enkel artikels van de huidige
+  kalenderdag (Europe/Brussels) worden getoond -- elke dag start met een
+  schone lei.
 - GitHub Pages serveert `docs/index.html`, een statische pagina die dat
-  bestand toont als ranked lijst.
-- Stemmen (up/down) en comments worden opgeslagen in Supabase (gratis tier) —
+  bestand toont als ranked lijst, met een "Beste"/"Meest recent"-toggle.
+- Stemmen (ster) en comments worden opgeslagen in Supabase (gratis tier) —
   dat is het enige stukje dat een "backend" nodig heeft, want GitHub Pages
   kan zelf niets opslaan.
+- Eén artikel per dag kan als "de daily" gepind worden (prominente banner
+  bovenaan); wie daaraan meewerkt kan zichzelf toevoegen. Dat blijft, in
+  tegenstelling tot de rest, wél bewaard in `docs/archief.html` -- ook na de
+  dagelijkse reset.
 
 Niemand hoeft hiervoor een server te draaien of aan te laten staan.
 
@@ -49,11 +55,12 @@ map `/docs`. Na een minuutje krijg je een URL zoals
 
 1. Ga naar supabase.com, maak een gratis account/project.
 2. Project > SQL Editor > plak de inhoud van `supabase_schema.sql` > Run.
-3. Project > Settings > API: kopieer de "Project URL" en de "anon public" key.
-4. Vul beide in bovenaan in `docs/index.html`:
+3. Project > Settings > API: kopieer de "Project URL" en de "anon public"
+   (of "publishable") key.
+4. Vul beide in bovenaan in `docs/common.js`:
    ```
    const SUPABASE_URL = "https://xxxx.supabase.co";
-   const SUPABASE_ANON_KEY = "eyJ...";
+   const SUPABASE_ANON_KEY = "eyJ..." of "sb_publishable_...";
    ```
 5. Commit en push die wijziging.
 
@@ -80,12 +87,16 @@ initialen-avatar gegenereerd. Nieuwe foto's toevoegen: zet een vierkante PNG
 in `docs/avatars/<naam>.png` en voeg de persoon toe aan de `PEOPLE`-lijst
 bovenaan in `docs/index.html`.
 
-## Migratie: up/downvote -> ster
+## Migraties
 
-Deze repo gebruikt intussen 1 ster-knop i.p.v. up/downvote. Als je
-`supabase_schema.sql` al eerder draaide (met de oude -1/1 constraint), moet
-je eenmalig `supabase_migration_star.sql` in de Supabase SQL Editor
-uitvoeren. Nieuwe projecten kunnen gewoon het gewone schema gebruiken.
+Bij een bestaand Supabase-project (nieuwe projecten hebben dit niet nodig,
+die gebruiken gewoon het volledige `supabase_schema.sql`):
+
+- `supabase_migration_star.sql` — up/downvote (-1/1) -> 1 ster-knop (0/1).
+- `supabase_migration_daily_picks.sql` — voegt de `daily_picks`-tabel toe
+  (nodig voor de "dit wordt de daily"-knop en het archief).
+
+Beide gewoon plakken en runnen in Supabase SQL Editor.
 
 ## Bekende beperkingen (MVP)
 
