@@ -40,11 +40,19 @@
   .archive-link:hover { text-decoration: underline; }
   .meta { color: var(--muted); font-size: 13px; margin-top: 4px; }
 
-  .avatar { border-radius: 999px; object-fit: cover; display: inline-block; vertical-align: middle; }
+  .avatar { border-radius: 999px; display: inline-block; vertical-align: middle; overflow: hidden; }
+  .avatar img { width: 100%; height: 100%; object-fit: cover; display: block; }
   .avatar-initials {
     display: flex; align-items: center; justify-content: center;
     color: white; font-weight: 600; background: var(--muted);
   }
+  .avatar-toggle-btn {
+    border: 2px solid transparent; background: none; padding: 0; border-radius: 999px; cursor: pointer;
+    line-height: 0; opacity: 1; transition: opacity .15s ease, border-color .15s ease;
+  }
+  .avatar-toggle-btn.selected { border-color: var(--accent); }
+  .avatar-toggle-btn.dimmed { opacity: .35; }
+  .avatar-toggle-btn.dimmed:hover { opacity: .7; }
 
   .archive-card {
     display: flex; gap: 12px;
@@ -64,8 +72,9 @@
   .archive-title a:hover { text-decoration: underline; }
   .archive-meta { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; margin-top: 8px; font-size: 13px; color: var(--muted); }
   .archive-meta .avatar { width: 18px; height: 18px; margin: 0 4px -4px 0; }
-  .maker-avatars .avatar { margin-left: -4px; border: 2px solid var(--card); }
-  .maker-avatars .avatar:first-child { margin-left: 4px; }
+  .archive-makers { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; margin-top: 8px; }
+  .archive-makers-label { font-size: 12px; color: var(--muted); }
+  .archive-makers-grid { display: flex; gap: 6px; flex-wrap: wrap; }
 
   .archive-edit-btn {
     border: none; background: none; color: var(--muted); font-size: 12px; cursor: pointer;
@@ -146,7 +155,6 @@ async function render() {
   listEl.innerHTML = data.map(pick => {
     const dateLabel = new Date(`${pick.pick_date}T12:00:00`)
       .toLocaleDateString("nl-BE", { weekday: "long", day: "numeric", month: "long", year: "numeric" });
-    const makersHtml = (pick.makers || []).map(name => avatarHtml(name, 20)).join("");
     const imageHtml = pick.image
       ? `<img class="archive-image" src="${escapeHtml(pick.image)}" alt="" loading="lazy">`
       : "";
@@ -158,7 +166,10 @@ async function render() {
           <div class="archive-title"><a href="${escapeHtml(pick.link)}" target="_blank" rel="noopener">${escapeHtml(pick.title)}</a></div>
           <div class="archive-meta">
             <span>${avatarHtml(pick.picked_by, 18)} Gekozen door ${escapeHtml(pick.picked_by)}</span>
-            ${makersHtml ? `<span>Gemaakt door <span class="maker-avatars">${makersHtml}</span></span>` : ""}
+          </div>
+          <div class="archive-makers">
+            <span class="archive-makers-label">Gemaakt door:</span>
+            <div class="archive-makers-grid" id="makers-grid-${pick.id}"></div>
           </div>
           <button class="archive-edit-btn" data-id="${pick.id}">✏️ Verkeerd artikel? Aanpassen</button>
           <div class="archive-edit-form" id="edit-form-${pick.id}">
@@ -173,6 +184,21 @@ async function render() {
       </div>
     `;
   }).join("");
+
+  data.forEach(pick => {
+    const container = document.getElementById(`makers-grid-${pick.id}`);
+    const repaint = () => {
+      paintMakerGrid(container, pick.makers || [], async name => {
+        pick.makers = (pick.makers || []).includes(name)
+          ? pick.makers.filter(m => m !== name)
+          : [...(pick.makers || []), name];
+        repaint();
+        const { error } = await sb.from("daily_picks").update({ makers: pick.makers }).eq("id", pick.id);
+        if (error) console.error("Kon makers niet opslaan:", error);
+      });
+    };
+    repaint();
+  });
 
   listEl.querySelectorAll(".archive-edit-btn").forEach(btn => {
     btn.addEventListener("click", () => {

@@ -53,7 +53,8 @@
   }
   .who-btn.selected { border-color: var(--accent); }
 
-  .avatar { border-radius: 999px; object-fit: cover; display: inline-block; vertical-align: middle; }
+  .avatar { border-radius: 999px; display: inline-block; vertical-align: middle; overflow: hidden; }
+  .avatar img { width: 100%; height: 100%; object-fit: cover; display: block; }
   .avatar-initials {
     display: flex; align-items: center; justify-content: center;
     color: white; font-weight: 600; background: var(--muted);
@@ -219,10 +220,14 @@
   }
   .daily-picker-makers { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
   .daily-picker-makers-label { color: rgba(255,255,255,.75); font-size: 12px; margin-right: 4px; }
+  .daily-picker-makers-grid { display: flex; gap: 6px; flex-wrap: wrap; }
   .avatar-toggle-btn {
-    border: 2px solid transparent; background: none; padding: 0; border-radius: 999px; cursor: pointer; line-height: 0;
+    border: 2px solid transparent; background: none; padding: 0; border-radius: 999px; cursor: pointer;
+    line-height: 0; opacity: 1; transition: opacity .15s ease, border-color .15s ease;
   }
   .avatar-toggle-btn.selected { border-color: #fff; }
+  .avatar-toggle-btn.dimmed { opacity: .35; }
+  .avatar-toggle-btn.dimmed:hover { opacity: .7; }
   [data-tooltip] { position: relative; }
   [data-tooltip]::after {
     content: attr(data-tooltip);
@@ -508,22 +513,6 @@ async function ignoreArticle(article) {
   await render();
 }
 
-async function toggleMaker(pick, name) {
-  const makers = pick.makers.includes(name)
-    ? pick.makers.filter(m => m !== name)
-    : [...pick.makers, name];
-  await sb.from("daily_picks").update({ makers }).eq("id", pick.id);
-  await render();
-}
-
-function makerToggleGridHtml(selectedNames) {
-  return MAKER_PEOPLE.map(p => `
-    <button class="avatar-toggle-btn ${selectedNames.includes(p.name) ? "selected" : ""}" data-name="${escapeHtml(p.name)}">
-      ${avatarHtml(p.name, 26)}
-    </button>
-  `).join("");
-}
-
 function dailyBannerHtml(pick) {
   if (!pick) return "";
   const imageHtml = pick.image
@@ -537,7 +526,7 @@ function dailyBannerHtml(pick) {
         <div class="daily-banner-title"><a href="${escapeHtml(pick.link)}" target="_blank" rel="noopener">${escapeHtml(pick.title)}</a></div>
         <div class="daily-banner-row">
           <span class="daily-picker-makers-label">Wie werkt mee?</span>
-          <div class="daily-maker-toggles">${makerToggleGridHtml(pick.makers)}</div>
+          <div class="daily-maker-toggles" id="daily-maker-toggles"></div>
           <button class="daily-remove-btn" data-id="${pick.id}">Verwijderen</button>
         </div>
       </div>
@@ -556,7 +545,7 @@ function dailyPickerHtml() {
         <div class="daily-search-results" id="daily-search-results"></div>
         <div class="daily-picker-makers">
           <span class="daily-picker-makers-label">Wie werkt mee? (optioneel)</span>
-          ${makerToggleGridHtml(Array.from(pendingMakers))}
+          <div class="daily-picker-makers-grid" id="daily-picker-makers-grid"></div>
         </div>
       </div>
     </div>
@@ -688,9 +677,18 @@ async function render() {
   const bannerEl = document.getElementById("daily-banner");
   if (dailyPick) {
     bannerEl.innerHTML = dailyBannerHtml(dailyPick);
-    bannerEl.querySelectorAll(".daily-maker-toggles .avatar-toggle-btn").forEach(btn => {
-      btn.addEventListener("click", () => toggleMaker(dailyPick, btn.dataset.name));
-    });
+    const makersContainer = bannerEl.querySelector("#daily-maker-toggles");
+    const repaintBannerMakers = () => {
+      paintMakerGrid(makersContainer, dailyPick.makers, async name => {
+        dailyPick.makers = dailyPick.makers.includes(name)
+          ? dailyPick.makers.filter(m => m !== name)
+          : [...dailyPick.makers, name];
+        repaintBannerMakers();
+        const { error } = await sb.from("daily_picks").update({ makers: dailyPick.makers }).eq("id", dailyPick.id);
+        if (error) console.error("Kon makers niet opslaan:", error);
+      });
+    };
+    repaintBannerMakers();
     bannerEl.querySelector(".daily-remove-btn").addEventListener("click", () => removeDailyPick(dailyPick.id));
   } else {
     bannerEl.innerHTML = dailyPickerHtml();
@@ -739,13 +737,14 @@ async function render() {
       });
     });
 
-    bannerEl.querySelectorAll(".daily-picker-makers .avatar-toggle-btn").forEach(btn => {
-      btn.addEventListener("click", () => {
-        const name = btn.dataset.name;
+    const pickerMakersGrid = bannerEl.querySelector("#daily-picker-makers-grid");
+    const repaintPickerMakers = () => {
+      paintMakerGrid(pickerMakersGrid, Array.from(pendingMakers), name => {
         if (pendingMakers.has(name)) pendingMakers.delete(name); else pendingMakers.add(name);
-        btn.classList.toggle("selected");
+        repaintPickerMakers();
       });
-    });
+    };
+    repaintPickerMakers();
   }
 
   document.querySelectorAll(".sort-btn").forEach(btn => {

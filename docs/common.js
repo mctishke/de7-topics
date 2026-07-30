@@ -52,17 +52,91 @@ function hashHue(s) {
 }
 
 function avatarHtml(name, size) {
+  // data-tooltip staat op een <span>, niet op de <img> zelf: ::after (voor de
+  // tooltip) wordt door geen enkele browser gerenderd op vervangen elementen
+  // zoals <img>, dus daar zou de tooltip anders stilzwijgend niet verschijnen.
   const person = PEOPLE.find(p => p.name === name);
+  const style = `width:${size}px;height:${size}px`;
   if (person && person.avatar) {
-    return `<img class="avatar" src="${escapeHtml(person.avatar)}" alt="${escapeHtml(name)}" data-tooltip="${escapeHtml(name)}" style="width:${size}px;height:${size}px">`;
+    return `<span class="avatar" data-tooltip="${escapeHtml(name)}" style="${style}"><img src="${escapeHtml(person.avatar)}" alt="${escapeHtml(name)}"></span>`;
   }
   const initials = (name || "?").trim().slice(0, 2).toUpperCase();
   const hue = hashHue(name || "?");
-  return `<div class="avatar avatar-initials" data-tooltip="${escapeHtml(name || "")}" style="width:${size}px;height:${size}px;font-size:${Math.round(size * 0.4)}px;background:hsl(${hue},50%,42%)">${escapeHtml(initials)}</div>`;
+  return `<span class="avatar avatar-initials" data-tooltip="${escapeHtml(name || "")}" style="${style};font-size:${Math.round(size * 0.4)}px;background:hsl(${hue},50%,42%)">${escapeHtml(initials)}</span>`;
 }
 
 function brusselsDateStr(d) {
   return new Intl.DateTimeFormat("en-CA", { timeZone: "Europe/Brussels" }).format(d || new Date());
+}
+
+// De hosts staan altijd links, ongeacht selectie; enkel de niet-hosts
+// herschikken (geselecteerde eerst) wanneer je iemand aan/uit klikt.
+const HOST_NAMES = ["Bert", "Roan", "Lara"];
+
+function orderedMakerPeople(selectedNames) {
+  const hosts = MAKER_PEOPLE.filter(p => HOST_NAMES.includes(p.name));
+  const rest = MAKER_PEOPLE.filter(p => !HOST_NAMES.includes(p.name));
+  const orderedRest = [...rest].sort((a, b) => {
+    const aSel = selectedNames.includes(a.name) ? 0 : 1;
+    const bSel = selectedNames.includes(b.name) ? 0 : 1;
+    return aSel - bSel;
+  });
+  return [...hosts, ...orderedRest];
+}
+
+function makerToggleGridHtml(selectedNames) {
+  const anySelected = selectedNames.length > 0;
+  return orderedMakerPeople(selectedNames).map(p => {
+    const isSelected = selectedNames.includes(p.name);
+    const dimmed = anySelected && !isSelected;
+    return `
+      <button class="avatar-toggle-btn ${isSelected ? "selected" : ""} ${dimmed ? "dimmed" : ""}" data-name="${escapeHtml(p.name)}">
+        ${avatarHtml(p.name, 26)}
+      </button>
+    `;
+  }).join("");
+}
+
+// FLIP-animatie: onthoudt de positie van elk element (op data-name) voor de
+// herschikking, laat renderFn de DOM aanpassen, en schuift de elementen dan
+// van hun oude naar hun nieuwe positie met een CSS-transform-transitie i.p.v.
+// abrupt te springen.
+function flipReorder(container, renderFn) {
+  const before = {};
+  container.querySelectorAll("[data-name]").forEach(el => {
+    before[el.dataset.name] = el.getBoundingClientRect();
+  });
+
+  renderFn();
+
+  container.querySelectorAll("[data-name]").forEach(el => {
+    const b = before[el.dataset.name];
+    if (!b) return;
+    const a = el.getBoundingClientRect();
+    const dx = b.left - a.left;
+    if (Math.abs(dx) > 0.5) {
+      el.style.transition = "none";
+      el.style.transform = `translateX(${dx}px)`;
+      el.getBoundingClientRect(); // forceer reflow zodat de transition hierna niet wordt overgeslagen
+      requestAnimationFrame(() => {
+        el.style.transition = "transform .22s ease";
+        el.style.transform = "";
+      });
+    }
+  });
+}
+
+// Tekent een klikbare avatar-grid in `container` en herschildert (met
+// FLIP-animatie) telkens iemand aan- of uitgeklikt wordt. `onToggle(name)`
+// bepaalt zelf hoe de selectie verandert (lokaal en/of via Supabase) en
+// roept daarna deze functie opnieuw aan met de bijgewerkte namen.
+function paintMakerGrid(container, selectedNames, onToggle) {
+  flipReorder(container, () => {
+    container.innerHTML = makerToggleGridHtml(selectedNames);
+  });
+  container.querySelectorAll(".avatar-toggle-btn").forEach(btn => {
+    btn.addEventListener("click", () => onToggle(btn.dataset.name));
+  });
 }
 
 // Lucide-iconen (inline SVG, geen extra library nodig).
