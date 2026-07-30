@@ -66,6 +66,24 @@
   .maker-avatars .avatar { margin-left: -4px; border: 2px solid var(--card); }
   .maker-avatars .avatar:first-child { margin-left: 4px; }
 
+  .archive-edit-btn {
+    border: none; background: none; color: var(--muted); font-size: 12px; cursor: pointer;
+    padding: 0; margin-top: 8px;
+  }
+  .archive-edit-btn:hover { text-decoration: underline; }
+  .archive-edit-form { display: none; margin-top: 8px; gap: 6px; flex-direction: column; }
+  .archive-edit-form.open { display: flex; }
+  .archive-edit-form input {
+    padding: 6px 8px; border-radius: 6px; border: 1px solid var(--border);
+    background: var(--bg); color: var(--text); font-size: 13px;
+  }
+  .archive-edit-form .archive-edit-actions { display: flex; gap: 6px; }
+  .archive-edit-form button {
+    border: 1px solid var(--border); background: transparent; color: var(--text);
+    border-radius: 6px; padding: 5px 12px; font-size: 12px; cursor: pointer;
+  }
+  .archive-edit-form .archive-edit-save { background: var(--accent); color: #fff; border-color: var(--accent); }
+
   .empty, .loading { color: var(--muted); padding: 40px 0; text-align: center; }
 </style>
 </head>
@@ -121,10 +139,41 @@ async function render() {
             <span>${avatarHtml(pick.picked_by, 18)} Gekozen door ${escapeHtml(pick.picked_by)}</span>
             ${makersHtml ? `<span>Gemaakt door <span class="maker-avatars">${makersHtml}</span></span>` : ""}
           </div>
+          <button class="archive-edit-btn" data-id="${pick.id}">✏️ Verkeerd artikel? Aanpassen</button>
+          <div class="archive-edit-form" id="edit-form-${pick.id}">
+            <input type="text" class="edit-title" placeholder="Titel" value="${escapeHtml(pick.title)}">
+            <input type="text" class="edit-link" placeholder="Link (tijd.be-URL)" value="${escapeHtml(pick.link)}">
+            <div class="archive-edit-actions">
+              <button class="archive-edit-save" data-id="${pick.id}">Opslaan</button>
+              <button class="archive-edit-cancel" data-id="${pick.id}">Annuleren</button>
+            </div>
+          </div>
         </div>
       </div>
     `;
   }).join("");
+
+  listEl.querySelectorAll(".archive-edit-btn").forEach(btn => {
+    btn.addEventListener("click", () => {
+      document.getElementById(`edit-form-${btn.dataset.id}`).classList.toggle("open");
+    });
+  });
+  listEl.querySelectorAll(".archive-edit-cancel").forEach(btn => {
+    btn.addEventListener("click", () => {
+      document.getElementById(`edit-form-${btn.dataset.id}`).classList.remove("open");
+    });
+  });
+  listEl.querySelectorAll(".archive-edit-save").forEach(btn => {
+    btn.addEventListener("click", async () => {
+      const form = document.getElementById(`edit-form-${btn.dataset.id}`);
+      const title = form.querySelector(".edit-title").value.trim();
+      const link = form.querySelector(".edit-link").value.trim();
+      if (!title || !link) { alert("Titel en link zijn verplicht."); return; }
+      const { error } = await sb.from("daily_picks").update({ title, link }).eq("id", btn.dataset.id);
+      if (error) { console.error(error); alert("Kon niet opslaan."); return; }
+      await render();
+    });
+  });
 }
 
 render().catch(e => {

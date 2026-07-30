@@ -133,11 +133,6 @@
   .voters-extra { font-size: 11px; color: var(--muted); margin-left: 6px; }
   .score { color: var(--muted); font-size: 12px; }
   .muted { color: var(--muted); }
-  .pin-btn {
-    border: 1px solid var(--border); background: transparent; color: var(--muted);
-    border-radius: 6px; padding: 3px 10px; font-size: 13px; cursor: pointer;
-  }
-  .pin-btn:hover { background: var(--border); }
   .comments { margin-top: 10px; border-top: 1px solid var(--border); padding-top: 10px; }
   .comment { display: flex; gap: 8px; font-size: 13px; margin-bottom: 10px; }
   .comment .avatar { width: 24px; height: 24px; flex-shrink: 0; margin-top: 1px; }
@@ -181,6 +176,32 @@
     border-radius: 999px; padding: 4px 12px; font-size: 12px; cursor: pointer;
   }
   .daily-remove-btn { border-color: rgba(255,255,255,.25); background: none; opacity: .8; }
+
+  .daily-picker { padding: 16px; }
+  .daily-picker-label { color: #fff; font-size: 13px; font-weight: 600; margin-bottom: 10px; display: block; }
+  .daily-search {
+    width: 100%; padding: 8px 10px; border-radius: 8px; border: 1px solid rgba(255,255,255,.3);
+    background: rgba(255,255,255,.1); color: #fff; font-size: 14px; margin-bottom: 8px;
+  }
+  .daily-search::placeholder { color: rgba(255,255,255,.6); }
+  .daily-search-results {
+    background: var(--card); border-radius: 8px; overflow: hidden; max-height: 260px; overflow-y: auto;
+  }
+  .daily-search-results:not(:empty) { margin-bottom: 10px; }
+  .daily-search-result {
+    display: flex; gap: 10px; align-items: center; padding: 8px 10px; cursor: pointer;
+    border-bottom: 1px solid var(--border); color: var(--text); font-size: 13px;
+  }
+  .daily-search-result:last-child { border-bottom: none; }
+  .daily-search-result:hover { background: var(--bg); }
+  .daily-search-result img { width: 32px; height: 32px; border-radius: 4px; object-fit: cover; flex-shrink: 0; }
+  .daily-search-empty { padding: 8px 10px; font-size: 13px; color: var(--muted); background: var(--card); border-radius: 8px; }
+  .daily-picker-makers { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
+  .daily-picker-makers-label { color: rgba(255,255,255,.75); font-size: 12px; margin-right: 4px; }
+  .daily-picker-maker-btn {
+    border: 2px solid transparent; background: none; padding: 0; border-radius: 999px; cursor: pointer; line-height: 0;
+  }
+  .daily-picker-maker-btn.selected { border-color: #fff; }
   .empty, .loading { color: var(--muted); padding: 40px 0; text-align: center; }
   .config-warning {
     background: var(--accent-bg); color: var(--accent); border-radius: 8px;
@@ -340,18 +361,12 @@ async function fetchDailyPick() {
   return data;
 }
 
-async function pinAsDaily(article) {
+async function pinAsDaily(article, makers) {
   const user = currentUser();
   if (!user) { alert("Kies eerst bovenaan wie je bent."); return; }
   if (!sb) { alert("Supabase is nog niet geconfigureerd."); return; }
 
-  const existing = await fetchDailyPick();
-  if (existing && existing.article_id !== article.id) {
-    if (!confirm(`Dit vervangt de huidige daily-keuze ("${existing.title}"). Doorgaan?`)) return;
-  }
-  const makers = existing && existing.article_id === article.id ? existing.makers : [];
-
-  const { error } = await sb.from("daily_picks").upsert({
+  const { error } = await sb.from("daily_picks").insert({
     pick_date: brusselsDateStr(),
     article_id: article.id,
     title: article.title,
@@ -359,10 +374,29 @@ async function pinAsDaily(article) {
     image: article.image,
     category: article.category,
     picked_by: user,
-    makers,
-  }, { onConflict: "pick_date" });
-  if (error) { console.error(error); alert("Kon de daily niet instellen."); return; }
+    makers: makers || [],
+  });
+  if (error) {
+    console.error(error);
+    alert(error.code === "23505"
+      ? "Er is ondertussen al een daily gekozen. Herlaad de pagina."
+      : "Kon de daily niet instellen.");
+    return;
+  }
+  pendingMakers = new Set();
   await render();
+}
+
+function findArticleMatches(query, articles) {
+  const q = query.trim();
+  if (!q) return [];
+  const idMatch = q.match(/(\d+)(?:\.html)?\/?(?:[?#].*)?$/);
+  if (/^https?:\/\//i.test(q) && idMatch) {
+    const found = articles.find(a => a.id === idMatch[1]);
+    return found ? [found] : [];
+  }
+  const lower = q.toLowerCase();
+  return articles.filter(a => a.title.toLowerCase().includes(lower)).slice(0, 6);
 }
 
 async function removeDailyPick(id) {
@@ -398,6 +432,29 @@ function dailyBannerHtml(pick) {
           <div class="daily-banner-makers">${makersHtml}</div>
           <button class="daily-maker-btn" data-id="${pick.id}">${isMaker ? "− Ik werk niet meer mee" : "+ Ik werk hieraan mee"}</button>
           <button class="daily-remove-btn" data-id="${pick.id}">Verwijderen</button>
+        </div>
+      </div>
+    </div>
+  `;
+}
+
+let pendingMakers = new Set();
+
+function dailyPickerHtml() {
+  const makerToggles = PEOPLE.map(p => `
+    <button class="daily-picker-maker-btn ${pendingMakers.has(p.name) ? "selected" : ""}" data-name="${escapeHtml(p.name)}">
+      ${avatarHtml(p.name, 26)}
+    </button>
+  `).join("");
+  return `
+    <div class="daily-banner">
+      <div class="daily-picker">
+        <span class="daily-picker-label">📌 De daily van vandaag is nog niet gekozen</span>
+        <input type="text" class="daily-search" id="daily-search" placeholder="Zoek op titel of plak een tijd.be-link...">
+        <div class="daily-search-results" id="daily-search-results"></div>
+        <div class="daily-picker-makers">
+          <span class="daily-picker-makers-label">Wie werkt mee? (optioneel)</span>
+          ${makerToggles}
         </div>
       </div>
     </div>
@@ -446,7 +503,6 @@ function articleCard(article, stars, voters, myStar, comments) {
         <div class="voters">${votersHtml}${votersExtra}</div>
         <span class="score">algoritme: ${article.score}</span>
       </div>
-      <button class="pin-btn" data-id="${article.id}">📌 Maak dit de daily</button>
     </div>
     <div class="comments" id="comments-${article.id}">
       ${commentsHtml}
@@ -508,6 +564,9 @@ async function render() {
     document.getElementById("config-warning").style.display = "block";
   }
 
+  const articleById = {};
+  cachedData.articles.forEach(a => { articleById[a.id] = a; });
+
   let dailyPick = null;
   try {
     dailyPick = await fetchDailyPick();
@@ -515,10 +574,39 @@ async function render() {
     console.error("Kon daily pick niet laden:", e);
   }
   const bannerEl = document.getElementById("daily-banner");
-  bannerEl.innerHTML = dailyBannerHtml(dailyPick);
   if (dailyPick) {
+    bannerEl.innerHTML = dailyBannerHtml(dailyPick);
     bannerEl.querySelector(".daily-maker-btn").addEventListener("click", () => toggleMaker(dailyPick));
     bannerEl.querySelector(".daily-remove-btn").addEventListener("click", () => removeDailyPick(dailyPick.id));
+  } else {
+    bannerEl.innerHTML = dailyPickerHtml();
+    const searchInput = bannerEl.querySelector("#daily-search");
+    const resultsEl = bannerEl.querySelector("#daily-search-results");
+    searchInput.addEventListener("input", () => {
+      const matches = findArticleMatches(searchInput.value, cachedData.articles);
+      if (matches.length === 0) {
+        resultsEl.innerHTML = searchInput.value.trim()
+          ? `<div class="daily-search-empty">Geen match in de lijst van vandaag.</div>`
+          : "";
+        return;
+      }
+      resultsEl.innerHTML = matches.map(a => `
+        <div class="daily-search-result" data-id="${a.id}">
+          ${a.image ? `<img src="${escapeHtml(a.image)}" alt="">` : ""}
+          <span>${escapeHtml(a.title)}</span>
+        </div>
+      `).join("");
+      resultsEl.querySelectorAll(".daily-search-result").forEach(el => {
+        el.addEventListener("click", () => pinAsDaily(articleById[el.dataset.id], Array.from(pendingMakers)));
+      });
+    });
+    bannerEl.querySelectorAll(".daily-picker-maker-btn").forEach(btn => {
+      btn.addEventListener("click", () => {
+        const name = btn.dataset.name;
+        if (pendingMakers.has(name)) pendingMakers.delete(name); else pendingMakers.add(name);
+        btn.classList.toggle("selected");
+      });
+    });
   }
 
   document.querySelectorAll(".sort-btn").forEach(btn => {
@@ -545,9 +633,6 @@ async function render() {
     return;
   }
 
-  const articleById = {};
-  articles.forEach(a => { articleById[a.id] = a; });
-
   const remaining = dailyPick ? articles.filter(a => a.id !== dailyPick.article_id) : articles;
   const active = remaining.filter(a => (starsByArticle[a.id] || 0) > 0 || (commentsByArticle[a.id] || []).length > 0);
   const suggested = remaining.filter(a => !((starsByArticle[a.id] || 0) > 0 || (commentsByArticle[a.id] || []).length > 0));
@@ -567,9 +652,6 @@ async function render() {
   });
   listEl.querySelectorAll(".star-btn").forEach(btn => {
     btn.addEventListener("click", () => toggleStar(btn.dataset.id, btn.classList.contains("starred")));
-  });
-  listEl.querySelectorAll(".pin-btn").forEach(btn => {
-    btn.addEventListener("click", () => pinAsDaily(articleById[btn.dataset.id]));
   });
   listEl.querySelectorAll(".comment-submit").forEach(btn => {
     btn.addEventListener("click", () => {
