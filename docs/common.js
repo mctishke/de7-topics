@@ -69,19 +69,18 @@ function brusselsDateStr(d) {
   return new Intl.DateTimeFormat("en-CA", { timeZone: "Europe/Brussels" }).format(d || new Date());
 }
 
-// De hosts staan altijd links, ongeacht selectie; enkel de niet-hosts
-// herschikken (geselecteerde eerst) wanneer je iemand aan/uit klikt.
-const HOST_NAMES = ["Bert", "Roan", "Lara"];
-
+// MAKER_PEOPLE zet de hosts (Bert, Roan, Lara) al vooraan. Een stabiele sort
+// op enkel "geselecteerd of niet" volstaat dan voor de volledige regel:
+// geselecteerde avatars komen sowieso links, en binnen zowel de
+// geselecteerde als de niet-geselecteerde groep behouden de hosts hun
+// plaats vooraan (dus nooit rechts van de rest) omdat de basisvolgorde
+// intact blijft binnen elke gelijke sleutel.
 function orderedMakerPeople(selectedNames) {
-  const hosts = MAKER_PEOPLE.filter(p => HOST_NAMES.includes(p.name));
-  const rest = MAKER_PEOPLE.filter(p => !HOST_NAMES.includes(p.name));
-  const orderedRest = [...rest].sort((a, b) => {
+  return [...MAKER_PEOPLE].sort((a, b) => {
     const aSel = selectedNames.includes(a.name) ? 0 : 1;
     const bSel = selectedNames.includes(b.name) ? 0 : 1;
     return aSel - bSel;
   });
-  return [...hosts, ...orderedRest];
 }
 
 function makerToggleGridHtml(selectedNames) {
