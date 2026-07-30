@@ -118,10 +118,10 @@ const SUPABASE_URL = "https://xjzfehxazcsqilczsxhe.supabase.co";
 const SUPABASE_ANON_KEY = "sb_publishable_BE2naLXZCC5UiRBHwAJSXA_JqelydgT";
 // ------------------------------------------------------------------
 
-let supabase = null;
+let sb = null;
 try {
   if (SUPABASE_URL && SUPABASE_ANON_KEY && window.supabase) {
-    supabase = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
+    sb = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
   }
 } catch (e) {
   console.error("Supabase-client kon niet aangemaakt worden (stemmen/comments werken dan niet):", e);
@@ -153,11 +153,11 @@ function timeAgo(iso) {
 }
 
 async function loadVotesAndComments() {
-  if (!supabase) return { netByArticle: {}, myVoteByArticle: {}, commentsByArticle: {} };
+  if (!sb) return { netByArticle: {}, myVoteByArticle: {}, commentsByArticle: {} };
 
   const [{ data: votes, error: vErr }, { data: comments, error: cErr }] = await Promise.all([
-    supabase.from("votes").select("*").order("created_at", { ascending: true }),
-    supabase.from("comments").select("*").order("created_at", { ascending: true }),
+    sb.from("votes").select("*").order("created_at", { ascending: true }),
+    sb.from("comments").select("*").order("created_at", { ascending: true }),
   ]);
   if (vErr) console.error("votes error", vErr);
   if (cErr) console.error("comments error", cErr);
@@ -185,15 +185,15 @@ async function loadVotesAndComments() {
 }
 
 async function castVote(articleId, value) {
-  if (!supabase) { alert("Supabase is nog niet geconfigureerd."); return; }
-  await supabase.from("votes").insert({ article_id: articleId, voter_id: voterId, value });
+  if (!sb) { alert("Supabase is nog niet geconfigureerd."); return; }
+  await sb.from("votes").insert({ article_id: articleId, voter_id: voterId, value });
   await render();
 }
 
 async function addComment(articleId, author, body) {
-  if (!supabase) { alert("Supabase is nog niet geconfigureerd."); return; }
+  if (!sb) { alert("Supabase is nog niet geconfigureerd."); return; }
   if (!body.trim()) return;
-  await supabase.from("comments").insert({
+  await sb.from("comments").insert({
     article_id: articleId,
     author: author.trim() || "Anoniem",
     body: body.trim(),
