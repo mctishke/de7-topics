@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T10:37:49.814181+00:00",
+  "generated_at": "2026-07-31T12:31:28.089520+00:00",
   "date": "2026-07-31",
   "de7_title": "31/07 | Schenkingen leveren Vlaanderen record van 700 miljoen euro op | Apple stelt teleur, Amazon groeit sneller dan verwacht | Machtsstrijd over geld en voetbal",
   "de7_matched_count": 1,
@@ -82,6 +82,17 @@
       "image": null
     },
     {
+      "id": "10680419",
+      "title": "Zomergast | Ice Ice Amy-oprichtster Amélie Cobbaert: 'Als ik kitesurf, kan ik aan niets anders denken'",
+      "link": "https://www.tijd.be/r/t/1/id/10680419",
+      "category": "Ondernemen",
+      "description": "Zonovergoten of schaduwrijk? Met veel vertier of lui en loom? Acht weken lang peilen we naar het ultieme zomergevoel van een gast.",
+      "pubDate": "Fri, 31 Jul 2026 12:01:32 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": null
+    },
+    {
       "id": "10680802",
       "title": "Umicore trekt winstprognose op: meer dankzij metalen dan batterijen",
       "link": "https://www.tijd.be/r/t/1/id/10680802",
@@ -155,6 +166,39 @@
       "description": "Terwijl Brussel de helft van alle economische vertegenwoordigingen in het buitenland sluit, wordt het kantoor in Rabat versterkt. Ahmed Laaouej, Brussels minister van Lokale Overheden en voorzitter van de lokale PS, bombardeert zijn kabinetschef Moustapha Budchich tot economisch vertegenwoordiger in Marokko.",
       "pubDate": "Fri, 31 Jul 2026 08:42:40 GMT",
       "score": 2,
+      "in_de7": false,
+      "image": null
+    },
+    {
+      "id": "10680511",
+      "title": "Wiskundeprofessor Ann Dooms | Misschien moeten we op AI-dieet?",
+      "link": "https://www.tijd.be/r/t/1/id/10680511",
+      "category": "Opinie",
+      "description": "Als we ons denkwerk voortdurend uitbesteden, kunnen onze prestaties initieel verbeteren. Maar stilaan verzwakken we niet alleen kennis en kunde, maar ook belangrijke onderliggende vaardigheden.",
+      "pubDate": "Fri, 31 Jul 2026 12:15:55 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": null
+    },
+    {
+      "id": "10680568",
+      "title": "Over de vloer | Extra dag vrijaf soms meer waard dan bonus",
+      "link": "https://www.tijd.be/r/t/1/id/10680568",
+      "category": "Opinie",
+      "description": "Organisaties proberen medewerkers te motiveren met een beloning.  Een van de waardevolste manieren om waardering te ervaren, is voor veel mensen meer vrije tijd.",
+      "pubDate": "Fri, 31 Jul 2026 11:01:40 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": null
+    },
+    {
+      "id": "10680745",
+      "title": "Massale oversteek naar enclave Ceuta: 27 migranten komen om, ruim 49.000 mensen bereiken Spanje",
+      "link": "https://www.tijd.be/r/t/1/id/10680745",
+      "category": "Politiek & Economie",
+      "description": "De voorbije dagen hebben tienduizenden migranten de Spaanse enclave Ceuta in Marokko bereikt. Daarbij zijn al zeker 27 doden gevallen, melden de autoriteiten. De Spaanse regering zet een legereenheid in. Italië wil Spanje tijdelijk uit de Schengenzone zetten.",
+      "pubDate": "Fri, 31 Jul 2026 11:11:26 GMT",
+      "score": 1,
       "in_de7": false,
       "image": null
     }
