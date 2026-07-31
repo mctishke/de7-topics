@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T07:49:36.596038+00:00",
+  "generated_at": "2026-07-31T10:37:49.814181+00:00",
   "date": "2026-07-31",
   "de7_title": "31/07 | Schenkingen leveren Vlaanderen record van 700 miljoen euro op | Apple stelt teleur, Amazon groeit sneller dan verwacht | Machtsstrijd over geld en voetbal",
   "de7_matched_count": 1,
@@ -71,6 +71,17 @@
       "image": null
     },
     {
+      "id": "10680828",
+      "title": "Als ze niet meer tegen phishing optreden, gaan banken vertrouwenscrisis tegemoet",
+      "link": "https://www.tijd.be/r/t/1/id/10680828",
+      "category": "Opinie",
+      "description": "‘De klant moet beter opletten’ is geen ernstig veiligheidsmodel.",
+      "pubDate": "Fri, 31 Jul 2026 09:58:08 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": null
+    },
+    {
       "id": "10680802",
       "title": "Umicore trekt winstprognose op: meer dankzij metalen dan batterijen",
       "link": "https://www.tijd.be/r/t/1/id/10680802",
@@ -110,6 +121,39 @@
       "category": "Ondernemen",
       "description": "AI-modellen van Anthropic hebben de voorbije maanden per ongeluk drie bedrijven gehackt bij een foutgelopen test. Die bekentenis volgt op een eerder gelijkaardig incident met modellen van concurrent OpenAI.",
       "pubDate": "Fri, 31 Jul 2026 05:10:22 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": null
+    },
+    {
+      "id": "10675479",
+      "title": "Onze favoriete restaurants in Knokke",
+      "link": "https://www.tijd.be/r/t/1/id/10675479",
+      "category": "Sabato",
+      "description": "Op zoek naar een goed restaurant in Knokke? Dit zijn de favoriete restaurants van onze correspondent die de stad door en door kent.",
+      "pubDate": "Fri, 31 Jul 2026 10:05:09 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": null
+    },
+    {
+      "id": "10680527",
+      "title": "De matrix | Onverwacht AI-bezoek",
+      "link": "https://www.tijd.be/r/t/1/id/10680527",
+      "category": "Opinie",
+      "description": "De persoonlijke agent leest overal mee, probeert de belangrijke zaken te onthouden en springt naar eigen inschatting in gesprekken. Dat oordeel blijkt moeilijker dan verwacht.",
+      "pubDate": "Fri, 31 Jul 2026 09:43:51 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": null
+    },
+    {
+      "id": "10680827",
+      "title": "Kabinetschef Laaouej wordt economisch vertegenwoordiger in Rabat",
+      "link": "https://www.tijd.be/r/t/1/id/10680827",
+      "category": "Politiek & Economie",
+      "description": "Terwijl Brussel de helft van alle economische vertegenwoordigingen in het buitenland sluit, wordt het kantoor in Rabat versterkt. Ahmed Laaouej, Brussels minister van Lokale Overheden en voorzitter van de lokale PS, bombardeert zijn kabinetschef Moustapha Budchich tot economisch vertegenwoordiger in Marokko.",
+      "pubDate": "Fri, 31 Jul 2026 08:42:40 GMT",
       "score": 2,
       "in_de7": false,
       "image": null
