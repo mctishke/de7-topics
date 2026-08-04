@@ -186,11 +186,13 @@ def fetch_og_image(url):
         req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
         with urllib.request.urlopen(req, timeout=10) as resp:
             chunk = resp.read(IMAGE_PREVIEW_BYTES).decode("utf-8", errors="ignore")
-    except Exception:
+    except Exception as exc:
+        print(f"[image debug] fetch faalde voor {url}: {exc!r}")
         return None
 
     match = OG_IMAGE_RE.search(chunk)
     if not match:
+        print(f"[image debug] geen og:image gevonden voor {url} (eerste 200 tekens: {chunk[:200]!r})")
         return None
     image_url = match.group(1).replace("&amp;", "&")
     return re.sub(r"width=\d+", "width=480", image_url)
