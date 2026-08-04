@@ -53,7 +53,7 @@ ARTICLE_ID_RE = re.compile(r"(\d+)(?:\.html)?/?(?:[?#].*)?$")
 DE7_LINK_RE = re.compile(r'href="https://www\.tijd\.be/[^"]*?/(\d+)\.html"')
 OG_IMAGE_RE = re.compile(r'<meta[^>]*property="og:image"[^>]*content="([^"]+)"')
 IMAGE_PREVIEW_BYTES = 20000
-IMAGE_FETCH_WORKERS = 8
+IMAGE_FETCH_WORKERS = 3  # laag houden: gratis/anonieme r.jina.ai heeft een rate-limit
 
 # Simpele heuristiek voor "leent zich goed als video op social" -- vrij aan te
 # passen op basis van wat het team in de praktijk goede/slechte topics vindt.
@@ -153,25 +153,17 @@ def load_previous_articles():
     return {a["id"]: a for a in data.get("articles", [])}
 
 
-def update_recent_articles(todays_articles, today):
+def load_recent_articles():
     try:
         with open(RECENT_FILE, "r", encoding="utf-8") as f:
-            recent = {a["id"]: a for a in json.load(f).get("articles", [])}
+            return {a["id"]: a for a in json.load(f).get("articles", [])}
     except (FileNotFoundError, json.JSONDecodeError):
-        recent = {}
+        return {}
 
-    for article in todays_articles:
-        recent[article["id"]] = {
-            "id": article["id"],
-            "title": article["title"],
-            "link": article["link"],
-            "image": article.get("image"),
-            "category": article.get("category"),
-            "pubDate": article.get("pubDate"),
-        }
 
-    recent = {
-        article_id: a for article_id, a in recent.items()
+def write_recent_articles(recent_pool, today):
+    pruned = {
+        article_id: a for article_id, a in recent_pool.items()
         if article_day(a) and (today - article_day(a)).days <= RECENT_MAX_AGE_DAYS
     }
 
@@ -180,7 +172,7 @@ def update_recent_articles(todays_articles, today):
 
     with open(RECENT_FILE, "w", encoding="utf-8") as f:
         json.dump(
-            {"articles": sorted(recent.values(), key=sort_key, reverse=True)},
+            {"articles": sorted(pruned.values(), key=sort_key, reverse=True)},
             f, ensure_ascii=False, indent=2,
         )
 
@@ -240,16 +232,22 @@ def main():
     now = datetime.now(timezone.utc)
     today = now.astimezone(BRUSSELS).date()
 
-    # Alles wat we al eerder gezien (en gescoord) hebben, nemen we ongewijzigd
-    # over zolang het van vandaag is -- daardoor verandert de volgorde enkel
-    # nog doordat er nieuwe artikels bijkomen, niet doordat bestaande
-    # artikels steeds opnieuw herberekend worden. Alles van een vorige dag
-    # valt eruit: elke kalenderdag (Brussel-tijd) start met een schone lei.
-    articles_by_id = {
+    # "Vandaag"-pool voor de gewone suggestielijst (data.json): bevroren
+    # scores, reset elke kalenderdag (Brussel-tijd) -- ongewijzigd t.o.v.
+    # eerder.
+    today_pool = {
         article_id: article
         for article_id, article in load_previous_articles().items()
         if article_day(article) == today
     }
+
+    # Bredere pool voor de "kies de daily"-zoekfunctie (recent_articles.json):
+    # alles wat de RSS-feeds ooit tonen, los van kalenderdag, aangevuld met
+    # wat er al in het rollend archief zat. Zo hangt vindbaarheid niet af van
+    # toevallig timing van de cronjob t.o.v. het publicatiemoment (bv. een
+    # artikel van gisterenavond laat) -- enkel van de 14-dagen-bewaartermijn.
+    recent_pool = load_recent_articles()
+
     de7_ids, de7_title = get_de7_ids()
 
     for feed_url in FEEDS:
@@ -261,34 +259,41 @@ def main():
 
         for article in parse_rss_items(xml_bytes):
             article_id = article["id"]
-            if article_id in articles_by_id:
+            if article_id not in recent_pool:
+                recent_pool[article_id] = article
+
+            if article_id in today_pool:
                 continue
             if article_day(article) != today:
                 continue
             score, in_de7 = score_article(article, de7_ids)
             article["score"] = score
             article["in_de7"] = in_de7
-            articles_by_id[article_id] = article
+            today_pool[article_id] = article
 
-    all_articles = sorted(articles_by_id.values(), key=lambda a: a["score"], reverse=True)
+    # 1 gezamenlijke image-fetch-ronde voor alles wat in een van beide pools
+    # nog geen afbeelding heeft (gededupliceerd op artikel-ID). Een mislukte
+    # fetch wordt niet blijvend onthouden: elke volgende run wordt opnieuw
+    # geprobeerd voor wat nog steeds geen afbeelding heeft.
+    link_by_id = {}
+    for pool in (today_pool, recent_pool):
+        for article_id, article in pool.items():
+            if not article.get("image"):
+                link_by_id[article_id] = article["link"]
 
-    # Niet enkel voor gloednieuwe artikels, maar voor elk artikel dat nu geen
-    # afbeelding heeft: een mislukte fetch (bv. tijdelijke blokkade/rate-limit
-    # bij tijd.be) wordt zo elke volgende run opnieuw geprobeerd i.p.v. voor
-    # de rest van de dag stil te blijven hangen op "geen afbeelding". Dit
-    # gebeurt voor alle categorieen, ook Markten Live, zodat die ook met
-    # afbeelding klaarstaat mocht hij via de zoekfunctie als daily gekozen
-    # worden.
-    missing_image = [a for a in all_articles if not a.get("image")]
     with ThreadPoolExecutor(max_workers=IMAGE_FETCH_WORKERS) as pool:
-        images = pool.map(fetch_og_image, [a["link"] for a in missing_image])
+        fetched_images = dict(zip(link_by_id.keys(), pool.map(fetch_og_image, link_by_id.values())))
+
     fetched = 0
-    for article, image in zip(missing_image, images):
-        article["image"] = image
+    for article_id, image in fetched_images.items():
         if image:
             fetched += 1
+        if article_id in today_pool:
+            today_pool[article_id]["image"] = image
+        if article_id in recent_pool:
+            recent_pool[article_id]["image"] = image
 
-    articles = all_articles[:MAX_ARTICLES]
+    articles = sorted(today_pool.values(), key=lambda a: a["score"], reverse=True)[:MAX_ARTICLES]
 
     output = {
         "generated_at": now.isoformat(),
@@ -301,11 +306,11 @@ def main():
     with open(DATA_FILE, "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
-    update_recent_articles(all_articles, today)
+    write_recent_articles(recent_pool, today)
 
     print(
         f"Geschreven: {len(articles)} artikels, {output['de7_matched_count']} uit De 7 gematcht, "
-        f"{fetched}/{len(missing_image)} afbeeldingen deze run opgehaald"
+        f"{fetched}/{len(link_by_id)} afbeeldingen deze run opgehaald"
     )
 
 
