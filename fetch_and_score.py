@@ -34,7 +34,10 @@ DE7_FEED = (
     "3c1222e5-288f-4047-a2f0-ae1b00a91688/a0389eb5-55da-493d-b7bb-ae1b00d0d95a/podcast.rss"
 )
 
-USER_AGENT = "Mozilla/5.0 (compatible; De7TopicsBot/1.0)"
+USER_AGENT = (
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+)
 ARTICLE_ID_RE = re.compile(r"(\d+)(?:\.html)?/?(?:[?#].*)?$")
 DE7_LINK_RE = re.compile(r'href="https://www\.tijd\.be/[^"]*?/(\d+)\.html"')
 OG_IMAGE_RE = re.compile(r'<meta[^>]*property="og:image"[^>]*content="([^"]+)"')
@@ -251,11 +254,18 @@ def main():
     articles = sorted(articles_by_id.values(), key=lambda a: a["score"], reverse=True)
     articles = articles[:MAX_ARTICLES]
 
-    new_articles = [a for a in articles if "image" not in a]
+    # Niet enkel voor gloednieuwe artikels, maar voor elk artikel dat nu geen
+    # afbeelding heeft: een mislukte fetch (bv. tijdelijke blokkade/rate-limit
+    # bij tijd.be) wordt zo elke volgende run opnieuw geprobeerd i.p.v. voor
+    # de rest van de dag stil te blijven hangen op "geen afbeelding".
+    missing_image = [a for a in articles if not a.get("image")]
     with ThreadPoolExecutor(max_workers=IMAGE_FETCH_WORKERS) as pool:
-        images = pool.map(fetch_og_image, [a["link"] for a in new_articles])
-    for article, image in zip(new_articles, images):
+        images = pool.map(fetch_og_image, [a["link"] for a in missing_image])
+    fetched = 0
+    for article, image in zip(missing_image, images):
         article["image"] = image
+        if image:
+            fetched += 1
 
     output = {
         "generated_at": now.isoformat(),
@@ -270,7 +280,10 @@ def main():
 
     update_recent_articles(articles, today)
 
-    print(f"Geschreven: {len(articles)} artikels, {output['de7_matched_count']} uit De 7 gematcht")
+    print(
+        f"Geschreven: {len(articles)} artikels, {output['de7_matched_count']} uit De 7 gematcht, "
+        f"{fetched}/{len(missing_image)} afbeeldingen deze run opgehaald"
+    )
 
 
 if __name__ == "__main__":
