@@ -66,8 +66,11 @@ KEYWORDS = [
 NUMBER_RE = re.compile(r"\d+([.,]\d+)?\s*(%|procent|miljoen|miljard|euro)", re.IGNORECASE)
 QUOTE_RE = re.compile(r"['‘’\"“”]")
 
-# Categorieen die eerder korte marktupdates zijn dan volwaardige artikels.
-EXCLUDED_CATEGORIES = {"Markten Live"}
+# "Markten Live" wordt vaak als extra tag op allerlei artikels geplakt (niet
+# enkel korte marktupdates), dus we sluiten het niet uit -- wel een kleine
+# score-penalisatie zodat het iets lager komt te staan, zonder het risico om
+# relevante artikels helemaal over het hoofd te zien.
+CATEGORY_SCORE_PENALTY = {"Markten Live": -2}
 
 MAX_ARTICLES = 40
 
@@ -228,6 +231,7 @@ def score_article(article, de7_ids):
         score += 1
     keyword_hits = sum(1 for kw in KEYWORDS if kw in text)
     score += min(keyword_hits, 3)
+    score += CATEGORY_SCORE_PENALTY.get(article["category"], 0)
 
     return score, in_de7
 
@@ -259,8 +263,6 @@ def main():
             article_id = article["id"]
             if article_id in articles_by_id:
                 continue
-            if article["category"] in EXCLUDED_CATEGORIES:
-                continue
             if article_day(article) != today:
                 continue
             score, in_de7 = score_article(article, de7_ids)
@@ -268,14 +270,16 @@ def main():
             article["in_de7"] = in_de7
             articles_by_id[article_id] = article
 
-    articles = sorted(articles_by_id.values(), key=lambda a: a["score"], reverse=True)
-    articles = articles[:MAX_ARTICLES]
+    all_articles = sorted(articles_by_id.values(), key=lambda a: a["score"], reverse=True)
 
     # Niet enkel voor gloednieuwe artikels, maar voor elk artikel dat nu geen
     # afbeelding heeft: een mislukte fetch (bv. tijdelijke blokkade/rate-limit
     # bij tijd.be) wordt zo elke volgende run opnieuw geprobeerd i.p.v. voor
-    # de rest van de dag stil te blijven hangen op "geen afbeelding".
-    missing_image = [a for a in articles if not a.get("image")]
+    # de rest van de dag stil te blijven hangen op "geen afbeelding". Dit
+    # gebeurt voor alle categorieen, ook Markten Live, zodat die ook met
+    # afbeelding klaarstaat mocht hij via de zoekfunctie als daily gekozen
+    # worden.
+    missing_image = [a for a in all_articles if not a.get("image")]
     with ThreadPoolExecutor(max_workers=IMAGE_FETCH_WORKERS) as pool:
         images = pool.map(fetch_og_image, [a["link"] for a in missing_image])
     fetched = 0
@@ -283,6 +287,8 @@ def main():
         article["image"] = image
         if image:
             fetched += 1
+
+    articles = all_articles[:MAX_ARTICLES]
 
     output = {
         "generated_at": now.isoformat(),
@@ -295,7 +301,7 @@ def main():
     with open(DATA_FILE, "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
-    update_recent_articles(articles, today)
+    update_recent_articles(all_articles, today)
 
     print(
         f"Geschreven: {len(articles)} artikels, {output['de7_matched_count']} uit De 7 gematcht, "
