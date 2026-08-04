@@ -1,6 +1,72 @@
 {
   "articles": [
     {
+      "id": "10681155",
+      "title": "Stel de meerwaardebelasting uit, of beter nog, schaf ze af",
+      "link": "https://www.tijd.be/r/t/1/id/10681155",
+      "category": "Opinie",
+      "description": "Het retroactieve karakter van de meerwaardebelasting leidt tot operationele en commerciële problemen. Het proces is onnodig omslachtig, complex en onduidelijk.",
+      "pubDate": "Tue, 04 Aug 2026 15:05:24 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:3DBFoVnXqvHAwHsUkD4b5i&context=ONLINE&ratio=16/9&width=480&u=1785851985000"
+    },
+    {
+      "id": "10681061",
+      "title": "Annick De Ridder (N-VA): ‘Ik, in mijn eentje een geheime luchthavendeal gesloten? Gewoon fake news’",
+      "link": "https://www.tijd.be/r/t/1/id/10681061",
+      "category": "Politiek & Economie",
+      "description": "Minister van Mobiliteit Annick De Ridder bijt van zich af na de aantijgingen van achterkamertjespolitiek in de subsidiedossiers van de luchthavens van Deurne en Oostende. ‘Ik ben vooral de brokken van het verleden aan het lijmen.’",
+      "pubDate": "Tue, 04 Aug 2026 15:01:30 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:CVaEyRvH4PR8LqQ_Z1Kge9&context=ONLINE&ratio=16/9&width=480&u=1785853706000"
+    },
+    {
+      "id": "10681160",
+      "title": "Omzet energiedivisie Caterpillar overtreft bouwtak",
+      "link": "https://www.tijd.be/r/t/1/id/10681160",
+      "category": "Markten Live",
+      "description": "Caterpillar vlamt hoger op Wall Street na beter dan verwachte kwartaalcijfers. De energiedivisie, die onder meer generatoren levert voor datacentra, wint aan belang.",
+      "pubDate": "Tue, 04 Aug 2026 14:45:14 GMT",
+      "score": 0,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:Cqk2bHVLKWA8q-ucZFBoON&context=ONLINE&ratio=16/9&width=480&u=1785856124000"
+    },
+    {
+      "id": "10681125",
+      "title": "Bel20 richt pijlen op record",
+      "link": "https://www.tijd.be/r/t/1/id/10681125",
+      "category": "Markten Live",
+      "description": "De Europese beurzen blijven op recordkoers, mede dankzij een daling van de olieprijs. Ageas krijgt fanmail na de lucratieve Maleisische exit, Azelis na de jaarcijfers.",
+      "pubDate": "Tue, 04 Aug 2026 13:46:55 GMT",
+      "score": 1,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:6o9C-CJoqG9B4ss7ogxrYU&context=ONLINE&ratio=16/9&width=480&u=1785851568000"
+    },
+    {
+      "id": "10681166",
+      "title": "Fiscus verstuurt 190.000 foutieve btw-betaalberichten",
+      "link": "https://www.tijd.be/r/t/1/id/10681166",
+      "category": "Netto",
+      "description": "De federale overheidsdienst Financiën heeft ongeveer 190.000 foutieve betalingsberichten verstuurd naar btw-plichtigen. Ook ondernemingen die hun btw voor juni of het tweede kwartaal tijdig hadden betaald, kregen te horen dat er nog een schuld openstond. Wie tijdig betaalde, hoeft niets te doen en krijgt geen boete.",
+      "pubDate": "Tue, 04 Aug 2026 13:46:53 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:6IcYoZEHq-BBbyd19_dN32&context=ONLINE&ratio=16/9&width=480&u=1785852973000"
+    },
+    {
+      "id": "10681156",
+      "title": "Kan Novo Nordisk zijn Amerikaanse concurrent Eli Lilly bijhouden?",
+      "link": "https://www.tijd.be/r/t/1/id/10681156",
+      "category": "Ondernemen",
+      "description": "Woensdag presenteren de twee zwaargewichten in obesitasmedicijnen hun kwartaalcijfers. Is het dieptepunt bij het Deense Novo Nordisk achter de rug en kan het rivaal Eli Lilly bijhouden in zijn opmars?",
+      "pubDate": "Tue, 04 Aug 2026 13:01:57 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:0_DOHzeAKNPBnR4_02SGDL&context=ONLINE&ratio=16/9&width=480&u=1785849019000"
+    },
+    {
       "id": "10681128",
       "title": "Kinepolis gaat in Nederland in zee met Zweedse keten van sportbars",
       "link": "https://www.tijd.be/r/t/1/id/10681128",
