@@ -38,6 +38,10 @@ USER_AGENT = (
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
     "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
 )
+# Sites laten link-preview bots (Slack, Facebook, Twitter, ...) doorgaans wel
+# door, ongeacht IP-reeks, net omdat ze zelf goede previews willen -- dat
+# lijkt de meest kansrijke manier om de og:image-pagina uberhaupt te bereiken.
+LINK_PREVIEW_USER_AGENT = "Slackbot-LinkExpanding 1.0 (+https://api.slack.com/robots)"
 ARTICLE_ID_RE = re.compile(r"(\d+)(?:\.html)?/?(?:[?#].*)?$")
 DE7_LINK_RE = re.compile(r'href="https://www\.tijd\.be/[^"]*?/(\d+)\.html"')
 OG_IMAGE_RE = re.compile(r'<meta[^>]*property="og:image"[^>]*content="([^"]+)"')
@@ -183,7 +187,7 @@ def fetch_og_image(url):
     """Leest enkel de eerste paar KB van de artikelpagina om de og:image te
     vinden, zodat we niet de volledige (zware) pagina moeten downloaden."""
     try:
-        req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+        req = urllib.request.Request(url, headers={"User-Agent": LINK_PREVIEW_USER_AGENT})
         with urllib.request.urlopen(req, timeout=10) as resp:
             chunk = resp.read(IMAGE_PREVIEW_BYTES).decode("utf-8", errors="ignore")
     except Exception as exc:
