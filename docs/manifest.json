@@ -1,0 +1,11 @@
+{
+  "name": "De 7 Topics",
+  "short_name": "De 7 Topics",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#18457C",
+  "theme_color": "#18457C",
+  "icons": [
+    { "src": "favicon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}
