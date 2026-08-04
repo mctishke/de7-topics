@@ -1,6 +1,72 @@
 {
   "articles": [
     {
+      "id": "10681126",
+      "title": "Nergens zonder weg in Neerijse",
+      "link": "https://www.tijd.be/r/t/1/id/10681126",
+      "category": "Dossiers",
+      "description": "Verdwalend in eigen land kijkt Rik Van Puymbroeck naar wat verwondert en soms overdondert.",
+      "pubDate": "Tue, 04 Aug 2026 18:32:06 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:8WnDR0ZA4t48rmvqApudSl&context=ONLINE&ratio=16/9&width=480&u=1785837555000"
+    },
+    {
+      "id": "10681202",
+      "title": "Erosie Schengenregels lost Europese migratiekwestie niet op",
+      "link": "https://www.tijd.be/r/t/1/id/10681202",
+      "category": "Politiek & Economie",
+      "description": "Dat Italië na de crisis in Ceuta grenscontroles invoerde voor Spanje past in de structurele erosie van de Schengenzone. De binnengrenscontroles zijn een handig politiek wapen, maar leiden af van duurzame oplossingen voor de Europese migratiekwestie.",
+      "pubDate": "Tue, 04 Aug 2026 18:21:15 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:0f5AWoSWqykBuh2HqkRMSe&context=ONLINE&ratio=16/9&width=480&u=1785869091000"
+    },
+    {
+      "id": "10681208",
+      "title": "Nasdaq rukt 2,7 procent op dankzij rap zakkende olieprijs",
+      "link": "https://www.tijd.be/r/t/1/id/10681208",
+      "category": "Markten Live",
+      "description": "Wall Street trekt een spurtje, waarbij met name de chipaandelen uitblinken. De S&P500 stevent af op een slotrecord. McDonald's schuift het hoofd van zijn Amerikaanse activiteiten opzij. Caterpillar en Palantir profiteren van sterke kwartaalrapporten.",
+      "pubDate": "Tue, 04 Aug 2026 18:14:10 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:Acvwgt-G4P085tQmpiz58i&context=ONLINE&ratio=16/9&width=480&u=1785867413000"
+    },
+    {
+      "id": "10681171",
+      "title": "Vrees de beursrecords niet",
+      "link": "https://www.tijd.be/r/t/1/id/10681171",
+      "category": "Opinie",
+      "description": "De records op de beurzen voelen ongemakkelijk aan in het licht van het brandende kruitvat in de Perzische Golf, de dure olie en de oplopende inflatievrees. Maar economisch houden ze steek.",
+      "pubDate": "Tue, 04 Aug 2026 17:35:30 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:B4nP0uti43H9Mme9kloKJB&context=ONLINE&ratio=16/9&width=480&u=1785864933000"
+    },
+    {
+      "id": "10681132",
+      "title": "Van correctie naar piek: waarom staan de beurzen weer op records?",
+      "link": "https://www.tijd.be/r/t/1/id/10681132",
+      "category": "Beurs",
+      "description": "Sterke bedrijfsresultaten en afnemende onrust over AI en de olieprijs lokken beleggers terug en jagen de beurzen naar nieuwe records. ‘De reële economie blijkt weerbaarder dan gevreesd’, zegt ING-econoom Peter Vanden Houte.",
+      "pubDate": "Tue, 04 Aug 2026 17:33:01 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:BOxRwJs9KBCAiBa36hM0FM&context=ONLINE&ratio=16/9&width=480&u=1785864784000"
+    },
+    {
+      "id": "10681179",
+      "title": "Na migratiecrisis in Ceuta: Europa focust op sterkere buitengrenzen, strijd tegen mensensmokkel en partnerschappen",
+      "link": "https://www.tijd.be/r/t/1/id/10681179",
+      "category": "Dossiers",
+      "description": "Na dagen zwartepieten over de bestorming van de Spaanse enclave Ceuta door migranten, probeert Europa weer eenheid uit te stralen. Maar de focus op versterkte buitengrenzen, een hardere strijd tegen mensensmokkelaars en stevigere partnerschappen met derde landen gomt de achterliggende ideologische geschillen over migratie niet uit.",
+      "pubDate": "Tue, 04 Aug 2026 17:17:56 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:F_WUfkzza37Byv__ie8K10&context=ONLINE&ratio=16/9&width=480&u=1785867101000"
+    },
+    {
       "id": "10681176",
       "title": "Spotify verwacht minder winst door stijgende uitgaven voor AI",
       "link": "https://www.tijd.be/r/t/1/id/10681176",
