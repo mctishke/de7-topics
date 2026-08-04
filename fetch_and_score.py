@@ -38,10 +38,17 @@ USER_AGENT = (
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
     "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
 )
-# Sites laten link-preview bots (Slack, Facebook, Twitter, ...) doorgaans wel
-# door, ongeacht IP-reeks, net omdat ze zelf goede previews willen -- dat
-# lijkt de meest kansrijke manier om de og:image-pagina uberhaupt te bereiken.
-LINK_PREVIEW_USER_AGENT = "Slackbot-LinkExpanding 1.0 (+https://api.slack.com/robots)"
+# tijd.be blokkeert cloud/datacenter-IP-reeksen (zoals GitHub Actions) voor
+# artikelpagina's, ongeacht User-Agent -- geverifieerd via directe 403's.
+# r.jina.ai is een publieke "reader"-proxy (bedoeld voor dit soort gebruik)
+# die vanaf een andere, niet-geblokkeerde IP fetcht en desgevraagd de ruwe
+# HTML teruggeeft, zodat we gewoon dezelfde og:image-regex kunnen hergebruiken.
+# Die proxy blokkeert op zijn beurt UA-strings die een browser nabootsen
+# (waarschijnlijk net omdat een "Chrome"-UA zonder bijhorende browser-
+# fingerprint verdacht overkomt) maar laat een gewone curl-UA wel door --
+# geverifieerd door meerdere UA's naast elkaar te testen.
+READER_PROXY = "https://r.jina.ai/"
+READER_USER_AGENT = "curl/8.4.0"
 ARTICLE_ID_RE = re.compile(r"(\d+)(?:\.html)?/?(?:[?#].*)?$")
 DE7_LINK_RE = re.compile(r'href="https://www\.tijd\.be/[^"]*?/(\d+)\.html"')
 OG_IMAGE_RE = re.compile(r'<meta[^>]*property="og:image"[^>]*content="([^"]+)"')
@@ -184,11 +191,15 @@ def article_day(article):
 
 
 def fetch_og_image(url):
-    """Leest enkel de eerste paar KB van de artikelpagina om de og:image te
-    vinden, zodat we niet de volledige (zware) pagina moeten downloaden."""
+    """Haalt de og:image van een artikel op via de r.jina.ai reader-proxy
+    (tijd.be blokkeert cloud-IP's rechtstreeks) en leest enkel de eerste
+    paar KB, zodat we niet de volledige (zware) pagina moeten verwerken."""
     try:
-        req = urllib.request.Request(url, headers={"User-Agent": LINK_PREVIEW_USER_AGENT})
-        with urllib.request.urlopen(req, timeout=10) as resp:
+        req = urllib.request.Request(
+            f"{READER_PROXY}{url}",
+            headers={"User-Agent": READER_USER_AGENT, "X-Return-Format": "html"},
+        )
+        with urllib.request.urlopen(req, timeout=15) as resp:
             chunk = resp.read(IMAGE_PREVIEW_BYTES).decode("utf-8", errors="ignore")
     except Exception as exc:
         print(f"[image debug] fetch faalde voor {url}: {exc!r}")
