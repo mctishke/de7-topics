@@ -1,6 +1,72 @@
 {
   "articles": [
     {
+      "id": "10681228",
+      "title": "Supermarktgroep Ahold Delhaize groeit vooral in Europa, minder in de VS",
+      "link": "https://www.tijd.be/r/t/1/id/10681228",
+      "category": "Ondernemen",
+      "description": "Ahold Delhaize heeft in het tweede kwartaal in lijn met de analistenverwachtingen gescoord. De business is vooral lastig in de VS, maar onder meer de Belgische activiteiten en de onlineverkopen maken veel goed.",
+      "pubDate": "Wed, 05 Aug 2026 06:49:02 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:FQyU7AwYq_gBmxbXYS6Qct&context=ONLINE&ratio=16/9&width=480&u=1785912545000"
+    },
+    {
+      "id": "10681220",
+      "title": "SpaceX: spectaculaire omzetgroei, loodzware AI-uitgaven | België koopt groter belang in strategisch Euroclear | Waarom beurzen  opnieuw records breken",
+      "link": "https://www.tijd.be/r/t/1/id/10681220",
+      "category": "Podcasts",
+      "description": "De 7 is een dagelijkse podcast van De Tijd. U krijgt het nieuws dat u nodig heeft om uw dag goed te starten in zeven punten.",
+      "pubDate": "Wed, 05 Aug 2026 05:00:55 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:931R4myZacjBtjjzVEwsr9&context=ONLINE&ratio=16/9&width=480&u=1785906626000"
+    },
+    {
+      "id": "10681217",
+      "title": "AI-modellen van Anthropic en OpenAI slaan tijdens veiligheidstesten weer op hol",
+      "link": "https://www.tijd.be/r/t/1/id/10681217",
+      "category": "Ondernemen",
+      "description": "De AI-modellen van OpenAI en Anthropic zijn tijdens veiligheidstesten - opgezet door het Britse AI Security Institute - opnieuw hun boekje te buiten gegaan. 'Het is de eerste keer dat we risico's rond autonomie en misleiding zo duidelijk zien manifesteren in de echte wereld.'",
+      "pubDate": "Wed, 05 Aug 2026 04:57:06 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:0ehNpxoGqTo9DjG0S8YKbV&context=ONLINE&ratio=16/9&width=480&u=1785911301000"
+    },
+    {
+      "id": "10681112",
+      "title": "De ideale zomer van foodie Freddy Eats World: ‘Foodhallen zijn voor toeristen’",
+      "link": "https://www.tijd.be/r/t/1/id/10681112",
+      "category": "Sabato",
+      "description": "Frederik Van Bergen, op Instagram beter bekend als Freddy Eats World, geeft een inkijk in zijn ideale zomerdag, van sushi in Tokio tot ontspannen in de bossen van Lanaken.",
+      "pubDate": "Wed, 05 Aug 2026 04:45:35 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:7X_XBBuGaaMA95vHZRErWV&context=ONLINE&ratio=16/9&width=480&u=1785852789000"
+    },
+    {
+      "id": "10681137",
+      "title": "België koopt groter belang in effectenreus Euroclear",
+      "link": "https://www.tijd.be/r/t/1/id/10681137",
+      "category": "Politiek & Economie",
+      "description": "Als de Zweedse financiële groep SEB haar participatie in Euroclear zoals gepland verkoopt, kan België zijn rechtstreekse belang in de effectenreus van 13,2 naar 14 procent optrekken. Dat vernam De Tijd.",
+      "pubDate": "Wed, 05 Aug 2026 03:00:00 GMT",
+      "score": 14,
+      "in_de7": true,
+      "image": "https://images.tijd.be/view?iid=Elvis:0Dio4whJKciAXestoCygXw&context=ONLINE&ratio=16/9&width=480&u=1785907507000"
+    },
+    {
+      "id": "10681213",
+      "title": "SpaceX bijna operationeel winstgevend, explosie aan AI-investeringen",
+      "link": "https://www.tijd.be/r/t/1/id/10681213",
+      "category": "Ondernemen",
+      "description": "In zijn eerste kwartaalcijfers sinds de historische beursgang laat SpaceX zien dat het operationeel in sneltempo op weg is naar winst. Tegelijkertijd schieten de uitgaven aan AI-investeringen pijlsnel omhoog, maar die verdient het bedrijf volgens CEO Elon Musk 'binnen het jaar terug'.",
+      "pubDate": "Tue, 04 Aug 2026 22:24:59 GMT",
+      "score": 13,
+      "in_de7": true,
+      "image": "https://images.tijd.be/view?iid=Elvis:F3ey9eHuKl68ujszHAFFZr&context=ONLINE&ratio=16/9&width=480&u=1785910344000"
+    },
+    {
       "id": "10681211",
       "title": "Novo Nordisk verhoogt jaarprognose, maar stelt toch teleur",
       "link": "https://www.tijd.be/r/t/1/id/10681211",
