@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T16:32:03.096597+00:00",
+  "generated_at": "2026-08-07T17:31:19.458828+00:00",
   "date": "2026-08-07",
   "de7_title": "07/08 | Nooit zoveel airco’s verkocht in België als dit jaar | Droogte bedreigt stilaan binnenvaart | Bel20 tikt historisch hoogtepunt aan",
   "de7_matched_count": 1,
@@ -401,6 +401,28 @@
       "image": "https://images.tijd.be/view?iid=Elvis:1IpCcaa54QsBuorQcBYriy&context=ONLINE&ratio=16/9&width=480&u=1786119171000"
     },
     {
+      "id": "10681545",
+      "title": "Het postkantoor, de meest darwinistische belegging",
+      "link": "https://www.tijd.be/r/t/1/id/10681545",
+      "category": "Dossiers",
+      "description": "In een krimpende branche moet je je aanpassen om te overleven, en nergens is dat duidelijker dan bij de Europese postbode.",
+      "pubDate": "Fri, 07 Aug 2026 17:02:04 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:4gee8hZQ43fB0Ppj2jF6vR&context=ONLINE&ratio=16/9&width=480&u=1786115929000"
+    },
+    {
+      "id": "10681680",
+      "title": "Zijn telecombedrijven de volgende prooi van Elon Musk?",
+      "link": "https://www.tijd.be/r/t/1/id/10681680",
+      "category": "Ondernemen",
+      "description": "De wellicht niet eens zo heel erg verborgen parel in SpaceX zou weleens telecom kunnen zijn. Elon Musk hint steeds nadrukkelijker op de lancering van een eigen mobiel datanetwerk op basis van zijn internetsatellieten.",
+      "pubDate": "Fri, 07 Aug 2026 16:57:05 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:8ipq08bZa_w8X3cQNHYpO-&context=ONLINE&ratio=16/9&width=480&u=1786121828000"
+    },
+    {
       "id": "10681642",
       "title": "Met defensiepact counteren Saoedi-Arabië, Pakistan en Turkije pogingen van Iran om regio te domineren",
       "link": "https://www.tijd.be/r/t/1/id/10681642",
@@ -421,28 +443,6 @@
       "score": 1,
       "in_de7": false,
       "image": "https://images.tijd.be/view?iid=Elvis:3423G8mnanhA-zVLaX5nHF&context=ONLINE&ratio=16/9&width=480&u=1786118037000"
-    },
-    {
-      "id": "10681582",
-      "title": "Op de beleggersagenda volgende week: Amerikaanse inflatie, Sipef, Adyen",
-      "link": "https://www.tijd.be/r/t/1/id/10681582",
-      "category": "Markten Live",
-      "description": "De Verenigde Staten publiceren woensdag inflatiecijfers. Een dag later staan de bedrijfsresultaten van Sipef en Adyen op de agenda.",
-      "pubDate": "Fri, 07 Aug 2026 10:30:50 GMT",
-      "score": 0,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:46EB3v2pqv69u-aFiG9q-a&context=ONLINE&ratio=16/9&width=480&u=1786098570000"
-    },
-    {
-      "id": "10681636",
-      "title": "Amerikaanse arbeidsmarkt koelt fors af, kans op renteverhoging daalt",
-      "link": "https://www.tijd.be/r/t/1/id/10681636",
-      "category": "Markten Live",
-      "description": "De werkgelegenheid in de VS is in juli onverwacht gedaald en de cijfers van de jobcreatie in mei en juni zijn neerwaarts herzien. Daardoor daalt de kans dat de centrale bank in september de rente verhoogt.",
-      "pubDate": "Fri, 07 Aug 2026 13:06:48 GMT",
-      "score": 0,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:FjlCQp-YKiTA_R_TCvHqiO&context=ONLINE&ratio=16/9&width=480&u=1786109491000"
     }
   ]
 }
