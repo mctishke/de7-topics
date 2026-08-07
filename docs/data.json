@@ -1,7 +1,74 @@
 {
-  "generated_at": "2026-08-07T00:13:21.044637+00:00",
+  "generated_at": "2026-08-07T06:04:16.783159+00:00",
   "date": "2026-08-07",
-  "de7_title": "06/08 | Meer dan helft van werklozen die uitkeringen verliezen, vraagt leefloon aan | Recordbonussen in bankensector | Klopt Eli Lilly definitief Novo Nordisk?",
-  "de7_matched_count": 0,
-  "articles": []
+  "de7_title": "07/08 | Nooit zoveel airco’s verkocht in België als dit jaar | Droogte bedreigt stilaan binnenvaart | Bel20 tikt historisch hoogtepunt aan",
+  "de7_matched_count": 1,
+  "articles": [
+    {
+      "id": "10681280",
+      "title": "Nooit zoveel airco’s verkocht als dit jaar",
+      "link": "https://www.tijd.be/r/t/1/id/10681280",
+      "category": "Netto",
+      "description": "In de eerste helft van dit jaar zijn de helft meer airco’s geïnstalleerd in ons land dan in dezelfde periode in 2025. Nooit eerder werden er zoveel geplaatst - en dan zitten de twee hittegolven van 2026 nog niet in de cijfers.",
+      "pubDate": "Fri, 07 Aug 2026 03:00:00 GMT",
+      "score": 14,
+      "in_de7": true,
+      "image": "https://images.tijd.be/view?iid=Elvis:2gao0OGaKbB8UjkLDc-nwi&context=ONLINE&ratio=16/9&width=480&u=1786080589000"
+    },
+    {
+      "id": "10681553",
+      "title": "Van Eeckhout tikt 2 miljoen 'goedkope' Deceuninck-aandelen op de kop",
+      "link": "https://www.tijd.be/r/t/1/id/10681553",
+      "category": "Ondernemen",
+      "description": "Francis van Eeckhout heeft zijn belang in Deceuninck opgedreven tot bijna 32 procent. Het verplichte overnamebod leverde 1,9 miljoen extra aandelen op, ook al lag de biedprijs onder de beurskoers.",
+      "pubDate": "Fri, 07 Aug 2026 05:18:47 GMT",
+      "score": 6,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:33IqgKuc41R976Nsx5anhq&context=ONLINE&ratio=16/9&width=480&u=1786081565000"
+    },
+    {
+      "id": "10681552",
+      "title": "Nooit zoveel airco’s verkocht in België als dit jaar | Droogte bedreigt stilaan binnenvaart | Bel20 tikt historisch hoogtepunt aan",
+      "link": "https://www.tijd.be/r/t/1/id/10681552",
+      "category": "Podcasts",
+      "description": "De 7 is een dagelijkse podcast van De Tijd. U krijgt het nieuws dat u nodig heeft om uw dag goed te starten in zeven punten.",
+      "pubDate": "Fri, 07 Aug 2026 05:08:34 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:931R4myZacjBtjjzVEwsr9&context=ONLINE&ratio=16/9&width=480&u=1786079886000"
+    },
+    {
+      "id": "10681546",
+      "title": "Meta krijgt zware boete wegens gebrek aan bescherming van jonge gebruikers",
+      "link": "https://www.tijd.be/r/t/1/id/10681546",
+      "category": "Ondernemen",
+      "description": "Een Amerikaanse rechtbank eist dat Meta, het moederbedrijf van onder meer Instagram en Facebook, maatregelen neemt om jonge gebruikers op zijn platformen beter te beschermen.",
+      "pubDate": "Fri, 07 Aug 2026 04:44:33 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:D6Ghcuija7RBaK01o3_eqp&context=ONLINE&ratio=16/9&width=480&u=1786080789000"
+    },
+    {
+      "id": "10680384",
+      "title": "De festivalzomer van Ão-frontvrouw Brenda Corijn",
+      "link": "https://www.tijd.be/r/t/1/id/10680384",
+      "category": "Sabato",
+      "description": "Drie keer tweemaal daags spelen en tussendoor touren buiten de landsgrenzen: Ão-frontvrouw Brenda Corijn neemt je mee naar haar festivalzomer, in een dubbelgesprek met haar kostuumontwerpster, Frauke Van Aerde.",
+      "pubDate": "Fri, 07 Aug 2026 04:45:36 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:BYeEhCgVa8uB15PvtnX49M&context=ONLINE&ratio=16/9&width=480&u=1786028041000"
+    },
+    {
+      "id": "10681479",
+      "title": "Engie krijgt grote toegeving in deal over kerncentrales",
+      "link": "https://www.tijd.be/r/t/1/id/10681479",
+      "category": "Politiek & Economie",
+      "description": "De federale regering komt Engie tegemoet in de gesprekken over de overname van de kerncentrales. Terwijl de energiegroep vreesde miljarden extra te moeten opzijzetten voor de latere ontmanteling van reactoren, zal het volgens onze informatie niet zover komen. Als de ontmanteling toch meer kost, draait de belastingbetaler ervoor op.",
+      "pubDate": "Fri, 07 Aug 2026 03:01:51 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:AcoeNBW_Khb8NOrcsB-3TT&context=ONLINE&ratio=16/9&width=480&u=1786051951000"
+    }
+  ]
 }
