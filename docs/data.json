@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T08:38:12.024177+00:00",
+  "generated_at": "2026-08-07T09:39:19.634203+00:00",
   "date": "2026-08-07",
   "de7_title": "07/08 | Nooit zoveel airco’s verkocht in België als dit jaar | Droogte bedreigt stilaan binnenvaart | Bel20 tikt historisch hoogtepunt aan",
   "de7_matched_count": 1,
@@ -49,6 +49,17 @@
       "image": "https://images.tijd.be/view?iid=Elvis:EREkM3DeKYp9ga62aFWJSr&context=ONLINE&ratio=16/9&width=480&u=1786088230000"
     },
     {
+      "id": "10681467",
+      "title": "Hoe Rusland met 'mensensafari's' Oekraïense burgers probeert te breken",
+      "link": "https://www.tijd.be/r/t/1/id/10681467",
+      "category": "Dossiers",
+      "description": "Om de impasse in het conflict met Oekraïne te doorbreken, grijpt Rusland volgens Kiev almaar vaker naar een omstreden tactiek: 'mensensafari's'. Door dronepiloten als in een videospel te laten jagen op burgers, wil Moskou de veerkracht van de Oekraïners slopen.",
+      "pubDate": "Fri, 07 Aug 2026 09:26:50 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:B3kJx3yX4MLA3z1gDzpKXz&context=ONLINE&ratio=16/9&width=480&u=1786095013000"
+    },
+    {
       "id": "10681552",
       "title": "Nooit zoveel airco’s verkocht in België als dit jaar | Droogte bedreigt stilaan binnenvaart | Bel20 tikt historisch hoogtepunt aan",
       "link": "https://www.tijd.be/r/t/1/id/10681552",
@@ -91,6 +102,28 @@
       "score": 2,
       "in_de7": false,
       "image": "https://images.tijd.be/view?iid=Elvis:AcoeNBW_Khb8NOrcsB-3TT&context=ONLINE&ratio=16/9&width=480&u=1786051951000"
+    },
+    {
+      "id": "10681175",
+      "title": "Over de vloer | Geen held als Odysseus",
+      "link": "https://www.tijd.be/r/t/1/id/10681175",
+      "category": "Opinie",
+      "description": "Als Odysseus gevraagd wordt mee ten strijde te trekken, heeft hij daar geen zin in. Hij blijft liever gewoon thuis. Wat een verademing.",
+      "pubDate": "Fri, 07 Aug 2026 09:01:12 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:AEDOCJRS4It8CdlkRTttcM&context=ONLINE&ratio=16/9&width=480&u=1785952215000"
+    },
+    {
+      "id": "10681153",
+      "title": "De matrix | Schakelen tussen mensen en AI-modellen",
+      "link": "https://www.tijd.be/r/t/1/id/10681153",
+      "category": "Opinie",
+      "description": "Nu bedrijven almaar meer een amalgaam worden van mens en machine, is de vraag: wie doet straks wat?",
+      "pubDate": "Fri, 07 Aug 2026 08:43:49 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:9R2O31zG4ejBOQQvH725lm&context=ONLINE&ratio=16/9&width=480&u=1785952202000"
     }
   ]
 }
