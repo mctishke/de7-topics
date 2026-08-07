@@ -1,6 +1,83 @@
 {
   "articles": [
     {
+      "id": "10681673",
+      "title": "Europa breidt satellietnetwerk uit met rol voor Belgisch Aerospacelab",
+      "link": "https://www.tijd.be/r/t/1/id/10681673",
+      "category": "Ondernemen",
+      "description": "Europa breidt zijn satellietnetwerk IRIS2 uit met 66 satellieten. Aerospacelab is het enige Belgische bedrijf op de lijst van Europese constructeurs voor het project dat in 2029 operationeel moet zijn.",
+      "pubDate": "Fri, 07 Aug 2026 19:03:05 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:FqCLkuuoqazAxfIH810DWo&context=ONLINE&ratio=16/9&width=480&u=1786129388000"
+    },
+    {
+      "id": "10681692",
+      "title": "Immense autocollectie van bingokoning Willy Michiels wordt geveild",
+      "link": "https://www.tijd.be/r/t/1/id/10681692",
+      "category": "Ondernemen",
+      "description": "De eigenzinnige autocollectie van de overleden bingokoning Willy Michiels wordt in september geveild. Bijna honderd auto's van allerlei tijdperken, merken en in zeer verschillende staat worden door Sotheby's verkocht.",
+      "pubDate": "Fri, 07 Aug 2026 18:55:28 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:4020n8XrKzx8Ow7j8UTGeU&context=ONLINE&ratio=16/9&width=480&u=1786128931000"
+    },
+    {
+      "id": "10681630",
+      "title": "Oude economie beleeft revival: brede rally zet beurzen op record",
+      "link": "https://www.tijd.be/r/t/1/id/10681630",
+      "category": "Markten Live",
+      "description": "Sterke bedrijfsresultaten in meer traditionele sectoren, zoals de bankensector, schragen een beursrally die veel breder is dan in de eerste jaarhelft, toen alles om AI- en chipaandelen draaide.",
+      "pubDate": "Fri, 07 Aug 2026 18:43:00 GMT",
+      "score": 1,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:01svYT7fqXDAepKNTpG0Xm&context=ONLINE&ratio=16/9&width=480&u=1786129276000"
+    },
+    {
+      "id": "10681694",
+      "title": "Rechters leggen ook in beroep bouw van Trumps balzaal Witte Huis stil",
+      "link": "https://www.tijd.be/r/t/1/id/10681694",
+      "category": "Politiek & Economie",
+      "description": "De Amerikaanse president Donald Trump moet de bouw van zijn balzaal in het Witte Huis stopzetten. Dat oordeelde een Amerikaans federaal hof van beroep. Als tijdelijke bewoner van de ambtswoning kan een president het gebouw niet fundamenteel verbouwen zonder goedkeuring van het Congres, klinkt het.",
+      "pubDate": "Fri, 07 Aug 2026 18:33:18 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:0yLIRShYKpSA33MNmCr360&context=ONLINE&ratio=16/9&width=480&u=1786127602000"
+    },
+    {
+      "id": "10681450",
+      "title": "Groeten uit Belgrade (Namen)",
+      "link": "https://www.tijd.be/r/t/1/id/10681450",
+      "category": "Cultuur",
+      "description": "Deze zomer reist Rik Van Puymbroeck naar verre plekken in de wereld. Hij kan daarvoor gewoon in eigen land blijven.",
+      "pubDate": "Fri, 07 Aug 2026 18:31:51 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:EtTMnwsNKrzBxVmD6wj5IP&context=ONLINE&ratio=16/9&width=480&u=1786023168000"
+    },
+    {
+      "id": "10681603",
+      "title": "Iedereen trekt naar Woumen voor aardbeienhype dankzij 9-jarige Germain: 'We zitten aan 1,2 miljoen views'",
+      "link": "https://www.tijd.be/r/t/1/id/10681603",
+      "category": "Ondernemen",
+      "description": "Het klinkt als ‘crazy woman’ en Fraisy Woumen bleek ook een te gek idee van een jonge vrouw. Wie iets wil eten op het aardbeienterras van Jitske Roose moet nu langer dan een uur aanschuiven. Het geheim? Het concept en een viraal filmpje met de 9-jarige Germain.",
+      "pubDate": "Fri, 07 Aug 2026 18:31:49 GMT",
+      "score": 5,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:01xvXO2q43PAD_4AflhemC&context=ONLINE&ratio=16/9&width=480&u=1786112986000"
+    },
+    {
+      "id": "10681579",
+      "title": "OpenAI’s hardwaretoestel wordt ‘pratende hockeypuck’ van ruim 300 dollar",
+      "link": "https://www.tijd.be/r/t/1/id/10681579",
+      "category": "Ondernemen",
+      "description": "Er lekken steeds meer details uit over het eerste fysieke AI-product van de maker van ChatGPT. Volgens het persbureau Bloomberg zal de draagbare speaker - waarmee je kan praten - zo groot zijn als een hockeypuck en meer dan 300 dollar kosten.",
+      "pubDate": "Fri, 07 Aug 2026 18:29:57 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:A0OdEdcxK9dAAJGe7NJ59F&context=ONLINE&ratio=16/9&width=480&u=1786128756000"
+    },
+    {
       "id": "10681655",
       "title": "Sociale media en hun tabaksmoment",
       "link": "https://www.tijd.be/r/t/1/id/10681655",
