@@ -1,9 +1,20 @@
 {
-  "generated_at": "2026-08-10T18:00:46.803817+00:00",
+  "generated_at": "2026-08-10T19:13:21.600730+00:00",
   "date": "2026-08-10",
   "de7_title": "De 5 op reis | Naar India met Sofie Vanlommel",
   "de7_matched_count": 0,
   "articles": [
+    {
+      "id": "10681844",
+      "title": "'Wall Street-titanen werken aan 500 miljard dollar financiering voor AI-projecten Nvidia'",
+      "link": "https://www.tijd.be/r/t/1/id/10681844",
+      "category": "Ondernemen",
+      "description": "Een consortium met een waslijst van financiële sleutelspelers als Apollo en Goldman Sachs gaat 500 miljard dollar aan kredieten verstrekken aan de chipreus Nvidia, meldt de krant Financial Times. Het geld zou bestemd zijn voor de verdere uitbouw van AI-infrastructuur.",
+      "pubDate": "Mon, 10 Aug 2026 18:06:07 GMT",
+      "score": 6,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:BA0jsec8aS4B65DvQtCqrR&context=ONLINE&ratio=16/9&width=480&u=1786386425000"
+    },
     {
       "id": "10681738",
       "title": "Europa's politieke leiders zijn kwetsbaarder gebleken dan Europa’s grenzen",
@@ -245,6 +256,39 @@
       "score": 2,
       "in_de7": false,
       "image": "https://images.tijd.be/view?iid=Elvis:BA0jsec8aS4B65DvQtCqrR&context=ONLINE&ratio=16/9&width=480&u=1786384246000"
+    },
+    {
+      "id": "10681848",
+      "title": "Zeker 111 doden bij aardbeving in Colombia, dat noodtoestand uitroept",
+      "link": "https://www.tijd.be/r/t/1/id/10681848",
+      "category": "Politiek & Economie",
+      "description": "De regering van de nieuwe president Abelardo de la Espriella heeft in Colombia de noodtoestand afgekondigd, nadat een zware aardbeving al zeker 111 dodelijke slachtoffers heeft gemaakt.",
+      "pubDate": "Mon, 10 Aug 2026 18:48:41 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:14dmyPwz4rrBXYVTsgvfJo&context=ONLINE&ratio=16/9&width=480&u=1786388108000"
+    },
+    {
+      "id": "10681734",
+      "title": "Nergens zonder weg in Brussel",
+      "link": "https://www.tijd.be/r/t/1/id/10681734",
+      "category": "Dossiers",
+      "description": "Verdwalend in eigen land kijkt Rik Van Puymbroeck naar wat verwondert en soms overdondert.",
+      "pubDate": "Mon, 10 Aug 2026 18:31:45 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:Du88du_Rq7NA5VUq36TaZF&context=ONLINE&ratio=16/9&width=480&u=1786380488000"
+    },
+    {
+      "id": "10681821",
+      "title": "Hormuz-hardliner Mohsen Rezaee nieuwe Iraanse veiligheidschef",
+      "link": "https://www.tijd.be/r/t/1/id/10681821",
+      "category": "Dossiers",
+      "description": "Mohsen Rezaee is de nieuwe chef van de Iraanse Nationale Veiligheidsraad. Dat hij de controle over de Straat van Hormuz waardevoller acht dan 'tientallen atoombommen' wijst erop dat Iran zijn harde lijn aanhoudt in het steekspel rond de cruciale energiecorridor.",
+      "pubDate": "Mon, 10 Aug 2026 18:28:09 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:BgSonZW_KL99YuGA0WuIG7&context=ONLINE&ratio=16/9&width=480&u=1786386493000"
     },
     {
       "id": "10681702",
