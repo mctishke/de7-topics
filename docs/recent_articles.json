@@ -1,6 +1,199 @@
 {
   "articles": [
     {
+      "id": "10681723",
+      "title": "De nieuwe AI-favoriet van beleggers: een uitzendbedrijf",
+      "link": "https://www.tijd.be/r/t/1/id/10681723",
+      "category": "Markten Live",
+      "description": "De verdubbeling van de beurskoers van de Japanse uitzendreus Recruit sinds een dieptepunt in maart illustreert hoezeer de beursrally deze zomer is verbreed.",
+      "pubDate": "Mon, 10 Aug 2026 05:27:45 GMT",
+      "score": 0,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:CaLw86FdKoc8evEidsnJ53&context=ONLINE&ratio=16/9&width=480&u=1786341828000"
+    },
+    {
+      "id": "10677827",
+      "title": "Verfrissing nodig? Onze vijf favoriete zomeraperitieven",
+      "link": "https://www.tijd.be/r/t/1/id/10677827",
+      "category": "Sabato",
+      "description": "De zomer vraagt om lichte, frisse smaken in het glas. Van sprankelende bubbels tot alcoholvrije cocktails: dit zijn onze vijf favoriete zomeraperitieven om het aperomoment net dat tikkeltje feestelijker te maken.",
+      "pubDate": "Mon, 10 Aug 2026 04:45:16 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:Dpw7GPu4KoK82B3xHEUUew&context=ONLINE&ratio=16/9&width=480&u=1786103594000"
+    },
+    {
+      "id": "10681714",
+      "title": "Nooit eerder werden zoveel EPC-deskundigen geschorst",
+      "link": "https://www.tijd.be/r/t/1/id/10681714",
+      "category": "Netto",
+      "description": "Vorig jaar is de erkenning van 252 energiedeskundigen minstens tijdelijk geschorst. Nooit eerder waren er dat zoveel. Ook het aantal boetes voor niet correct opgestelde EPC-attesten nam toe.",
+      "pubDate": "Sun, 09 Aug 2026 17:30:33 GMT",
+      "image": "https://images.tijd.be/view?iid=Elvis:ERnfSA-Ra5JBpc28B2G7pU&context=ONLINE&ratio=16/9&width=480&u=1786339833000"
+    },
+    {
+      "id": "10681719",
+      "title": "Demi Vollering wint Tour de France Femmes",
+      "link": "https://www.tijd.be/r/t/1/id/10681719",
+      "category": "Ondernemen",
+      "description": "De Nederlandse wielrenster Demi Vollering heeft zondag in Nice voor de tweede keer de Tour de France Femmes gewonnen.",
+      "pubDate": "Sun, 09 Aug 2026 17:23:10 GMT",
+      "image": "https://images.tijd.be/view?iid=Elvis:Dd8_7MDbaW4A9HKxTPwQfn&context=ONLINE&ratio=16/9&width=480&u=1786341019000"
+    },
+    {
+      "id": "10681717",
+      "title": "Pentagon vraagt Amerikaanse defensiebedrijven om productie op te krikken",
+      "link": "https://www.tijd.be/r/t/1/id/10681717",
+      "category": "Politiek & Economie",
+      "description": "Het Amerikaanse ministerie van Defensie dringt er bij de defensiebedrijven in de VS op aan dat ze de productie van cruciale wapensystemen opdrijven. Als gevolg van de aanslepende oorlog in Iran nemen de zorgen over  wapen- en munitietekorten toe.",
+      "pubDate": "Sun, 09 Aug 2026 16:31:39 GMT",
+      "image": "https://images.tijd.be/view?iid=Elvis:3H380plWaVg94_H5Psq_5Q&context=ONLINE&ratio=16/9&width=480&u=1786340933000"
+    },
+    {
+      "id": "10681524",
+      "title": "De week die komt: Amerikaanse inflatie, zonsverduistering, Digi, Sipef en Adyen",
+      "link": "https://www.tijd.be/r/t/1/id/10681524",
+      "category": "Dossiers",
+      "description": "Daalt de Amerikaanse inflatie verder, hoe uniek is de totale zonsverduistering en hoe hebben Digi, Sipef en Adyen gepresteerd? Dat komt u deze week te weten.",
+      "pubDate": "Sun, 09 Aug 2026 16:00:00 GMT",
+      "image": "https://images.tijd.be/view?iid=Elvis:BFwBPgHBq_58eLY1aXpIML&context=ONLINE&ratio=16/9&width=480&u=1786336853000"
+    },
+    {
+      "id": "10681716",
+      "title": "Israël verwerpt Trumps 15 puntenplan voor Gaza",
+      "link": "https://www.tijd.be/r/t/1/id/10681716",
+      "category": "Dossiers",
+      "description": "Israël zal zich niet terugtrekken uit de Gazastrook zolang de Palestijnse terreurorganisatie Hamas zich niet heeft ontwapend, zegt premier Benjamin Netanyahu.",
+      "pubDate": "Sun, 09 Aug 2026 12:37:21 GMT",
+      "image": "https://images.tijd.be/view?iid=Elvis:4f-itna0Kkl9bnCVb3owoj&context=ONLINE&ratio=16/9&width=480&u=1786338556000"
+    },
+    {
+      "id": "10681713",
+      "title": "Economen Triodos-bank: 'Extreme hitte kan Europa 180 miljard euro kosten'",
+      "link": "https://www.tijd.be/r/t/1/id/10681713",
+      "category": "Politiek & Economie",
+      "description": "De Nederlandse duurzame bank Triodos schat dat de extreme hitte en de aanhoudende droogte in Europa de voorspelde economische groei voor dit jaar zullen tenietdoen. Voor België verwachten de Triodos-economen een economische krimp met ongeveer 1 procent.",
+      "pubDate": "Sun, 09 Aug 2026 11:11:51 GMT",
+      "image": "https://images.tijd.be/view?iid=Elvis:Ep2j8qKb4Ri9BJq2hUF33K&context=ONLINE&ratio=16/9&width=480&u=1786338388000"
+    },
+    {
+      "id": "10681709",
+      "title": "Duits handelstekort met China groeit, Peking steeds minder afhankelijk van Europese industrie",
+      "link": "https://www.tijd.be/r/t/1/id/10681709",
+      "category": "Politiek & Economie",
+      "description": "De Duitse export naar China is in de eerste helft van dit jaar met zo’n 5 miljard euro gedaald. Tegelijkertijd groeide de invoer vanuit China naar Duitsland. Het handelstekort tussen de twee is daardoor verder opgelopen.",
+      "pubDate": "Sun, 09 Aug 2026 08:00:05 GMT",
+      "image": "https://images.tijd.be/view?iid=Elvis:6VNGvbOq4ntBukonmD74dp&context=ONLINE&ratio=16/9&width=480&u=1786341482000"
+    },
+    {
+      "id": "10681708",
+      "title": "Noodtoestand door bosbranden in Canada: meer dan 20.000 inwoners op de vlucht",
+      "link": "https://www.tijd.be/r/t/1/id/10681708",
+      "category": "Politiek & Economie",
+      "description": "In het Canadese British Columbia zijn nu al meer dan 20.000 bewoners geëvacueerd door grote bosbranden, waarbij al zeker 10.000 hectare is verwoest. De drie afgelopen bosbrandseizoenen waren de meest verwoestende ooit in Canada. De lokale overheid heeft de noodtoestand afgekondigd.",
+      "pubDate": "Sun, 09 Aug 2026 06:30:35 GMT",
+      "image": "https://images.tijd.be/view?iid=Elvis:3GcaSGOgKvy9btFWMY2UIB&context=ONLINE&ratio=16/9&width=480&u=1786268901000"
+    },
+    {
+      "id": "10681704",
+      "title": "Amazon plant grootste gascentrale in VS voor drie datacenters",
+      "link": "https://www.tijd.be/r/t/1/id/10681704",
+      "category": "Ondernemen",
+      "description": "De Amerikaanse internetgigant Amazon investeert in de bouw van de grootste gascentrale tot nog toe in de Verenigde Staten. De energiecentrale moet de energiehonger van drie nieuwe datacenters helpen stillen en wordt mogelijk de grootste individuele uitstootbron van broeikasgassen in de VS.",
+      "pubDate": "Sat, 08 Aug 2026 16:39:16 GMT",
+      "image": "https://images.tijd.be/view?iid=Elvis:5i2vpJwvawZAbGgt2zIuRF&context=ONLINE&ratio=16/9&width=480&u=1786207174000"
+    },
+    {
+      "id": "10681700",
+      "title": "Duitsland heft weekendrijverbod vrachtwagens op door lage waterstanden",
+      "link": "https://www.tijd.be/r/t/1/id/10681700",
+      "category": "Ondernemen",
+      "description": "Drie belangrijke Duitse deelstaten hebben het rijverbod voor vrachtwagens in het weekend opgeheven. Dat moet voorkomen dat er door de lage stand van de Rijn onderdelentekorten ontstaan in de industrie.",
+      "pubDate": "Sat, 08 Aug 2026 10:13:56 GMT",
+      "image": "https://images.tijd.be/view?iid=Elvis:8efVvEJ4afN8wq528pR452&context=ONLINE&ratio=16/9&width=480&u=1786184068000"
+    },
+    {
+      "id": "10681698",
+      "title": "RWE ruilt Amerikaanse groene investeringen in voor bouw gascentrales",
+      "link": "https://www.tijd.be/r/t/1/id/10681698",
+      "category": "Politiek & Economie",
+      "description": "De Duitse energiereus RWE krijgt 1,2 miljard dollar van de Amerikaanse regering om af te zien van de bouw van drie offshore-windparken. Tegelijkertijd investeert het bedrijf een identiek bedrag fossiele energieprojecten.",
+      "pubDate": "Sat, 08 Aug 2026 08:39:47 GMT",
+      "image": "https://images.tijd.be/view?iid=Elvis:9I0WljLeK6Z956HlJ3k5Ml&context=ONLINE&ratio=16/9&width=480&u=1786178448000"
+    },
+    {
+      "id": "10681631",
+      "title": "Laten we de AI-revolutie open en betrouwbaar maken",
+      "link": "https://www.tijd.be/r/t/1/id/10681631",
+      "category": "Opinie",
+      "description": "De toekomst van AI mag niet worden geschreven door één bedrijf, één land of één model. Concurrentie heeft innovatie altijd al gestimuleerd. AI mag daarop geen uitzondering zijn.",
+      "pubDate": "Sat, 08 Aug 2026 05:50:50 GMT",
+      "image": "https://images.tijd.be/view?iid=Elvis:9H-8zrurKAfBnBbunl1Amc&context=ONLINE&ratio=16/9&width=480&u=1786111089000"
+    },
+    {
+      "id": "10678339",
+      "title": "Ice Ice Amy: wanneer een ingenieur een ijssalon begint",
+      "link": "https://www.tijd.be/r/t/1/id/10678339",
+      "category": "Sabato",
+      "description": "Ze is burgerlijk ingenieur chemie, maar haalde ook een koksdiploma en begon het ene foodproject na het andere: Amélie Cobbaert is goed op weg om een artisanaal ijssalon uit te bouwen tot een kleine keten.",
+      "pubDate": "Sat, 08 Aug 2026 03:25:51 GMT",
+      "image": "https://images.tijd.be/view?iid=Elvis:4yHkvOAeaQEBn6jRmlMxsM&context=ONLINE&ratio=16/9&width=480&u=1786138722000"
+    },
+    {
+      "id": "10681438",
+      "title": "Cassatie sluit achterpoort voor aandelenbonussen van multinationals",
+      "link": "https://www.tijd.be/r/t/1/id/10681438",
+      "category": "Ondernemen",
+      "description": "Jarenlang zochten multinationals een weg om aandelenbonussen buiten de sociale zekerheid te houden. Het Hof van Cassatie sluit die nu af met een argument dat de bedrijven zelf hadden aangedragen. ‘Aandelenbonussen zijn geen nichepraktijk.’",
+      "pubDate": "Sat, 08 Aug 2026 03:02:40 GMT",
+      "image": "https://images.tijd.be/view?iid=Elvis:ADVuMQFEa8UAYH1ULeUpc8&context=ONLINE&ratio=16/9&width=480&u=1786117789000"
+    },
+    {
+      "id": "10681539",
+      "title": "Aandelenbonus dreigt tot helft duurder te worden",
+      "link": "https://www.tijd.be/r/t/1/id/10681539",
+      "category": "Ondernemen",
+      "description": "Multinationals moeten sociale bijdragen betalen op de aandelenpakketten die ze aan hun werknemers geven, blijkt uit een arrest van Cassatie. Het gaat om zeker tientallen miljoenen euro’s en vele duizenden medewerkers.",
+      "pubDate": "Sat, 08 Aug 2026 03:02:38 GMT",
+      "image": "https://images.tijd.be/view?iid=Elvis:BhL9GANtKuL9yzZAolGzXv&context=ONLINE&ratio=16/9&width=480&u=1786136709000"
+    },
+    {
+      "id": "10681476",
+      "title": "IKEA-baas Juvencio Maeztu: ‘Het bedrag dat mensen aan het einde van de maand overhouden is mijn belangrijkste concurrent’",
+      "link": "https://www.tijd.be/r/t/1/id/10681476",
+      "category": "Ondernemen",
+      "description": "Met ‘democratisch design’ veroverde IKEA de huiskamers van de wereld - alleen al van de Lack-tafeltjes gaan er jaarlijks tot 20 miljoen over de toonbank. Maar de financiële resultaten stagneren al jaren en het recente prijsverlagingsoffensief deed pijn. Toch hamert Juvencio Maeztu, de CEO van de overkoepelende Ingka-holding, op die prijzen. ‘De meeste mensen worstelen om het einde van de maand te halen.’",
+      "pubDate": "Sat, 08 Aug 2026 03:02:15 GMT",
+      "image": "https://images.tijd.be/view?iid=Elvis:BQQHsXC7a2b89aPpSeCk9w&context=ONLINE&ratio=16/9&width=480&u=1786122784000"
+    },
+    {
+      "id": "10681421",
+      "title": "Migratie-expert Gerald Knaus: ‘Europa reageerde hysterisch op Ceuta. Dat hebben onze vijanden ook gezien’",
+      "link": "https://www.tijd.be/r/t/1/id/10681421",
+      "category": "Politiek & Economie",
+      "description": "Ongetwijfeld zijn er nu al Russen die bestuderen hoe ze via een nieuw migratiedrama de verkiezingen in pakweg Frankrijk kunnen manipuleren, voorspelt de gerenommeerde Oostenrijkse migratie-expert Gerald Knaus. ‘Tenzij Europa voldoende daadkracht toont. Dan kan het de irreguliere migratie tegen volgend jaar stoppen.’",
+      "pubDate": "Sat, 08 Aug 2026 03:00:00 GMT",
+      "image": "https://images.tijd.be/view?iid=Elvis:54iHV5_1aciBQWubY5z49W&context=ONLINE&ratio=16/9&width=480&u=1786172643000"
+    },
+    {
+      "id": "10680909",
+      "title": "Tip van de accountant: ‘Bespaar uw erfgenamen geld met een omgekeerde gesplitste aankoop’",
+      "link": "https://www.tijd.be/r/t/1/id/10680909",
+      "category": "Netto",
+      "description": "U wilt samen met uw vennootschap een onroerend goed aankopen. Traditioneel gebeurt dat via een gesplitste aankoop, waarbij uw vennootschap het vruchtgebruik koopt en u de blote eigendom. Soms kan ook een omgekeerde gesplitste aankoop interessant zijn.",
+      "pubDate": "Sat, 08 Aug 2026 03:00:00 GMT",
+      "image": null
+    },
+    {
+      "id": "10678827",
+      "title": "Bo Vande Sompele, CEO van Plainsight: ‘‘Moeten we geen CEO hebben?’, zei iemand. En wij dachten alle drie: ik pas’",
+      "link": "https://www.tijd.be/r/t/1/id/10678827",
+      "category": "Ondernemen",
+      "description": "Bo Vande Sompele verruilde de zekerheid van een grootbank voor het tempo van een Gentse AI-start-up. Samen met Plainsight werd ze de voorbije jaren volwassener. ‘Ik heb geleerd dat ik mezelf soms moet afremmen.’",
+      "pubDate": "Fri, 07 Aug 2026 23:00:00 GMT",
+      "image": "https://images.tijd.be/view?iid=Elvis:DtzE_aW8K8RAvALhHoniEs&context=ONLINE&ratio=16/9&width=480&u=1786202212000"
+    },
+    {
       "id": "10681696",
       "title": "Migrantenrel escaleert: Spaanse paspoortcontroles op vluchten uit Italië",
       "link": "https://www.tijd.be/r/t/1/id/10681696",
@@ -2492,15 +2685,6 @@
       "description": "Gedaan met sentiment en melodrama. In zijn exuberante ‘Rosebush Pruning’ tackelt de Braziliaanse regisseur Karim Aïnouz met beide voeten vooruit en met een donker gevoel voor humor een eigentijds thema: het gestoorde gedrag van de geprivilegieerde klasse. ‘Wanneer hebben we eindelijk de buik vol van mensen die denken dat rijkdom een vrijbrief is?’",
       "pubDate": "Tue, 28 Jul 2026 10:33:47 GMT",
       "image": "https://images.tijd.be/view?iid=Elvis:CEgeyFoEKvP8xr11kzQjOb&context=ONLINE&ratio=16/9&width=480&u=1785247494000"
-    },
-    {
-      "id": "10678911",
-      "title": "Baan u een weg door de wildgroei aan actieve ETF’s",
-      "link": "https://www.tijd.be/r/t/1/id/10678911",
-      "category": "Markten Live",
-      "description": "Op de Euronext-beurzen noteren intussen al meer dan 4.000 ETF’s of beursgenoteerde fondsen. Bijna 11 procent daarvan zijn zogenaamde actieve ETF’s, die verder gaan dan het slaafs volgen van een index. Maar waarom zou u zo’n ETF kiezen en waarop moet u letten?",
-      "pubDate": "Fri, 24 Jul 2026 14:15:10 GMT",
-      "image": "https://images.tijd.be/view?iid=Elvis:CPJ-XONo4tkAM08WnzPuOe&context=ONLINE&ratio=16/9&width=480&u=1785166112000"
     }
   ]
 }
