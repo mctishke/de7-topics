@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T11:54:06.778228+00:00",
+  "generated_at": "2026-08-11T12:40:00.506976+00:00",
   "date": "2026-08-11",
   "de7_title": "De 7 Extra | Duurste 2 minuten van de zomer: zonsverduistering is booming business",
   "de7_matched_count": 1,
@@ -14,6 +14,17 @@
       "score": 12,
       "in_de7": true,
       "image": "https://images.tijd.be/view?iid=Elvis:BQ1pfXYPaqw8tfvTNfG6W0&context=ONLINE&ratio=16/9&width=480&u=1786426158000"
+    },
+    {
+      "id": "10681829",
+      "title": "Recensie 'Motor City' | Gespierde, woordeloze actie met een hart",
+      "link": "https://www.tijd.be/r/t/1/id/10681829",
+      "category": "Cultuur",
+      "description": "Geen dialogen en toch expressief. De tragische en explosieve thriller 'Motor City' ontpopt zich tot een van de evenementen van dit filmjaar.",
+      "pubDate": "Tue, 11 Aug 2026 12:22:59 GMT",
+      "score": 5,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:4GCGVCgy4Jo8dR7oYTsOHV&context=ONLINE&ratio=16/9&width=480&u=1786451957000"
     },
     {
       "id": "10681857",
@@ -80,6 +91,17 @@
       "score": 4,
       "in_de7": false,
       "image": "https://images.tijd.be/view?iid=Elvis:6yUOdO4T4tc9_z9PmD_etj&context=ONLINE&ratio=16/9&width=480&u=1786443452000"
+    },
+    {
+      "id": "10681824",
+      "title": "Recensie | 'Hen' is geen kip zonder kop",
+      "link": "https://www.tijd.be/r/t/1/id/10681824",
+      "category": "Cultuur",
+      "description": "Geen betere manier om de mens en zijn kwalijke kanten onder de loep te nemen dan door de ogen van een buitenstaander, redeneerde de Hongaarse cineast György Pálfi. Het resultaat is 'Hen', een onweerstaanbaar avontuur met in de hoofdrol een kip.",
+      "pubDate": "Tue, 11 Aug 2026 11:58:52 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:9pjY8gXDKk0Aio0kII3nbl&context=ONLINE&ratio=16/9&width=480&u=1786451639000"
     },
     {
       "id": "10681830",
@@ -234,6 +256,17 @@
       "score": 0,
       "in_de7": false,
       "image": "https://images.tijd.be/view?iid=Elvis:4fcJ20e6qtr9oO8Yg6532E&context=ONLINE&ratio=16/9&width=480&u=1786444728000"
+    },
+    {
+      "id": "10681854",
+      "title": "Beleggersagenda van woensdag 12 augustus: Amerikaanse inflatie",
+      "link": "https://www.tijd.be/r/t/1/id/10681854",
+      "category": "Markten Live",
+      "description": "Een verdere terugval van de Amerikaanse inflatie in juli kan de speculatie over een renteverhoging door de Fed volgende maand nog meer temperen.",
+      "pubDate": "Tue, 11 Aug 2026 12:01:39 GMT",
+      "score": 0,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:27gh1uF0K719WtQ4sa4AOE&context=ONLINE&ratio=16/9&width=480&u=1786426073000"
     }
   ]
 }
