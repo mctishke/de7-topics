@@ -1,6 +1,72 @@
 {
   "articles": [
     {
+      "id": "10681857",
+      "title": "Lakefront Biotherapeutics dringt operationeel verlies terug",
+      "link": "https://www.tijd.be/r/t/1/id/10681857",
+      "category": "Ondernemen",
+      "description": "Lakefront Biotherapeutics, voorheen Galapagos, noteerde over de eerste jaarhelft een operationeel verlies van 107 miljoen euro. Dat is grosso modo een halvering ten opzichte van de eerste helft van 2025.",
+      "pubDate": "Tue, 11 Aug 2026 05:39:25 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:9wqmr5JJqnH8sXfn0pF_vg&context=ONLINE&ratio=16/9&width=480&u=1786426768000"
+    },
+    {
+      "id": "10681859",
+      "title": "Miljoenenvoordeel valt weg voor batterijparken | VS proberen koortsachtig rentestijging te counteren | Meloni gedwongen om te blijven kappen op Spanje",
+      "link": "https://www.tijd.be/r/t/1/id/10681859",
+      "category": "Podcasts",
+      "description": "De 7 is een dagelijkse podcast van De Tijd. U krijgt het nieuws dat u nodig heeft om uw dag goed te starten in zeven punten.",
+      "pubDate": "Tue, 11 Aug 2026 04:57:30 GMT",
+      "score": 1,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:931R4myZacjBtjjzVEwsr9&context=ONLINE&ratio=16/9&width=480&u=1786425973000"
+    },
+    {
+      "id": "10681752",
+      "title": "Roadtrip Zweden: 'Een Volvo moet vanop 500 meter herkenbaar zijn'",
+      "link": "https://www.tijd.be/r/t/1/id/10681752",
+      "category": "Sabato",
+      "description": "Nadat de radiator van z'n Lotus Elise in Zuid-Tirol de geest gaf, gooit journalist Bert Voet het over een andere boeg. Met zijn Volvo 240 (1991) rijdt hij naar Zweden, een land met een heerlijke autocultuur waar je – mits wat zoeken – ook goed kunt eten.",
+      "pubDate": "Tue, 11 Aug 2026 04:45:29 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:2dad25Xzqmp8Ji8794GvIE&context=ONLINE&ratio=16/9&width=480&u=1786366938000"
+    },
+    {
+      "id": "10681799",
+      "title": "File op het elektriciteitsnet",
+      "link": "https://www.tijd.be/r/t/1/id/10681799",
+      "category": "Opinie",
+      "description": "Investeringen in het elektriciteitsnet zijn cruciaal om te vermijden dat bedrijven in de file moeten staan om te kunnen opstarten. Dat geldt niet alleen voor Vlaanderen. Ook de Waalse regering, die talmt met de nieuwe bovengrondse hoogspanningsverbinding Boucle du Hainaut, moet zich daarvan bewust zijn.",
+      "pubDate": "Tue, 11 Aug 2026 03:01:51 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:3X2LeHiAaASBrzc9xff1BH&context=ONLINE&ratio=16/9&width=480&u=1786396344000"
+    },
+    {
+      "id": "10680386",
+      "title": "‘Bewezen op het slagveld’ als verkoopargument: Israëls defensie-industrie boomt, met Europa als grootste klant",
+      "link": "https://www.tijd.be/r/t/1/id/10680386",
+      "category": "Politiek & Economie",
+      "description": "De Israëlische defensie-industrie breekt records. De internationale vraag naar wapensystemen die zich op het slagveld bewezen hebben, doet de orderboeken vollopen én lokt zowel gevestigde technologiebedrijven als start-ups naar de defensiesector. Europa uit dan wel hevige kritiek op de Israëlische oorlogen, tegelijk is het de grootste klant.",
+      "pubDate": "Tue, 11 Aug 2026 03:01:39 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:1tU_iDRn4l19_ej2cOmUlO&context=ONLINE&ratio=16/9&width=480&u=1786396353000"
+    },
+    {
+      "id": "10681842",
+      "title": "Nu batterijparken boomen, valt hun miljoenenvoordeel weg",
+      "link": "https://www.tijd.be/r/t/1/id/10681842",
+      "category": "Ondernemen",
+      "description": "Wie grote batterijparken wil bouwen in België zal daarvoor straks geen vrijstelling meer krijgen van de stroomnettarieven. Dankzij dat miljoenenvoordeel kon België zich ontpoppen als een van de snelst groeiende batterijmarkten in Europa.",
+      "pubDate": "Tue, 11 Aug 2026 03:00:00 GMT",
+      "score": 12,
+      "in_de7": true,
+      "image": "https://images.tijd.be/view?iid=Elvis:BQ1pfXYPaqw8tfvTNfG6W0&context=ONLINE&ratio=16/9&width=480&u=1786426158000"
+    },
+    {
       "id": "10681849",
       "title": "Ook Jeff Bezos zit in consortium dat op punt staat derde van Liverpool te kopen",
       "link": "https://www.tijd.be/r/t/1/id/10681849",
@@ -20,7 +86,7 @@
       "pubDate": "Mon, 10 Aug 2026 18:48:41 GMT",
       "score": 2,
       "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:14dmyPwz4rrBXYVTsgvfJo&context=ONLINE&ratio=16/9&width=480&u=1786388108000"
+      "image": "https://images.tijd.be/view?iid=Elvis:14dmyPwz4rrBXYVTsgvfJo&context=ONLINE&ratio=16/9&width=480&u=1786422923000"
     },
     {
       "id": "10681734",
