@@ -1,6 +1,83 @@
 {
   "articles": [
     {
+      "id": "10682190",
+      "title": "België scoort na Cyprus het laagst voor betalen met cash",
+      "link": "https://www.tijd.be/r/t/1/id/10682190",
+      "category": "Politiek & Economie",
+      "description": "Cyprus is het enige land van de eurozone waar minder ondernemingen cash als betaalmiddel aanvaarden dan in België. Dat blijkt uit een tweejaarlijks onderzoek van de Europese Centrale Bank.",
+      "pubDate": "Thu, 13 Aug 2026 10:12:26 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:2mXTZxxXKzx96x1GdTsa8w&context=ONLINE&ratio=16/9&width=480&u=1786615950000"
+    },
+    {
+      "id": "10682189",
+      "title": "Anthropic aast op Israëlische start-up voor 6 miljard dollar",
+      "link": "https://www.tijd.be/r/t/1/id/10682189",
+      "category": "Ondernemen",
+      "description": "Anthropic, de Amerikaanse AI-speler achter de chatbot Claude, voert gesprekken om Decart AI te kopen. Dat meldt het persagentschap Bloomberg.",
+      "pubDate": "Thu, 13 Aug 2026 09:44:10 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:DcUD4A3l4fHAYEMuNIhG-K&context=ONLINE&ratio=16/9&width=480&u=1786614507000"
+    },
+    {
+      "id": "10682184",
+      "title": "Lotus vlamt naar record",
+      "link": "https://www.tijd.be/r/t/1/id/10682184",
+      "category": "Markten Live",
+      "description": "Met een winst van 61 procent dit jaar - goed voor een record - laat koekjesbakker Lotus Bakeries op de beurs de rest van de Bel20 en de Europese voedingssector ver achter zich.",
+      "pubDate": "Thu, 13 Aug 2026 09:41:05 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:6pTvOTRMqCZ9R-1rBjZW6A&context=ONLINE&ratio=16/9&width=480&u=1786614997000"
+    },
+    {
+      "id": "10681811",
+      "title": "De matrix | Hoe voorkomen we een robotkerkhof?",
+      "link": "https://www.tijd.be/r/t/1/id/10681811",
+      "category": "Opinie",
+      "description": "Zodra robots een massaproduct worden, wordt ook de milieu-impact een economische en maatschappelijke vraag.",
+      "pubDate": "Thu, 13 Aug 2026 09:26:01 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:0kf3A2Xga-P9ToFWkuI83i&context=ONLINE&ratio=16/9&width=480&u=1786616286000"
+    },
+    {
+      "id": "10682167",
+      "title": "Russische economie knoopt weer met groei aan, ondanks Oekraïense droneaanvallen",
+      "link": "https://www.tijd.be/r/t/1/id/10682167",
+      "category": "Dossiers",
+      "description": "Ondanks westerse sancties en Oekraïense droneacties is Rusland erin geslaagd het voorjaar af te sluiten met economische groei. Met dank aan een boomende defensiesector en flink consumerende gezinnen. 'Maar er is weinig reden om aan te nemen dat het herstel in het tweede kwartaal een duurzame ommekeer inluidt.'",
+      "pubDate": "Thu, 13 Aug 2026 09:20:26 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:DT2GEDl3Kts9jFXf4HsOuf&context=ONLINE&ratio=16/9&width=480&u=1786613873000"
+    },
+    {
+      "id": "10675633",
+      "title": "Deze mensen zetten Knokke op de kaart",
+      "link": "https://www.tijd.be/r/t/1/id/10675633",
+      "category": "Sabato",
+      "description": "Welke mensen maken Knokke tot de stad die ze is? Dit zijn de favorieten van onze correspondent die de stad door en door kent.",
+      "pubDate": "Thu, 13 Aug 2026 09:13:38 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:5Da13LaJq6aAcl-umfnyG3&context=ONLINE&ratio=16/9&width=480&u=1786612597000"
+    },
+    {
+      "id": "10682060",
+      "title": "Over de vloer | Wie weet echt hoe ongelijkheid voelt?",
+      "link": "https://www.tijd.be/r/t/1/id/10682060",
+      "category": "Opinie",
+      "description": "Bij bedrijven zijn er best veel initiatieven om ongelijkheid aan te pakken. Maar de uitdaging gaat verder. Vertegenwoordigen de beslissers genoeg verschillende ervaringen?",
+      "pubDate": "Thu, 13 Aug 2026 09:04:51 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:AEDOCJRS4It8CdlkRTttcM&context=ONLINE&ratio=16/9&width=480&u=1786538349000"
+    },
+    {
       "id": "10682114",
       "title": "Belgische infectioloog over ebolacrisis in Congo: ‘Het worstcasescenario is uitgekomen’",
       "link": "https://www.tijd.be/r/t/1/id/10682114",
@@ -249,7 +326,7 @@
       "pubDate": "Wed, 12 Aug 2026 14:24:15 GMT",
       "score": 0,
       "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:4uc4pZFYqOTAE2TyE0PAAM&context=ONLINE&ratio=16/9&width=480&u=1786544658000"
+      "image": "https://images.tijd.be/view?iid=Elvis:4uc4pZFYqOTAE2TyE0PAAM&context=ONLINE&ratio=16/9&width=480&u=1786615748000"
     },
     {
       "id": "10682098",
