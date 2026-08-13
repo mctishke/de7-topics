@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T07:49:42.277386+00:00",
+  "generated_at": "2026-08-13T09:02:20.470457+00:00",
   "date": "2026-08-13",
   "de7_title": "13/08 | Recordaantal vluchten over dichtbevolkte Brusselse noordrand | Banken beleven topzomer | Noors pensioenfonds haalt piekwinst van €30.000 per Noor",
   "de7_matched_count": 2,
@@ -38,6 +38,17 @@
       "image": "https://images.tijd.be/view?iid=Elvis:0lVrXYPHaeR9FBuYXJxWly&context=ONLINE&ratio=16/9&width=480&u=1786600671000"
     },
     {
+      "id": "10682114",
+      "title": "Belgische infectioloog over ebolacrisis in Congo: ‘Het worstcasescenario is uitgekomen’",
+      "link": "https://www.tijd.be/r/t/1/id/10682114",
+      "category": "Politiek & Economie",
+      "description": "‘Je zit met een perfecte storm. Het gezondheidssysteem is zeer fragiel.’ Vanop de eerste rij ziet infectioloog Laurens Liesenborghs hoe de ebola-uitbraak in Congo uitgroeide tot de tweede grootste ooit.",
+      "pubDate": "Thu, 13 Aug 2026 08:34:14 GMT",
+      "score": 5,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:0xHPsiMDqYI8euIzzM_PFY&context=ONLINE&ratio=16/9&width=480&u=1786610058000"
+    },
+    {
       "id": "10682030",
       "title": "Cesar Casier lanceert eigen gezichtsmaskers: ‘Mannen staan steeds meer open voor skincare’",
       "link": "https://www.tijd.be/r/t/1/id/10682030",
@@ -58,6 +69,17 @@
       "score": 3,
       "in_de7": false,
       "image": "https://images.tijd.be/view?iid=Elvis:3X2LeHiAaASBrzc9xff1BH&context=ONLINE&ratio=16/9&width=480&u=1786567199000"
+    },
+    {
+      "id": "10682096",
+      "title": "Cryptowallets minder veilig door opkomst AI",
+      "link": "https://www.tijd.be/r/t/1/id/10682096",
+      "category": "Dossiers",
+      "description": "Een programmeerfout in een populaire bitcoinwallet heeft hackers de toegang gegeven tot miljoenen dollars aan cryptomunten. Cybercriminelen richten steeds vaker hun pijlen op wallets met behulp van AI. In de eerste jaarhelft was het hacken ervan de lucratiefste aanvalsvorm in de cryptowereld.",
+      "pubDate": "Thu, 13 Aug 2026 08:24:51 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:3dlsCeLOKvaBgmf6-4JZgF&context=ONLINE&ratio=16/9&width=480&u=1786609945000"
     },
     {
       "id": "10682144",
@@ -112,7 +134,18 @@
       "pubDate": "Thu, 13 Aug 2026 06:39:58 GMT",
       "score": 2,
       "in_de7": false,
-      "image": null
+      "image": "https://images.tijd.be/view?iid=Elvis:EYpG6nThKFD8JUgEGsbGNk&context=ONLINE&ratio=16/9&width=480&u=1786603201000"
+    },
+    {
+      "id": "10682050",
+      "title": "De richtlijn door Rik Van Cauwelaert | Nurkse richtlijn",
+      "link": "https://www.tijd.be/r/t/1/id/10682050",
+      "category": "Opinie",
+      "description": "Volgens de Bulgaarse politicoloog Ivan Krastev heeft de Amerikaanse president Donald Trump de toekomst afgeschaft. Dat kan gevolgen hebben voor de dollar als wereldmunt.",
+      "pubDate": "Thu, 13 Aug 2026 08:30:15 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:04Ebly-qqv3BFh_4ZoHyJb&context=ONLINE&ratio=16/9&width=480&u=1786609840000"
     },
     {
       "id": "10682141",
