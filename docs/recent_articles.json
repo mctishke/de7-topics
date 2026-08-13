@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "id": "10682277",
+      "title": "Wie draagt de verliezen van een AI-bust?",
+      "link": "https://www.tijd.be/r/t/1/id/10682277",
+      "category": "Opinie",
+      "description": "Nvidia blijft maar nieuwe manieren verzinnen om de vraag naar zijn dure AI-chips op gang te houden. Ditmaal heeft het zes Wall Street-giganten aan boord gehaald om schuldproducten te ontwikkelen met aangekochte chips als onderpand. De verspreiding van de groeiende AI-schulden doet steeds meer vrezen voor een bail-out als het fout loopt.",
+      "pubDate": "Thu, 13 Aug 2026 19:50:26 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": null
+    },
+    {
       "id": "10682236",
       "title": "Failliete vermogensbeheerder van de superrijken laat put van 130 miljoen achter",
       "link": "https://www.tijd.be/r/t/1/id/10682236",
@@ -20,7 +31,7 @@
       "pubDate": "Thu, 13 Aug 2026 17:45:16 GMT",
       "score": 2,
       "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:0Pe7GGl6aC98ixY-2IicIS&context=ONLINE&ratio=16/9&width=480&u=1786648855000"
+      "image": null
     },
     {
       "id": "10682227",
@@ -31,7 +42,7 @@
       "pubDate": "Thu, 13 Aug 2026 17:37:57 GMT",
       "score": 0,
       "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:FQ5BvN_2ah2BTHY7y71lLZ&context=ONLINE&ratio=16/9&width=480&u=1786642680000"
+      "image": null
     },
     {
       "id": "10682272",
@@ -75,7 +86,7 @@
       "pubDate": "Thu, 13 Aug 2026 15:55:22 GMT",
       "score": 2,
       "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:4vE7dZtz4yMA7arJCk8KqV&context=ONLINE&ratio=16/9&width=480&u=1786637804000"
+      "image": null
     },
     {
       "id": "10681985",
@@ -251,7 +262,7 @@
       "pubDate": "Thu, 13 Aug 2026 10:41:53 GMT",
       "score": 1,
       "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:9B-XJJwkKHd9E-GTO5qIcL&context=ONLINE&ratio=16/9&width=480&u=1786647879000"
+      "image": null
     },
     {
       "id": "10681056",
