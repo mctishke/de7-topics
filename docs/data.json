@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T12:00:21.754528+00:00",
+  "generated_at": "2026-08-13T13:42:48.772532+00:00",
   "date": "2026-08-13",
   "de7_title": "13/08 | Recordaantal vluchten over dichtbevolkte Brusselse noordrand | Banken beleven topzomer | Noors pensioenfonds haalt piekwinst van €30.000 per Noor",
   "de7_matched_count": 2,
@@ -71,6 +71,17 @@
       "image": "https://images.tijd.be/view?iid=Elvis:DcUD4A3l4fHAYEMuNIhG-K&context=ONLINE&ratio=16/9&width=480&u=1786614507000"
     },
     {
+      "id": "10681929",
+      "title": "50 jaar Rough Trade: 'Het is een mythe dat bands geen labels meer nodig hebben'",
+      "link": "https://www.tijd.be/r/t/1/id/10681929",
+      "category": "Cultuur",
+      "description": "Vijftig jaar na de oprichting van Rough Trade is alles anders in de muziekindustrie. Maar Geoff Travis, de platenbaas die The Smiths, The Strokes en The Libertines tekende, voelt zich nog altijd een detective. 'Er is geen gebrek aan geweldige nieuwe muziek, integendeel.'",
+      "pubDate": "Thu, 13 Aug 2026 13:31:37 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:C5Dyryjt4h48u7wmtRf1hn&context=ONLINE&ratio=16/9&width=480&u=1786554595000"
+    },
+    {
       "id": "10682110",
       "title": "Een vliegtuig elke vijf minuten",
       "link": "https://www.tijd.be/r/t/1/id/10682110",
@@ -113,6 +124,28 @@
       "score": 3,
       "in_de7": false,
       "image": "https://images.tijd.be/view?iid=Elvis:8FA_UhAlKIAAYeeovwbTiG&context=ONLINE&ratio=16/9&width=480&u=1786609941000"
+    },
+    {
+      "id": "10681903",
+      "title": "Zomergast | Basejumper en wingsuitvlieger Cedric Dumont: ‘Ik ben graag thuis, het is hier heerlijk’",
+      "link": "https://www.tijd.be/r/t/1/id/10681903",
+      "category": "Ondernemen",
+      "description": "Zonovergoten of schaduwrijk? Met veel vertier of lui en loom? Acht weken lang peilen we naar het ultieme zomergevoel van een gast.",
+      "pubDate": "Thu, 13 Aug 2026 12:30:00 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:9ckCgLnvqBAB3x-hK965YZ&context=ONLINE&ratio=16/9&width=480&u=1786627795000"
+    },
+    {
+      "id": "10682048",
+      "title": "Hoe pak je de energetische renovatie van een appartement aan? 'Er is altijd een bewoner die zegt: 'Voor mij hoeft dat niet''",
+      "link": "https://www.tijd.be/r/t/1/id/10682048",
+      "category": "Netto",
+      "description": "Energetisch renoveren. Veel Vlamingen overwegen het. Weinigen weten hoe eraan te beginnen. Wij gaan langs bij vier lezers, met een expert ter zake. Welke opties hebben ze? Wat kost het hen? En hoe pakken ze dat het best aan? Vandaag: een appartementsgebouw in Mechelen.",
+      "pubDate": "Thu, 13 Aug 2026 12:09:29 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:DhygUSuKaZt9Bz6PHhTKWh&context=ONLINE&ratio=16/9&width=480&u=1786624530000"
     },
     {
       "id": "10682144",
@@ -234,6 +267,50 @@
       "score": 2,
       "in_de7": false,
       "image": "https://images.tijd.be/view?iid=Elvis:AEDOCJRS4It8CdlkRTttcM&context=ONLINE&ratio=16/9&width=480&u=1786538349000"
+    },
+    {
+      "id": "10682209",
+      "title": "Geen drinkwaterproblemen, maar Vlaanderen roept wel op spaarzaam te zijn met water",
+      "link": "https://www.tijd.be/r/t/1/id/10682209",
+      "category": "Dossiers",
+      "description": "De Vlaamse Droogtecommissie kondigt geen nieuwe maatregelen af tegen de aanhoudende droogte. De situatie blijft wel penibel, waardoor de Vlaamse overheid oproept zeer spaarzaam te zijn met water.",
+      "pubDate": "Thu, 13 Aug 2026 13:38:41 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:FmIgtDXG4wGBr_KSRn5DP0&context=ONLINE&ratio=16/9&width=480&u=1786628326000"
+    },
+    {
+      "id": "10682003",
+      "title": "Groeten uit Siberië en de Sahara (Lommel)",
+      "link": "https://www.tijd.be/r/t/1/id/10682003",
+      "category": "Cultuur",
+      "description": "Deze zomer reist Rik Van Puymbroeck naar verre plekken in de wereld. Hij kan daarvoor gewoon in eigen land blijven.",
+      "pubDate": "Thu, 13 Aug 2026 13:01:41 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:0H97uFh1KdEBOMZq5ijrty&context=ONLINE&ratio=16/9&width=480&u=1786613236000"
+    },
+    {
+      "id": "10682082",
+      "title": "Ons land is complex, maar waarom moet dat het probleem van de burger zijn?",
+      "link": "https://www.tijd.be/r/t/1/id/10682082",
+      "category": "Opinie",
+      "description": "België telt dertig ombudsdiensten bevoegd voor klachten. Dat doet veel mensen afhaken, omdat ze niet eens begrijpen bij wie ze hun ongenoegen kenbaar moeten maken.",
+      "pubDate": "Thu, 13 Aug 2026 12:06:33 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:Crasf-EPquYA2sMv1YzY9s&context=ONLINE&ratio=16/9&width=480&u=1786612018000"
+    },
+    {
+      "id": "10682039",
+      "title": "State of the Union | De Democraten zitten met een PVDA-probleem",
+      "link": "https://www.tijd.be/r/t/1/id/10682039",
+      "category": "Opinie",
+      "description": "Amerikaanse socialisten hebben de energie en de thema’s aan hun kant, maar in hun succes schuilt een risico voor de Democraten.",
+      "pubDate": "Thu, 13 Aug 2026 12:00:49 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:DMqhmOlSKi3AGDT_v3Tc9D&context=ONLINE&ratio=16/9&width=480&u=1786627882000"
     },
     {
       "id": "10682187",
