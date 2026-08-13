@@ -1,6 +1,81 @@
 {
   "articles": [
     {
+      "id": "10682149",
+      "title": "Sipef verhoogt winstprognose: '2026 wordt nieuw recordjaar'",
+      "link": "https://www.tijd.be/r/t/1/id/10682149",
+      "category": "Ondernemen",
+      "description": "De Belgische palmoliegroep Sipef is dit jaar opnieuw op weg naar een recordwinst. De productie zit op schema en de palmolieprijzen blijven hoog. ‘Door de oorlog in Iran en de hoge olieprijs blijft de vraag naar biodiesel op basis van palmolie stijgen.’",
+      "pubDate": "Thu, 13 Aug 2026 05:57:48 GMT",
+      "score": 5,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:0lVrXYPHaeR9FBuYXJxWly&context=ONLINE&ratio=16/9&width=480&u=1786600671000"
+    },
+    {
+      "id": "10682144",
+      "title": "Recordaantal vluchten over dichtbevolkte Brusselse noordrand | Banken beleven topzomer | Noors pensioenfonds haalt piekwinst van €30.000 per Noor",
+      "link": "https://www.tijd.be/r/t/1/id/10682144",
+      "category": "Podcasts",
+      "description": "De 7 is een dagelijkse podcast van De Tijd. U krijgt het nieuws dat u nodig heeft om uw dag goed te starten in zeven punten.",
+      "pubDate": "Thu, 13 Aug 2026 04:57:40 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:931R4myZacjBtjjzVEwsr9&context=ONLINE&ratio=16/9&width=480&u=1786597867000"
+    },
+    {
+      "id": "10682141",
+      "title": "Verenigde Staten veilen schuld tegen hoogste rente sinds 2007",
+      "link": "https://www.tijd.be/r/t/1/id/10682141",
+      "category": "Markten Live",
+      "description": "De Amerikaanse schatkist moest woensdag beleggers de hoogste rente sinds 2007 bieden om langlopend schuldpapier te verkopen. Een signaal dat beleggers nerveus worden over het gapend begrotingstekort en de navenant oplopende schuldenberg.",
+      "pubDate": "Thu, 13 Aug 2026 04:21:33 GMT",
+      "score": 0,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:5le2xHaz41P9bN0e3LMIA9&context=ONLINE&ratio=16/9&width=480&u=1786597177000"
+    },
+    {
+      "id": "10682068",
+      "title": "Investeerder Icelake wordt hoofdaandeelhouder van douanemakelaar DKM",
+      "link": "https://www.tijd.be/r/t/1/id/10682068",
+      "category": "Ondernemen",
+      "description": "Het investeringsfonds Icelake wordt de nieuwe meerderheidsaandeelhouder van de specialist in douaneformaliteiten DKM Customs. De bestaande aandeelhouders - de oprichter en CEO Luc De Kerf en de Latemse investeringsmaatschappij Tilleghem - herinvesteren mee in de nieuwe constructie.",
+      "pubDate": "Thu, 13 Aug 2026 03:01:44 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:AK5MtVSlqLvAoUeZBQn6UB&context=ONLINE&ratio=16/9&width=480&u=1786563674000"
+    },
+    {
+      "id": "10681894",
+      "title": "Belgische banken beleven topzomer dankzij oplopende rente en knagende beleggershonger",
+      "link": "https://www.tijd.be/r/t/1/id/10681894",
+      "category": "Ondernemen",
+      "description": "Een oplopende rente, drukte op de financiële markten en beperkte kredietverliezen: de Belgische banken hadden het voorbije halfjaar nagenoeg alles meezitten. Maar achter de sterke halfjaarcijfers gaan wel groeiende zorgen schuil over de economische groei.",
+      "pubDate": "Thu, 13 Aug 2026 03:00:00 GMT",
+      "score": 12,
+      "in_de7": true,
+      "image": "https://images.tijd.be/view?iid=Elvis:DkGXstDF4MzBxwOpN_wvPd&context=ONLINE&ratio=16/9&width=480&u=1786592256000"
+    },
+    {
+      "id": "10682047",
+      "title": "Aantal vluchten boven noorden van Brussel bereikt record",
+      "link": "https://www.tijd.be/r/t/1/id/10682047",
+      "category": "Ondernemen",
+      "description": "Inwoners van de gemeenten in het noorden van Brussel hoorden afgelopen dinsdag elke vijf minuten een vliegtuig overvliegen. Het hoogste aantal in acht jaar. ’s Nachts was dat elke negen minuten het geval, eveneens een record. Het protest zwelt aan.",
+      "pubDate": "Thu, 13 Aug 2026 03:00:00 GMT",
+      "score": 14,
+      "in_de7": true,
+      "image": "https://images.tijd.be/view?iid=Elvis:2fzZq4E5Khz9KOPzTi6Qul&context=ONLINE&ratio=16/9&width=480&u=1786596997000"
+    },
+    {
+      "id": "10682140",
+      "title": "Karoline Leavitt stapt eind deze maand op als woordvoerster Witte Huis",
+      "link": "https://www.tijd.be/r/t/1/id/10682140",
+      "category": "Politiek & Economie",
+      "description": "Eind deze maand stapt Karoline Leavitt op als woordvoerster van het Witte Huis. Dat heeft de Amerikaanse president Donald Trump bekendgemaakt. Ze wil naar eigen zeggen meer tijd doorbrengen met haar familie.",
+      "pubDate": "Wed, 12 Aug 2026 21:41:45 GMT",
+      "image": "https://images.tijd.be/view?iid=Elvis:AvFLHUv3qXDBMiIQJGQL5Y&context=ONLINE&ratio=16/9&width=480&u=1786570908000"
+    },
+    {
       "id": "10682138",
       "title": "Beleggers duiken weer massaal in chips: Nasdaq klimt 0,5 procent",
       "link": "https://www.tijd.be/r/t/1/id/10682138",
@@ -42,7 +117,7 @@
       "pubDate": "Wed, 12 Aug 2026 16:55:19 GMT",
       "score": 3,
       "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:3X2LeHiAaASBrzc9xff1BH&context=ONLINE&ratio=16/9&width=480&u=1786553722000"
+      "image": "https://images.tijd.be/view?iid=Elvis:3X2LeHiAaASBrzc9xff1BH&context=ONLINE&ratio=16/9&width=480&u=1786567199000"
     },
     {
       "id": "10682124",
@@ -3927,42 +4002,6 @@
       "image": "https://images.tijd.be/view?iid=Elvis:8zYUP-SVa7G8VUYQr8pIEj&context=ONLINE&ratio=16/9&width=480&u=1785399124000",
       "category": "Netto",
       "pubDate": "Thu, 30 Jul 2026 03:00:00 GMT"
-    },
-    {
-      "id": "10680376",
-      "title": "Franky De Smet-Van Damme neemt afscheid van Channel Zero: ‘Er is geen manual voor de absurde carrière die wij hadden, anders had ik ze gelezen’",
-      "link": "https://www.tijd.be/r/t/1/id/10680376",
-      "category": "Cultuur",
-      "description": "Franky De Smet-Van Damme, frontman van Belgiës metaltrots Channel Zero, loopt de komende weken een laatste ereronde langs de festivals. Reden genoeg om terug te blikken op een carrière die begon met cassettebandjes in de brievenbus en die via toeval, trauma en een lange tussenpauze leidde naar uitverkochte zalen.",
-      "pubDate": "Wed, 29 Jul 2026 10:43:35 GMT",
-      "image": "https://images.tijd.be/view?iid=Elvis:3cLLBK9eqf98Q6GGt3diA3&context=ONLINE&ratio=16/9&width=480&u=1785344460000"
-    },
-    {
-      "id": "10674921",
-      "title": "Antwerpen bezoeken? Deze plekken mag je niet missen",
-      "link": "https://www.tijd.be/r/t/1/id/10674921",
-      "category": "Sabato",
-      "description": "Op zoek naar leuke dingen om te zien en doen in Antwerpen? Dit zijn de favorieten van onze correspondent die de stad door en door kent.",
-      "pubDate": "Wed, 29 Jul 2026 10:04:19 GMT",
-      "image": "https://images.tijd.be/view?iid=Elvis:8uTyVLa74KI8Ec1F2duZfi&context=ONLINE&ratio=16/9&width=480&u=1785319695000"
-    },
-    {
-      "id": "10680209",
-      "title": "Hoe brengt patissier Sarah Renson haar ideale zomerdag door?",
-      "link": "https://www.tijd.be/r/t/1/id/10680209",
-      "category": "Sabato",
-      "description": "Patissier Sarah Renson geeft een inkijk in haar ideale zomerdag, van vuur maken bij een boomhut in de Kempen tot mensen kijken in Oostende bij Café du Parc.",
-      "pubDate": "Wed, 29 Jul 2026 04:45:38 GMT",
-      "image": "https://images.tijd.be/view?iid=Elvis:DAdiqFDqK4qBDqgT_EFQnl&context=ONLINE&ratio=16/9&width=480&u=1785152440000"
-    },
-    {
-      "id": "10680359",
-      "title": "Recensie 'Brand New Day' | Een ‘Spider-Man’-film die meer om emotie dan actie draait",
-      "link": "https://www.tijd.be/r/t/1/id/10680359",
-      "category": "Cultuur",
-      "description": "Spider-Man, de meest herkenbare held uit de stal van Marvel, beleeft in ‘Brand New Day’ een van zijn betere avonturen. Met dank aan regisseur Destin Daniel Cretton.",
-      "pubDate": "Tue, 28 Jul 2026 23:01:28 GMT",
-      "image": "https://images.tijd.be/view?iid=Elvis:EXxsyiiT4tX9jNmREAZii7&context=ONLINE&ratio=16/9&width=480&u=1785271342000"
     }
   ]
 }
