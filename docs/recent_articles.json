@@ -1,6 +1,39 @@
 {
   "articles": [
     {
+      "id": "10674932",
+      "title": "Onze favoriete restaurants in Londen",
+      "link": "https://www.tijd.be/r/t/1/id/10674932",
+      "category": "Sabato",
+      "description": "Op zoek naar een goed restaurant in Londen? Dit zijn de favoriete restaurants van onze correspondent die de stad door en door kent.",
+      "pubDate": "Fri, 14 Aug 2026 09:54:04 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:2DERCtO7qeEBJUUss7qUSR&context=ONLINE&ratio=16/9&width=480&u=1786701273000"
+    },
+    {
+      "id": "10682318",
+      "title": "Potentieel bod op Workday stuurt software fors hoger",
+      "link": "https://www.tijd.be/r/t/1/id/10682318",
+      "category": "Markten Live",
+      "description": "Berichten over een bod van de investeringsmaatschappij Silver Lake op de Amerikaanse softwaregroep Workday sturen de hele softwaresector hoger.",
+      "pubDate": "Fri, 14 Aug 2026 09:18:47 GMT",
+      "score": 0,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:FDpYThTF4ZV9TvL6A3xRCs&context=ONLINE&ratio=16/9&width=480&u=1786699130000"
+    },
+    {
+      "id": "10682307",
+      "title": "Stevige financiële kater voor Alken-Maes",
+      "link": "https://www.tijd.be/r/t/1/id/10682307",
+      "category": "Ondernemen",
+      "description": "De Belgische brouwer Alken-Maes, een dochter van het Nederlandse Heineken, slikte vorig jaar een nettoverlies van 104 miljoen euro. Dat is te wijten aan een dalende omzet en stevige waardeverminderingen.",
+      "pubDate": "Fri, 14 Aug 2026 09:10:15 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:6LGrW243qJMAHeJHM14GTG&context=ONLINE&ratio=16/9&width=480&u=1786698618000"
+    },
+    {
       "id": "10682300",
       "title": "Trump viseert Chinese drones met nieuw tarievensalvo",
       "link": "https://www.tijd.be/r/t/1/id/10682300",
