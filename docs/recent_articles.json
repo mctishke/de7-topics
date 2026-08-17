@@ -1,6 +1,138 @@
 {
   "articles": [
     {
+      "id": "10682407",
+      "title": "Knipperlichten op de obligatiemarkt",
+      "link": "https://www.tijd.be/r/t/1/id/10682407",
+      "category": "Opinie",
+      "description": "Wereldwijd kruipt de rente op staatsobligaties omhoog naar het hoogste niveau in jaren. Hardnekkige begrotingstekorten en inflatie doen beleggers hogere vergoedingen eisen, wat overheden op extra kosten jaagt. De ‘gevarenzone’ van een schuldencrisis komt zo dichterbij.",
+      "pubDate": "Mon, 17 Aug 2026 04:51:25 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:1hq48kKr4UF8q84eT8gQjt&context=ONLINE&ratio=16/9&width=480&u=1786942323000"
+    },
+    {
+      "id": "10682406",
+      "title": "Weekvooruitblik met marktenjournalist Serge Mampaey | Hoe zwaar wegen branden en droogte op Europese economie? | IPO Shein | Resultaten Kinepolis, EVS",
+      "link": "https://www.tijd.be/r/t/1/id/10682406",
+      "category": "Podcasts",
+      "description": "De 7 is een dagelijkse podcast van De Tijd. U krijgt het nieuws dat u nodig heeft om uw dag goed te starten in zeven punten.",
+      "pubDate": "Mon, 17 Aug 2026 04:36:01 GMT",
+      "score": 1,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:931R4myZacjBtjjzVEwsr9&context=ONLINE&ratio=16/9&width=480&u=1786943437000"
+    },
+    {
+      "id": "10674144",
+      "title": "'Ben ik te Belgisch geworden voor Peru?' Kunstenares Shirley Villavicencio Pizango gaat op zoek naar haar roots",
+      "link": "https://www.tijd.be/r/t/1/id/10674144",
+      "category": "Sabato",
+      "description": "Bijna twintig jaar geleden liet Shirley Villavicencio Pizango haar geboortestad Lima achter zich om in België een leven als kunstenares op te bouwen. Toch liet Peru haar nooit helemaal los. Naar aanleiding van haar nieuwe solo-expo bij Gallery Sofie Van de Velde trokken we met haar naar de stad waar het allemaal begon, dwalend tussen pisco sours en sloppenwijken, met die ene eeuwige vraag in de bagage: wanneer ben je ergens écht thuis?",
+      "pubDate": "Mon, 17 Aug 2026 04:31:56 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:BQA0zn_z4Ys88wICD2fzNS&context=ONLINE&ratio=16/9&width=480&u=1786722307000"
+    },
+    {
+      "id": "10682395",
+      "title": "Na mislukte redding van Saab maakt Victor Muller comeback met Spyker-supercar van 1,6 miljoen euro",
+      "link": "https://www.tijd.be/r/t/1/id/10682395",
+      "category": "Ondernemen",
+      "description": "De Nederlandse zakenman Victor Muller, bekend van zijn poging om het Zweedse automerk Saab te redden, lanceert een nieuwe supercar van 1,5 miljoen euro. De eerste reeks van de C8 Preliator XXV is al bijna uitverkocht.",
+      "pubDate": "Sun, 16 Aug 2026 16:56:42 GMT",
+      "image": "https://images.tijd.be/view?iid=Elvis:4teTXzFPq4899HaPiQ0S28&context=ONLINE&ratio=16/9&width=480&u=1786899405000"
+    },
+    {
+      "id": "10682309",
+      "title": "De week die komt: Europese economie, Kinepolis, WK hockey, Pukkelpop en de Vuelta",
+      "link": "https://www.tijd.be/r/t/1/id/10682309",
+      "category": "Dossiers",
+      "description": "Lijdt de Europese economie onder de droogte, hoe zijn de resultaten van Kinepolis, wat mogen we verwachten van het WK hockey en van de start van de Vuelta? Dat komt u deze week te weten.",
+      "pubDate": "Sun, 16 Aug 2026 16:00:00 GMT",
+      "image": "https://images.tijd.be/view?iid=Elvis:0WnOjpxzaSYAjTph0KYvfN&context=ONLINE&ratio=16/9&width=480&u=1786942680000"
+    },
+    {
+      "id": "10682394",
+      "title": "Ferrari breekt veilingrecord: 40 miljoen dollar voor allereerste exemplaar omstreden elektrische Luce",
+      "link": "https://www.tijd.be/r/t/1/id/10682394",
+      "category": "Ondernemen",
+      "description": "Op een exclusieve veiling in Californië is het record voor de allerduurste nieuwe auto verbroken. Een koper legde 40 miljoen dollar op tafel voor het eerste exemplaar van Ferrari's veelbesproken elektrische model Luce.",
+      "pubDate": "Sun, 16 Aug 2026 13:51:15 GMT",
+      "image": "https://images.tijd.be/view?iid=Elvis:CfT_s3V-4TL9mBGgDWdp-D&context=ONLINE&ratio=16/9&width=480&u=1786889195000"
+    },
+    {
+      "id": "10682393",
+      "title": "7 helikopters en vliegtuigen ingezet voor brand Hoge Venen",
+      "link": "https://www.tijd.be/r/t/1/id/10682393",
+      "category": "Politiek & Economie",
+      "description": "Om de forse natuurbrand in de moeilijk toegankelijke Hoge Venen te blussen worden ook helikopters en vliegtuigen ingezet. Een deel daarvan komt uit andere Europese landen.",
+      "pubDate": "Sun, 16 Aug 2026 12:27:08 GMT",
+      "image": "https://images.tijd.be/view?iid=Elvis:5yexwHtoqHmAQUXsyZp02n&context=ONLINE&ratio=16/9&width=480&u=1786892271000"
+    },
+    {
+      "id": "10682388",
+      "title": "Spaans gevechtstoestel haalt drone neer in Roemeens luchtruim",
+      "link": "https://www.tijd.be/r/t/1/id/10682388",
+      "category": "Dossiers",
+      "description": "Een Spaanse gevechtsvliegtuig heeft zondagochtend een drone neergehaald die nabij de grens met Oekraïne en Moldavië het Roemeense luchtruim was binnengedrongen. Het is al de vierde keer dit jaar dat boven het NAVO-land een drone uit de lucht wordt gehaald.",
+      "pubDate": "Sun, 16 Aug 2026 07:50:42 GMT",
+      "image": "https://images.tijd.be/view?iid=Elvis:EqoJyQCqqfXBtOsqDqFB-Z&context=ONLINE&ratio=16/9&width=480&u=1786871882000"
+    },
+    {
+      "id": "10682211",
+      "title": "Galerist Scott Lippens: ‘Deze zomerexpo is de lightversie van de Fondazione Dries Van Noten’",
+      "link": "https://www.tijd.be/r/t/1/id/10682211",
+      "category": "Sabato",
+      "description": "De Venetiaanse Fondazione Dries Van Noten is een must visit, maar je vindt een verrassend vergelijkbare dialoog tussen erfgoed en hedendaags design ook gewoon in West-Vlaanderen. Designgalerist Scott Lippens van Uppercut Space in Antwerpen verhuist deze zomer naar een historisch kasteel bij Damme.",
+      "pubDate": "Sun, 16 Aug 2026 04:46:46 GMT",
+      "image": "https://images.tijd.be/view?iid=Elvis:872Lpp4C4r-86oA_SvMUeG&context=ONLINE&ratio=16/9&width=480&u=1786715058000"
+    },
+    {
+      "id": "10682387",
+      "title": "Israël voert dodelijkste aanval op Libanon uit sinds bestand in juni",
+      "link": "https://www.tijd.be/r/t/1/id/10682387",
+      "category": "Dossiers",
+      "description": "Bij twee Israëlische luchtaanvallen op Zuid-Libanon zijn zeker elf mensen gedood en negentien anderen gewond geraakt. Het gaat om een van de dodelijkste aanvallen van Israël sinds het afsluiten van een akkoord met Libanon in juni.",
+      "pubDate": "Sat, 15 Aug 2026 16:24:14 GMT",
+      "image": "https://images.tijd.be/view?iid=Elvis:13vcepn0qWc9Z7TZxHQd-p&context=ONLINE&ratio=16/9&width=480&u=1786811057000"
+    },
+    {
+      "id": "10682384",
+      "title": "Tientallen doden bij zware aardbeving in oosten van Indonesië",
+      "link": "https://www.tijd.be/r/t/1/id/10682384",
+      "category": "Politiek & Economie",
+      "description": "Bij een zware aardbeving voor de kust van Indonesië zijn tientallen mensen omgekomen. Reddingswerkers raken door geblokkeerde wegen moeilijk tot bij het rampgebied.",
+      "pubDate": "Sat, 15 Aug 2026 10:52:56 GMT",
+      "image": "https://images.tijd.be/view?iid=Elvis:F9Ud7SxJalhBLGSl4DD0MH&context=ONLINE&ratio=16/9&width=480&u=1786814295000"
+    },
+    {
+      "id": "10682383",
+      "title": "Berkshire Hathaway zet vol in op Alphabet",
+      "link": "https://www.tijd.be/r/t/1/id/10682383",
+      "category": "Ondernemen",
+      "description": "De investeringsholding Berkshire Hathaway heeft zijn belang in Google-moeder Alphabet over het tweede kwartaal met liefst 83 procent opgtrokken. Dat blijkt uit nieuwe documenten die vrijdagavond zijn ingediend bij de Amerikaanse beurswaakhond.",
+      "pubDate": "Sat, 15 Aug 2026 10:18:27 GMT",
+      "image": "https://images.tijd.be/view?iid=Elvis:5Dz1487HaRMB6uAKiZl3B1&context=ONLINE&ratio=16/9&width=480&u=1786789721000"
+    },
+    {
+      "id": "10682193",
+      "title": "Tomorrowland-frisco’s en een ijsje voor de hond: ijssalon Limone in Sint-Truiden",
+      "link": "https://www.tijd.be/r/t/1/id/10682193",
+      "category": "Sabato",
+      "description": "In een uitbouw aan het ouderlijk huis serveert de familie Nicolaï schepijs, ijstaarten, frisco’s en ijspralines. Het fruit wordt met de hand verwerkt, het ijs dagelijks vers gedraaid. ‘Elke dag is er wel een probleem om op te lossen, maar we kunnen hier ook onze creativiteit kwijt.’",
+      "pubDate": "Sat, 15 Aug 2026 03:26:04 GMT",
+      "image": "https://images.tijd.be/view?iid=Elvis:BWdNJwgAaAG81Z5oVLMGkf&context=ONLINE&ratio=16/9&width=480&u=1786618458000"
+    },
+    {
+      "id": "10681498",
+      "title": "Tijdelijk in ademnood? Een gerechtelijke reorganisatie kan een faillissement voorkomen",
+      "link": "https://www.tijd.be/r/t/1/id/10681498",
+      "category": "Netto",
+      "description": "Een recordaantal ondernemingen ging in de eerste helft van dit jaar failliet. Voor bedrijven die nog levensvatbaar zijn, maar tijdelijk hun schulden niet kunnen betalen, is er een alternatief: de gerechtelijke reorganisatie. Die procedure biedt tijdelijke bescherming tegen de schuldeisers.",
+      "pubDate": "Sat, 15 Aug 2026 03:00:00 GMT",
+      "image": "https://images.tijd.be/view?iid=Elvis:2lyM7suSqa4BvB-U2I2Z6J&context=ONLINE&ratio=16/9&width=480&u=1786872459000"
+    },
+    {
       "id": "10682374",
       "title": "Japanse Asics is winnaar in moordende concurrentiestrijd onder sportreuzen",
       "link": "https://www.tijd.be/r/t/1/id/10682374",
@@ -4471,168 +4603,6 @@
       "description": "De olieprijs is fors gedaald nadat de Amerikaanse president Donald Trump heeft aangekondigd dat maandag nieuwe gesprekken met Iran van start gaan. De prijs van Brent-olie zakte met ruim 4 procent tot 83,7 dollar per vat.",
       "pubDate": "Mon, 03 Aug 2026 04:44:25 GMT",
       "image": "https://images.tijd.be/view?iid=Elvis:4yLszE4DqHf8AquMfy-7yy&context=ONLINE&ratio=16/9&width=480&u=1785743966000"
-    },
-    {
-      "id": "10680955",
-      "title": "Beleggers negeren financiële acrobatie achter AI op eigen risico",
-      "link": "https://www.tijd.be/r/t/1/id/10680955",
-      "category": "Opinie",
-      "description": "De teloorgang van een fel gehypet fonds is een zoveelste knipperlicht dat de financiële architectuur achter de AI-boom riskanter wordt.",
-      "pubDate": "Sun, 02 Aug 2026 12:09:37 GMT",
-      "image": "https://images.tijd.be/view?iid=Elvis:4j5dMtnGK0t9QB1vqwLLkm&context=ONLINE&ratio=16/9&width=480&u=1785744099000"
-    },
-    {
-      "id": "10680240",
-      "title": "Tendance Glacée: waarom ijsliefhebbers naar dit kleine dorp bij Namen afzakken",
-      "link": "https://www.tijd.be/r/t/1/id/10680240",
-      "category": "Sabato",
-      "description": "Een voormalige bakkerij in Flawinne is ondertussen te klein geworden voor de ijsproductie van Maryne Poppe. De onderneemster combineert klassieke smaken en ijstaarten met meer persoonlijke combinaties en daagt zichzelf graag uit met ijs-wedstrijden.",
-      "pubDate": "Sat, 01 Aug 2026 03:25:45 GMT",
-      "image": "https://images.tijd.be/view?iid=Elvis:6oelQBRGKyLBmQQ2dVz99M&context=ONLINE&ratio=16/9&width=480&u=1785484452000"
-    },
-    {
-      "id": "10680402",
-      "title": "Tip van de accountant: ‘Met de bedrijfswagen op vakantie? Flitsboete blijft privé-uitgave’",
-      "link": "https://www.tijd.be/r/t/1/id/10680402",
-      "category": "Netto",
-      "description": "01/08 De vakantie eindigt vaak met een stapel bonnetjes: tank- of laadbeurten, péage, parkeertickets... en soms een verkeersboete. Maar welke van die kosten zijn fiscaal aftrekbaar voor uw vennootschap?",
-      "pubDate": "Sat, 01 Aug 2026 03:02:24 GMT",
-      "image": "https://images.tijd.be/view?iid=Elvis:3uulrV644XgBGDcIE7VrrF&context=ONLINE&ratio=16/9&width=480&u=1785534715000"
-    },
-    {
-      "id": "10680702",
-      "title": "Voortaan 15 weken moederschapsrust voor vrouwelijke zelfstandige",
-      "link": "https://www.tijd.be/r/t/1/id/10680702",
-      "category": "Netto",
-      "description": "01/08 Als vrouwelijke zelfstandige kunt u voortaan tot vijftien weken moederschapsrust opnemen, tegenover twaalf weken voordien. Wie sneller opnieuw aan het werk gaat, kan kiezen voor extra huishoudelijke h...",
-      "pubDate": "Sat, 01 Aug 2026 03:02:04 GMT",
-      "image": "https://images.tijd.be/view?iid=Elvis:6T4oGA5wK7m8CSMOrrY8YS&context=ONLINE&ratio=16/9&width=480&u=1785510100000"
-    },
-    {
-      "id": "10680874",
-      "title": "Europees migratiebeleid is zo zwak als zijn zwakste schakel",
-      "link": "https://www.tijd.be/r/t/1/id/10680874",
-      "category": "Opinie",
-      "description": "De beelden van tienduizenden gelukzoekers die de Spaanse enclave Ceuta binnenstormen, zijn schrijnend. Ze zijn ook erg schadelijk voor de geloofwaardigheid van het Europese migratiebeleid, dat nochtans wel degelijk al stappen heeft gezet.",
-      "pubDate": "Fri, 31 Jul 2026 19:59:53 GMT",
-      "image": "https://images.tijd.be/view?iid=Elvis:8PMyTRHGqUZ9ClIBlGAPNE&context=ONLINE&ratio=16/9&width=480&u=1785830920000"
-    },
-    {
-      "id": "10678829",
-      "title": "Energetisch renoveren: ‘Je zit snel boven 100.000 euro, verdien je dat als verhuurder wel ooit terug?’",
-      "link": "https://www.tijd.be/r/t/1/id/10678829",
-      "category": "Netto",
-      "description": "31/07 Energetisch renoveren. Veel Vlamingen overwegen het. Weinigen weten hoe eraan te beginnen. Wij gaan in onze zomerreeks langs bij vier lezers, met een expert ter zake. Welke opties hebben ze? Wat kost ...",
-      "pubDate": "Fri, 31 Jul 2026 18:53:50 GMT",
-      "image": "https://images.tijd.be/view?iid=Elvis:BYJ8W0j64BSAUhwHdD2vFn&context=ONLINE&ratio=16/9&width=480&u=1785751387000"
-    },
-    {
-      "id": "10680645",
-      "title": "Groeten uit Gibraltar (Avelgem)",
-      "link": "https://www.tijd.be/r/t/1/id/10680645",
-      "category": "Cultuur",
-      "description": "Deze zomer reist Rik Van Puymbroeck naar verre plekken in de wereld. Hij kan daarvoor gewoon in eigen land blijven.",
-      "pubDate": "Fri, 31 Jul 2026 18:31:41 GMT",
-      "image": "https://images.tijd.be/view?iid=Elvis:15bRUsBWK0w9eP15spT-2u&context=ONLINE&ratio=16/9&width=480&u=1785494734000"
-    },
-    {
-      "id": "10680358",
-      "title": "Drie tips voor wie biedt op woning via veilingplatform Biddit",
-      "link": "https://www.tijd.be/r/t/1/id/10680358",
-      "category": "Netto",
-      "description": "31/07 Via het biedingsplatform Biddit kunt u bij wijze van spreken een woning vanuit uw luie zetel kopen. Maar een openbare verkoop is iets anders dan een klassieke verkoop uit de hand. Lees daarom grondig ...",
-      "pubDate": "Fri, 31 Jul 2026 14:55:00 GMT",
-      "image": "https://images.tijd.be/view?iid=Elvis:6ylCPt1rKMSBF5JQZgW8_d&context=ONLINE&ratio=16/9&width=480&u=1785752881000"
-    },
-    {
-      "id": "10680665",
-      "title": "De richtlijn door Rik Van Cauwelaert | Het kruitvat tussen Parijs en Brussel",
-      "link": "https://www.tijd.be/r/t/1/id/10680665",
-      "category": "Opinie",
-      "description": "Volgens de Franse minister van Begroting David Amiel zit de regering van premier Sébastien Lecornu op een kruitvat. De positie van de regering van premier Bart De Wever is niet minder precair. En voor de handelaars in schuldpapier zitten Frankrijk en België in dezelfde korf.",
-      "pubDate": "Fri, 31 Jul 2026 14:46:00 GMT",
-      "image": "https://images.tijd.be/view?iid=Elvis:A3o46Q32qp69U4EQ1Fv8gw&context=ONLINE&ratio=16/9&width=480&u=1785535108000"
-    },
-    {
-      "id": "10680182",
-      "title": "Kunst als redder van de kerk",
-      "link": "https://www.tijd.be/r/t/1/id/10680182",
-      "category": "Cultuur",
-      "description": "De nomadische biënnale Manifesta is geland in het Duitse Ruhrgebied. Met expo's en culturele evenementen in voormalige kerken wil ze de vaak schitterende gebouwen een nieuwe bestemming geven. Anders wacht de sloopkogel.",
-      "pubDate": "Fri, 31 Jul 2026 14:00:31 GMT",
-      "image": "https://images.tijd.be/view?iid=Elvis:BTy9E88jK0BBZnV5Iy5GeR&context=ONLINE&ratio=16/9&width=480&u=1785506226000"
-    },
-    {
-      "id": "10680074",
-      "title": "Anna Danilevskaia, artistiek directeur MA Festival: ‘Oude muziek moet je interpreteren, niet reconstrueren’",
-      "link": "https://www.tijd.be/r/t/1/id/10680074",
-      "category": "Cultuur",
-      "description": "Anna Danilevskaia, vedelspeelster van beroep, is sinds januari artistiek directeur van het MA Festival in Brugge. Dat meet al meer dan zestig jaar de temperatuur van de vroege muziek op. ‘We ontdekken nog altijd nieuwe dingen.’",
-      "pubDate": "Fri, 31 Jul 2026 13:30:00 GMT",
-      "image": "https://images.tijd.be/view?iid=Elvis:9qMwUew4a_XAF235_d_WEl&context=ONLINE&ratio=16/9&width=480&u=1785534319000"
-    },
-    {
-      "id": "10680511",
-      "title": "Wiskundeprofessor Ann Dooms | Misschien moeten we op AI-dieet?",
-      "link": "https://www.tijd.be/r/t/1/id/10680511",
-      "category": "Opinie",
-      "description": "Als we ons denkwerk voortdurend uitbesteden, kunnen onze prestaties initieel verbeteren. Maar stilaan verzwakken we niet alleen kennis en kunde, maar ook belangrijke onderliggende vaardigheden.",
-      "pubDate": "Fri, 31 Jul 2026 12:15:00 GMT",
-      "image": "https://images.tijd.be/view?iid=Elvis:Epke5KAR4CY8UggUCL-nfd&context=ONLINE&ratio=16/9&width=480&u=1785534914000"
-    },
-    {
-      "id": "10680568",
-      "title": "Over de vloer | Extra dag vrijaf soms meer waard dan bonus",
-      "link": "https://www.tijd.be/r/t/1/id/10680568",
-      "category": "Opinie",
-      "description": "Organisaties proberen medewerkers te motiveren met een beloning.  Een van de waardevolste manieren om waardering te ervaren, is voor veel mensen meer vrije tijd.",
-      "pubDate": "Fri, 31 Jul 2026 11:00:00 GMT",
-      "image": "https://images.tijd.be/view?iid=Elvis:AEDOCJRS4It8CdlkRTttcM&context=ONLINE&ratio=16/9&width=480&u=1785534256000"
-    },
-    {
-      "id": "10675479",
-      "title": "Onze favoriete restaurants in Knokke",
-      "link": "https://www.tijd.be/r/t/1/id/10675479",
-      "category": "Sabato",
-      "description": "Op zoek naar een goed restaurant in Knokke? Dit zijn de favoriete restaurants van onze correspondent die de stad door en door kent.",
-      "pubDate": "Fri, 31 Jul 2026 10:05:09 GMT",
-      "image": "https://images.tijd.be/view?iid=Elvis:28DyZLcFagVBXBObC-XYJC&context=ONLINE&ratio=16/9&width=480&u=1785500115000"
-    },
-    {
-      "id": "10680828",
-      "title": "Als ze niet meer tegen phishing optreden, gaan banken vertrouwenscrisis tegemoet",
-      "link": "https://www.tijd.be/r/t/1/id/10680828",
-      "category": "Opinie",
-      "description": "‘De klant moet beter opletten’ is geen ernstig veiligheidsmodel.",
-      "pubDate": "Fri, 31 Jul 2026 09:58:08 GMT",
-      "image": "https://images.tijd.be/view?iid=Elvis:3g_xZ-P04dHAaQPFhdb-rf&context=ONLINE&ratio=16/9&width=480&u=1785534449000"
-    },
-    {
-      "id": "10676707",
-      "title": "Het hoogtepunt van Chibi Ichigo’s festivalzomer: Suikerrock openen én afsluiten in Dries Van Noten",
-      "link": "https://www.tijd.be/r/t/1/id/10676707",
-      "category": "Sabato",
-      "description": "Op 7 augustus opent ze Suikerrock én sluit ze de eerste dag van het festival af: dj en singer-songwriter Chibi Ichigo neemt je mee naar haar festivalzomer. ‘Ik ben een echte Dries Van Noten-fanaat: bijna alles wat ik draag, is van het label.’",
-      "pubDate": "Fri, 31 Jul 2026 04:45:16 GMT",
-      "image": "https://images.tijd.be/view?iid=Elvis:E06yZ-zjasWAYR7KJwY4LZ&context=ONLINE&ratio=16/9&width=480&u=1785397255000"
-    },
-    {
-      "id": "10680746",
-      "title": "Bijna 1 op 5 jonge werknemers verlaat job binnen het jaar",
-      "link": "https://www.tijd.be/r/t/1/id/10680746",
-      "category": "Netto",
-      "description": "31/07 Het aantal vaste arbeidscontracten dat al in het eerste jaar wordt beëindigd, is in een jaar met 16 procent gestegen. Vooral bij werknemers jonger dan 25 jaar is de toename fors. Vanaf 1 augustus word...",
-      "pubDate": "Fri, 31 Jul 2026 03:00:00 GMT",
-      "image": "https://images.tijd.be/view?iid=Elvis:BRqf93BlapLAT_AnbjcdSs&context=ONLINE&ratio=16/9&width=480&u=1785488872000"
-    },
-    {
-      "id": "10680664",
-      "title": "Schenkingen leveren Vlaanderen record van 700 miljoen euro op",
-      "link": "https://www.tijd.be/r/t/1/id/10680664",
-      "category": "Netto",
-      "description": "31/07 Vlaanderen heeft vorig jaar een recordbedrag van net geen 700 miljoen euro aan schenkbelastingen geïnd. Dat is bijna 20 procent meer dan een jaar eerder.",
-      "pubDate": "Fri, 31 Jul 2026 03:00:00 GMT",
-      "image": "https://images.tijd.be/view?iid=Elvis:AdHihCZTacG8Bcb3z1h7Uu&context=ONLINE&ratio=16/9&width=480&u=1785751471000"
     }
   ]
 }
