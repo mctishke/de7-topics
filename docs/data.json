@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T11:15:55.771892+00:00",
+  "generated_at": "2026-08-17T11:46:44.616392+00:00",
   "date": "2026-08-17",
   "de7_title": "17/08 | Weekvooruitblik met marktenjournalist Serge Mampaey | Hoe zwaar wegen branden en droogte op Europese economie? | IPO Shein | Resultaten Kinepolis, EVS, Walmart",
   "de7_matched_count": 0,
@@ -148,6 +148,17 @@
       "image": "https://images.tijd.be/view?iid=Elvis:DTknnVfTquGBiUfxqMoZep&context=ONLINE&ratio=16/9&width=480&u=1786965264000"
     },
     {
+      "id": "10681490",
+      "title": "Het Fotoboek | Indringende portretten uit de psychiatrie",
+      "link": "https://www.tijd.be/r/t/1/id/10681490",
+      "category": "Cultuur",
+      "description": "Een fotograaf plukt deze zomer een recent fotoboek uit de kast, en de week erna mag de maker van dat boek hetzelfde doen. Vandaag kiest Adrian Sauer voor de diep menselijke portretfoto's van Christa Mayer.",
+      "pubDate": "Mon, 17 Aug 2026 11:19:27 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:FgE2wSYG4Ml9s6bfvXzIjp&context=ONLINE&ratio=16/9&width=480&u=1786965570000"
+    },
+    {
       "id": "10682406",
       "title": "Weekvooruitblik met marktenjournalist Serge Mampaey | Hoe zwaar wegen branden en droogte op Europese economie? | IPO Shein | Resultaten Kinepolis, EVS",
       "link": "https://www.tijd.be/r/t/1/id/10682406",
@@ -179,6 +190,17 @@
       "score": 1,
       "in_de7": false,
       "image": "https://images.tijd.be/view?iid=Elvis:Eg97POU_qVa9y3Ig6Zo6LT&context=ONLINE&ratio=16/9&width=480&u=1786961540000"
+    },
+    {
+      "id": "10682446",
+      "title": "ECB-economen waarschuwen voor correctie AI-boom met zware gevolgen voor Europa",
+      "link": "https://www.tijd.be/r/t/1/id/10682446",
+      "category": "Markten Live",
+      "description": "Een correctie van de hoge waarderingen op de aandelenmarkten is waarschijnlijk en kan ernstige gevolgen hebben voor de eurozone. Dat zeggen vijf economen van de Europese Centrale Bank (ECB).",
+      "pubDate": "Mon, 17 Aug 2026 11:24:56 GMT",
+      "score": 0,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:8uJvllj34D79_S-yQEjlP1&context=ONLINE&ratio=16/9&width=480&u=1786966313000"
     }
   ]
 }
