@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T07:13:06.820954+00:00",
+  "generated_at": "2026-08-19T07:53:27.207438+00:00",
   "date": "2026-08-19",
   "de7_title": "19/08 | Trump pauzeert nieuwe handelstarieven Canada | Piekende rente dreigt begroting nog moeilijker te maken | Meta riskeert claim van 200 miljard",
   "de7_matched_count": 0,
@@ -14,6 +14,17 @@
       "score": 4,
       "in_de7": false,
       "image": "https://images.tijd.be/view?iid=Elvis:AWnBEFaoK6y85H5npYYRtc&context=ONLINE&ratio=16/9&width=480&u=1787110708000"
+    },
+    {
+      "id": "10682643",
+      "title": "Miljardenholding van Pascal Vanhalst duikt in het rood",
+      "link": "https://www.tijd.be/r/t/1/id/10682643",
+      "category": "Ondernemen",
+      "description": "Quva Invest, de industriële holding van de West-Vlaamse ondernemer en investeerder Pascal Vanhalst, boekte vorig jaar 32,5 miljoen euro verlies. De forse ommekeer tegenover 2024 is vooral toe te schrijven aan een hoge afwaardering van goodwill.",
+      "pubDate": "Wed, 19 Aug 2026 07:26:49 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:BgdxpQqsK36A2ls_vwxQTJ&context=ONLINE&ratio=16/9&width=480&u=1787124864000"
     },
     {
       "id": "10682660",
@@ -102,6 +113,17 @@
       "score": 2,
       "in_de7": false,
       "image": "https://images.tijd.be/view?iid=Elvis:95VcxClnKAfA9k6ShphznD&context=ONLINE&ratio=16/9&width=480&u=1787121457000"
+    },
+    {
+      "id": "10682673",
+      "title": "Trump stelt nieuwe bazin aan voor farmawaakhond FDA",
+      "link": "https://www.tijd.be/r/t/1/id/10682673",
+      "category": "Ondernemen",
+      "description": "De Amerikaanse president Donald Trump heeft Heidi Overton, een van zijn topadviseurs voor gezondheidsbeleid, voorgedragen als nieuwe chef van de Food and Drug Administration.",
+      "pubDate": "Wed, 19 Aug 2026 07:46:09 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:AOKtjB3LK6SAdNWw-_XD-P&context=ONLINE&ratio=16/9&width=480&u=1787125573000"
     }
   ]
 }
