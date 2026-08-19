@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T18:18:25.769618+00:00",
+  "generated_at": "2026-08-19T19:00:04.594276+00:00",
   "date": "2026-08-19",
   "de7_title": "19/08 | Trump pauzeert nieuwe handelstarieven Canada | Piekende rente dreigt begroting nog moeilijker te maken | Meta riskeert claim van 200 miljard",
   "de7_matched_count": 0,
@@ -124,6 +124,17 @@
       "score": 3,
       "in_de7": false,
       "image": "https://images.tijd.be/view?iid=Elvis:BD8rc0Pn4cq9WbXwK-MfvM&context=ONLINE&ratio=16/9&width=480&u=1787140451000"
+    },
+    {
+      "id": "10682199",
+      "title": "Van een sekstape tot de FIFA-heisa en een volksopstand: de morsige opmars van de familie Kushner",
+      "link": "https://www.tijd.be/r/t/1/id/10682199",
+      "category": "Politiek & Economie",
+      "description": "Van protesten in Albanië over de heibel rond de FIFA en de overname van de Los Angeles Lakers tot vredesgesprekken in het Midden-Oosten: telkens weer duikt de naam Kushner op. Wie is die Amerikaanse familie van wie de macht reikt tot Wall Street, Silicon Valley én het Witte Huis?",
+      "pubDate": "Wed, 19 Aug 2026 18:24:45 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:EfO5UssNql0BV5Zym83cUp&context=ONLINE&ratio=16/9&width=480&u=1787163896000"
     },
     {
       "id": "10682205",
@@ -401,6 +412,17 @@
       "image": "https://images.tijd.be/view?iid=Elvis:3r2UikeBaWhBE4f08g88YV&context=ONLINE&ratio=16/9&width=480&u=1787156983000"
     },
     {
+      "id": "10682610",
+      "title": "Nergens zonder weg in Antwerpen",
+      "link": "https://www.tijd.be/r/t/1/id/10682610",
+      "category": "Dossiers",
+      "description": "Verdwalend in eigen land kijkt Rik Van Puymbroeck naar wat verwondert en soms overdondert.",
+      "pubDate": "Wed, 19 Aug 2026 18:30:50 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:3AivGqpWa1-8ImlXatEsjW&context=ONLINE&ratio=16/9&width=480&u=1787143231000"
+    },
+    {
       "id": "10682745",
       "title": "Nieuwe zorgen voor Zelensky, van verkiezingsoproep door ex-minister tot parfum van corruptie",
       "link": "https://www.tijd.be/r/t/1/id/10682745",
@@ -421,28 +443,6 @@
       "score": 1,
       "in_de7": false,
       "image": "https://images.tijd.be/view?iid=Elvis:4aGPWYt_qnBBhJ5gZa09pP&context=ONLINE&ratio=16/9&width=480&u=1787156363000"
-    },
-    {
-      "id": "10682695",
-      "title": "Verzekeraar ASR Nederland verwent met steviger dividend",
-      "link": "https://www.tijd.be/r/t/1/id/10682695",
-      "category": "Markten Live",
-      "description": "De verzekeraar ASR Nederland legt opnieuw sterke halfjaarresultaten voor. Het interim-dividend stijgt bijna een tiende.",
-      "pubDate": "Wed, 19 Aug 2026 09:15:14 GMT",
-      "score": 0,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:7ycdECF6ato8tIIT0scDDe&context=ONLINE&ratio=16/9&width=480&u=1787130918000"
-    },
-    {
-      "id": "10682725",
-      "title": "De dolgedraaide teller van Avantium en de pittige herfst van EVS",
-      "link": "https://www.tijd.be/r/t/1/id/10682725",
-      "category": "Markten Live",
-      "description": "Het vooruitzicht van nog maar eens een fors verwaterende geldronde haalt Avantium onderuit. EVS krabbelt recht, met dank aan stabiele jaarprognose.",
-      "pubDate": "Wed, 19 Aug 2026 12:05:43 GMT",
-      "score": 0,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:0PbhqBi6KtwBYhrRyb-Kb1&context=ONLINE&ratio=16/9&width=480&u=1787141150000"
     }
   ]
 }
