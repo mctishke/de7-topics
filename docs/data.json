@@ -1,9 +1,31 @@
 {
-  "generated_at": "2026-08-19T12:23:10.884756+00:00",
+  "generated_at": "2026-08-19T13:22:55.155298+00:00",
   "date": "2026-08-19",
   "de7_title": "19/08 | Trump pauzeert nieuwe handelstarieven Canada | Piekende rente dreigt begroting nog moeilijker te maken | Meta riskeert claim van 200 miljard",
   "de7_matched_count": 0,
   "articles": [
+    {
+      "id": "10682740",
+      "title": "Afgevoerde oliepijpleiding mogelijke pasmunt voor handelsakkoord tussen VS en Canada",
+      "link": "https://www.tijd.be/r/t/1/id/10682740",
+      "category": "Politiek & Economie",
+      "description": "De Verenigde Staten stellen hun invoertarieven van 50 procent op een brede waaier aan import uit Canada met drie dagen uit. De twee landen werken aan een handelsakkoord, waarbij de eerder afgevoerde oliepijpleiding Keystone XL mogelijk wordt gereanimeerd.",
+      "pubDate": "Wed, 19 Aug 2026 12:30:16 GMT",
+      "score": 5,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:6M5ZmC1qqz6A6kKGFg2Drp&context=ONLINE&ratio=16/9&width=480&u=1787143015000"
+    },
+    {
+      "id": "10682670",
+      "title": "De Beursvoyeurs Zomer | Simon Renty: ‘Peter Lynch maakte 30 procent per jaar met zijn jacht op tenbaggers'",
+      "link": "https://www.tijd.be/r/t/1/id/10682670",
+      "category": "Podcasts",
+      "description": "Peter Lynch maakte van het Magellan Fund van Fidelity het grootste open beleggingsfonds ter wereld en haalde 14 jaar lang een rendement van bijna 30 procent per jaar. ‘Lynch gelooft dat kleine beleggers dingen kunnen zien vóór de grote analisten ze zien’, zegt Simon Renty, analist bij De Belegger, in ‘De Beursvoyeurs Zomer’.",
+      "pubDate": "Wed, 19 Aug 2026 12:20:40 GMT",
+      "score": 5,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:DBGch87K4W5AldAhdgnwzy&context=ONLINE&ratio=16/9&width=480&u=1787145410000"
+    },
     {
       "id": "10682657",
       "title": "Trump pauzeert Canadese invoertarieven",
@@ -47,6 +69,17 @@
       "score": 4,
       "in_de7": false,
       "image": "https://images.tijd.be/view?iid=Elvis:0AKhgQWn4ro9-4A00t_BCR&context=ONLINE&ratio=16/9&width=480&u=1787133865000"
+    },
+    {
+      "id": "10682765",
+      "title": "Port of Antwerp-Bruges haalt 500 miljoen euro externe financiering op",
+      "link": "https://www.tijd.be/r/t/1/id/10682765",
+      "category": "Ondernemen",
+      "description": "Port of Antwerp-Bruges heeft een kredietlijn van 500 miljoen euro afgesloten bij een groep Belgische en internationale banken. Daarmee zet het havenbedrijf een eerste concrete stap in de nieuwe financieringsstrategie die nodig is voor de geplande investeringsgolf.",
+      "pubDate": "Wed, 19 Aug 2026 12:49:21 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:9ufKTzbj4yK8WV1sUKrrf9&context=ONLINE&ratio=16/9&width=480&u=1787145690000"
     },
     {
       "id": "10682660",
@@ -245,6 +278,50 @@
       "score": 2,
       "in_de7": false,
       "image": "https://images.tijd.be/view?iid=Elvis:5iAmcNiAaQh8k2-1UsfWGy&context=ONLINE&ratio=16/9&width=480&u=1787139904000"
+    },
+    {
+      "id": "10682754",
+      "title": "Fabrieksdirecteur Volvo Car Gent na half jaar alweer weg",
+      "link": "https://www.tijd.be/r/t/1/id/10682754",
+      "category": "Ondernemen",
+      "description": "Enkele weken voordat het duidelijk moet worden welke modellen de Gentse Volvo Cars-fabriek de komende jaren gaat maken, verhuist fabrieksdirecteur Magnus Nilsson terug naar Zweden.",
+      "pubDate": "Wed, 19 Aug 2026 12:53:08 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:BsZW61_KaWK8RRUc-ey914&context=ONLINE&ratio=16/9&width=480&u=1787145512000"
+    },
+    {
+      "id": "10682713",
+      "title": "Verlinden wil met digitale zittingen transport van gevangenen verminderen",
+      "link": "https://www.tijd.be/r/t/1/id/10682713",
+      "category": "Politiek & Economie",
+      "description": "Jaarlijks maken busjes van de federale politie meer dan 20.000 ritten voor transfers van gedetineerden van de gevangenis naar het gerechtsgebouw. De N-VA vindt dat te riskant en te duur en pleit daarom voor videoconferenties met gedetineerden. Ook minister van Justitie Annelies Verlinden (CD&V) is daar voorstander van.",
+      "pubDate": "Wed, 19 Aug 2026 12:48:01 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:3SXLruPvqvoBAONjpzLYDf&context=ONLINE&ratio=16/9&width=480&u=1787144947000"
+    },
+    {
+      "id": "10682741",
+      "title": "Osayuki treedt uit de schaduw van zijn alter ego Chuki Beats",
+      "link": "https://www.tijd.be/r/t/1/id/10682741",
+      "category": "Cultuur",
+      "description": "De producer die als Chuki Beats uitgroeide van YouTubefenomeen tot beatmaker van Zwangere Guy, Dikke en zelfs Kanye West, grijpt terug naar zijn eerste liefde: de elektrische gitaar. Op Pukkelpop is Osayuki het gezicht van zijn eigen band.",
+      "pubDate": "Wed, 19 Aug 2026 12:35:51 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:5idroBpc45f8zZUqJRTNQu&context=ONLINE&ratio=16/9&width=480&u=1787142955000"
+    },
+    {
+      "id": "10682755",
+      "title": "Beleggersagenda van donderdag 20 augustus: feelgoodmovie bij Kinepolis?",
+      "link": "https://www.tijd.be/r/t/1/id/10682755",
+      "category": "Markten Live",
+      "description": "Met een koerssprong van meer dan 40 procent sinds Nieuwjaar nam de Kinepolis-belegger een voorschot op een blockbusterjaar voor de bioscoopuitbater.",
+      "pubDate": "Wed, 19 Aug 2026 12:31:30 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:Av769VBfaVA9SKYpthqkL3&context=ONLINE&ratio=16/9&width=480&u=1787142525000"
     },
     {
       "id": "10682695",
