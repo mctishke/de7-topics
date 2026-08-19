@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T09:01:31.272885+00:00",
+  "generated_at": "2026-08-19T09:47:10.278973+00:00",
   "date": "2026-08-19",
   "de7_title": "19/08 | Trump pauzeert nieuwe handelstarieven Canada | Piekende rente dreigt begroting nog moeilijker te maken | Meta riskeert claim van 200 miljard",
   "de7_matched_count": 0,
@@ -124,6 +124,50 @@
       "score": 2,
       "in_de7": false,
       "image": "https://images.tijd.be/view?iid=Elvis:AOKtjB3LK6SAdNWw-_XD-P&context=ONLINE&ratio=16/9&width=480&u=1787125573000"
+    },
+    {
+      "id": "10675546",
+      "title": "Onze favoriete shopadressen in Knokke",
+      "link": "https://www.tijd.be/r/t/1/id/10675546",
+      "category": "Sabato",
+      "description": "Op zoek naar de beste winkels in Knokke? Dit zijn de favoriete shopadressen van onze correspondent die de stad door en door kent.",
+      "pubDate": "Wed, 19 Aug 2026 09:16:28 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:2vfVQg2BqNr8Sw8i24wLkJ&context=ONLINE&ratio=16/9&width=480&u=1787130987000"
+    },
+    {
+      "id": "10682705",
+      "title": "Om AI te vertrouwen moeten we de bouwstenen kennen",
+      "link": "https://www.tijd.be/r/t/1/id/10682705",
+      "category": "Opinie",
+      "description": "Net zoals we van voedselproducenten verwachten dat ze aangeven wat er in hun producten zit, mogen we ook van AI-ontwikkelaars verwachten dat ze transparant zijn over de bouwstenen waarop hun systemen zijn gebaseerd.",
+      "pubDate": "Wed, 19 Aug 2026 09:07:55 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:0a2DOYmTa-79U__AmdIH79&context=ONLINE&ratio=16/9&width=480&u=1787130479000"
+    },
+    {
+      "id": "10682692",
+      "title": "Carlsberg verhoogt winstprognose dankzij... Pepsi",
+      "link": "https://www.tijd.be/r/t/1/id/10682692",
+      "category": "Ondernemen",
+      "description": "Het Deense Carlsberg - ook gekend van Tuborg - transformeert van bierbrouwer in een bredere drankenproducent. Het verhoogt zijn winstprognose voor dit jaar, gedreven door onder meer het bottelen en verkopen van Pepsi.",
+      "pubDate": "Wed, 19 Aug 2026 09:00:47 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:E6d4WfCdKF-8HIcaYfhhyI&context=ONLINE&ratio=16/9&width=480&u=1787130050000"
+    },
+    {
+      "id": "10682695",
+      "title": "Verzekeraar ASR Nederland verwent met steviger dividend",
+      "link": "https://www.tijd.be/r/t/1/id/10682695",
+      "category": "Markten Live",
+      "description": "De verzekeraar ASR Nederland legt opnieuw sterke halfjaarresultaten voor. Het interim-dividend stijgt bijna een tiende.",
+      "pubDate": "Wed, 19 Aug 2026 09:15:14 GMT",
+      "score": 0,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:7ycdECF6ato8tIIT0scDDe&context=ONLINE&ratio=16/9&width=480&u=1787130918000"
     }
   ]
 }
