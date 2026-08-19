@@ -1,6 +1,83 @@
 {
   "articles": [
     {
+      "id": "10682205",
+      "title": "De vakantiekoffer van chocolatier Pierre Marcolini",
+      "link": "https://www.tijd.be/r/t/1/id/10682205",
+      "category": "Sabato",
+      "description": "Elke week deze zomer openen we een vakantiekoffer. Deze keer die van Pierre Marcolini, die met evenveel plezier van cacaoplantages aan de andere kant van de wereld naar een vakantiehuis tussen Uzès en Avignon trekt.",
+      "pubDate": "Wed, 19 Aug 2026 04:45:50 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:5faOEwdS4jDAIuFhlzSrEb&context=ONLINE&ratio=16/9&width=480&u=1786974671000"
+    },
+    {
+      "id": "10682659",
+      "title": "Aandeel van boksende Unitree-robots maal zeven op eerste beursdag",
+      "link": "https://www.tijd.be/r/t/1/id/10682659",
+      "category": "Ondernemen",
+      "description": "De eerste beursdag van Unitree, de Chinese maker van humanoïde robots, is woensdag een overdonderend succes. Het aandeel ging bij de start meteen maal zeven.",
+      "pubDate": "Wed, 19 Aug 2026 04:38:27 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:AG73Xw7TKSsA9tS_ijXJWt&context=ONLINE&ratio=16/9&width=480&u=1787114910000"
+    },
+    {
+      "id": "10682660",
+      "title": "Trump pauzeert nieuwe handelstarieven Canada | Piekende rente dreigt begroting nog moeilijker te maken | Meta riskeert claim van 200 miljard",
+      "link": "https://www.tijd.be/r/t/1/id/10682660",
+      "category": "Podcasts",
+      "description": "De 7 is een dagelijkse podcast van De Tijd. U krijgt het nieuws dat u nodig heeft om uw dag goed te starten in zeven punten.",
+      "pubDate": "Wed, 19 Aug 2026 04:29:02 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:D5qdfbSIKTz8cNh_7E2gDA&context=ONLINE&ratio=16/9&width=480&u=1787113794000"
+    },
+    {
+      "id": "10682657",
+      "title": "Trump pauzeert Canadese invoertarieven",
+      "link": "https://www.tijd.be/r/t/1/id/10682657",
+      "category": "Politiek & Economie",
+      "description": "De Amerikaanse president Donald Trump pauzeert voor drie dagen invoertarieven van 50 procent op Canadese producten. Hij claimt een deal met Canada te hebben.",
+      "pubDate": "Wed, 19 Aug 2026 03:38:25 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:AWnBEFaoK6y85H5npYYRtc&context=ONLINE&ratio=16/9&width=480&u=1787110708000"
+    },
+    {
+      "id": "10682105",
+      "title": "Moet China zijn moordende concurrentiekracht intomen? Plots lijdt het er zelf onder",
+      "link": "https://www.tijd.be/r/t/1/id/10682105",
+      "category": "Politiek & Economie",
+      "description": "Chinese ondernemingen worden in Europa gevreesd om hun snelheid en concurrentiekracht. Net die 'sterktes' doen nu ook de eigen economie pijn. Een op de acht beursgenoteerde bedrijven kan zijn schulden niet meer dragen. 'Staatssteun houdt de vele zombies kunstmatig in leven.'",
+      "pubDate": "Wed, 19 Aug 2026 03:05:34 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:5C56bmCiaQaBs0ZRu_xC8Z&context=ONLINE&ratio=16/9&width=480&u=1787085739000"
+    },
+    {
+      "id": "10682464",
+      "title": "Telenet verkoopt The Park: oprichter en nieuwe baas wil van 16 naar 25 VR-speelhallen",
+      "link": "https://www.tijd.be/r/t/1/id/10682464",
+      "category": "Ondernemen",
+      "description": "Het telecom- en mediabedrijf Telenet heeft The Park verkocht aan een holding rond Philippe De Schutter, de oprichter van de VR-entertainmentspeler. Hij mikt op negen extra locaties in een dik jaar en ‘culturele’ virtualreality-ervaringen.",
+      "pubDate": "Wed, 19 Aug 2026 03:00:50 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:5tGZ5wSeKtWBjuNBGtH1-t&context=ONLINE&ratio=16/9&width=480&u=1787087207000"
+    },
+    {
+      "id": "10682656",
+      "title": "Fluxys wordt grootste aandeelhouder Australische softwaregroep",
+      "link": "https://www.tijd.be/r/t/1/id/10682656",
+      "category": "Ondernemen",
+      "description": "De Belgische gasnetbeheerder Fluxys verkoopt zijn Britse softwaredochter GMSL aan de Australische sectorgenoot Energy One. Dankzij die transactie wordt Fluxys de grootste aandeelhouder van het beursgenoteerde bedrijf uit Sydney.",
+      "pubDate": "Tue, 18 Aug 2026 23:32:47 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:2OpqvDMXacSAawBuY9tFCa&context=ONLINE&ratio=16/9&width=480&u=1787112996000"
+    },
+    {
       "id": "10682654",
       "title": "Wall Street krijgt tik door hogere rente en terugval van chipaandelen",
       "link": "https://www.tijd.be/r/t/1/id/10682654",
@@ -4925,400 +5002,6 @@
       "score": 13,
       "in_de7": true,
       "image": "https://images.tijd.be/view?iid=Elvis:F3ey9eHuKl68ujszHAFFZr&context=ONLINE&ratio=16/9&width=480&u=1785910344000"
-    },
-    {
-      "id": "10681211",
-      "title": "Novo Nordisk verhoogt jaarprognose, maar stelt toch teleur",
-      "link": "https://www.tijd.be/r/t/1/id/10681211",
-      "category": "Markten Live",
-      "description": "De Deense farmareus Novo Nordisk ging onderuit in de Amerikaanse handel, ondanks sterke kwartaalcijfers en een opwaartse bijstelling van de verwachtingen.",
-      "pubDate": "Tue, 04 Aug 2026 20:17:16 GMT",
-      "score": 0,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:DYOGETUPK8P94oql4ZxM9O&context=ONLINE&ratio=16/9&width=480&u=1785875991000"
-    },
-    {
-      "id": "10681210",
-      "title": "Witte Huis wil krachtigste AI-modellen vooraf laten testen",
-      "link": "https://www.tijd.be/r/t/1/id/10681210",
-      "category": "Ondernemen",
-      "description": "Nadat experimentele AI-agenten tijdens tests zelfstandig computersystemen zijn binnengedrongen, grijpt Washington in. Het Witte Huis wil de krachtigste modellen voortaan laten testen voordat ze gelanceerd worden.",
-      "pubDate": "Tue, 04 Aug 2026 19:43:00 GMT",
-      "score": 2,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:2G_5CPHB44zB3ioPZaLkhI&context=ONLINE&ratio=16/9&width=480&u=1785872583000"
-    },
-    {
-      "id": "10681126",
-      "title": "Nergens zonder weg in Neerijse",
-      "link": "https://www.tijd.be/r/t/1/id/10681126",
-      "category": "Dossiers",
-      "description": "Verdwalend in eigen land kijkt Rik Van Puymbroeck naar wat verwondert en soms overdondert.",
-      "pubDate": "Tue, 04 Aug 2026 18:32:06 GMT",
-      "score": 2,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:8WnDR0ZA4t48rmvqApudSl&context=ONLINE&ratio=16/9&width=480&u=1785837555000"
-    },
-    {
-      "id": "10681202",
-      "title": "Erosie Schengenregels lost Europese migratiekwestie niet op",
-      "link": "https://www.tijd.be/r/t/1/id/10681202",
-      "category": "Politiek & Economie",
-      "description": "Dat Italië na de crisis in Ceuta grenscontroles invoerde voor Spanje past in de structurele erosie van de Schengenzone. De binnengrenscontroles zijn een handig politiek wapen, maar leiden af van duurzame oplossingen voor de Europese migratiekwestie.",
-      "pubDate": "Tue, 04 Aug 2026 18:21:15 GMT",
-      "score": 3,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:0f5AWoSWqykBuh2HqkRMSe&context=ONLINE&ratio=16/9&width=480&u=1785869091000"
-    },
-    {
-      "id": "10681208",
-      "title": "Nasdaq rukt 2,7 procent op dankzij rap zakkende olieprijs",
-      "link": "https://www.tijd.be/r/t/1/id/10681208",
-      "category": "Markten Live",
-      "description": "Wall Street trekt een spurtje, waarbij met name de chipaandelen uitblinken. De S&P500 stevent af op een slotrecord. McDonald's schuift het hoofd van zijn Amerikaanse activiteiten opzij. Caterpillar en Palantir profiteren van sterke kwartaalrapporten.",
-      "pubDate": "Tue, 04 Aug 2026 18:14:10 GMT",
-      "score": 3,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:Acvwgt-G4P085tQmpiz58i&context=ONLINE&ratio=16/9&width=480&u=1785867413000"
-    },
-    {
-      "id": "10681171",
-      "title": "Vrees de beursrecords niet",
-      "link": "https://www.tijd.be/r/t/1/id/10681171",
-      "category": "Opinie",
-      "description": "De records op de beurzen voelen ongemakkelijk aan in het licht van het brandende kruitvat in de Perzische Golf, de dure olie en de oplopende inflatievrees. Maar economisch houden ze steek.",
-      "pubDate": "Tue, 04 Aug 2026 17:35:30 GMT",
-      "score": 3,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:B4nP0uti43H9Mme9kloKJB&context=ONLINE&ratio=16/9&width=480&u=1785864933000"
-    },
-    {
-      "id": "10681132",
-      "title": "Van correctie naar piek: waarom staan de beurzen weer op records?",
-      "link": "https://www.tijd.be/r/t/1/id/10681132",
-      "category": "Beurs",
-      "description": "Sterke bedrijfsresultaten en afnemende onrust over AI en de olieprijs lokken beleggers terug en jagen de beurzen naar nieuwe records. ‘De reële economie blijkt weerbaarder dan gevreesd’, zegt ING-econoom Peter Vanden Houte.",
-      "pubDate": "Tue, 04 Aug 2026 17:33:01 GMT",
-      "score": 3,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:BOxRwJs9KBCAiBa36hM0FM&context=ONLINE&ratio=16/9&width=480&u=1785864784000"
-    },
-    {
-      "id": "10681179",
-      "title": "Na migratiecrisis in Ceuta: Europa focust op sterkere buitengrenzen, strijd tegen mensensmokkel en partnerschappen",
-      "link": "https://www.tijd.be/r/t/1/id/10681179",
-      "category": "Dossiers",
-      "description": "Na dagen zwartepieten over de bestorming van de Spaanse enclave Ceuta door migranten, probeert Europa weer eenheid uit te stralen. Maar de focus op versterkte buitengrenzen, een hardere strijd tegen mensensmokkelaars en stevigere partnerschappen met derde landen gomt de achterliggende ideologische geschillen over migratie niet uit.",
-      "pubDate": "Tue, 04 Aug 2026 17:17:56 GMT",
-      "score": 2,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:F_WUfkzza37Byv__ie8K10&context=ONLINE&ratio=16/9&width=480&u=1785867101000"
-    },
-    {
-      "id": "10681176",
-      "title": "Spotify verwacht minder winst door stijgende uitgaven voor AI",
-      "link": "https://www.tijd.be/r/t/1/id/10681176",
-      "category": "Cultuur",
-      "description": "Bij de streamingreus Spotify zetten de stijgende uitgaven voor onder meer artificiële intelligentie de winst onder druk. De Zweden hebben voor het eerst meer dan 300 miljoen betalende abonnees.",
-      "pubDate": "Tue, 04 Aug 2026 16:53:17 GMT",
-      "score": 4,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:0-acUjPGKdDBbjv0zKP67H&context=ONLINE&ratio=16/9&width=480&u=1785862399000"
-    },
-    {
-      "id": "10681140",
-      "title": "Todd Blanche, de controversiële ex-advocaat van Trump die op weg is om minister van Justitie te worden",
-      "link": "https://www.tijd.be/r/t/1/id/10681140",
-      "category": "Politiek & Economie",
-      "description": "Een commissie in de Amerikaanse Senaat heeft het licht op groen gezet voor de benoeming van Todd Blanche als minister van Justitie. Met zijn voormalige persoonlijke advocaat op een van de machtigste posten in Washington versterkt Donald Trump zo zijn greep op het ministerie, waarvan de politieke onafhankelijkheid steeds meer ter discussie staat.",
-      "pubDate": "Tue, 04 Aug 2026 16:08:59 GMT",
-      "score": 1,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:6Us-rok4aLd8xnNVc2ZlI6&context=ONLINE&ratio=16/9&width=480&u=1785859743000"
-    },
-    {
-      "id": "10681203",
-      "title": "Brits-Belgische uitvaartgroep Sereni fuseert met het Britse Funeral Partners",
-      "link": "https://www.tijd.be/r/t/1/id/10681203",
-      "category": "Ondernemen",
-      "description": "Het Brits-Belgische Sereni en het Britse Funeral Partners fuseren tot een van de grotere uitvaartondernemingen van Europa. Samen zijn ze goed voor 75.000 uitvaarten per jaar.",
-      "pubDate": "Tue, 04 Aug 2026 16:02:21 GMT",
-      "score": 2,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:6PQkqCBrqwQAR3_PmzO2DI&context=ONLINE&ratio=16/9&width=480&u=1785860055000"
-    },
-    {
-      "id": "10681141",
-      "title": "Speelde rakettentekort mee bij Trumps afgeblazen aanval op Iran?",
-      "link": "https://www.tijd.be/r/t/1/id/10681141",
-      "category": "Dossiers",
-      "description": "Omdat er opnieuw zicht is op vredesgesprekken, zei Donald Trump een geplande Amerikaanse aanval op Iran te hebben afgeblazen. Volgens bronnen van Reuters speelt mogelijk ook een andere reden: de VS zouden na vijf maanden 'vrijwel al' hun precisieraketten voor de lange afstand in de regio hebben opgebruikt.",
-      "pubDate": "Tue, 04 Aug 2026 15:52:56 GMT",
-      "score": 2,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:5bQikYPaaZ5BAxBYgatAWY&context=ONLINE&ratio=16/9&width=480&u=1785860554000"
-    },
-    {
-      "id": "10681195",
-      "title": "Waarom verliest Couckes investeringshuis twee toppers in één maand?",
-      "link": "https://www.tijd.be/r/t/1/id/10681195",
-      "category": "Ondernemen",
-      "description": "Met hoofdstrateeg Ben Jansen verdwijnt in korte tijd een tweede zwaargewicht bij Alychlo, het investeringsvehikel van de zakenman Marc Coucke. Wat speelt er?",
-      "pubDate": "Tue, 04 Aug 2026 15:33:59 GMT",
-      "score": 2,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:8cQKT2N54549tvHI6U1A0D&context=ONLINE&ratio=16/9&width=480&u=1785859177000"
-    },
-    {
-      "id": "10681155",
-      "title": "Stel de meerwaardebelasting uit, of beter nog, schaf ze af",
-      "link": "https://www.tijd.be/r/t/1/id/10681155",
-      "category": "Opinie",
-      "description": "Het retroactieve karakter van de meerwaardebelasting leidt tot operationele en commerciële problemen. Het proces is onnodig omslachtig, complex en onduidelijk.",
-      "pubDate": "Tue, 04 Aug 2026 15:05:24 GMT",
-      "score": 2,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:3DBFoVnXqvHAwHsUkD4b5i&context=ONLINE&ratio=16/9&width=480&u=1785851985000"
-    },
-    {
-      "id": "10681061",
-      "title": "Annick De Ridder (N-VA): ‘Ik, in mijn eentje een geheime luchthavendeal gesloten? Gewoon fake news’",
-      "link": "https://www.tijd.be/r/t/1/id/10681061",
-      "category": "Politiek & Economie",
-      "description": "Minister van Mobiliteit Annick De Ridder bijt van zich af na de aantijgingen van achterkamertjespolitiek in de subsidiedossiers van de luchthavens van Deurne en Oostende. ‘Ik ben vooral de brokken van het verleden aan het lijmen.’",
-      "pubDate": "Tue, 04 Aug 2026 15:01:30 GMT",
-      "score": 3,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:CVaEyRvH4PR8LqQ_Z1Kge9&context=ONLINE&ratio=16/9&width=480&u=1785853706000"
-    },
-    {
-      "id": "10681160",
-      "title": "Omzet energiedivisie Caterpillar overtreft bouwtak",
-      "link": "https://www.tijd.be/r/t/1/id/10681160",
-      "category": "Markten Live",
-      "description": "Caterpillar vlamt hoger op Wall Street na beter dan verwachte kwartaalcijfers. De energiedivisie, die onder meer generatoren levert voor datacentra, wint aan belang.",
-      "pubDate": "Tue, 04 Aug 2026 14:45:14 GMT",
-      "score": 0,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:Cqk2bHVLKWA8q-ucZFBoON&context=ONLINE&ratio=16/9&width=480&u=1785856124000"
-    },
-    {
-      "id": "10681125",
-      "title": "Bel20 richt pijlen op record",
-      "link": "https://www.tijd.be/r/t/1/id/10681125",
-      "category": "Markten Live",
-      "description": "De Europese beurzen blijven op recordkoers, mede dankzij een daling van de olieprijs. Ageas krijgt fanmail na de lucratieve Maleisische exit, Azelis na de jaarcijfers.",
-      "pubDate": "Tue, 04 Aug 2026 13:46:55 GMT",
-      "score": 1,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:6o9C-CJoqG9B4ss7ogxrYU&context=ONLINE&ratio=16/9&width=480&u=1785851568000"
-    },
-    {
-      "id": "10681166",
-      "title": "Fiscus verstuurt 190.000 foutieve btw-betaalberichten",
-      "link": "https://www.tijd.be/r/t/1/id/10681166",
-      "category": "Netto",
-      "description": "De federale overheidsdienst Financiën heeft ongeveer 190.000 foutieve betalingsberichten verstuurd naar btw-plichtigen. Ook ondernemingen die hun btw voor juni of het tweede kwartaal tijdig hadden betaald, kregen te horen dat er nog een schuld openstond. Wie tijdig betaalde, hoeft niets te doen en krijgt geen boete.",
-      "pubDate": "Tue, 04 Aug 2026 13:46:53 GMT",
-      "score": 3,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:6IcYoZEHq-BBbyd19_dN32&context=ONLINE&ratio=16/9&width=480&u=1785852973000"
-    },
-    {
-      "id": "10681156",
-      "title": "Kan Novo Nordisk zijn Amerikaanse concurrent Eli Lilly bijhouden?",
-      "link": "https://www.tijd.be/r/t/1/id/10681156",
-      "category": "Ondernemen",
-      "description": "Woensdag presenteren de twee zwaargewichten in obesitasmedicijnen hun kwartaalcijfers. Is het dieptepunt bij het Deense Novo Nordisk achter de rug en kan het rivaal Eli Lilly bijhouden in zijn opmars?",
-      "pubDate": "Tue, 04 Aug 2026 13:01:57 GMT",
-      "score": 3,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:0_DOHzeAKNPBnR4_02SGDL&context=ONLINE&ratio=16/9&width=480&u=1785849019000"
-    },
-    {
-      "id": "10681128",
-      "title": "Kinepolis gaat in Nederland in zee met Zweedse keten van sportbars",
-      "link": "https://www.tijd.be/r/t/1/id/10681128",
-      "category": "Ondernemen",
-      "description": "De bioscoopgroep Kinepolis wordt in haar complex in het Nederlandse Enschede de uitbater van een filiaal van de Zweedse horecaketen O'Learys. De twee bedrijven laten verstaan dat Nederland wellicht de opstap is naar nog meer samenwerking.",
-      "pubDate": "Tue, 04 Aug 2026 12:41:41 GMT",
-      "score": 2,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:7FZ_vSiGqTaAhI0D43YVW1&context=ONLINE&ratio=16/9&width=480&u=1785847304000"
-    },
-    {
-      "id": "10680997",
-      "title": "Met AI bevinden we ons aan de rand van de geschiedenis",
-      "link": "https://www.tijd.be/r/t/1/id/10680997",
-      "category": "Opinie",
-      "description": "Oude kaartenmakers tekenden zeemonsters op de plekken waar hun kennis ophield. Met AI zitten we op de rand van de historische kaart. Het punt waarop al onze voorspellingsmodellen waardeloos worden.",
-      "pubDate": "Tue, 04 Aug 2026 12:35:44 GMT",
-      "score": 2,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:21eblPryqEGAMYovQaXZby&context=ONLINE&ratio=16/9&width=480&u=1785846948000"
-    },
-    {
-      "id": "10681145",
-      "title": "Recensie 'Woman and Child' | Extreme emoties, weinig impact",
-      "link": "https://www.tijd.be/r/t/1/id/10681145",
-      "category": "Cultuur",
-      "description": "In het Iraanse drama ‘Woman and Child’ wordt een weduwe getroffen door donker onheil. De thematiek is hartverscheurend, de uitwerking laat je koud.",
-      "pubDate": "Tue, 04 Aug 2026 12:33:11 GMT",
-      "score": 4,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:4lGvgPRAKDm9VaIoq3HOJj&context=ONLINE&ratio=16/9&width=480&u=1785846795000"
-    },
-    {
-      "id": "10681133",
-      "title": "'At the Place of Ghosts' | Unieke dramatische thriller over traumaverwerking",
-      "link": "https://www.tijd.be/r/t/1/id/10681133",
-      "image": "https://images.tijd.be/view?iid=Elvis:2XHESLUFKUT8zENohb6ADg&context=ONLINE&ratio=16/9&width=480&u=1785845158000",
-      "category": "Cultuur",
-      "pubDate": "Tue, 04 Aug 2026 12:05:54 GMT"
-    },
-    {
-      "id": "10681093",
-      "title": "Beleggersagenda van woensdag 5 augustus: Ahold Delhaize opent de boeken",
-      "link": "https://www.tijd.be/r/t/1/id/10681093",
-      "image": "https://images.tijd.be/view?iid=Elvis:82-j4TFrq0h91qhkS6do3m&context=ONLINE&ratio=16/9&width=480&u=1785831358000",
-      "category": "Markten Live",
-      "pubDate": "Tue, 04 Aug 2026 12:01:43 GMT"
-    },
-    {
-      "id": "10680545",
-      "title": "Guillaume Rigeade (Carmignac): 'Inflatiegelinkte obligaties zijn aantrekkelijk'",
-      "link": "https://www.tijd.be/r/t/1/id/10680545",
-      "image": "https://images.tijd.be/view?iid=Elvis:5VuHSyl9KAS8PYZNO2902P&context=ONLINE&ratio=16/9&width=480&u=1785845233000",
-      "category": "Markten Live",
-      "pubDate": "Tue, 04 Aug 2026 11:28:51 GMT"
-    },
-    {
-      "id": "10681139",
-      "title": "Onlinewinkel Zalando keldert na tegenvallende vooruitzichten",
-      "link": "https://www.tijd.be/r/t/1/id/10681139",
-      "image": "https://images.tijd.be/view?iid=Elvis:3F71rdbFa2GBUa-YTZayi7&context=ONLINE&ratio=16/9&width=480&u=1785842079000",
-      "category": "Ondernemen",
-      "pubDate": "Tue, 04 Aug 2026 11:14:36 GMT"
-    },
-    {
-      "id": "10681136",
-      "title": "Nederland en België gaan na Antwerpen ook meer stroom uitwisselen via Limburg",
-      "link": "https://www.tijd.be/r/t/1/id/10681136",
-      "image": "https://images.tijd.be/view?iid=Elvis:CKGTOwPWqnS9-W0SLPsUDu&context=ONLINE&ratio=16/9&width=480&u=1785843064000",
-      "category": "Ondernemen",
-      "pubDate": "Tue, 04 Aug 2026 11:06:12 GMT"
-    },
-    {
-      "id": "10680242",
-      "title": "De Tijdcapsule | Ama Kissi (psychologe): 'Racisme hoeft niet altijd schreeuwerig te zijn'",
-      "link": "https://www.tijd.be/r/t/1/id/10680242",
-      "image": "https://images.tijd.be/view?iid=Elvis:5HJu6niO4yV8h5nn1ldrLG&context=ONLINE&ratio=16/9&width=480&u=1785831790000",
-      "category": "Dossiers",
-      "pubDate": "Tue, 04 Aug 2026 10:31:31 GMT"
-    },
-    {
-      "id": "10681118",
-      "title": "Iran-crisis kost Brussels Airlines nieuwe vliegtuigen",
-      "link": "https://www.tijd.be/r/t/1/id/10681118",
-      "image": "https://images.tijd.be/view?iid=Elvis:5n8VY2RsaKmA5pok1yBOEA&context=ONLINE&ratio=16/9&width=480&u=1785843243000",
-      "category": "Ondernemen",
-      "pubDate": "Tue, 04 Aug 2026 09:58:59 GMT"
-    },
-    {
-      "id": "10681127",
-      "title": "Belg scoort Amerikaanse farmadeal van 8 miljard dollar",
-      "link": "https://www.tijd.be/r/t/1/id/10681127",
-      "image": "https://images.tijd.be/view?iid=Elvis:FYWk9VBz4D286f-BTomVUL&context=ONLINE&ratio=16/9&width=480&u=1785837590000",
-      "category": "Ondernemen",
-      "pubDate": "Tue, 04 Aug 2026 09:55:43 GMT"
-    },
-    {
-      "id": "10681003",
-      "title": "Meer dan 65.000 Amerikanen geëvacueerd voor bosbranden in staat Washington, man gearresteerd voor brandstichting",
-      "link": "https://www.tijd.be/r/t/1/id/10681003",
-      "image": "https://images.tijd.be/view?iid=Elvis:Dz-kvCP34nR9_biRU-7yCF&context=ONLINE&ratio=16/9&width=480&u=1785836380000",
-      "category": "Dossiers",
-      "pubDate": "Tue, 04 Aug 2026 09:39:40 GMT"
-    },
-    {
-      "id": "10681109",
-      "title": "Het Europese migratietrilemma",
-      "link": "https://www.tijd.be/r/t/1/id/10681109",
-      "image": "https://images.tijd.be/view?iid=Elvis:416mUaEaapn8Ea8PXo-PT6&context=ONLINE&ratio=16/9&width=480&u=1785835444000",
-      "category": "Opinie",
-      "pubDate": "Tue, 04 Aug 2026 08:37:26 GMT"
-    },
-    {
-      "id": "10680681",
-      "title": "De portefeuille van beroepsmilitair Dennis Desmidt: ‘De helft van mijn beleggingen zit in goud en zilver’",
-      "link": "https://www.tijd.be/r/t/1/id/10680681",
-      "image": "https://images.tijd.be/view?iid=Elvis:1FNzcIkFaAOAddeqTVAWkJ&context=ONLINE&ratio=16/9&width=480&u=1785839782000",
-      "category": "Dossiers",
-      "pubDate": "Tue, 04 Aug 2026 08:18:06 GMT"
-    },
-    {
-      "id": "10681085",
-      "title": "100 hectare in lichterlaaie bij bosbrand in Nederlands Limburg",
-      "link": "https://www.tijd.be/r/t/1/id/10681085",
-      "image": "https://images.tijd.be/view?iid=Elvis:4TeHTU7L4p5BDCmD6RxxF-&context=ONLINE&ratio=16/9&width=480&u=1785830998000",
-      "category": "Politiek & Economie",
-      "pubDate": "Tue, 04 Aug 2026 08:09:58 GMT"
-    },
-    {
-      "id": "10681111",
-      "title": "Chinese webwinkel Shein mikt op beurswaardering van 30 à 40 miljard dollar",
-      "link": "https://www.tijd.be/r/t/1/id/10681111",
-      "image": "https://images.tijd.be/view?iid=Elvis:APcfrxHbqdc94Z57XjY4If&context=ONLINE&ratio=16/9&width=480&u=1785829932000",
-      "category": "Ondernemen",
-      "pubDate": "Tue, 04 Aug 2026 07:46:04 GMT"
-    },
-    {
-      "id": "10681092",
-      "title": "Alychlo: na CEO verlaat ook hoofdstrateeg Ben Jansen investeringsgroep van Marc Coucke",
-      "link": "https://www.tijd.be/r/t/1/id/10681092",
-      "image": "https://images.tijd.be/view?iid=Elvis:3NAVVAd0Kbt9-Qf6FosW5u&context=ONLINE&ratio=16/9&width=480&u=1785836341000",
-      "category": "Ondernemen",
-      "pubDate": "Tue, 04 Aug 2026 05:20:00 GMT"
-    },
-    {
-      "id": "10681099",
-      "title": "Palantir verhoogt winstprognose: 'Buitenaardse resultaten'",
-      "link": "https://www.tijd.be/r/t/1/id/10681099",
-      "image": "https://images.tijd.be/view?iid=Elvis:CQPePAgraRP8ASpSYO5aCm&context=ONLINE&ratio=16/9&width=480&u=1785838479000",
-      "category": "Ondernemen",
-      "pubDate": "Tue, 04 Aug 2026 05:15:35 GMT"
-    },
-    {
-      "id": "10681097",
-      "title": "Stekkerbatterijen breken door in Vlaanderen | Staat Spanje alleen op EU-overleg over Ceuta? | IT-managers stellen investeringen uit door hoge prijzen",
-      "link": "https://www.tijd.be/r/t/1/id/10681097",
-      "image": "https://images.tijd.be/view?iid=Elvis:931R4myZacjBtjjzVEwsr9&context=ONLINE&ratio=16/9&width=480&u=1785823893000",
-      "category": "Podcasts",
-      "pubDate": "Tue, 04 Aug 2026 04:52:09 GMT"
-    },
-    {
-      "id": "10680973",
-      "title": "5 culinaire hoogtepunten en adresjes uit onze zomerroadtrip door Zuid-Tirol",
-      "link": "https://www.tijd.be/r/t/1/id/10680973",
-      "image": "https://images.tijd.be/view?iid=Elvis:BiLxgAX-Kaj8983o_GJqZj&context=ONLINE&ratio=16/9&width=480&u=1785759310000",
-      "category": "Sabato",
-      "pubDate": "Tue, 04 Aug 2026 04:45:33 GMT"
-    },
-    {
-      "id": "10680468",
-      "title": "Bedrijven staan op de rem voor IT-investeringen door hoge prijzen en tekorten",
-      "link": "https://www.tijd.be/r/t/1/id/10680468",
-      "image": "https://images.tijd.be/view?iid=Elvis:Fgcq_vmSKteBm4v0nz6OUe&context=ONLINE&ratio=16/9&width=480&u=1785815572000",
-      "category": "Ondernemen",
-      "pubDate": "Tue, 04 Aug 2026 03:30:00 GMT"
-    },
-    {
-      "id": "10680897",
-      "title": "Stekkerbatterijen breken helemaal door in Vlaanderen",
-      "link": "https://www.tijd.be/r/t/1/id/10680897",
-      "image": "https://images.tijd.be/view?iid=Elvis:2lsdAJWgaSZ8YciSfE-0OR&context=ONLINE&ratio=16/9&width=480&u=1785842656000",
-      "category": "Netto",
-      "pubDate": "Tue, 04 Aug 2026 03:00:00 GMT"
     }
   ]
 }
