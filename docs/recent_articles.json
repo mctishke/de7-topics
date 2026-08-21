@@ -1,6 +1,39 @@
 {
   "articles": [
     {
+      "id": "10683058",
+      "title": "Bitcoin beleeft beste week in twee jaar, ook goud schittert",
+      "link": "https://www.tijd.be/r/t/1/id/10683058",
+      "category": "Markten Live",
+      "description": "Bitcoin en goud zitten tegelijk in de lift dankzij dezelfde brandstof: ontsporende Amerikaanse overheidsschulden en een zwakkere dollar.",
+      "pubDate": "Fri, 21 Aug 2026 10:42:34 GMT",
+      "score": 0,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:1rsqIUn4q4H98wW9FViF2d&context=ONLINE&ratio=16/9&width=480&u=1787308957000"
+    },
+    {
+      "id": "10683049",
+      "title": "Prévot veroordeelt Israëlische bouwplannen op Westelijke Jordaanoever",
+      "link": "https://www.tijd.be/r/t/1/id/10683049",
+      "category": "Dossiers",
+      "description": "Meerdere Europese leiders veroordelen de Israëlische plannen voor de bouw van 1.200 nieuwe woningen op de Westelijke Jordaanoever. Minister van Buitenlandse Zaken Maxime Prévot noemt de plannen 'onacceptabel'.",
+      "pubDate": "Fri, 21 Aug 2026 10:32:09 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:4J90BzJgqZXALXGOPYgwLY&context=ONLINE&ratio=16/9&width=480&u=1787308333000"
+    },
+    {
+      "id": "10683054",
+      "title": "Na 44 dagen droogte kunnen kajakkers weer (stukje van) de Lesse afvaren",
+      "link": "https://www.tijd.be/r/t/1/id/10683054",
+      "category": "Ondernemen",
+      "description": "Na de regen van de voorbije dagen wordt de kajakafvaart op de Lesse vanaf zaterdag opnieuw mogelijk. Sinds 9 juli had de droogte daar een stokje voor gestoken.",
+      "pubDate": "Fri, 21 Aug 2026 10:27:30 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:2HkoQR0U4TG8SiQc3lDLC2&context=ONLINE&ratio=16/9&width=480&u=1787308053000"
+    },
+    {
       "id": "10683045",
       "title": "Gestrikt | ‘Twee vrouwen in het veen’ van Vincent van Gogh voor Bernard Quintin",
       "link": "https://www.tijd.be/r/t/1/id/10683045",
