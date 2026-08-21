@@ -1,6 +1,61 @@
 {
   "articles": [
     {
+      "id": "10683112",
+      "title": "Nederlandse monsterboete van 825 miljoen euro voor Uber",
+      "link": "https://www.tijd.be/r/t/1/id/10683112",
+      "category": "Politiek & Economie",
+      "description": "De Nederlandse privacywaakhond heeft Uber de op een na grootste Europese privacyboete ooit opgelegd, omdat het Amerikaanse bedrijf deeltaxichauffeurs liet schorsen op basis van algoritmes.",
+      "pubDate": "Fri, 21 Aug 2026 14:38:10 GMT",
+      "score": 5,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:5VUqZHBmaPo9xgRvsAKgVc&context=ONLINE&ratio=16/9&width=480&u=1787323094000"
+    },
+    {
+      "id": "10682829",
+      "title": "De richtlijn door Rik Van Cauwelaert | Valse sinterklazen",
+      "link": "https://www.tijd.be/r/t/1/id/10682829",
+      "category": "Opinie",
+      "description": "Het viel te verwachten: de gepensioneerden krijgen een flink deel van de factuur voor de centenindex voorgeschoteld. De combinatie van vergrijzing en ontspoorde overheidsfinanciën heeft een prijs.",
+      "pubDate": "Fri, 21 Aug 2026 14:35:15 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:3N3RUvRb4ALBQ0I7TWMt73&context=ONLINE&ratio=16/9&width=480&u=1787223331000"
+    },
+    {
+      "id": "10682800",
+      "title": "Zorgeloos oud worden met uw aanvullend pensioen: wordt een levenslange uitkering in rente interessanter?",
+      "link": "https://www.tijd.be/r/t/1/id/10682800",
+      "category": "Netto",
+      "description": "Uw aanvullend pensioen levenslang laten uitkeren als maandelijkse rente klinkt aantrekkelijk, maar is vandaag veel minder interessant dan het volledige kapitaal in één keer laten uitbetalen. Met de hervormingsplannen van de regering én de langetermijnrente op het hoogste niveau sinds 2012, komt daar mogelijk verandering in.",
+      "pubDate": "Fri, 21 Aug 2026 14:29:27 GMT",
+      "score": 1,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:8QhHK6T8qS-ANSaiQqXk1i&context=ONLINE&ratio=16/9&width=480&u=1787322571000"
+    },
+    {
+      "id": "10683115",
+      "title": "Wall Street: na een week vol Scott is er gelukkig Ross",
+      "link": "https://www.tijd.be/r/t/1/id/10683115",
+      "category": "Markten Live",
+      "description": "Na een week waarin minister van Financiën Scott Bessent de obligatiemarkten meenam op een achtbaanrit, is de update van Ross Stores exact wat de dokter voorschreef om tot rust te komen.",
+      "pubDate": "Fri, 21 Aug 2026 14:27:10 GMT",
+      "score": 0,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:9uBMmO2aaKT9vayn6PaGqc&context=ONLINE&ratio=16/9&width=480&u=1787323118000"
+    },
+    {
+      "id": "10683011",
+      "title": "Beleggersagenda volgende week: staatsbon, Jackson Hole, Nvidia, Ageas en DEME",
+      "link": "https://www.tijd.be/r/t/1/id/10683011",
+      "category": "Markten Live",
+      "description": "De schatkist bepaalt maandag de rente van de nieuwe staatsbons en Fed-voorzitter Kevin Warsh geeft vrijdag een belangrijke toespraak op de Fed-conferentie in Jackson Hole. Voorts publiceren onder meer Nvidia, Ageas en DEME resultaten.",
+      "pubDate": "Fri, 21 Aug 2026 14:15:43 GMT",
+      "score": 0,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:4yH84g_7qj79ZC0JlxsdcG&context=ONLINE&ratio=16/9&width=480&u=1787322328000"
+    },
+    {
       "id": "10682749",
       "title": "Het DNA van The Atomic Orchestra: 'We zijn geen begeleidingsorkest, maar een band'",
       "link": "https://www.tijd.be/r/t/1/id/10682749",
