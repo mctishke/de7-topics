@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T17:26:45.319650+00:00",
+  "generated_at": "2026-08-21T17:54:19.688314+00:00",
   "date": "2026-08-21",
   "de7_title": "21/08 | Aantal terugbetalingen voor Ozempic en co. op record | Bitcoin schiet plots naar 70.000 dollar | Amerikanen sluizen toch olie door Hormuz",
   "de7_matched_count": 1,
@@ -14,6 +14,17 @@
       "score": 15,
       "in_de7": true,
       "image": "https://images.tijd.be/view?iid=Elvis:8RK6qlYxKI59nSMuAXpX-T&context=ONLINE&ratio=16/9&width=480&u=1787289544000"
+    },
+    {
+      "id": "10683020",
+      "title": "Econoom Gert Peersman: 'Ik ben optimistisch over AI, vanwaar moet de groei anders komen?'",
+      "link": "https://www.tijd.be/r/t/1/id/10683020",
+      "category": "Politiek & Economie",
+      "description": "In een klimaat van piekende rente en slabakkende groei moet de regering-De Wever op zoek naar 10 miljard euro. Broodnodig, want het begrotingstekort wordt er niet kleiner op, waarschuwt econoom Gert Peersman. 'In de volgende regeerperiode moeten we sowieso een nog grotere inspanning leveren.'",
+      "pubDate": "Fri, 21 Aug 2026 17:52:06 GMT",
+      "score": 7,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:EHjVNzc5aGTATR1sCpFcG3&context=ONLINE&ratio=16/9&width=480&u=1787334730000"
     },
     {
       "id": "10682979",
@@ -247,6 +258,17 @@
       "image": "https://images.tijd.be/view?iid=Elvis:EJysjOG44IMAybTRsdPyvC&context=ONLINE&ratio=16/9&width=480&u=1787320783000"
     },
     {
+      "id": "10682844",
+      "title": "Nvidia ontwikkelt nieuwe chips in rotvaart, maar rekent op oude in plan van 500 miljard dollar",
+      "link": "https://www.tijd.be/r/t/1/id/10682844",
+      "category": "Ondernemen",
+      "description": "500 miljard hier, 500 miljard daar... De bedragen waarmee de grote techbedrijven goochelen om AI-infrastructuur uit te bouwen, tarten alle verbeelding. Cruciaal in het verhaal zijn de chips die als onderpand fungeren voor de leningen, maar heeft AI-rekenkracht wel voldoende economische levensduur om die status te verantwoorden?",
+      "pubDate": "Fri, 21 Aug 2026 17:37:09 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:9DHAs41gapkAgSS1QAvPtw&context=ONLINE&ratio=16/9&width=480&u=1787334361000"
+    },
+    {
       "id": "10682992",
       "title": "Aantal terugbetalingen voor Ozempic en co. op record | Bitcoin schiet plots naar 70.000 dollar | Amerikanen sluizen toch olie door Hormuz",
       "link": "https://www.tijd.be/r/t/1/id/10682992",
@@ -421,28 +443,6 @@
       "score": 2,
       "in_de7": false,
       "image": "https://images.tijd.be/view?iid=Elvis:1ltSBRCvKDv9IpX2kj5STU&context=ONLINE&ratio=16/9&width=480&u=1787315289000"
-    },
-    {
-      "id": "10683002",
-      "title": "Europa heeft nood aan nieuw Brussels effect, en snel",
-      "link": "https://www.tijd.be/r/t/1/id/10683002",
-      "category": "Opinie",
-      "description": "Terwijl de wereld vroeger naar de Europese Unie keek, worden we nu technologisch almaar meer afhankelijk van anderen. In zowel hardware als software bepalen we steeds minder de maat.",
-      "pubDate": "Fri, 21 Aug 2026 12:19:25 GMT",
-      "score": 2,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:7DegELEsqmlAzussw7C56Q&context=ONLINE&ratio=16/9&width=480&u=1787306536000"
-    },
-    {
-      "id": "10683078",
-      "title": "Panamakanaal kan minder schepen aan door weerfenomeen El Niño",
-      "link": "https://www.tijd.be/r/t/1/id/10683078",
-      "category": "Ondernemen",
-      "description": "Het Panamakanaal gaat vanaf begin september minder schepen doorlaten, omdat de aanhoudende droogte de watervoorraden onder druk zet. De beperkingen dreigen de wachttijden en de kosten op een van de belangrijkste vaarroutes ter wereld op te drijven.",
-      "pubDate": "Fri, 21 Aug 2026 12:11:06 GMT",
-      "score": 2,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:0lO7IGBIav18k7m7luAfLK&context=ONLINE&ratio=16/9&width=480&u=1787314269000"
     }
   ]
 }
