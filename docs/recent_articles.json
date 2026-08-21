@@ -1,6 +1,50 @@
 {
   "articles": [
     {
+      "id": "10682749",
+      "title": "Het DNA van The Atomic Orchestra: 'We zijn geen begeleidingsorkest, maar een band'",
+      "link": "https://www.tijd.be/r/t/1/id/10682749",
+      "category": "Cultuur",
+      "description": "Wat met een gelegenheidsconcert op Pukkelpop begon, groeide uit tot een uniek poporkest en een bedrijf dat de regels van de branche herschrijft. Wat is het fundament van The Atomic Orchestra? 'Het collectief is altijd belangrijker dan het individu.'",
+      "pubDate": "Fri, 21 Aug 2026 14:01:08 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:BI7HseB7473A7qf2134OWp&context=ONLINE&ratio=16/9&width=480&u=1787317162000"
+    },
+    {
+      "id": "10683103",
+      "title": "Vliegtuigbouwer Airbus verliest conflict over thuiswerk",
+      "link": "https://www.tijd.be/r/t/1/id/10683103",
+      "category": "Ondernemen",
+      "description": "Na een serie stakingen bergt de Europese vliegtuigbouwer Airbus de plannen op om zijn werknemers meer naar kantoor te krijgen.",
+      "pubDate": "Fri, 21 Aug 2026 13:59:40 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:EJysjOG44IMAybTRsdPyvC&context=ONLINE&ratio=16/9&width=480&u=1787320783000"
+    },
+    {
+      "id": "10683006",
+      "title": "Chipbedrijf met Belgisch randje wil Nvidia’s dominantie doorbreken met gewaagde gok",
+      "link": "https://www.tijd.be/r/t/1/id/10683006",
+      "category": "Ondernemen",
+      "description": "De chipontwikkelaar Etched tankte 700 miljoen dollar vers kapitaal, onder meer bij het Belgische Hummingbird Ventures. De Amerikaanse start-up heeft intussen zijn eerste kant-en-klare serverkast geleverd. Daarmee wil hij Nvidia het vuur aan de schenen leggen, al is dat niet zonder risico.",
+      "pubDate": "Fri, 21 Aug 2026 13:59:22 GMT",
+      "score": 6,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:3052KDBgKn-AH4RU7AEtIK&context=ONLINE&ratio=16/9&width=480&u=1787320766000"
+    },
+    {
+      "id": "10683066",
+      "title": "Gentse bio-inkt gebruikt voor 3D-printen van implantaten in ruimtestation",
+      "link": "https://www.tijd.be/r/t/1/id/10683066",
+      "category": "Ondernemen",
+      "description": "Een 3D-printer in het Internationaal Ruimtestation (ISS) heeft onlangs medische hulpmiddelen geprint met behulp van bio-inkt van de Gentse start-up Bio Inx. Het is een stap naar geneeskunde op maat in de ruimte.",
+      "pubDate": "Fri, 21 Aug 2026 13:33:00 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:DgrbTzIY4H0A5VQzbNYGuq&context=ONLINE&ratio=16/9&width=480&u=1787319183000"
+    },
+    {
       "id": "10683008",
       "title": "Na de mislukking van het bestand: VS mikken op economisch isolement van Iran",
       "link": "https://www.tijd.be/r/t/1/id/10683008",
