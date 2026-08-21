@@ -1,6 +1,39 @@
 {
   "articles": [
     {
+      "id": "10683024",
+      "title": "Europese industrie boekt sterkste groei in vier jaar",
+      "link": "https://www.tijd.be/r/t/1/id/10683024",
+      "category": "Politiek & Economie",
+      "description": "De opbouw van voorraden en de investeringen in artificiële intelligentie en defensie doen de industriële productie in de eurozone fors stijgen. Daardoor verdwijnen voorlopig geen jobs meer in de industrie.",
+      "pubDate": "Fri, 21 Aug 2026 09:43:39 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:0Yrg_dEZK4X8RO_6Si4Sje&context=ONLINE&ratio=16/9&width=480&u=1787305422000"
+    },
+    {
+      "id": "10683032",
+      "title": "Recordaantal student-zelfstandigen in ons land",
+      "link": "https://www.tijd.be/r/t/1/id/10683032",
+      "category": "Netto",
+      "description": "Het aantal student-zelfstandigen in ons land is opgelopen tot 9.155. Dat is 5 procent meer dan vorig jaar, becijferde de zelfstandigenorganisatie Unizo.",
+      "pubDate": "Fri, 21 Aug 2026 09:35:57 GMT",
+      "score": 5,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:FApoE0Kfqjz8a2S0iWkn-F&context=ONLINE&ratio=16/9&width=480&u=1787304960000"
+    },
+    {
+      "id": "10683009",
+      "title": "Een euro minder vandaag, een hartaanval meer morgen?",
+      "link": "https://www.tijd.be/r/t/1/id/10683009",
+      "category": "Opinie",
+      "description": "Meer dan een miljoen Belgen leven met hart- en vaatziekten en nog veel meer lopen een verhoogd risico om ze te ontwikkelen. Toch besliste de overheid om de middelen die hen beschermen voortaan minder terug te betalen. Dat is een vergissing.",
+      "pubDate": "Fri, 21 Aug 2026 09:33:04 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:6j8QNmY0q7V9ntzriQKdYP&context=ONLINE&ratio=16/9&width=480&u=1787304788000"
+    },
+    {
       "id": "10682824",
       "title": "De matrix | Klimaatimpact van AI is een non-issue",
       "link": "https://www.tijd.be/r/t/1/id/10682824",
