@@ -1,6 +1,39 @@
 {
   "articles": [
     {
+      "id": "10683255",
+      "title": "Vlaams onderwijs moet leiden in AI",
+      "link": "https://www.tijd.be/r/t/1/id/10683255",
+      "category": "Opinie",
+      "description": "Bij de implementatie van generatieve artificiële intelligentie (GenAI) in ons onderwijs spelen Vlaamse leraren eerder een lijdende dan een leidende rol. Dat gaat ten koste van onze leerlingen en hun vaardigheden. Nochtans is niemand beter geschikt dan onze leraren om het enorme potentieel van AI voor ons onderwijs te benutten.",
+      "pubDate": "Mon, 24 Aug 2026 15:14:23 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:DX_TZYKG4yB90rk_GywaP7&context=ONLINE&ratio=16/9&width=480&u=1787584467000"
+    },
+    {
+      "id": "10683271",
+      "title": "Brusselse taartengooier Noël Godin, die Bill Gates en Michael O'Leary viseerde, overleden",
+      "link": "https://www.tijd.be/r/t/1/id/10683271",
+      "category": "Politiek & Economie",
+      "description": "De Brusselse 'taartengooier' Noël Godin is zondag overleden. Microsoft-stichter Bill Gates, Ryanair-topman Michael O'Leary en de gewezen Franse president Nicolas Sarkozy behoren tot zijn bekendste slachtoffers.",
+      "pubDate": "Mon, 24 Aug 2026 15:02:28 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:6rZzMG30anQ9ZBsyR8JlbR&context=ONLINE&ratio=16/9&width=480&u=1787583700000"
+    },
+    {
+      "id": "10683231",
+      "title": "Brussels drugsgeweld laait weer op met vijf schietpartijen in drie dagen",
+      "link": "https://www.tijd.be/r/t/1/id/10683231",
+      "category": "Politiek & Economie",
+      "description": "Brussel is na een relatief kalme zomer in de greep van een nieuwe reeks schietpartijen. De heropflakkering van het geweld kan erop wijzen dat drugsbendes onder druk staan, maar toont ook dat heel wat oude problemen nog niet zijn opgelost.",
+      "pubDate": "Mon, 24 Aug 2026 14:53:59 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:AlTel4h2KXlBtjpP9zHrxa&context=ONLINE&ratio=16/9&width=480&u=1787583663000"
+    },
+    {
       "id": "10683268",
       "title": "Belgische CEO moet turbo zetten onder Britse DNA-specialist",
       "link": "https://www.tijd.be/r/t/1/id/10683268",
