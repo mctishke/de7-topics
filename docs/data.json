@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T17:05:56.270288+00:00",
+  "generated_at": "2026-08-25T17:43:32.434646+00:00",
   "date": "2026-08-25",
   "de7_title": "25/08 | Ondernemers Roland Duchâtelet en Luc Tack lonken naar Belfius | VS stellen ultimatum voor handelspartners Iran | Is aandeel Shein de moeite waard?",
   "de7_matched_count": 1,
@@ -168,6 +168,17 @@
       "score": 3,
       "in_de7": false,
       "image": "https://images.tijd.be/view?iid=Elvis:5pIoiK4_aT-AnHBMl2ZpsA&context=ONLINE&ratio=16/9&width=480&u=1787676987000"
+    },
+    {
+      "id": "10683417",
+      "title": "'Het probleem is niet dat we te weinig politiemensen hebben, maar dat we ze niet gericht inzetten'",
+      "link": "https://www.tijd.be/r/t/1/id/10683417",
+      "category": "Politiek & Economie",
+      "description": "Terwijl het drugsgeweld in Brussel oplaait, verwijten politici elkaar dat er te weinig politiemensen zijn om criminele bendes aan te pakken. Het jarenlang versnipperde veiligheidsbeleid blijft in die discussie onderbelicht, terwijl dat volgens criminoloog Jelle Janssens het fundamentele probleem is.",
+      "pubDate": "Tue, 25 Aug 2026 17:40:51 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:7_VWhfn0agCBj0jbIIxFx6&context=ONLINE&ratio=16/9&width=480&u=1787679655000"
     },
     {
       "id": "10683328",
@@ -432,17 +443,6 @@
       "score": 0,
       "in_de7": false,
       "image": "https://images.tijd.be/view?iid=Elvis:AMXZ_CxNqGQ8guwUPdaS39&context=ONLINE&ratio=16/9&width=480&u=1787636476000"
-    },
-    {
-      "id": "10683402",
-      "title": "Lancering Gemini Enterprise haalt Wolters Kluwer en Relx onderuit",
-      "link": "https://www.tijd.be/r/t/1/id/10683402",
-      "category": "Markten Live",
-      "description": "Google lanceert gespecialiseerde versies van zijn AI-platform Gemini Enterprise voor onder meer financiële diensten en de juridische sector. Ontwikkelaars van bedrijfssoftware incasseren op de beurs een zoveelste tik.",
-      "pubDate": "Tue, 25 Aug 2026 13:33:16 GMT",
-      "score": 0,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:1DMOghTh4VsAiUXA90OEvs&context=ONLINE&ratio=16/9&width=480&u=1787665483000"
     }
   ]
 }
