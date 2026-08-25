@@ -1,6 +1,61 @@
 {
   "articles": [
     {
+      "id": "10683412",
+      "title": "Wall Street: Nieuwe Macs en limp Dick's als voorsmaakje op Nvidia",
+      "link": "https://www.tijd.be/r/t/1/id/10683412",
+      "category": "Markten Live",
+      "description": "Wall Street veert dinsdag op dankzij goedkopere olie en lagere obligatierentes. Vooral chipbedrijven herpakken zich in afwachting van de resultaten van Nvidia.",
+      "pubDate": "Tue, 25 Aug 2026 14:03:18 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:CjGhRo1uKH78EsfC_OuGH_&context=ONLINE&ratio=16/9&width=480&u=1787666601000"
+    },
+    {
+      "id": "10683406",
+      "title": "AirBaltic komt toch niet naar luchthaven Luik",
+      "link": "https://www.tijd.be/r/t/1/id/10683406",
+      "category": "Politiek & Economie",
+      "description": "De Letse luchtvaartmaatschappij AirBaltic komt dan toch niet naar de luchthaven van Luik, die zonder passagiersvluchten komt te zitten na het eerdere vertrek van TUI.",
+      "pubDate": "Tue, 25 Aug 2026 13:55:05 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:BApJJFjFKkuA203PmMpdbo&context=ONLINE&ratio=16/9&width=480&u=1787666108000"
+    },
+    {
+      "id": "10683304",
+      "title": "De stille dood van maatschappelijk verantwoord ondernemen",
+      "link": "https://www.tijd.be/r/t/1/id/10683304",
+      "category": "Opinie",
+      "description": "Overheden en bedrijven hebben hun ambitieuze duurzaamheidsinitiatieven en engagementen nog sneller opgeborgen dan ze die gelanceerd hadden.",
+      "pubDate": "Tue, 25 Aug 2026 13:52:24 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:9GxXYLK8qyaB9xYWmASnhf&context=ONLINE&ratio=16/9&width=480&u=1787665947000"
+    },
+    {
+      "id": "10683402",
+      "title": "Lancering Gemini Enterprise haalt Wolters Kluwer en Relx onderuit",
+      "link": "https://www.tijd.be/r/t/1/id/10683402",
+      "category": "Markten Live",
+      "description": "Google lanceert gespecialiseerde versies van zijn AI-platform Gemini Enterprise voor onder meer financiële diensten en de juridische sector. Ontwikkelaars van bedrijfssoftware incasseren op de beurs een zoveelste tik.",
+      "pubDate": "Tue, 25 Aug 2026 13:33:16 GMT",
+      "score": 0,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:1DMOghTh4VsAiUXA90OEvs&context=ONLINE&ratio=16/9&width=480&u=1787665483000"
+    },
+    {
+      "id": "10683384",
+      "title": "Duitsland in het vizier van Russische hybride oorlog",
+      "link": "https://www.tijd.be/r/t/1/id/10683384",
+      "category": "Politiek & Economie",
+      "description": "Van een ondergronds wapendepot in een bos over een droneaanval op een vrachtvliegtuig en 'wegwerpagenten' die fabrieken proberen te saboteren: Duitsland, de grootste militaire financier van Oekraïne, is in de ban van de hybride oorlog die Rusland tegen hem voert.",
+      "pubDate": "Tue, 25 Aug 2026 13:30:04 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:2fznUSnlahDA-nNSh3Uax6&context=ONLINE&ratio=16/9&width=480&u=1787666648000"
+    },
+    {
       "id": "10683386",
       "title": "Saoedi-Arabië legt 6 miljard euro op tafel voor drie pretparken nabij Parijs",
       "link": "https://www.tijd.be/r/t/1/id/10683386",
