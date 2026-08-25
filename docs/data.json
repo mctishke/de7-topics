@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T18:03:37.531346+00:00",
+  "generated_at": "2026-08-25T18:55:14.960460+00:00",
   "date": "2026-08-25",
   "de7_title": "25/08 | Ondernemers Roland Duchâtelet en Luc Tack lonken naar Belfius | VS stellen ultimatum voor handelspartners Iran | Is aandeel Shein de moeite waard?",
   "de7_matched_count": 1,
@@ -146,6 +146,17 @@
       "score": 4,
       "in_de7": false,
       "image": "https://images.tijd.be/view?iid=Elvis:DDAoENjdK3k9YJiRNXYrGq&context=ONLINE&ratio=16/9&width=480&u=1787673036000"
+    },
+    {
+      "id": "10683234",
+      "title": "Sterkste El Niño ooit in aantocht: 'Zomer vol klimaatextremen was maar voorsmaakje'",
+      "link": "https://www.tijd.be/r/t/1/id/10683234",
+      "category": "Dossiers",
+      "description": "Het klimaatfenomeen El Niño neemt dit jaar ongezien snel toe in kracht. De verwachting is dat het om de sterkste episode ooit gaat. De gevolgen: nog meer klimaatleed en economische schade, tot in Europa.",
+      "pubDate": "Tue, 25 Aug 2026 17:56:34 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:8fBQ6ZMfa1q9m7zEiyQoLv&context=ONLINE&ratio=16/9&width=480&u=1787680876000"
     },
     {
       "id": "10683356",
@@ -390,6 +401,17 @@
       "image": "https://images.tijd.be/view?iid=Elvis:CDq1N6wwq0I9yruqB3dJ2m&context=ONLINE&ratio=16/9&width=480&u=1787674278000"
     },
     {
+      "id": "10683342",
+      "title": "Nergens zonder weg in Molenbeek-Wersbeek",
+      "link": "https://www.tijd.be/r/t/1/id/10683342",
+      "category": "Dossiers",
+      "description": "Verdwalend in eigen land kijkt Rik Van Puymbroeck naar wat verwondert en soms overdondert.",
+      "pubDate": "Tue, 25 Aug 2026 18:31:58 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:15Cy-2twatPABd_M7zTDo9&context=ONLINE&ratio=16/9&width=480&u=1787662960000"
+    },
+    {
       "id": "10683326",
       "title": "Ondernemers Roland Duchâtelet en Luc Tack lonken naar Belfius | VS stellen ultimatum voor handelspartners Iran | Is aandeel Shein de moeite?",
       "link": "https://www.tijd.be/r/t/1/id/10683326",
@@ -421,28 +443,6 @@
       "score": 1,
       "in_de7": false,
       "image": "https://images.tijd.be/view?iid=Elvis:FR9xu17eqg389gJV7ssynU&context=ONLINE&ratio=16/9&width=480&u=1787654701000"
-    },
-    {
-      "id": "10683377",
-      "title": "GBL moet mogelijk dieper in buidel tasten voor Recordati",
-      "link": "https://www.tijd.be/r/t/1/id/10683377",
-      "category": "Markten Live",
-      "description": "GBL en CVC lijken hun bod op de Italiaanse farmagroep Recordati te moeten verhogen om voldoende aandeelhouders over de streep te trekken. Het Recordati-aandeel noteert boven de biedprijs, terwijl het consortium nog heel wat stukken nodig heeft om zijn bod te doen slagen.",
-      "pubDate": "Tue, 25 Aug 2026 11:06:09 GMT",
-      "score": 1,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:6PZFkFwUqBE8eQd-RBVvkT&context=ONLINE&ratio=16/9&width=480&u=1787656209000"
-    },
-    {
-      "id": "10683323",
-      "title": "Beleggersagenda van woensdag 26 augustus: het rapport van Nvidia",
-      "link": "https://www.tijd.be/r/t/1/id/10683323",
-      "category": "Markten Live",
-      "description": "Twijfel over de AI-boom heeft het aandeel Nvidia met zeven verliesbeurten op rij opgezadeld, ook al rekenen analisten voor de AI-chipontwerper op een verdubbeling van de kwartaalomzet.",
-      "pubDate": "Tue, 25 Aug 2026 12:00:54 GMT",
-      "score": 0,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:AMXZ_CxNqGQ8guwUPdaS39&context=ONLINE&ratio=16/9&width=480&u=1787636476000"
     }
   ]
 }
