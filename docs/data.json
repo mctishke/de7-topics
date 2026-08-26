@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-26T16:44:24.843441+00:00",
+  "generated_at": "2026-08-26T18:24:51.196023+00:00",
   "date": "2026-08-26",
   "de7_title": "26/08 | Energiebedrijven vechten meer dan 1 miljard overwinstbelastingen aan | 'Brussel zet politie te versnipperd in tegen drugs' | Met welke cijfers komt Nvidia straks?",
-  "de7_matched_count": 1,
+  "de7_matched_count": 2,
   "articles": [
     {
       "id": "10683432",
@@ -14,6 +14,17 @@
       "score": 14,
       "in_de7": true,
       "image": "https://images.tijd.be/view?iid=Elvis:B4w5Rm75qhY90LDLeoCMoa&context=ONLINE&ratio=16/9&width=480&u=1787721660000"
+    },
+    {
+      "id": "10683226",
+      "title": "Straks komt Nvidia met monstercijfers, maar neemt CEO Jensen Huang AI-twijfels weg?",
+      "link": "https://www.tijd.be/r/t/1/id/10683226",
+      "category": "Markten Live",
+      "description": "De AI-chipontwikkelaar Nvidia komt woensdagavond met resultaten. Maar belangrijker dan de kwartaalcijfers zijn de prognoses en de toekomstvisie van CEO Jensen Huang.",
+      "pubDate": "Wed, 26 Aug 2026 18:10:49 GMT",
+      "score": 10,
+      "in_de7": true,
+      "image": "https://images.tijd.be/view?iid=Elvis:6r-sPVCgakV9hXYvXITr3N&context=ONLINE&ratio=16/9&width=480&u=1787767849000"
     },
     {
       "id": "10683447",
@@ -225,6 +236,17 @@
       "image": "https://images.tijd.be/view?iid=Elvis:1we_u3At4-g9aR0o4cHh3B&context=ONLINE&ratio=16/9&width=480&u=1787749962000"
     },
     {
+      "id": "10683568",
+      "title": "Bill Gates biedt concrete pistes voor toezicht op AI",
+      "link": "https://www.tijd.be/r/t/1/id/10683568",
+      "category": "Opinie",
+      "description": "Net nu de kwartaalcijfers van de chipmaker Nvidia het optimisme over AI onderstrepen, waarschuwt Microsoft-oprichter Bill Gates voor de schaduwkanten van de technologie. Het toont dat internationale samenwerking nodig is.",
+      "pubDate": "Wed, 26 Aug 2026 17:52:57 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:48uQIsWDqk3BDyCR1TIYVG&context=ONLINE&ratio=16/9&width=480&u=1787766780000"
+    },
+    {
       "id": "10683389",
       "title": "Dé jonge designer to watch: wie is Elias Van Orshaegen?",
       "link": "https://www.tijd.be/r/t/1/id/10683389",
@@ -421,28 +443,6 @@
       "score": 2,
       "in_de7": false,
       "image": "https://images.tijd.be/view?iid=Elvis:8SDXR0ZfqhKAPxn8YLznPK&context=ONLINE&ratio=16/9&width=480&u=1787749098000"
-    },
-    {
-      "id": "10683552",
-      "title": "Immense modderstroom eist minstens 95 levens in Nepal en Tibet, honderden vermist",
-      "link": "https://www.tijd.be/r/t/1/id/10683552",
-      "category": "Politiek & Economie",
-      "description": "Een krachtige modderstroom heeft woensdagochtend in Nepal en in Tibet een dodelijk spoor van vernieling getrokken, zo is op beelden te zien. Er zijn minstens 95 doden en honderden vermisten. In de regio bevinden zich ook heel wat toeristen.",
-      "pubDate": "Wed, 26 Aug 2026 13:51:56 GMT",
-      "score": 2,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:3ikdYN8ZqOP8tb6k6mtCU4&context=ONLINE&ratio=16/9&width=480&u=1787752454000"
-    },
-    {
-      "id": "10683531",
-      "title": "Republikeinen vrezen fiasco bij midterms door Trumps handelsoorlog met Canada",
-      "link": "https://www.tijd.be/r/t/1/id/10683531",
-      "category": "Dossiers",
-      "description": "Republikeinse politici vrezen dat de handelsoorlog tussen de VS en Canada hun kansen op een zege bij de verkiezingen in november hypothekeert.",
-      "pubDate": "Wed, 26 Aug 2026 15:26:19 GMT",
-      "score": 2,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:BUg2jrJH4dXBAQcvu0AqY5&context=ONLINE&ratio=16/9&width=480&u=1787757983000"
     }
   ]
 }
