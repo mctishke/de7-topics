@@ -1,6 +1,61 @@
 {
   "articles": [
     {
+      "id": "10683531",
+      "title": "Republikeinen vrezen fiasco bij midterms door Trumps handelsoorlog met Canada",
+      "link": "https://www.tijd.be/r/t/1/id/10683531",
+      "category": "Dossiers",
+      "description": "Republikeinse politici vrezen dat de handelsoorlog tussen de VS en Canada hun kansen op een zege bij de verkiezingen in november hypothekeert.",
+      "pubDate": "Wed, 26 Aug 2026 15:26:19 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:BUg2jrJH4dXBAQcvu0AqY5&context=ONLINE&ratio=16/9&width=480&u=1787757983000"
+    },
+    {
+      "id": "10683547",
+      "title": "Vlaanderen heeft ondanks 30.000 leegstaande gebouwen te weinig passend woonaanbod",
+      "link": "https://www.tijd.be/r/t/1/id/10683547",
+      "category": "Opinie",
+      "description": "De wooncrisis wordt niet veroorzaakt door leegstand, maar door een tekort aan betaalbare en passende woningen op de juiste locaties.",
+      "pubDate": "Wed, 26 Aug 2026 15:16:27 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:1we_u3At4-g9aR0o4cHh3B&context=ONLINE&ratio=16/9&width=480&u=1787749962000"
+    },
+    {
+      "id": "10683578",
+      "title": "'Rassenrealist' Nathan Cofnas mag drie maanden niet op de UGent komen",
+      "link": "https://www.tijd.be/r/t/1/id/10683578",
+      "category": "Politiek & Economie",
+      "description": "In afwachting van de uitkomst van een tuchtonderzoek verplicht de Universiteit Gent de omstreden Amerikaanse onderzoeker Nathan Cofnas drie maanden lang tot telewerk. Rector Petra De Sutter weerlegt intussen dat ze de academische vrijheid beknot.",
+      "pubDate": "Wed, 26 Aug 2026 15:06:14 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:1gkR7qp7aLB8hvIB78YQND&context=ONLINE&ratio=16/9&width=480&u=1787758408000"
+    },
+    {
+      "id": "10683554",
+      "title": "Oppositie beschuldigt Brussels burgemeester Close van belangenconflict in casinodossier",
+      "link": "https://www.tijd.be/r/t/1/id/10683554",
+      "category": "Politiek & Economie",
+      "description": "De Brusselse burgemeester Philippe Close wordt door oppositiepartij Ecolo beschuldigd van belangenvermenging. Hij zou zich niet teruggetrokken hebben uit de vergadering waarin beslist werd over de concessie van het casino van Brussel. Die ging naar Napoleon Games, dat tevens sponsor is van de voetbalclub Anderlecht, waar Close bestuurder is.",
+      "pubDate": "Wed, 26 Aug 2026 14:40:56 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:FKtwTh-x4QWB5lzWxh_yXE&context=ONLINE&ratio=16/9&width=480&u=1787756279000"
+    },
+    {
+      "id": "10683562",
+      "title": "Vlaanderen wil gamestudio’s voorbij de startfase helpen",
+      "link": "https://www.tijd.be/r/t/1/id/10683562",
+      "category": "Ondernemen",
+      "description": "De Vlaamse gamesector breekt records, maar telt te veel kleine studio’s die niet voorbij de start-upfase geraken. Vlaams minister van Media Cieltje Van Achter wil daar met een actieplan verandering in brengen.",
+      "pubDate": "Wed, 26 Aug 2026 14:29:54 GMT",
+      "score": 5,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:0mBruKPo4cu8VkhHNslgqD&context=ONLINE&ratio=16/9&width=480&u=1787754597000"
+    },
+    {
       "id": "10683555",
       "title": "Meta schikt voor 16,7 miljard dollar in zaak over mentale schade bij jongeren",
       "link": "https://www.tijd.be/r/t/1/id/10683555",
@@ -21,6 +76,17 @@
       "score": 4,
       "in_de7": false,
       "image": "https://images.tijd.be/view?iid=Elvis:AzXTJAaBafv9ZmPZKxGEHv&context=ONLINE&ratio=16/9&width=480&u=1787753923000"
+    },
+    {
+      "id": "10683503",
+      "title": "Lerarentekort lijkt te dalen, maar op school is niemand echt gerust",
+      "link": "https://www.tijd.be/r/t/1/id/10683503",
+      "category": "Politiek & Economie",
+      "description": "Vlak voor de start van het nieuwe schooljaar lijkt het lerarentekort minder prangend dan voorheen, blijkt uit een rondvraag bij de onderwijskoepels en cijfers van de VDAB. Toch is het probleem niet weg. 'Het verschuift onder de waterlijn.'",
+      "pubDate": "Wed, 26 Aug 2026 14:00:00 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:9gbwCDNrKoNAeunqIm5RZA&context=ONLINE&ratio=16/9&width=480&u=1787756468000"
     },
     {
       "id": "10683551",
