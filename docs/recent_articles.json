@@ -1,6 +1,50 @@
 {
   "articles": [
     {
+      "id": "10683592",
+      "title": "Wall Street: Zoom en Intuit verliezen terrein door AI-angst",
+      "link": "https://www.tijd.be/r/t/1/id/10683592",
+      "category": "Markten Live",
+      "description": "De Amerikaanse beurzen sloten licht lager. Abercrombie & Fitch verraste met spectaculaire kwartaalcijfers. Intuit en Zoom kregen een tik nu beleggers in hun kwartaalcijfers reden zien voor AI-angst.",
+      "pubDate": "Wed, 26 Aug 2026 20:06:07 GMT",
+      "score": 0,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:8KXHAN0w4UfAQAsSmKjX26&context=ONLINE&ratio=16/9&width=480&u=1787774914000"
+    },
+    {
+      "id": "10683591",
+      "title": "Brussel neemt maatregelen na drugsgeweld: meer politie, camera’s en een ‘Gold Commander’",
+      "link": "https://www.tijd.be/r/t/1/id/10683591",
+      "category": "Politiek & Economie",
+      "description": "De Brusselse Veiligheidsraad heeft een pakket maatregelen goedgekeurd om het drugsgeweld in de hoofdstad aan te pakken. Er komen 40 extra federale agenten, 20 mobiele camera’s en meer lokale agenten in de getroffen wijken. Een ‘Gold Commander’ gaat de zes politiezones aansturen.",
+      "pubDate": "Wed, 26 Aug 2026 19:21:24 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:ElUqA9M_4348gzXqIiTG--&context=ONLINE&ratio=16/9&width=480&u=1787775370000"
+    },
+    {
+      "id": "10683540",
+      "title": "Robert Bonta, de Californische aanklager die lof en kritiek oogst in rechtszaken tegen megabedrijven",
+      "link": "https://www.tijd.be/r/t/1/id/10683540",
+      "category": "Politiek & Economie",
+      "description": "Robert Bonta, de procureur-generaal van Californië, oogst applaus nu Meta een miljardenschikking getroffen heeft rond de schade die zijn apps aanrichten. Zijn verzet tegen de fusie tussen Paramount en Warner Bros. Discovery wordt minder gesmaakt.",
+      "pubDate": "Wed, 26 Aug 2026 18:54:52 GMT",
+      "score": 1,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:8Irf_xOVq9e8Xtnkci86kU&context=ONLINE&ratio=16/9&width=480&u=1787770495000"
+    },
+    {
+      "id": "10683466",
+      "title": "Nergens zonder weg in Antwerpen",
+      "link": "https://www.tijd.be/r/t/1/id/10683466",
+      "category": "Dossiers",
+      "description": "Verdwalend in eigen land kijkt Rik Van Puymbroeck naar wat verwondert en soms overdondert.",
+      "pubDate": "Wed, 26 Aug 2026 18:30:48 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:7vd46qoUKhu89H2AthMvxA&context=ONLINE&ratio=16/9&width=480&u=1787762914000"
+    },
+    {
       "id": "10683568",
       "title": "Bill Gates biedt concrete pistes voor toezicht op AI",
       "link": "https://www.tijd.be/r/t/1/id/10683568",
@@ -20,7 +64,7 @@
       "pubDate": "Wed, 26 Aug 2026 17:25:35 GMT",
       "score": 2,
       "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:D8s7yBZLqQxAtu_S2W3tJg&context=ONLINE&ratio=16/9&width=480&u=1787767392000"
+      "image": "https://images.tijd.be/view?iid=Elvis:D8s7yBZLqQxAtu_S2W3tJg&context=ONLINE&ratio=16/9&width=480&u=1787774257000"
     },
     {
       "id": "10683588",
@@ -42,7 +86,7 @@
       "pubDate": "Wed, 26 Aug 2026 16:04:33 GMT",
       "score": 2,
       "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:9InTiWzlqT09XTxYlWlpbY&context=ONLINE&ratio=16/9&width=480&u=1787760280000"
+      "image": "https://images.tijd.be/view?iid=Elvis:9InTiWzlqT09XTxYlWlpbY&context=ONLINE&ratio=16/9&width=480&u=1787773694000"
     },
     {
       "id": "10683531",
@@ -53,7 +97,7 @@
       "pubDate": "Wed, 26 Aug 2026 15:26:19 GMT",
       "score": 2,
       "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:BUg2jrJH4dXBAQcvu0AqY5&context=ONLINE&ratio=16/9&width=480&u=1787757983000"
+      "image": "https://images.tijd.be/view?iid=Elvis:BUg2jrJH4dXBAQcvu0AqY5&context=ONLINE&ratio=16/9&width=480&u=1787769630000"
     },
     {
       "id": "10683547",
@@ -130,7 +174,7 @@
       "pubDate": "Wed, 26 Aug 2026 14:00:00 GMT",
       "score": 2,
       "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:9gbwCDNrKoNAeunqIm5RZA&context=ONLINE&ratio=16/9&width=480&u=1787756468000"
+      "image": "https://images.tijd.be/view?iid=Elvis:9gbwCDNrKoNAeunqIm5RZA&context=ONLINE&ratio=16/9&width=480&u=1787771006000"
     },
     {
       "id": "10683551",
@@ -152,7 +196,7 @@
       "pubDate": "Wed, 26 Aug 2026 13:51:56 GMT",
       "score": 2,
       "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:3ikdYN8ZqOP8tb6k6mtCU4&context=ONLINE&ratio=16/9&width=480&u=1787752454000"
+      "image": "https://images.tijd.be/view?iid=Elvis:3ikdYN8ZqOP8tb6k6mtCU4&context=ONLINE&ratio=16/9&width=480&u=1787773741000"
     },
     {
       "id": "10683546",
