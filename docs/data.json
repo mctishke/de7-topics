@@ -1,9 +1,42 @@
 {
-  "generated_at": "2026-08-31T11:13:43.565333+00:00",
+  "generated_at": "2026-08-31T18:00:05.257220+00:00",
   "date": "2026-08-31",
   "de7_title": "31/08 | Weekvooruitblik met beursexpert Ellen Vermorgen | 'Het wordt een schakeljaar in het Vlaams onderwijs' | 'Heropflakkering oorlog in Iran bewijst nut van goede relaties met landen als India'",
   "de7_matched_count": 0,
   "articles": [
+    {
+      "id": "10684012",
+      "title": "'s Werelds bankenwaakhond: 'Nieuwe AI-modellen kunnen financiële stabiliteit bedreigen'",
+      "link": "https://www.tijd.be/r/t/1/id/10684012",
+      "category": "Ondernemen",
+      "description": "Nieuwe AI-modellen maken de cyberdreiging zo groot dat ze een financiële systeemcrisis kunnen veroorzaken, waarschuwt 's werelds grootste bankenwaakhond.",
+      "pubDate": "Mon, 31 Aug 2026 12:16:37 GMT",
+      "score": 6,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:4IcaB64SqOM87S6U9NX_0Q&context=ONLINE&ratio=16/9&width=480&u=1788190131000"
+    },
+    {
+      "id": "10684064",
+      "title": "Amerikaanse legertop waarschuwt: 'Iran-oorlog is te veel en te lang'",
+      "link": "https://www.tijd.be/r/t/1/id/10684064",
+      "category": "Dossiers",
+      "description": "Terwijl de Verenigde Staten en Iran voor het eerst in een maand weer slaags geraakt zijn, waarschuwt de Amerikaanse legerleiding dat de oorlogsinspanningen stilaan onhoudbaar zijn.",
+      "pubDate": "Mon, 31 Aug 2026 16:59:58 GMT",
+      "score": 5,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:27RQK4q-ayq8HGuhxbajS5&context=ONLINE&ratio=16/9&width=480&u=1788196269000"
+    },
+    {
+      "id": "10684051",
+      "title": "Tot 19,5 euro 'milieutaks' per kledingstuk: Frankrijk viseert Chinese webwinkels Shein, Temu en co.",
+      "link": "https://www.tijd.be/r/t/1/id/10684051",
+      "category": "Ondernemen",
+      "description": "De Franse regering lanceert een anti-fastfashionbelasting. Die bedraagt tot 19,50 euro per kledingstuk.",
+      "pubDate": "Mon, 31 Aug 2026 11:18:32 GMT",
+      "score": 5,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:E4nvDb58q5WBnUrVYTMMjB&context=ONLINE&ratio=16/9&width=480&u=1788175574000"
+    },
     {
       "id": "10684007",
       "title": "‘Gooi de schulden in het vuur’, een beproefd recept om vertrouwen te doen wegsmelten",
@@ -27,6 +60,28 @@
       "image": "https://images.tijd.be/view?iid=Elvis:BbSn1kwlq2oA4BFqV1jRhh&context=ONLINE&ratio=16/9&width=480&u=1788174708000"
     },
     {
+      "id": "10684107",
+      "title": "Overleeft 'Burnham bounce' parlementaire vuurdoop?",
+      "link": "https://www.tijd.be/r/t/1/id/10684107",
+      "category": "Politiek & Economie",
+      "description": "De wittebroodsweken van Andy Burnham lopen ten einde. De nieuwe Britse premier krijgt dinsdag zijn eerste spervuur aan parlementaire vragen, en ontvangt woensdag met de Franse president Emmanuel Macron voor het eerst een EU-leider.",
+      "pubDate": "Mon, 31 Aug 2026 17:45:21 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:DLjfEKk6qCWAMzcT9lV9Z_&context=ONLINE&ratio=16/9&width=480&u=1788198325000"
+    },
+    {
+      "id": "10684048",
+      "title": "Geen begrotingswonder zonder groei: vijf to do’s voor de politiek",
+      "link": "https://www.tijd.be/r/t/1/id/10684048",
+      "category": "Opinie",
+      "description": "Met een lineaire besparingsronde of nieuwe belastingen kunnen we ons niet uit de begrotingssituatie saneren. Zonder groei valt er niets te verdelen.",
+      "pubDate": "Mon, 31 Aug 2026 14:40:00 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:7ksjzGLPaTYB4qdhJ2abGo&context=ONLINE&ratio=16/9&width=480&u=1788196870000"
+    },
+    {
       "id": "10683981",
       "title": "De Tijdcapsule | Annic Bosmans (CEO Randstad Belux): 'Mijn verjaardag heb ik vele jaren met een dubbel gevoel gevierd'",
       "link": "https://www.tijd.be/r/t/1/id/10683981",
@@ -47,6 +102,17 @@
       "score": 3,
       "in_de7": false,
       "image": "https://images.tijd.be/view?iid=Elvis:D5qdfbSIKTz8cNh_7E2gDA&context=ONLINE&ratio=16/9&width=480&u=1788159516000"
+    },
+    {
+      "id": "10684020",
+      "title": "Na ruim 150 jaar krijgt België nieuw strafwetboek, maar 'op het vlak van cybercrime voelt het al achterhaald'",
+      "link": "https://www.tijd.be/r/t/1/id/10684020",
+      "category": "Politiek & Economie",
+      "description": "Het gerechtelijk jaar gaat dinsdag van start met een historische gebeurtenis: na anderhalve eeuw krijgt ons land een nieuw strafwetboek. Het nieuwe strafrecht is een stuk moderner dan het oude, al lijkt cybercrime 'een beetje vergeten'.",
+      "pubDate": "Mon, 31 Aug 2026 14:14:57 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:3-BeBhbAK-g8W1LGKaNtyT&context=ONLINE&ratio=16/9&width=480&u=1788185882000"
     },
     {
       "id": "10683995",
@@ -93,6 +159,182 @@
       "image": "https://images.tijd.be/view?iid=Elvis:AJV9Pu3qa5M8vqR-8RR8OF&context=ONLINE&ratio=16/9&width=480&u=1787840272000"
     },
     {
+      "id": "10684109",
+      "title": "Pijnlijke beursgang Shein is opsteker in strijd tegen ongebreidelde e-commerce",
+      "link": "https://www.tijd.be/r/t/1/id/10684109",
+      "category": "Opinie",
+      "description": "De beursgang van de Chinese kledingreus Shein lijkt pijnlijk te worden. Dat is een opsteker voor de Europese pogingen om een rem te zetten op een vloedgolf aan ontwrichtende, spotgoedkope Chinese e-commerce.",
+      "pubDate": "Mon, 31 Aug 2026 17:28:56 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:48uQIsWDqk3BDyCR1TIYVG&context=ONLINE&ratio=16/9&width=480&u=1788197339000"
+    },
+    {
+      "id": "10684094",
+      "title": "Miljardenholdings boven Elia en Fluxys sluiten verstandshuwelijk",
+      "link": "https://www.tijd.be/r/t/1/id/10684094",
+      "category": "Ondernemen",
+      "description": "De holdings Publi-T en Publigas, waarmee de Belgische gemeenten respectievelijk Elia en Fluxys controleren, gaan nauw samenwerken. Tot een volledige fusie komt het echter niet.",
+      "pubDate": "Mon, 31 Aug 2026 16:48:07 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:2Gj-LhE8qKqBwJfu-n2DXy&context=ONLINE&ratio=16/9&width=480&u=1788194892000"
+    },
+    {
+      "id": "10684017",
+      "title": "Ex-premier Philippe wil centrumrechtse krachten bundelen bij Franse presidentsverkiezingen",
+      "link": "https://www.tijd.be/r/t/1/id/10684017",
+      "category": "Politiek & Economie",
+      "description": "Édouard Philippe kondigt een nieuwe partij aan in de aanloop naar de Franse presidentsverkiezingen. De oud-premier probeert op die manier het versnipperde centrum samen te brengen en 'een dam op te werpen tegen de polarisering'.",
+      "pubDate": "Mon, 31 Aug 2026 16:00:27 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:7bOgpY-dqCHBvT2j_cZ3Bq&context=ONLINE&ratio=16/9&width=480&u=1788194804000"
+    },
+    {
+      "id": "10684038",
+      "title": "Zuhal Demir wacht schooljaar van de waarheid",
+      "link": "https://www.tijd.be/r/t/1/id/10684038",
+      "category": "Politiek & Economie",
+      "description": "Met een 'onderwijspact' om het lerarenstatuut te vernieuwen, probeert minister van Onderwijs Zuhal Demir in haar derde schooljaar te doen wat geen enkele voorganger lukte. Maar eerst moet ze nog vol aan de bak om relletjes over hangende en nieuwe besparingen te vermijden.",
+      "pubDate": "Mon, 31 Aug 2026 15:44:41 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:7762rm1kaQqBZVCwYt0orp&context=ONLINE&ratio=16/9&width=480&u=1788196518000"
+    },
+    {
+      "id": "10684043",
+      "title": "Euronext Brussel: 'Markt onderschat winstpotentieel Kinepolis'",
+      "link": "https://www.tijd.be/r/t/1/id/10684043",
+      "category": "Markten Live",
+      "description": "De beurzen in Europa gingen lager. KBC Securities zette de bioscoopgroep Kinepolis op de favorietenlijst.",
+      "pubDate": "Mon, 31 Aug 2026 15:43:06 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:C9iDB2CAqtB9GMpM_n_qBf&context=ONLINE&ratio=16/9&width=480&u=1788193344000"
+    },
+    {
+      "id": "10684079",
+      "title": "Spanje beschuldigt Rusland en Israël van desinformatie over Ceuta",
+      "link": "https://www.tijd.be/r/t/1/id/10684079",
+      "category": "Politiek & Economie",
+      "description": "Volgens de Spaanse premier Pedro Sánchez hadden niet Marokko, maar Rusland en Israël de hand in de plotse toestroom van tienduizenden migranten naar Ceuta.",
+      "pubDate": "Mon, 31 Aug 2026 15:06:53 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:DdCnjvc-qt2AcLPLGF4tBa&context=ONLINE&ratio=16/9&width=480&u=1788188993000"
+    },
+    {
+      "id": "10683760",
+      "title": "Grootste Belgische carrossier komt in Finse handen",
+      "link": "https://www.tijd.be/r/t/1/id/10683760",
+      "category": "Ondernemen",
+      "description": "De Finse groep Suvia neemt haar Belgische sectorgenoot AutoRepairGroup over voor een onbekend bedrag. AutoRepairGroup is de grootste carrossier in ons land.",
+      "pubDate": "Mon, 31 Aug 2026 14:30:00 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:1Gl2i4BwKCm8bpWxaoeedH&context=ONLINE&ratio=16/9&width=480&u=1788196886000"
+    },
+    {
+      "id": "10684089",
+      "title": "Aarzelende consument duwt groep achter JBC weer in verlies",
+      "link": "https://www.tijd.be/r/t/1/id/10684089",
+      "category": "Ondernemen",
+      "description": "De winst van het bedrijf achter de kledingketens JBC, CKS en Mayerline stond vorig jaar onder druk. Onder andere door in het kinderkledingmerk Filou & Friends te stappen wil de eigenaarsfamilie Claes het tij keren.",
+      "pubDate": "Mon, 31 Aug 2026 14:12:05 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:3yYqvw1ea7RBiuI8MoyJZw&context=ONLINE&ratio=16/9&width=480&u=1788193494000"
+    },
+    {
+      "id": "10683881",
+      "title": "Consultant en accountant Baker Tilly vormt Benelux-alliantie",
+      "link": "https://www.tijd.be/r/t/1/id/10683881",
+      "category": "Ondernemen",
+      "description": "Na het samengaan van de Belgische en de Nederlandse tak van de consultant en accountant Baker Tilly, wordt de alliantie nu uitgebreid met Luxemburg.",
+      "pubDate": "Mon, 31 Aug 2026 13:01:28 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:C726EPMsK7-8WRvguufeYu&context=ONLINE&ratio=16/9&width=480&u=1788167925000"
+    },
+    {
+      "id": "10684046",
+      "title": "Mode- en beautymerk Victoria Beckham boekt eerste winst sinds start in 2008",
+      "link": "https://www.tijd.be/r/t/1/id/10684046",
+      "category": "Ondernemen",
+      "description": "Het mode- en beautybedrijf van Victoria Beckham heeft voor het eerst sinds de oprichting in 2008 een operationele winst geboekt. Is dat toeval, of zijn de fundamenten gelegd voor een duurzaam luxebedrijf?",
+      "pubDate": "Mon, 31 Aug 2026 11:49:44 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:0QeWTVIaqbf9L2ul0Y2Cny&context=ONLINE&ratio=16/9&width=480&u=1788177960000"
+    },
+    {
+      "id": "10684103",
+      "title": "Fraude magistratenexamen: drie magistraten moeten terechtstaan voor belangenneming en schending beroepsgeheim",
+      "link": "https://www.tijd.be/r/t/1/id/10684103",
+      "category": "Politiek & Economie",
+      "description": "In het dossier over de fraude met het magistratenexamen zullen drie magistraten voor het Brusselse hof van beroep moeten terechtstaan voor feiten van belangenneming en schending van het beroepsgeheim. Dat heeft de Brusselse kamer van inbeschuldigingstelling (KI) maandag beslist.",
+      "pubDate": "Mon, 31 Aug 2026 14:59:23 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:Carz0fle4nO91tfJT60LZ_&context=ONLINE&ratio=16/9&width=480&u=1788192954000"
+    },
+    {
+      "id": "10684073",
+      "title": "Minstens 2.500 gebouwen verwoest bij overstromingen in Nepal en Tibet",
+      "link": "https://www.tijd.be/r/t/1/id/10684073",
+      "category": "Politiek & Economie",
+      "description": "De overstromingen in Nepal en Tibet hebben duizenden gebouwen met de grond gelijkgemaakt. Duizenden mensen zijn nog vermist en reddingsdiensten blijven zoeken naar slachtoffers.",
+      "pubDate": "Mon, 31 Aug 2026 14:49:43 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:D5FLbclqaSNAAKyW3wf6co&context=ONLINE&ratio=16/9&width=480&u=1788188293000"
+    },
+    {
+      "id": "10684031",
+      "title": "Het Fotoboek | De feministische performances van Valie Export",
+      "link": "https://www.tijd.be/r/t/1/id/10684031",
+      "category": "Cultuur",
+      "description": "Een fotograaf plukt deze zomer een recent fotoboek uit de kast. In de laatste aflevering kiest de Oost-Duitse kunstenares Gabriele Stötzer het boek ‘How to Do Things with Valie Export'.",
+      "pubDate": "Mon, 31 Aug 2026 12:53:27 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:DTRckZApaFs95yB3wOgyZe&context=ONLINE&ratio=16/9&width=480&u=1788196579000"
+    },
+    {
+      "id": "10684077",
+      "title": "Europa kan zijn landbouwmiljarden beter besteden",
+      "link": "https://www.tijd.be/r/t/1/id/10684077",
+      "category": "Opinie",
+      "description": "Het inzetten van miljarden euro's aan publieke middelen voor doelstellingen die niet behaald worden of voor doelstellingen die sowieso behaald worden, kan bezwaarlijk efficiënt beleid worden genoemd.",
+      "pubDate": "Mon, 31 Aug 2026 15:05:49 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:3ZQgm-qDaHW9Srnrr3k84q&context=ONLINE&ratio=16/9&width=480&u=1788196819000"
+    },
+    {
+      "id": "10674948",
+      "title": "Onze favoriete restaurants in Brussel",
+      "link": "https://www.tijd.be/r/t/1/id/10674948",
+      "category": "Sabato",
+      "description": "Op zoek naar een goed restaurant in Brussel? Dit zijn de favoriete restaurants van onze correspondent die de stad door en door kent.",
+      "pubDate": "Mon, 31 Aug 2026 13:28:12 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:CT8KUeUkqqbA8cLgjH8icu&context=ONLINE&ratio=16/9&width=480&u=1788182891000"
+    },
+    {
+      "id": "10684049",
+      "title": "Brusselse huizen vinden moeilijker een koper",
+      "link": "https://www.tijd.be/r/t/1/id/10684049",
+      "category": "Netto",
+      "description": "Woningen in Brussel staan gemiddeld langer te koop dan anderhalf jaar geleden, blijkt uit een data-analyse van zoekertjes. Analisten wijzen onder meer naar de hoge registratierechten.",
+      "pubDate": "Mon, 31 Aug 2026 12:00:47 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:1xqWfTRSKLF8LXpQtDEvzI&context=ONLINE&ratio=16/9&width=480&u=1788190924000"
+    },
+    {
       "id": "10683956",
       "title": "Dodental overstromingsramp Nepal en Tibet loopt op tot boven 900, zoektocht naar 4.000 vermisten",
       "link": "https://www.tijd.be/r/t/1/id/10683956",
@@ -102,6 +344,39 @@
       "score": 1,
       "in_de7": false,
       "image": "https://images.tijd.be/view?iid=Elvis:4VTO-vvza2c8SnydXWIIS4&context=ONLINE&ratio=16/9&width=480&u=1788166833000"
+    },
+    {
+      "id": "10684055",
+      "title": "Besparingen, een Duits order en 40 losse contracten: hoe Nederlands-Belgische fregatten op ruzie uitdraaiden",
+      "link": "https://www.tijd.be/r/t/1/id/10684055",
+      "category": "Ondernemen",
+      "description": "Eerst kleiner, toen weer groter en daarna nog groter. Een opeenstapeling van vertragingen en tegenvallers plaagt de bouw van nieuwe fregatten voor Nederland en België. Ons land verwijt Nederland het ontwerp onnodig ingewikkeld te hebben gemaakt.",
+      "pubDate": "Mon, 31 Aug 2026 15:28:28 GMT",
+      "score": 1,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:6SfN1Xnl4vJ9_ybcpVWhVT&context=ONLINE&ratio=16/9&width=480&u=1788194981000"
+    },
+    {
+      "id": "10684018",
+      "title": "Kleuters die de Nijl kennen, intense taallessen, wendbaarder hr-beleid: scholen starten hervormingsjaar",
+      "link": "https://www.tijd.be/r/t/1/id/10684018",
+      "category": "Politiek & Economie",
+      "description": "Vlaams minister van Onderwijs Zuhal Demir vraagt bij het begin van een schooljaar vol hervormingen 'geduld en vertrouwen' van de leerkrachten. Meer kennis, minder vrijblijvendheid: weinigen betwisten het nut ervan, maar vaak is nog onduidelijk hoe dat precies realiteit moet worden. 'Het zal een jaar lang zoeken zijn.'",
+      "pubDate": "Mon, 31 Aug 2026 15:11:36 GMT",
+      "score": 1,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:9OWV6FKGKOwB-Rr0z8MMbf&context=ONLINE&ratio=16/9&width=480&u=1788197640000"
+    },
+    {
+      "id": "10684083",
+      "title": "Kunnen Europese autoaandelen weer blinken?",
+      "link": "https://www.tijd.be/r/t/1/id/10684083",
+      "category": "Markten Live",
+      "description": "De Europese autoaandelen horen bij de slechtste beleggingen van het jaar, maar tonen tekenen van uitbodeming. Aandeleninkopen, besparingen, een hogere verkoop van stekkerauto's en plannen om de sector beter te beschermen tegen de Chinese concurrentie lokken opnieuw kopers.",
+      "pubDate": "Mon, 31 Aug 2026 15:03:00 GMT",
+      "score": 0,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:CHPdL0O5Kyo9iWPDDElJuR&context=ONLINE&ratio=16/9&width=480&u=1788190419000"
     },
     {
       "id": "10684008",
