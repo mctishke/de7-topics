@@ -1,7 +1,173 @@
 {
-  "generated_at": "2026-08-31T22:38:27.652030+00:00",
+  "generated_at": "2026-09-01T09:39:44.455875+00:00",
   "date": "2026-09-01",
-  "de7_title": "31/08 | Weekvooruitblik met beursexpert Ellen Vermorgen | 'Het wordt een schakeljaar in het Vlaams onderwijs' | 'Heropflakkering oorlog in Iran bewijst nut van goede relaties met landen als India'",
-  "de7_matched_count": 0,
-  "articles": []
+  "de7_title": "01/09 | Bekende Audi Brussel-site wordt bedrijvenpark van Heylen Group | Shein onderuit bij beurslancering | Start van schooljaar vol hervormingen",
+  "de7_matched_count": 1,
+  "articles": [
+    {
+      "id": "10679395",
+      "title": "Kempische groep Heylen koopt Audi-site in Vorst en vormt ze om tot bedrijvenpark",
+      "link": "https://www.tijd.be/r/t/1/id/10679395",
+      "category": "Ondernemen",
+      "description": "De gronden en de productiehallen van Audi in de Brusselse gemeente Vorst hebben een nieuwe eigenaar. Het Kempische industriële conglomeraat Heylen Group wil er een bedrijvenpark van maken en zo tot 3.000 jobs terugbrengen naar de site.",
+      "pubDate": "Tue, 01 Sep 2026 03:00:00 GMT",
+      "score": 12,
+      "in_de7": true,
+      "image": "https://images.tijd.be/view?iid=Elvis:9okkVD9O4jvBy4V7eJDKzh&context=ONLINE&ratio=16/9&width=480&u=1788249177000"
+    },
+    {
+      "id": "10684134",
+      "title": "Europa op weg naar recordjaar voor nieuwe windmolens",
+      "link": "https://www.tijd.be/r/t/1/id/10684134",
+      "category": "Ondernemen",
+      "description": "In de eerste jaarhelft is er in Europa 8,8 gigawatt windenergiecapaciteit bijgekomen, 30 procent meer dan vorig jaar. In België staat de sector zo goed als stil, maar in Duitsland worden massaal nieuwe vergunningen verleend.",
+      "pubDate": "Tue, 01 Sep 2026 07:33:24 GMT",
+      "score": 5,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:4ufC9Dlk4HsA6ohWkcggcP&context=ONLINE&ratio=16/9&width=480&u=1788248007000"
+    },
+    {
+      "id": "10682786",
+      "title": "KBC verstevigt grip op verlieslatende zoekertjessite Immoscoop",
+      "link": "https://www.tijd.be/r/t/1/id/10682786",
+      "category": "Ondernemen",
+      "description": "Terwijl de zoekertjessite Immoweb record na record verbrijzelt, blijft KBC miljoenen pompen in de verlieslatende concurrent Immoscoop. Toch is KBC opgetogen over de omzet die het fintechbedrijf, voor 93 procent in handen van KBC, voor de bank genereert.",
+      "pubDate": "Tue, 01 Sep 2026 03:00:00 GMT",
+      "score": 5,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:38vrXu3C4rp8vldS_s_fE7&context=ONLINE&ratio=16/9&width=480&u=1788248884000"
+    },
+    {
+      "id": "10684169",
+      "title": "BNP Paribas Fortis verhoogt rente op groeirekening",
+      "link": "https://www.tijd.be/r/t/1/id/10684169",
+      "category": "Netto",
+      "description": "BNP Paribas Fortis verhoogt de rente op zijn Boost-rekening, het spaarboekje waarop maandelijks maximaal 500 euro gestort kan worden, van 2,90 naar 3,25 procent.",
+      "pubDate": "Tue, 01 Sep 2026 08:11:04 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:9tv6FWdJKYr8f1QoRv6Iez&context=ONLINE&ratio=16/9&width=480&u=1788251834000"
+    },
+    {
+      "id": "10684158",
+      "title": "Euroclear betaalt 221 miljoen voor steviger voetafdruk in Spanje",
+      "link": "https://www.tijd.be/r/t/1/id/10684158",
+      "category": "Ondernemen",
+      "description": "De Brusselse effectengigant Euroclear verwerft via een nieuwe investering van ruim 220 miljoen nagenoeg de volledige controle in de Spaanse specialist in beleggingsinfrastructuur Inversis.",
+      "pubDate": "Tue, 01 Sep 2026 08:08:42 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:1FHKsV_r4JTB0WlSrDjreL&context=ONLINE&ratio=16/9&width=480&u=1788251991000"
+    },
+    {
+      "id": "10684143",
+      "title": "Crelan boekt 40 procent hogere halfjaarswinst",
+      "link": "https://www.tijd.be/r/t/1/id/10684143",
+      "category": "Ondernemen",
+      "description": "Net als de andere Belgische banken plukte Crelan in de eerste jaarhelft de vruchten van de oplopende rente en de groeiende beleggersappetijt bij zijn klanten.",
+      "pubDate": "Tue, 01 Sep 2026 07:18:15 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:648ZMOX14Dz88iH81243Fn&context=ONLINE&ratio=16/9&width=480&u=1788247099000"
+    },
+    {
+      "id": "10684148",
+      "title": "Vastgoedspeler Aedifica belooft 5 procent meer dividend",
+      "link": "https://www.tijd.be/r/t/1/id/10684148",
+      "category": "Ondernemen",
+      "description": "Aedifica, gespecialiseerd in zorgvastgoed, rekent voor dit jaar op 4 procent winstgroei. Door de recente overname van Cofinimmo steeg de reële waarde van de vastgoedportefeuille van 6,3 naar 12,5 miljard euro.",
+      "pubDate": "Tue, 01 Sep 2026 06:54:22 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:CXP4X2pCKRw8tO8xn7JhcX&context=ONLINE&ratio=16/9&width=480&u=1788245665000"
+    },
+    {
+      "id": "10683765",
+      "title": "Proefwerk: Le Relais d'Orti in Luxemburg is een omweg waard",
+      "link": "https://www.tijd.be/r/t/1/id/10683765",
+      "category": "Sabato",
+      "description": "Een natuurreservaat, een grootscheeps horecaproject en een chef met een moestuin en veel eigenheid: dat levert een restaurant in de provincie Luxemburg op dat de moeite waard is, vindt onze recensent Jan Scheidtweiler.",
+      "pubDate": "Tue, 01 Sep 2026 04:45:50 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:AUt32onpqQsBolbxLW8Tcv&context=ONLINE&ratio=16/9&width=480&u=1787841604000"
+    },
+    {
+      "id": "10684113",
+      "title": "Geen Hollywood, weinig vrouwen en veel politiek op filmfestival Venetië",
+      "link": "https://www.tijd.be/r/t/1/id/10684113",
+      "category": "Cultuur",
+      "description": "De 83ste editie van het filmfestival van Venetië gaat van start met een hele reeks uitdagingen en vraagtekens. Hollywood stuurt zijn kat, de officiële competitie telt nauwelijks vrouwelijke cineasten en het risico op politieke heisa is groot. Maar de organisatoren rechten de rug.",
+      "pubDate": "Tue, 01 Sep 2026 09:25:19 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:EezWRMyQKn98gLT2Ni1oFD&context=ONLINE&ratio=16/9&width=480&u=1788254726000"
+    },
+    {
+      "id": "10684174",
+      "title": "Laten we wie onderwijshervormingen moet doen slagen vooral waarderen",
+      "link": "https://www.tijd.be/r/t/1/id/10684174",
+      "category": "Opinie",
+      "description": "Als we over 15 jaar zouden terugblikken op het schooljaar 2026-2027 als een kantelpunt in de kwaliteit van het Vlaamse onderwijs, dan is dat dankzij duizenden schoolleiders en leraren.",
+      "pubDate": "Tue, 01 Sep 2026 09:08:22 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:23w22cIt4aq9gr6I8ZRs4c&context=ONLINE&ratio=16/9&width=480&u=1788253706000"
+    },
+    {
+      "id": "10684170",
+      "title": "Wereldwijde obligatie-uitverkoop raast voort, Belgische rente stijgt richting 4 procent",
+      "link": "https://www.tijd.be/r/t/1/id/10684170",
+      "category": "Markten Live",
+      "description": "De wereldwijde verkoopgolf op de obligatiemarkten krijgt dinsdag ook Europa stevig in haar greep. De Belgische tienjaarsrente klimt tot 3,9 procent, het hoogste peil sinds 2012.",
+      "pubDate": "Tue, 01 Sep 2026 08:28:54 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:4KiTT1RH4iRBk4PVnQzfk_&context=ONLINE&ratio=16/9&width=480&u=1788252966000"
+    },
+    {
+      "id": "10684139",
+      "title": "Coucke steekt extra geld in verlieslatend Ekopak",
+      "link": "https://www.tijd.be/r/t/1/id/10684139",
+      "category": "Ondernemen",
+      "description": "Het watertechnologiebedrijf Ekopak blijft de verliezen opstapelen en heeft opnieuw vers kapitaal nodig. Oprichter Pieter Loose verdwijnt uit het dagelijks bestuur.",
+      "pubDate": "Tue, 01 Sep 2026 08:08:13 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:6TDikAMwaLABJEHCpwc3_v&context=ONLINE&ratio=16/9&width=480&u=1788250093000"
+    },
+    {
+      "id": "10684112",
+      "title": "Grootste bakker van Vlaanderen Aernoudt in de etalage",
+      "link": "https://www.tijd.be/r/t/1/id/10684112",
+      "category": "Ondernemen",
+      "description": "De investeerders achter Bakkerij Aernoudt gaan op zoek naar een nieuwe eigenaar voor het bedrijf, qua aantal winkels de grootste bakkerijgroep van Vlaanderen. Dat vernam De Tijd van meerdere bronnen.",
+      "pubDate": "Tue, 01 Sep 2026 07:59:09 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:4jtNv8bqaqRAMAmU8_Wl6A&context=ONLINE&ratio=16/9&width=480&u=1788249553000"
+    },
+    {
+      "id": "10683974",
+      "title": "Geen boerenjaar voor grootste Belgische privébedrijven",
+      "link": "https://www.tijd.be/r/t/1/id/10683974",
+      "category": "Ondernemen",
+      "description": "De grootste Belgische bedrijven in privéhanden hebben opnieuw een minder goed jaar achter de rug. Hun gezamenlijke omzet steeg wel, maar de nettowinst kachelde achteruit.",
+      "pubDate": "Tue, 01 Sep 2026 03:00:41 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:7Qg0eLWNKU78_6QiKWmcsy&context=ONLINE&ratio=16/9&width=480&u=1788213926000"
+    },
+    {
+      "id": "10684145",
+      "title": "Moord hiphoplegende Tupac Shakur: met veroordeling Duane Davis komt einde aan 30 jaar oude cold case",
+      "link": "https://www.tijd.be/r/t/1/id/10684145",
+      "category": "Dossiers",
+      "description": "Bijna 30 jaar na de dood van Tupac Shakur komt er een einde aan een van de bekendste cold cases. Een jury in Las Vegas heeft de voormalige bendeleider Duane Keith Davis schuldig bevonden aan de moord op de beroemde rapper.",
+      "pubDate": "Tue, 01 Sep 2026 08:31:45 GMT",
+      "score": 1,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:6plcQ88u4mw8_KRe4a42Q4&context=ONLINE&ratio=16/9&width=480&u=1788252104000"
+    }
+  ]
 }
