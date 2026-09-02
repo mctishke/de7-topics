@@ -1,7 +1,184 @@
 {
-  "generated_at": "2026-09-01T22:41:18.958168+00:00",
+  "generated_at": "2026-09-02T09:10:42.123846+00:00",
   "date": "2026-09-02",
-  "de7_title": "01/09 | Bekende Audi Brussel-site wordt bedrijvenpark van Heylen Group | Shein onderuit bij beurslancering | Start van schooljaar vol hervormingen",
-  "de7_matched_count": 0,
-  "articles": []
+  "de7_title": "02/09 | Arbeidsmigratie naar Vlaanderen daalt fors | Beleggers dumpen staatsobligaties, rente stijgt | Maakt de supersonische Concorde een comeback?",
+  "de7_matched_count": 2,
+  "articles": [
+    {
+      "id": "10684321",
+      "title": "Vliegen we straks dubbel zo snel in nieuwe Concordes? 'Het zal kunnen voor prijs van businessticket'",
+      "link": "https://www.tijd.be/r/t/1/id/10684321",
+      "category": "Ondernemen",
+      "description": "Supersonisch vliegen is voor veel mensen vooral een vage herinnering aan de Concorde. Maar die tijd komt wellicht terug nu vliegtuigbouwers nieuwe toestellen ontwikkelen, het doorbreken van de geluidsgrens wellicht geluidloos kan, luchtvaartmaatschappijen er tientallen bestellen en overheden hun wetgeving versoepelen.",
+      "pubDate": "Wed, 02 Sep 2026 03:00:00 GMT",
+      "score": 13,
+      "in_de7": true,
+      "image": "https://images.tijd.be/view?iid=Elvis:9wbaSvOjKaN9ojXhw7mqCE&context=ONLINE&ratio=16/9&width=480&u=1788332744000"
+    },
+    {
+      "id": "10681746",
+      "title": "Arbeidsmigratie daalt fors door strengere regels",
+      "link": "https://www.tijd.be/r/t/1/id/10681746",
+      "category": "Politiek & Economie",
+      "description": "Strengere regels sinds begin dit jaar doen het aantal nieuwe aanvragen en toelatingen voor arbeidsmigranten van buiten Europa in Vlaanderen meteen dalen. Minister van Werk Zuhal Demir (N-VA) reageert tevreden. 'Werkgevers moeten eerst Vlaamse en Belgische werkzoekenden kansen geven.'",
+      "pubDate": "Wed, 02 Sep 2026 03:00:00 GMT",
+      "score": 12,
+      "in_de7": true,
+      "image": "https://images.tijd.be/view?iid=Elvis:Bk2w3ff_451Aji4Zww_Yzl&context=ONLINE&ratio=16/9&width=480&u=1788333824000"
+    },
+    {
+      "id": "10684349",
+      "title": "WDP koopt industrieterrein van 10 hectare in Antwerpse haven",
+      "link": "https://www.tijd.be/r/t/1/id/10684349",
+      "category": "Netto",
+      "description": "De logistieke vastgoedreus WDP heeft een industrieterrein van 100.000 vierkante meter in de Antwerpse haven gekocht. De transactie maakt deel uit van een aankoopgolf die WDP dit jaar al meer dan 1 miljoen vierkante meter grondvoorraad opleverde.",
+      "pubDate": "Wed, 02 Sep 2026 08:21:20 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:7dOSfCEb4BVBQ_bchlkYZD&context=ONLINE&ratio=16/9&width=480&u=1788339217000"
+    },
+    {
+      "id": "10684351",
+      "title": "'Hotelketen Marc Coucke koopt safarilodge in Zuid-Afrika'",
+      "link": "https://www.tijd.be/r/t/1/id/10684351",
+      "category": "Ondernemen",
+      "description": "Oku, de keten van luxehotels die voor de helft in handen is van Marc Coucke en zijn investeringsmaatschappij Alychlo, heeft een exclusieve safarilodge gekocht in Zuid-Afrika. Dat schrijft de krant Nieuwsblad woensdag.",
+      "pubDate": "Wed, 02 Sep 2026 08:16:11 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:ARkvyhmcqMmBWIUyR3rGb7&context=ONLINE&ratio=16/9&width=480&u=1788337994000"
+    },
+    {
+      "id": "10684339",
+      "title": "Grote namen cirkelen rond Syensqo voor potentiële miljardendeal",
+      "link": "https://www.tijd.be/r/t/1/id/10684339",
+      "category": "Ondernemen",
+      "description": "Grote private-equitybedrijven, waaronder Blackstone en Apollo, tonen interesse in de overname van de divisie Performance & Care van Syensqo. Een verkoop zou het Belgische bedrijf 3 miljard euro kunnen opleveren.",
+      "pubDate": "Wed, 02 Sep 2026 05:51:32 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:9TtPmwKf4Ph81sGmoXPXCM&context=ONLINE&ratio=16/9&width=480&u=1788334943000"
+    },
+    {
+      "id": "10684362",
+      "title": "Conny Vandendriessche investeert in menstruatieondergoed Moi et  Marie",
+      "link": "https://www.tijd.be/r/t/1/id/10684362",
+      "category": "Ondernemen",
+      "description": "Onderneemster Conny Vandendriessche stapt via haar familiaal investeringsvehikel in Jack & Troy, het bedrijf achter Moi et Marie. Dat is een merk van menstruatieondergoed en -zwemkledij.",
+      "pubDate": "Wed, 02 Sep 2026 08:58:27 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:CmhsJhaUaYN8quXZOhJQuY&context=ONLINE&ratio=16/9&width=480&u=1788339511000"
+    },
+    {
+      "id": "10684346",
+      "title": "GoPro zoekt na overname nieuwe toekomst in robotica",
+      "link": "https://www.tijd.be/r/t/1/id/10684346",
+      "category": "Ondernemen",
+      "description": "GoPro, dat bekend is om zijn actiecamera’s, is overgenomen door Starman Optical. Dat wil de GoPro-kennis inzetten voor onder meer defensie en robotica.",
+      "pubDate": "Wed, 02 Sep 2026 07:12:13 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:8DW0jOmaacHBW1_EY6Z9M5&context=ONLINE&ratio=16/9&width=480&u=1788333137000"
+    },
+    {
+      "id": "10684333",
+      "title": "Olieprijs zet mars richting 100 dollar per vat voort",
+      "link": "https://www.tijd.be/r/t/1/id/10684333",
+      "category": "Dossiers",
+      "description": "Iran en de VS hebben elkaar opnieuw bestookt met luchtaanvallen. De nervositeit over de oliebevoorrading wakkert aan en de olieprijs stijgt verder.",
+      "pubDate": "Wed, 02 Sep 2026 04:58:20 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:ErFv7Tw2qnCBHQW5PHDIbs&context=ONLINE&ratio=16/9&width=480&u=1788332343000"
+    },
+    {
+      "id": "10683774",
+      "title": "Visite privée: in het atelier van kunstenaar Ben Sledsens",
+      "link": "https://www.tijd.be/r/t/1/id/10683774",
+      "category": "Sabato",
+      "description": "Nog voor zijn nieuwste solo-expo de deuren opent, staan ze internationaal aan te schuiven voor de schilderijen van Ben Sledsens (35). Wij kregen tijdens de laatste voorbereidingen een exclusieve blik in het atelier van misschien wel de meest bescheiden succesvolle kunstenaar van ons land.",
+      "pubDate": "Wed, 02 Sep 2026 04:45:00 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:DG_MdXoDqgjANsndWsJIMK&context=ONLINE&ratio=16/9&width=480&u=1788333443000"
+    },
+    {
+      "id": "10684230",
+      "title": "Investeerder Waterland naar exit bij IT-groep 9altitudes",
+      "link": "https://www.tijd.be/r/t/1/id/10684230",
+      "category": "Ondernemen",
+      "description": "Het investeringsfonds Waterland zet zijn participatie in de IT-groep 9altitudes te koop. Dat vernam De Tijd van meerdere bronnen. Het is een van de oudste investeringen in de portefeuille van de investeerder.",
+      "pubDate": "Wed, 02 Sep 2026 03:00:41 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:7_70gwD_4MY81ehz0f6tss&context=ONLINE&ratio=16/9&width=480&u=1788298480000"
+    },
+    {
+      "id": "10684190",
+      "title": "Nieuwe eigenaar op komst voor Brusselse Godiva-pralinefabriek",
+      "link": "https://www.tijd.be/r/t/1/id/10684190",
+      "category": "Ondernemen",
+      "description": "De Zuid-Koreaanse investeringsreus MBK Partners wil Godiva Japan van de hand doen. Onder die vennootschap valt ook de Brusselse fabriek waar de pralines voor de exportmarkten worden gemaakt.",
+      "pubDate": "Wed, 02 Sep 2026 03:00:00 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:50NC2P91qR88GiBDe0MENc&context=ONLINE&ratio=16/9&width=480&u=1788339567000"
+    },
+    {
+      "id": "10684274",
+      "title": "Goedkope stekkerbatterij kan jaren later duur uitvallen",
+      "link": "https://www.tijd.be/r/t/1/id/10684274",
+      "category": "Netto",
+      "description": "Amper een op de tien Belgen weet dat thuis- en stekkerbatterijen geregistreerd moeten zijn bij de recyclage-vzw Bebat. Is dat niet het geval, dan dreigt u later zelf op te draaien voor de ophaling en recyclage van uw batterij.",
+      "pubDate": "Wed, 02 Sep 2026 03:00:29 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:4CDqNE-yKVBBvNUmlcRGe1&context=ONLINE&ratio=16/9&width=480&u=1788298387000"
+    },
+    {
+      "id": "10684280",
+      "title": "Meerwaardetaks veroorzaakt onrust bij staatsbonbeleggers",
+      "link": "https://www.tijd.be/r/t/1/id/10684280",
+      "category": "Netto",
+      "description": "Het gros van de beleggers die in september vorig jaar inschreven op de eenjarige staatsbon, krijgt deze week te maken met een kleine inhouding voor de meerwaardebelasting. De taks kan wel gerecupereerd worden, maar ze maakt een automatische herbelegging in de nieuwe staatsbon via het Federaal Agentschap van de Schuld onmogelijk.",
+      "pubDate": "Wed, 02 Sep 2026 03:00:00 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:CYW_5vHuqC6AcmMwfHyNeQ&context=ONLINE&ratio=16/9&width=480&u=1788337392000"
+    },
+    {
+      "id": "10684336",
+      "title": "Arbeidsmigratie naar Vlaanderen daalt fors | Beleggers dumpen staatsobligaties, rente stijgt | Maakt de supersonische Concorde een comeback?",
+      "link": "https://www.tijd.be/r/t/1/id/10684336",
+      "category": "Podcasts",
+      "description": "De 7 is een dagelijkse podcast van De Tijd. U krijgt het nieuws dat u nodig heeft om uw dag goed te starten in zeven punten.",
+      "pubDate": "Wed, 02 Sep 2026 04:56:07 GMT",
+      "score": 1,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:931R4myZacjBtjjzVEwsr9&context=ONLINE&ratio=16/9&width=480&u=1788325816000"
+    },
+    {
+      "id": "10684347",
+      "title": "Europese gasprijs schiet naar hoogste peil sinds januari 2023",
+      "link": "https://www.tijd.be/r/t/1/id/10684347",
+      "category": "Markten Live",
+      "description": "De heroplaaiende strijd tussen de VS en Iran voedt de vrees voor een langdurige blokkade van de Straat van Hormuz, een cruciale route voor vloeibaar aardgas (lng).",
+      "pubDate": "Wed, 02 Sep 2026 06:57:48 GMT",
+      "score": 0,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:5Oagb2L44LK8lLyUi3yzCi&context=ONLINE&ratio=16/9&width=480&u=1788336014000"
+    },
+    {
+      "id": "10684331",
+      "title": "Nokia maakt ten koste van Volkswagen comeback in Euro Stoxx50",
+      "link": "https://www.tijd.be/r/t/1/id/10684331",
+      "category": "Markten Live",
+      "description": "Nokia is een les aan Volkswagen, dat door de Finnen uit de Europese sterrenkorf gezwierd wordt: bedrijven die zichzelf continu en snel heruitvinden, overleven.",
+      "pubDate": "Wed, 02 Sep 2026 03:04:34 GMT",
+      "score": 0,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:1ilA5Wq9adkAuSUz7p8FOQ&context=ONLINE&ratio=16/9&width=480&u=1788328725000"
+    }
+  ]
 }
