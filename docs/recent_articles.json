@@ -1,6 +1,149 @@
 {
   "articles": [
     {
+      "id": "10684537",
+      "title": "'Volkswagen stopt in 2029 met Seat'",
+      "link": "https://www.tijd.be/r/t/1/id/10684537",
+      "category": "Ondernemen",
+      "description": "Volkswagen is niet alleen van plan om vier Duitse fabrieken te sluiten, maar zou nu ook het mes in zijn merkenportfolio willen zetten. Van de Spaanse dochter Seat zou tegen 2029 de laatste auto van de band rollen.",
+      "pubDate": "Thu, 03 Sep 2026 08:49:40 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:1guQQOMOK7NB1DUsjykpvs&context=ONLINE&ratio=16/9&width=480&u=1788425383000"
+    },
+    {
+      "id": "10684548",
+      "title": "Om een hervorming van de btw kunnen we niet heen",
+      "link": "https://www.tijd.be/r/t/1/id/10684548",
+      "category": "Opinie",
+      "description": "Nu de onderhandelingen over de begroting 2027 stilaan op gang komen, kan je niet meer om een hervorming van de btw heen.",
+      "pubDate": "Thu, 03 Sep 2026 08:34:53 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:DRKAW0dFq3sAjTlqd398LL&context=ONLINE&ratio=16/9&width=480&u=1788424498000"
+    },
+    {
+      "id": "10684540",
+      "title": "D'Ieteren saneert zijn autodivisie: 344 jobs weg",
+      "link": "https://www.tijd.be/r/t/1/id/10684540",
+      "category": "Ondernemen",
+      "description": "De autodivisie van de Elsense holding D'Ieteren Group zet het mes in haar organisatie. Door de moordende concurrentie in de sector, de razendsnelle digitalisering door AI en de elektrificatie van het wagenpark sneuvelen er 344 jobs.",
+      "pubDate": "Thu, 03 Sep 2026 08:22:11 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:4e64g1J_4lM9b-y-wy2ECr&context=ONLINE&ratio=16/9&width=480&u=1788423731000"
+    },
+    {
+      "id": "10684535",
+      "title": "Bekaert verkoopt staalkoordfabriek in Sardinië aan lokaal bedrijf",
+      "link": "https://www.tijd.be/r/t/1/id/10684535",
+      "category": "Ondernemen",
+      "description": "De Belgische staaltechnologiegroep ondertekende een overeenkomst met het Italiaanse Nuova Icom voor de overdracht van zijn fabriek voor bandenversterking in Sardinië.",
+      "pubDate": "Thu, 03 Sep 2026 07:28:21 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:2RC8S6SlKipAZCkMDFY1AP&context=ONLINE&ratio=16/9&width=480&u=1788420742000"
+    },
+    {
+      "id": "10684527",
+      "title": "Solvay surft mee op AI-golf en investeert in Taiwan",
+      "link": "https://www.tijd.be/r/t/1/id/10684527",
+      "category": "Ondernemen",
+      "description": "Het chemiebedrijf Solvay investeert tientallen miljoenen euro's in Taiwan om de productie van waterstofperoxide te verhogen. Die chemische stof is belangrijk in het productieproces van halfgeleiders.",
+      "pubDate": "Thu, 03 Sep 2026 06:18:26 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:5ZHxM0Ax4Pd9sJ3ZqSrSjW&context=ONLINE&ratio=16/9&width=480&u=1788416309000"
+    },
+    {
+      "id": "10684518",
+      "title": "Gimv krikt intrinsieke waarde op, portefeuille 2,4 miljard euro waard",
+      "link": "https://www.tijd.be/r/t/1/id/10684518",
+      "category": "Ondernemen",
+      "description": "De investeringsmaatschappij Gimv wist over het eerste halfjaar van het boekjaar de intrinsieke waarde met 8 procent te verhogen, tot 57,2 euro per aandeel.",
+      "pubDate": "Thu, 03 Sep 2026 06:10:05 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:8kWQVBQraw28ARi7dBXlGV&context=ONLINE&ratio=16/9&width=480&u=1788415808000"
+    },
+    {
+      "id": "10684526",
+      "title": "Energyvision trekt winstprognoses op: 'De groeimotor versnelt nog'",
+      "link": "https://www.tijd.be/r/t/1/id/10684526",
+      "category": "Ondernemen",
+      "description": "De energieleverancier EnergyVision groeit als kool en verwacht dat de winst dit jaar met 35 procent zal stijgen. Volgend jaar zou de winstgroei nog eens 40 procent bedragen.",
+      "pubDate": "Thu, 03 Sep 2026 05:58:34 GMT",
+      "score": 6,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:6mK-LRAd4qK8o_rzykrewO&context=ONLINE&ratio=16/9&width=480&u=1788415117000"
+    },
+    {
+      "id": "10684168",
+      "title": "Sterrenrestaurant Knystaforsen in Zweden: ‘Ooit serveerden we als dessert een fondant met hertenbloed’",
+      "link": "https://www.tijd.be/r/t/1/id/10684168",
+      "category": "Sabato",
+      "description": "Sabato-journalist Bert Voet rijdt met zijn Volvo 240 uit 1991 naar Zweden. Alvorens hij in Göteborg bij Polestar polst naar het heden en de toekomst van het Zweedse autostempel, verdiept hij zich in de lokale culinaire cultuur.",
+      "pubDate": "Thu, 03 Sep 2026 04:45:23 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:BsN4Tzat4l49BCKkmY07H1&context=ONLINE&ratio=16/9&width=480&u=1788345662000"
+    },
+    {
+      "id": "10684515",
+      "title": "Slaapapneuspecialist Nyxoah mikt op extra patiënten in Verenigde Staten",
+      "link": "https://www.tijd.be/r/t/1/id/10684515",
+      "category": "Ondernemen",
+      "description": "Het Luikse medtechbedrijf Nyxoah meldt goede resultaten met zijn implantaat tegen slaapapneu bij patiënten met een specifieke luchtwegvernauwing. Het mikt nu op een extra goedkeuring in de Amerikaanse sleutelmarkt.",
+      "pubDate": "Thu, 03 Sep 2026 04:42:17 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:A23PFsOlqJtA8Z6yzX0rHu&context=ONLINE&ratio=16/9&width=480&u=1788420702000"
+    },
+    {
+      "id": "10684516",
+      "title": "Energieprijzen op hoogste niveau in jaren | Broadcom verhoogt AI-prognoses volgend jaar | Voetbalmercato piekt",
+      "link": "https://www.tijd.be/r/t/1/id/10684516",
+      "category": "Podcasts",
+      "description": "'De 7' is een dagelijkse podcast van De Tijd. U krijgt het nieuws dat u nodig hebt om uw dag goed te starten in zeven punten.",
+      "pubDate": "Thu, 03 Sep 2026 04:17:36 GMT",
+      "score": 1,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:D5qdfbSIKTz8cNh_7E2gDA&context=ONLINE&ratio=16/9&width=480&u=1788413453000"
+    },
+    {
+      "id": "10684404",
+      "title": "Backbone bouwt AI-agents voor kwaliteitsbeheer in voedingsindustrie",
+      "link": "https://www.tijd.be/r/t/1/id/10684404",
+      "category": "Ondernemen",
+      "description": "Backbone, een start-up van voormalige werknemers van het Gentse Henchman, heeft 4 miljoen euro opgehaald om kwaliteitsbeheer in de voedingssector te digitaliseren.",
+      "pubDate": "Thu, 03 Sep 2026 04:02:04 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:3BX3JFPvqZ1BmlM8180PA9&context=ONLINE&ratio=16/9&width=480&u=1788383825000"
+    },
+    {
+      "id": "10684371",
+      "title": "WAD Capital ziet groeikansen in opvolgingsproblematiek bij kmo’s",
+      "link": "https://www.tijd.be/r/t/1/id/10684371",
+      "category": "Ondernemen",
+      "description": "WAD Capital ziet een gat in de markt bij kmo’s die met een opvolgingsprobleem kampen. De Belgische investeringsmaatschappij haalde voor zijn eerste fonds 67,5 miljoen euro op en heeft intussen acht overnames afgerond.",
+      "pubDate": "Thu, 03 Sep 2026 04:01:37 GMT",
+      "score": 6,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:CqkyJI2CKuiAp2Twltu9G5&context=ONLINE&ratio=16/9&width=480&u=1788383809000"
+    },
+    {
+      "id": "10684453",
+      "title": "Octave.Energy laadt batterij op voor expansie in buitenland",
+      "link": "https://www.tijd.be/r/t/1/id/10684453",
+      "category": "Ondernemen",
+      "description": "Het Mechelse groeibedrijf Octave.Energy haalt 10 miljoen euro vers geld op om internationaal te gaan met zijn batterijopslag voor bedrijven. De familie Périer-D’Ieteren leidt de kapitaalronde.",
+      "pubDate": "Thu, 03 Sep 2026 04:00:00 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:7cuJzhBva4IA4vTLm54A53&context=ONLINE&ratio=16/9&width=480&u=1788417178000"
+    },
+    {
       "id": "10684509",
       "title": "Chipspeler Broadcom scoort boven de lat met cijfers, maar stelt teleur met prognose",
       "link": "https://www.tijd.be/r/t/1/id/10684509",
