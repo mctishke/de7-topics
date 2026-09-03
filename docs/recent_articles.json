@@ -1,6 +1,138 @@
 {
   "articles": [
     {
+      "id": "10684622",
+      "title": "Steve Ballmer, rijkste miljardair in NBA moet één jaar wegblijven van zijn team",
+      "link": "https://www.tijd.be/r/t/1/id/10684622",
+      "category": "Ondernemen",
+      "description": "Steve Ballmer, ex-topman van de softwarereus Microsoft en een van de rijksten ter wereld, moet één jaar uit de buurt blijven van zijn basketteam Los Angeles Clippers. Hij krijgt die straf omdat hij betrokken was bij een deal om sterspeler Kawhi Leonard meer te betalen dan de regels van de NBA toelaten.",
+      "pubDate": "Thu, 03 Sep 2026 17:08:35 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:3p4VyO35a0d9q6phgm1W3x&context=ONLINE&ratio=16/9&width=480&u=1788455590000"
+    },
+    {
+      "id": "10684671",
+      "title": "Wall Street: Microsoft en Snowflake stuwen Nasdaq, Broadcom glijdt uit",
+      "link": "https://www.tijd.be/r/t/1/id/10684671",
+      "category": "Markten Live",
+      "description": "Wall Street trekt donderdag stevig hoger dankzij een dalende langetermijnrente en hoop op een rentepauze. Microsoft en Snowflake schitteren, terwijl beleggers bij Broadcom op nog sterkere AI-vooruitzichten hadden gerekend.",
+      "pubDate": "Thu, 03 Sep 2026 16:55:05 GMT",
+      "score": 0,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:52Epp78Lq2mBcZBO_lucAt&context=ONLINE&ratio=16/9&width=480&u=1788454716000"
+    },
+    {
+      "id": "10684636",
+      "title": "Hamas 'vernietigen' is een illusie",
+      "link": "https://www.tijd.be/r/t/1/id/10684636",
+      "category": "Opinie",
+      "description": "Je kan Hamas militair verzwakken, maar zolang de bezetting van Gaza voortduurt, zal het gewapend verzet niet verdwijnen.",
+      "pubDate": "Thu, 03 Sep 2026 16:27:24 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:E9glTcJbad39BPHWEcd9Zv&context=ONLINE&ratio=16/9&width=480&u=1788452850000"
+    },
+    {
+      "id": "10684663",
+      "title": "Bankbestormer Revolut staat met een been in de VS",
+      "link": "https://www.tijd.be/r/t/1/id/10684663",
+      "category": "Ondernemen",
+      "description": "De Amerikaanse toezichthouder heeft de snelgroeiende smartphonebank Revolut een voorlopige toestemming gegeven om actief te worden in de VS. De bank wil vanaf 2027 in heel de VS van start gaan.",
+      "pubDate": "Thu, 03 Sep 2026 16:16:15 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:CjggrHR3Kgk8AifPBoOxTJ&context=ONLINE&ratio=16/9&width=480&u=1788452178000"
+    },
+    {
+      "id": "10684562",
+      "title": "Kan Sofina weer schitteren na vijf magere jaren?",
+      "link": "https://www.tijd.be/r/t/1/id/10684562",
+      "category": "Markten Live",
+      "description": "Terwijl de beurzen zowat overal ter wereld op recordkoers zitten, noteert Sofina, de holding van de familie Boël, nog altijd een derde onder zijn topkoers van vijf jaar geleden. Wat liep er mis bij de voormalige sterholding van de Brusselse beurs? En is er beterschap in zicht?",
+      "pubDate": "Thu, 03 Sep 2026 16:07:55 GMT",
+      "score": 1,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:9s5bhQno4MsA2MtV7gc4db&context=ONLINE&ratio=16/9&width=480&u=1788452575000"
+    },
+    {
+      "id": "10684653",
+      "title": "Mediagroep Rossel wordt met Sud Ouest de derde regionale speler in Frankrijk",
+      "link": "https://www.tijd.be/r/t/1/id/10684653",
+      "category": "Ondernemen",
+      "description": "De Franstalige mediagroep Rossel staat dicht bij de overname van haar Franse sectorgenoot Sud Ouest. Die heeft een sterke positie van Bordeaux tot de Pyreneeën. Met Sud Ouest erbij kan de Belgische groep de derde regionale speler in Frankrijk worden.",
+      "pubDate": "Thu, 03 Sep 2026 15:46:15 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:B2AmbujiKhwBFW-zuZlMyp&context=ONLINE&ratio=16/9&width=480&u=1788451237000"
+    },
+    {
+      "id": "10684556",
+      "title": "Belgische holdings slaan terug tegen ETF-geweld",
+      "link": "https://www.tijd.be/r/t/1/id/10684556",
+      "category": "Markten Live",
+      "description": "De Bel20 boekte voor het eerst in vier dagen winst. De holdings Sofina, Gimv en Bois Sauvage tonen met sterke halfjaarcijfers dat onder de motorkap nog volop waarde wordt gecreëerd, terwijl hun aandelen met stevige kortingen noteren.",
+      "pubDate": "Thu, 03 Sep 2026 15:43:19 GMT",
+      "score": 0,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:6o9C-CJoqG9B4ss7ogxrYU&context=ONLINE&ratio=16/9&width=480&u=1788454441000"
+    },
+    {
+      "id": "10684633",
+      "title": "Noorwegen neemt Russisch schip in beslag op Spitsbergen",
+      "link": "https://www.tijd.be/r/t/1/id/10684633",
+      "category": "Politiek & Economie",
+      "description": "De Noorse autoriteiten hebben het Russische schip Professor Molchanov aan de ketting gelegd in Spitsbergen. Dat gebeurde op vraag van de Oekraïense staatsenergiemaatschappij Naftogaz.",
+      "pubDate": "Thu, 03 Sep 2026 15:22:43 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:1FSlpQmUa0z89833GegchI&context=ONLINE&ratio=16/9&width=480&u=1788452566000"
+    },
+    {
+      "id": "10684605",
+      "title": "Nakende overstap topvrouw Schnabel naar IMF kan ECB-stoelendans op gang brengen",
+      "link": "https://www.tijd.be/r/t/1/id/10684605",
+      "category": "Markten Live",
+      "description": "Volgens Duitse media staat de invloedrijke ECB-bestuurder Isabel Schnabel dicht bij een overstap naar het Internationaal Monetair Fonds (IMF). Schnabels exit kan de opvolging van voorzitster Christine Lagarde en een bredere herschikking aan de ECB-top versnellen.",
+      "pubDate": "Thu, 03 Sep 2026 15:04:22 GMT",
+      "score": 0,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:06voGo2T4x2BFTzflx1Vmd&context=ONLINE&ratio=16/9&width=480&u=1788448711000"
+    },
+    {
+      "id": "10684610",
+      "title": "Google ontsnapt opnieuw aan verplichte opsplitsing",
+      "link": "https://www.tijd.be/r/t/1/id/10684610",
+      "category": "Ondernemen",
+      "description": "Een Amerikaanse federale rechter heeft beslist dat Google zijn lucratieve digitaleadvertentiedivisie niet hoeft op te splitsen. Het Amerikaanse ministerie van Justitie wilde met een gedwongen verkoop het monopolie van de techreus doorbreken.",
+      "pubDate": "Thu, 03 Sep 2026 14:22:30 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:FSGLCW6y4GJAJgBOyFrkrt&context=ONLINE&ratio=16/9&width=480&u=1788448346000"
+    },
+    {
+      "id": "10684607",
+      "title": "Kledingmerk Patagonia naar rechter tegen Trump om natuurreservaat te redden",
+      "link": "https://www.tijd.be/r/t/1/id/10684607",
+      "category": "Politiek & Economie",
+      "description": "Het Amerikaanse outdoorkledingmerk Patagonia sluit zich aan bij een rechtszaak tegen Donald Trumps besluit om twee nationale parken met 90 procent in te krimpen. Patagonia is een van de weinige Amerikaanse bedrijven die durven in te gaan tegen controversiële beslissingen van de president, en dat lijkt geen commercieel nadeel.",
+      "pubDate": "Thu, 03 Sep 2026 14:03:31 GMT",
+      "score": 5,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:FH-STJkYqXUBq2LPcs-MZs&context=ONLINE&ratio=16/9&width=480&u=1788448118000"
+    },
+    {
+      "id": "10684628",
+      "title": "Geen Italiaanse regering hield het langer vol dan die van Meloni, maar 'veel is er niet gebeurd'",
+      "link": "https://www.tijd.be/r/t/1/id/10684628",
+      "category": "Politiek & Economie",
+      "description": "Sinds de Tweede Wereldoorlog hield geen Italiaanse regering het langer uit dan die van premier Giorgia Meloni. Haar grote verdienste is dat ze de overheidsfinanciën onder controle kreeg, maar voor de rest blinkt ze volgens critici uit in nietsdoen.",
+      "pubDate": "Thu, 03 Sep 2026 14:02:53 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:0l1tpo4Q4OA96j-V0cyrN1&context=ONLINE&ratio=16/9&width=480&u=1788445695000"
+    },
+    {
       "id": "10684595",
       "title": "Dwingt economische malaise Poetin naar onderhandelingstafel?",
       "link": "https://www.tijd.be/r/t/1/id/10684595",
