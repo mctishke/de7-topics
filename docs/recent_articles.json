@@ -1,6 +1,83 @@
 {
   "articles": [
     {
+      "id": "10684530",
+      "title": "Een zomer zonder geschiedenis",
+      "link": "https://www.tijd.be/r/t/1/id/10684530",
+      "category": "Opinie",
+      "description": "Journalist en schrijver Rik Van Puymbroeck kijkt door zijn lens naar de wereld.",
+      "pubDate": "Fri, 04 Sep 2026 18:30:20 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:5IEgeNPhKte8LzDxvWz2w0&context=ONLINE&ratio=16/9&width=480&u=1788426174000"
+    },
+    {
+      "id": "10684886",
+      "title": "Portugal eist meer geld voor TAP van bieders Air France-KLM en Lufthansa",
+      "link": "https://www.tijd.be/r/t/1/id/10684886",
+      "category": "Ondernemen",
+      "description": "Twee van Europa's grootste luchtvaartmaatschappijen, Air France-KLM en Lufthansa, gaan door naar de finale biedronde bij de privatisering van de Portugese sectorgenoot TAP. Lissabon vraagt echter beter biedingen.",
+      "pubDate": "Fri, 04 Sep 2026 18:26:07 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:9UVduuFpqNOAs1mp9NlOi9&context=ONLINE&ratio=16/9&width=480&u=1788546370000"
+    },
+    {
+      "id": "10684878",
+      "title": "Brusselse start-up Maash haalt 12 miljoen euro op voor grootschalige productie vleesvervangers",
+      "link": "https://www.tijd.be/r/t/1/id/10684878",
+      "category": "Ondernemen",
+      "description": "De Brusselse start-up Maash haalt 12 miljoen euro financiering op om de productie van zijn vleesvervanger op te voeren. Vanaf volgend jaar liggen de eerste producten met de alternatieve eiwitten in de winkels.",
+      "pubDate": "Fri, 04 Sep 2026 17:54:37 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:4NYGlB7HqN0A8R-YZ3d0Tx&context=ONLINE&ratio=16/9&width=480&u=1788546652000"
+    },
+    {
+      "id": "10684885",
+      "title": "Nvidia claimt opnieuw de AI-troon op Wall Street",
+      "link": "https://www.tijd.be/r/t/1/id/10684885",
+      "category": "Markten Live",
+      "description": "De Amerikaanse beurzen noteren met verlies na een veel sterker dan verwacht jobrapport. Nvidia noteert tegendraads groen.",
+      "pubDate": "Fri, 04 Sep 2026 17:34:20 GMT",
+      "score": 0,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:5FUAzncp4HOBRhqwj-Po8B&context=ONLINE&ratio=16/9&width=480&u=1788550054000"
+    },
+    {
+      "id": "10684871",
+      "title": "De Wever vat miljardendans aan met campagnetaal",
+      "link": "https://www.tijd.be/r/t/1/id/10684871",
+      "category": "Politiek & Economie",
+      "description": "‘De belastingdruk zal dalen.' ‘Ik reken op de coalitiepartners.’ En: het zou 'onverantwoordelijk zijn’ om geen akkoord te sluiten. Alle Arizona-partijen valt op dat premier Bart De Wever de begrotingsopmaak ingaat met campagnetaal.",
+      "pubDate": "Fri, 04 Sep 2026 17:08:38 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:F9uoJdlka7mAdaG-yB5B9i&context=ONLINE&ratio=16/9&width=480&u=1788542565000"
+    },
+    {
+      "id": "10684877",
+      "title": "Tesla neemt robottaxi zonder stuur in alle stilte in gebruik, waakhond opent onderzoek",
+      "link": "https://www.tijd.be/r/t/1/id/10684877",
+      "category": "Ondernemen",
+      "description": "In tegenstelling tot de poeha waarmee Elon Musk doorgaans nieuwigheden pleegt te presenteren, heeft Tesla in alle stilte zijn robottaxi Cybercab in gebruik genomen. Toezichthouders openden meteen een onderzoek.",
+      "pubDate": "Fri, 04 Sep 2026 17:08:05 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:5Pn2dSy8K-hAlESNRRQejY&context=ONLINE&ratio=16/9&width=480&u=1788546154000"
+    },
+    {
+      "id": "10684862",
+      "title": "PS wijt Brussels drugsgeweld aan 'Antwerpse connectie'",
+      "link": "https://www.tijd.be/r/t/1/id/10684862",
+      "category": "Politiek & Economie",
+      "description": "De PS verwijt de federale regering dat ze te weinig doet tegen drugsgeweld, omdat de premier en twee ministers uit Antwerpen komen. De Antwerpse havenbelangen zouden primeren.",
+      "pubDate": "Fri, 04 Sep 2026 17:06:50 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:1k6nSCc0aKoBk-3tBmAYXC&context=ONLINE&ratio=16/9&width=480&u=1788547034000"
+    },
+    {
       "id": "10684441",
       "title": "Primus-brouwer Nils van Dam: 'We geven onze cafébazen voortaan meer vrijheid'",
       "link": "https://www.tijd.be/r/t/1/id/10684441",
@@ -9,7 +86,29 @@
       "pubDate": "Fri, 04 Sep 2026 17:03:32 GMT",
       "score": 2,
       "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:FFAHDDIVqTRBBT6mTNnJM4&context=ONLINE&ratio=16/9&width=480&u=1788541423000"
+      "image": "https://images.tijd.be/view?iid=Elvis:FFAHDDIVqTRBBT6mTNnJM4&context=ONLINE&ratio=16/9&width=480&u=1788550085000"
+    },
+    {
+      "id": "10684086",
+      "title": "Vijf favoriete aandelen: 'Europa heeft zijn eigen AI-infrastructuur nodig, en dit is een zeldzaam aandeel om daarin te beleggen'",
+      "link": "https://www.tijd.be/r/t/1/id/10684086",
+      "category": "Dossiers",
+      "description": "Jörg Held, de beursexpert van Ethenea, kiest voor twee Amerikaanse en twee Europese aandelen, aangevuld met een Chinees exemplaar.",
+      "pubDate": "Fri, 04 Sep 2026 17:00:27 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:1rjy6_FOa0qADPRBsWeBU2&context=ONLINE&ratio=16/9&width=480&u=1788446762000"
+    },
+    {
+      "id": "10684581",
+      "title": "Nokia en de kunst van de corporate extreme makeover",
+      "link": "https://www.tijd.be/r/t/1/id/10684581",
+      "category": "Dossiers",
+      "description": "Het 161 jaar jonge Nokia flaneert na een zoveelste makeover met hip AI-jasje de Euro Stoxx50 in. Dichter bij huis timmert een 163 jaar jonge krasse knar meer in de luwte aan zijn jongste transformatie.",
+      "pubDate": "Fri, 04 Sep 2026 17:00:00 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:6q6tUlNkKngB3oDyrhU97V&context=ONLINE&ratio=16/9&width=480&u=1788547636000"
     },
     {
       "id": "10684772",
@@ -53,7 +152,7 @@
       "pubDate": "Fri, 04 Sep 2026 16:00:03 GMT",
       "score": 2,
       "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:72vyMjiS4yDBASNUKm5Q_V&context=ONLINE&ratio=16/9&width=480&u=1788541152000"
+      "image": "https://images.tijd.be/view?iid=Elvis:72vyMjiS4yDBASNUKm5Q_V&context=ONLINE&ratio=16/9&width=480&u=1788548625000"
     },
     {
       "id": "10684873",
@@ -97,7 +196,7 @@
       "pubDate": "Fri, 04 Sep 2026 15:15:24 GMT",
       "score": 2,
       "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:C72Ps88N41eABjme55A6t2&context=ONLINE&ratio=16/9&width=480&u=1788534929000"
+      "image": "https://images.tijd.be/view?iid=Elvis:C72Ps88N41eABjme55A6t2&context=ONLINE&ratio=16/9&width=480&u=1788543975000"
     },
     {
       "id": "10684828",
@@ -108,7 +207,7 @@
       "pubDate": "Fri, 04 Sep 2026 15:04:32 GMT",
       "score": 2,
       "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:0z4VPL-7KRl9QptdPxuUDj&context=ONLINE&ratio=16/9&width=480&u=1788535712000"
+      "image": "https://images.tijd.be/view?iid=Elvis:0z4VPL-7KRl9QptdPxuUDj&context=ONLINE&ratio=16/9&width=480&u=1788544340000"
     },
     {
       "id": "10684733",
@@ -152,7 +251,7 @@
       "pubDate": "Fri, 04 Sep 2026 14:45:24 GMT",
       "score": 2,
       "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:1QmziW1Y4ZjBaZecqd7F5t&context=ONLINE&ratio=16/9&width=480&u=1788536707000"
+      "image": "https://images.tijd.be/view?iid=Elvis:1QmziW1Y4ZjBaZecqd7F5t&context=ONLINE&ratio=16/9&width=480&u=1788548056000"
     },
     {
       "id": "10684354",
@@ -383,7 +482,7 @@
       "pubDate": "Fri, 04 Sep 2026 10:49:33 GMT",
       "score": 2,
       "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:ErhT0tvzaZq8ZucZW_TqH7&context=ONLINE&ratio=16/9&width=480&u=1788519984000"
+      "image": "https://images.tijd.be/view?iid=Elvis:ErhT0tvzaZq8ZucZW_TqH7&context=ONLINE&ratio=16/9&width=480&u=1788547927000"
     },
     {
       "id": "10684761",
