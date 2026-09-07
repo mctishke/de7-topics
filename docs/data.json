@@ -1,9 +1,20 @@
 {
-  "generated_at": "2026-09-07T09:49:54.442883+00:00",
+  "generated_at": "2026-09-07T15:23:14.339084+00:00",
   "date": "2026-09-07",
   "de7_title": "07/09 | Weekvooruitblik met Chef Politiek Jasper D'hoore | 'Na winst AfD staat positie bondskanselier Merz onder druk' | 'Bouchez speelt gevaarlijk spel rond begroting'",
   "de7_matched_count": 0,
   "articles": [
+    {
+      "id": "10685014",
+      "title": "Vlaanderen gaat fraude met subsidies fors beboeten, maar weet zelf niet goed hoeveel het er terugvordert",
+      "link": "https://www.tijd.be/r/t/1/id/10685014",
+      "category": "Politiek & Economie",
+      "description": "Met boetes tot 800.000 euro probeert Vlaanderen nog maar eens om grip te krijgen op zijn subsidiemonster. Inmiddels blijkt dat de overheid nauwelijks zicht heeft op hoeveel onterecht gegeven subsidies worden teruggevorderd.",
+      "pubDate": "Mon, 07 Sep 2026 15:17:21 GMT",
+      "score": 5,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:FTthBjtmaT-8OMXZ6Gf1P0&context=ONLINE&ratio=16/9&width=480&u=1788794245000"
+    },
     {
       "id": "10684971",
       "title": "BNP Paribas trekt rente op kasbon op",
@@ -25,6 +36,94 @@
       "score": 4,
       "in_de7": false,
       "image": "https://images.tijd.be/view?iid=Elvis:2VatZ47Kajm9Flzwfyz7yi&context=ONLINE&ratio=16/9&width=480&u=1788769593000"
+    },
+    {
+      "id": "10685019",
+      "title": "Belgische taks op Luxemburgse fondsen is gerechtvaardigd, oordeelt cassatie",
+      "link": "https://www.tijd.be/r/t/1/id/10685019",
+      "category": "Netto",
+      "description": "Een arrest van het Hof van Cassatie lijkt een einde te maken aan een jarenlang geschil tussen de fiscus en de Luxemburgse beleggingsfondsen die in ons land worden aangeboden. De Luxemburgse fondsen kunnen de jaarlijkse abonnementstaks, goed voor in totaal 1,5 miljard euro, niet van de staatskas terugvorderen, heeft het hof vrijdag geoordeeld.",
+      "pubDate": "Mon, 07 Sep 2026 14:15:26 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:DX-x8qoc4ghAEKPAfeIUmS&context=ONLINE&ratio=16/9&width=480&u=1788792560000"
+    },
+    {
+      "id": "10685006",
+      "title": "Ulrich Siegmund, de TikTok-ster die de AfD-monsterzege boetseerde",
+      "link": "https://www.tijd.be/r/t/1/id/10685006",
+      "category": "Politiek & Economie",
+      "description": "Met een radicaal antimigratiediscours, appellerend aan DDR-nostalgie en strak geregisseerd vanop sociale media, beukt AfD-lijsttrekker Ulrich Siegmund in de Duitse deelstaat Saksen-Anhalt op de poorten van de macht. Schandaaltjes en een schimmige entourage bleken in die opmars een detail.",
+      "pubDate": "Mon, 07 Sep 2026 13:49:16 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:EDdmuY7Uq2I8HaXlaFyzDN&context=ONLINE&ratio=16/9&width=480&u=1788789958000"
+    },
+    {
+      "id": "10684856",
+      "title": "Elia krijgt Europese lening van 1 miljard voor energie-eiland in Noordzee",
+      "link": "https://www.tijd.be/r/t/1/id/10684856",
+      "category": "Ondernemen",
+      "description": "De Europese Investeringsbank (EIB) kent de hoogspanningsnetbeheerder Elia een lening van 1 miljard euro toe. Het geld moet dienen voor de bouw van het energie-eiland, een elektriciteitsknooppunt in de Noordzee.",
+      "pubDate": "Mon, 07 Sep 2026 13:26:02 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:FzTn2eMtaCT9r_uQUHIavO&context=ONLINE&ratio=16/9&width=480&u=1788791079000"
+    },
+    {
+      "id": "10684979",
+      "title": "China stopt bijna 40 miljard euro in lokale banken en verzekeraars, ook Ageas-partner",
+      "link": "https://www.tijd.be/r/t/1/id/10684979",
+      "category": "Ondernemen",
+      "description": "China trekt opnieuw miljarden uit om de financiële sector in het Aziatische land te stutten. Naast de banken zijn nu ook de verzekeraars aan de beurt, waaronder de lokale Ageas-partner China Taiping Insurance Group.",
+      "pubDate": "Mon, 07 Sep 2026 10:38:19 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:6JHejYeQaA2BXEw2ZZFVZd&context=ONLINE&ratio=16/9&width=480&u=1788777618000"
+    },
+    {
+      "id": "10684949",
+      "title": "Club Brugge plant verhuis naar nieuwe stadion in zomer 2029",
+      "link": "https://www.tijd.be/r/t/1/id/10684949",
+      "category": "Ondernemen",
+      "description": "Club Brugge begint in januari met de bouw van zijn nieuwe stadion, dat 200 miljoen euro zal kosten. De geplande verhuizing schuift wel op met een jaar: naar de start van het seizoen 2029-2030.",
+      "pubDate": "Mon, 07 Sep 2026 10:00:00 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:Frln18bJq7E8Hi32ry5nMr&context=ONLINE&ratio=16/9&width=480&u=1788775488000"
+    },
+    {
+      "id": "10684998",
+      "title": "Recensie 'Rose' | Genderdiscriminatie knap verkleed als literair sprookje",
+      "link": "https://www.tijd.be/r/t/1/id/10684998",
+      "category": "Cultuur",
+      "description": "Wat doet een vrouw in een wereld waar ze vanwege haar gender nauwelijks kansen krijgt? In het sterke historische drama ‘Rose’ neemt het hoofdpersonage een radicale beslissing: ze doet zich voor als een man. Maar dat is niet zonder risico’s.",
+      "pubDate": "Mon, 07 Sep 2026 13:07:19 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:7D9sJmfkq038Rx_6pmF7kj&context=ONLINE&ratio=16/9&width=480&u=1788786444000"
+    },
+    {
+      "id": "10685010",
+      "title": "Recensie 'The Meltdown' | Kies je voor de waarheid of je familie?",
+      "link": "https://www.tijd.be/r/t/1/id/10685010",
+      "category": "Cultuur",
+      "description": "In het intrigerende Chileense drama ‘The Meltdown’ staat een 9-jarig meisje voor een dilemma na de verdwijning van een jonge Duitse skiester. Vertellen wat ze gezien heeft, of doen wat haar oma zegt en haar mond houden.",
+      "pubDate": "Mon, 07 Sep 2026 12:51:35 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:CTrbdyy7KM98sKxW-Eot11&context=ONLINE&ratio=16/9&width=480&u=1788787034000"
+    },
+    {
+      "id": "10685001",
+      "title": "Bereken de impact van de centenindex op uw loon",
+      "link": "https://www.tijd.be/r/t/1/id/10685001",
+      "category": "Netto",
+      "description": "Sinds juni is de zogenaamde 'centenindex' van kracht, waardoor lonen boven 4.000 euro beperkt geïndexeerd worden. Bereken de impact ervan op uw loon en vergelijk met de klassieke indexering.",
+      "pubDate": "Mon, 07 Sep 2026 13:09:07 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:2m1-DJWVKJtAOEl3TXvjuu&context=ONLINE&ratio=16/9&width=480&u=1788790955000"
     },
     {
       "id": "10684930",
@@ -146,6 +245,182 @@
       "score": 2,
       "in_de7": false,
       "image": "https://images.tijd.be/view?iid=Elvis:1XNOepn64oaABOv9Lwsftm&context=ONLINE&ratio=16/9&width=480&u=1788773821000"
+    },
+    {
+      "id": "10685045",
+      "title": "Europa onderzoekt hack van OpenAI-agents op Duitse site",
+      "link": "https://www.tijd.be/r/t/1/id/10685045",
+      "category": "Ondernemen",
+      "description": "De Europese Commissie heeft van OpenAI een rapport ontvangen over een incident waarbij AI-agents van het Amerikaanse bedrijf een Duitse website zouden hebben gehackt.",
+      "pubDate": "Mon, 07 Sep 2026 15:15:06 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:Dhy2NvGbq89AjkKDcHMASR&context=ONLINE&ratio=16/9&width=480&u=1788794110000"
+    },
+    {
+      "id": "10685041",
+      "title": "Espace Aygo: van een Brusselse bouwval naar de Big Apple",
+      "link": "https://www.tijd.be/r/t/1/id/10685041",
+      "category": "Sabato",
+      "description": "De heerlijk bizarre renovatie van een Brusselse bouwval maakte hen wereldberoemd. Nu verruilt het jonge artdesigncollectief Brussel voor New York. Maar nog even ervaar je hun wereld tijdens RendezVous.",
+      "pubDate": "Mon, 07 Sep 2026 15:01:34 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:2-CfNMMj4fS8AvJh_oAuRF&context=ONLINE&ratio=16/9&width=480&u=1788792223000"
+    },
+    {
+      "id": "10685013",
+      "title": "Begrotingsschermutselingen beginnen met wrijving over btw en bedrijfswagens",
+      "link": "https://www.tijd.be/r/t/1/id/10685013",
+      "category": "Politiek & Economie",
+      "description": "Vlak voor de herstart van het politieke jaar flakkeren de eerste schermutselingen over de begrotingssanering op. Ze leiden tot wrijving over hogere btw en een denkoefening over bedrijfswagens.",
+      "pubDate": "Mon, 07 Sep 2026 14:37:58 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:EMh45uyK4sE9C-58TGrlzi&context=ONLINE&ratio=16/9&width=480&u=1788792969000"
+    },
+    {
+      "id": "10685004",
+      "title": "Belgische voetbalbond steunt Infantino niet in FIFA-voorzittersverkiezingen",
+      "link": "https://www.tijd.be/r/t/1/id/10685004",
+      "category": "Politiek & Economie",
+      "description": "De Koninklijke Belgische Voetbalbond (KBVB) steunt Gianni Infantino niet voor een nieuwe termijn als voorzitter van de wereldvoetbalbond FIFA. België sluit zich aan bij een reeks landen die hun steun eerder al introkken.",
+      "pubDate": "Mon, 07 Sep 2026 13:30:33 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:DZbkmcaK4J98Vs4KwzLclr&context=ONLINE&ratio=16/9&width=480&u=1788787994000"
+    },
+    {
+      "id": "10685017",
+      "title": "Aan LVMH gelinkte investeerder L Catterton aast op fitnessmerk Hyrox",
+      "link": "https://www.tijd.be/r/t/1/id/10685017",
+      "category": "Ondernemen",
+      "description": "Het bekende fitnessmerk Hyrox verandert mogelijk van eigenaar. Volgens het persbureau Bloomberg staat de aan het luxeconcern LVMH gelinkte investeerder L Catterton dicht bij de aankoop van een controlebelang in Hyrox.",
+      "pubDate": "Mon, 07 Sep 2026 13:15:40 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:7OMB0LK04wt9dPamo_Lqm7&context=ONLINE&ratio=16/9&width=480&u=1788791236000"
+    },
+    {
+      "id": "10685007",
+      "title": "Een van slechtste Franse wijnoogsten in decennia door hittegolven",
+      "link": "https://www.tijd.be/r/t/1/id/10685007",
+      "category": "Ondernemen",
+      "description": "De Franse wijnproductie zal dit jaar waarschijnlijk een van de slechtste van de voorbije 30 jaar zijn. De reden is niet ver te zoeken: aanhoudende hittegolven en droogte.",
+      "pubDate": "Mon, 07 Sep 2026 11:35:35 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:1QdDKpSmaspAWdwstZdMbj&context=ONLINE&ratio=16/9&width=480&u=1788791285000"
+    },
+    {
+      "id": "10684991",
+      "title": "VW verkoopt Duitse autofabriek aan Israëlische wapenproducent",
+      "link": "https://www.tijd.be/r/t/1/id/10684991",
+      "category": "Ondernemen",
+      "description": "Volkswagen heeft zijn autofabriek in Osnabrück verkocht aan het Israëlische defensieconcern Aurelius. Daardoor kunnen in de fabriek 1.200 jobs behouden blijven.",
+      "pubDate": "Mon, 07 Sep 2026 10:39:04 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": null
+    },
+    {
+      "id": "10684956",
+      "title": "Kan Demir een kletsnatte PISA-dweil gebruiken?",
+      "link": "https://www.tijd.be/r/t/1/id/10684956",
+      "category": "Politiek & Economie",
+      "description": "Krijgt het Vlaamse onderwijs dinsdag opnieuw een slechte PISA-meting, het internationale onderzoek naar de lees- en rekenvaardigheid? Experts voorspellen een 'natte dweil' in het onderwijsgezicht. Zet Demir die dweil morgen handig aan het werk in haar hervormingsagenda?",
+      "pubDate": "Mon, 07 Sep 2026 12:30:55 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:AW40XToSKUeAa5-YjBa5Qy&context=ONLINE&ratio=16/9&width=480&u=1788790970000"
+    },
+    {
+      "id": "10684972",
+      "title": "Druk bijgewoonde begrafenis Mladic lokt internationale verontwaardiging uit",
+      "link": "https://www.tijd.be/r/t/1/id/10684972",
+      "category": "Politiek & Economie",
+      "description": "Duizenden mensen hebben maandag de begrafenis van Ratko Mladic bijgewoond in Servië. De verheerlijking van de oud-generaal, die veroordeeld is voor onder meer genocide, lokt internationale verontwaardiging uit.",
+      "pubDate": "Mon, 07 Sep 2026 12:04:00 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:970X9qIUa689ED3RYuGmnD&context=ONLINE&ratio=16/9&width=480&u=1788791480000"
+    },
+    {
+      "id": "10684958",
+      "title": "Trump werkt aan nieuw vredesplan voor Oekraïne, maar verwachtingen zijn laag",
+      "link": "https://www.tijd.be/r/t/1/id/10684958",
+      "category": "Dossiers",
+      "description": "De Verenigde Staten zetten opnieuw hun schouders onder het stilgevallen vredesoverleg tussen Rusland en Oekraïne. Desondanks maken de Oekraïners zich op voor een bittere oorlogswinter.",
+      "pubDate": "Mon, 07 Sep 2026 10:04:50 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:E9mMWfQDqlDBvLUHGhPaI9&context=ONLINE&ratio=16/9&width=480&u=1788782526000"
+    },
+    {
+      "id": "10684945",
+      "title": "België moet zijn economische troeven veel meer uitspelen",
+      "link": "https://www.tijd.be/r/t/1/id/10684945",
+      "category": "Opinie",
+      "description": "We behoren bij de sterke innovatielanden van Europa, met vooral grote inspanningen in onderzoek.",
+      "pubDate": "Mon, 07 Sep 2026 12:34:32 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:6E5TY1dmqPI8zoaTbnBMic&context=ONLINE&ratio=16/9&width=480&u=1788784476000"
+    },
+    {
+      "id": "10684939",
+      "title": "Zonder harde militaire macht wordt Europa een speelbal in de grijze zone",
+      "link": "https://www.tijd.be/r/t/1/id/10684939",
+      "category": "Opinie",
+      "description": "Hoe meer twijfel Washington over zijn veiligheidsgarantie voor Europa zaait, hoe meer ruimte Moskou in de grijze zone krijgt.",
+      "pubDate": "Mon, 07 Sep 2026 12:18:21 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:FD9eQMnS4ahAqZLMEcyVPp&context=ONLINE&ratio=16/9&width=480&u=1788784324000"
+    },
+    {
+      "id": "10674921",
+      "title": "Antwerpen bezoeken? Deze plekken mag je niet missen",
+      "link": "https://www.tijd.be/r/t/1/id/10674921",
+      "category": "Sabato",
+      "description": "Op zoek naar leuke dingen om te zien en doen in Antwerpen? Dit zijn de favorieten van onze correspondent die de stad door en door kent.",
+      "pubDate": "Mon, 07 Sep 2026 11:00:46 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:FmFexD37aKL8FLO8gA2yQc&context=ONLINE&ratio=16/9&width=480&u=1788779237000"
+    },
+    {
+      "id": "10684980",
+      "title": "Congoholding Texaf ziet voor het eerst leegstand",
+      "link": "https://www.tijd.be/r/t/1/id/10684980",
+      "category": "Markten Live",
+      "description": "De holding Texaf, die enkel actief is in Congo, heeft een halfjaar met een iets lagere groei achter de rug en waarschuwt voor een minder gunstig wettelijk kader.",
+      "pubDate": "Mon, 07 Sep 2026 11:52:26 GMT",
+      "score": 1,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:10T-XeCB4TgBREuNmfkS6c&context=ONLINE&ratio=16/9&width=480&u=1788789364000"
+    },
+    {
+      "id": "10684829",
+      "title": "Malta in shock: hoe kan het dat hoofdverdachte van moord op journaliste vrijgesproken werd?",
+      "link": "https://www.tijd.be/r/t/1/id/10684829",
+      "category": "Politiek & Economie",
+      "description": "In Malta wordt met verbijstering gereageerd op de vrijspraak van zakenman Yorgen Fenech, die ervan beschuldigd werd de opdracht te hebben gegeven voor de moord op onderzoeksjournaliste Daphne Caruana Galizia. ‘Is iedereen in Malta te koop?’, vraagt zelfs de aartsbisschop zich af.",
+      "pubDate": "Mon, 07 Sep 2026 11:33:55 GMT",
+      "score": 1,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:76EaGBieKYF92cIOEtwtxO&context=ONLINE&ratio=16/9&width=480&u=1788788048000"
+    },
+    {
+      "id": "10685039",
+      "title": "Avantiums fabriek na jaren van uitstel eindelijk klaar voor productie",
+      "link": "https://www.tijd.be/r/t/1/id/10685039",
+      "category": "Markten Live",
+      "description": "De koers van de Nederlandse maker van bioplastics Avantium ging eindelijk nog eens hoger nadat het bedrijf had gemeld dat de fabriek in Delfzijl klaar is voor productie.",
+      "pubDate": "Mon, 07 Sep 2026 14:12:37 GMT",
+      "score": 0,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:E7lqLZeOaXIBBb-oHlBNOP&context=ONLINE&ratio=16/9&width=480&u=1788791811000"
     }
   ]
 }
