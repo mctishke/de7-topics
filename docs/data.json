@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T17:29:06.204308+00:00",
+  "generated_at": "2026-09-08T20:06:24.007119+00:00",
   "date": "2026-09-08",
   "de7_title": "08/09 | Overheid stelt fiscale kortingen voor bedrijven in vraag | Audi wil Europese e-autoverkoop boosten met nieuw A2-model | Nieuw stadion Club Brugge klaar in 2029",
   "de7_matched_count": 2,
@@ -126,6 +126,17 @@
       "image": "https://images.tijd.be/view?iid=Elvis:7yYlhCwBalQ81voq2YiETO&context=ONLINE&ratio=16/9&width=480&u=1788888115000"
     },
     {
+      "id": "10685156",
+      "title": "Europa zet Netanyahu onder druk: 'Situatie in bezet gebied staat op ontploffen'",
+      "link": "https://www.tijd.be/r/t/1/id/10685156",
+      "category": "Dossiers",
+      "description": "Een dozijn landen voert een handelsverbod in met de Israëlische nederzettingen. De demarche zet druk op premier Benjamin Netanyahu, die in eigen land onder vuur ligt omdat hij waarschuwingen over de terreuraanval van 2023 zou hebben genegeerd.",
+      "pubDate": "Tue, 08 Sep 2026 17:30:35 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:FK3Y1XJe4aG8YFtkQI7_sz&context=ONLINE&ratio=16/9&width=480&u=1788888640000"
+    },
+    {
       "id": "10685129",
       "title": "Franse AI-uitdager Mistral tekent voor grootste kapitaalronde ooit voor Europees techbedrijf",
       "link": "https://www.tijd.be/r/t/1/id/10685129",
@@ -179,6 +190,28 @@
       "score": 3,
       "in_de7": false,
       "image": "https://images.tijd.be/view?iid=Elvis:3o_XEauh4sn9sWVSW67_2P&context=ONLINE&ratio=16/9&width=480&u=1788883169000"
+    },
+    {
+      "id": "10685240",
+      "title": "Groei met de handrem op",
+      "link": "https://www.tijd.be/r/t/1/id/10685240",
+      "category": "Opinie",
+      "description": "Naast adequaat overheidsbeleid is een ‘switch naar groei’ alleen mogelijk als ondernemend Vlaanderen deze crisis benut voor een cultuuromslag.",
+      "pubDate": "Tue, 08 Sep 2026 19:05:48 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:09z660PpK8uAaQxhE8IJeE&context=ONLINE&ratio=16/9&width=480&u=1788883513000"
+    },
+    {
+      "id": "10685185",
+      "title": "Na de rampzalige Vlaamse PISA-scores: 'Waar is het reddingsplan van de koepels voor het bso?'",
+      "link": "https://www.tijd.be/r/t/1/id/10685185",
+      "category": "Politiek & Economie",
+      "description": "De PISA-cijfers zinderen na. Dat drie op vier van de 15-jarigen in het bso zelfs niet de basislat haalt, doet alle alarmbellen afgaan. 'Als toekomstige loodgieters, schilders en bakkers straks niet kunnen lezen, wordt dat een drama.'",
+      "pubDate": "Tue, 08 Sep 2026 18:13:31 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:99CTJpaLaX3BpOY7f7bxq3&context=ONLINE&ratio=16/9&width=480&u=1788891216000"
     },
     {
       "id": "10685125",
@@ -410,39 +443,6 @@
       "score": 2,
       "in_de7": false,
       "image": "https://images.tijd.be/view?iid=Elvis:9qYqY3xg4qpAimNN4-xvbd&context=ONLINE&ratio=16/9&width=480&u=1788882939000"
-    },
-    {
-      "id": "10685114",
-      "title": "Overheid stelt fiscale kortingen voor bedrijven in vraag | Audi wil e-autoverkoop boosten met nieuw A2-model | Nieuw Club Brugge-stadion klaar in 2029",
-      "link": "https://www.tijd.be/r/t/1/id/10685114",
-      "category": "Podcasts",
-      "description": "De 7 is een dagelijkse podcast van De Tijd. U krijgt het nieuws dat u nodig heeft om uw dag goed te starten in zeven punten.",
-      "pubDate": "Tue, 08 Sep 2026 04:58:09 GMT",
-      "score": 1,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:931R4myZacjBtjjzVEwsr9&context=ONLINE&ratio=16/9&width=480&u=1788845387000"
-    },
-    {
-      "id": "10685012",
-      "title": "In Marokko vonden ze hun visuele taal: Mous Lamrabat en Lisa Lapauw over hun grenzeloze carrière",
-      "link": "https://www.tijd.be/r/t/1/id/10685012",
-      "category": "Sabato",
-      "description": "Je dromen volgen vraagt moed, maar soms leidt die sprong in het duister tot de internationale doorbraak. Fotograaf Mous Lamrabat en styliste Lisa Lapauw over het land dat hun leven voorgoed veranderde.",
-      "pubDate": "Tue, 08 Sep 2026 04:45:37 GMT",
-      "score": 1,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:D3MYkCC9K1pAShSa21h8uq&context=ONLINE&ratio=16/9&width=480&u=1788780820000"
-    },
-    {
-      "id": "10685192",
-      "title": "Hangmatbeleggers krijgen meer aandelen SpaceX in portefeuille",
-      "link": "https://www.tijd.be/r/t/1/id/10685192",
-      "category": "Markten Live",
-      "description": "Het gewicht van SpaceX in de populaire Nasdaq100-index zal naar verwachting bijna verdubbelen bij de volgende kwartaalherziening. Hangmatbeleggers krijgen zo meer aandelen van Elon Musks bedrijf in hun portefeuille.",
-      "pubDate": "Tue, 08 Sep 2026 13:23:31 GMT",
-      "score": 0,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:8rCL9LOVKyN8_9Hgt_k76B&context=ONLINE&ratio=16/9&width=480&u=1788870768000"
     }
   ]
 }

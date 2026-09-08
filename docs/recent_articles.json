@@ -1,6 +1,94 @@
 {
   "articles": [
     {
+      "id": "10685256",
+      "title": "In het middelbaar onderwijs tikt een tijdbom rustig verder",
+      "link": "https://www.tijd.be/r/t/1/id/10685256",
+      "category": "Opinie",
+      "description": "Duizenden Vlaamse tieners stevenen laaggeletterd af op de arbeidsmarkt. Ze lijken vergeten in de pogingen om de kwaliteit van ons onderwijs op te krikken.",
+      "pubDate": "Tue, 08 Sep 2026 19:29:09 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:8nUoNgfeK7h9aJNsSdVB5T&context=ONLINE&ratio=16/9&width=480&u=1788895752000"
+    },
+    {
+      "id": "10685212",
+      "title": "Republikeinen vieren Trump met het mes op de keel",
+      "link": "https://www.tijd.be/r/t/1/id/10685212",
+      "category": "Politiek & Economie",
+      "description": "Een conventie gedrenkt in trumpiaanse extravaganza moet de Republikeinse kandidaten richting de cruciale midterms een boost geven. De Amerikaanse president gaat er ondanks zijn afbrokkelende populariteit nog altijd van uit de ultieme electorale troef te zijn.",
+      "pubDate": "Tue, 08 Sep 2026 19:25:04 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:333TvaKiKVr8mTLqOfODzr&context=ONLINE&ratio=16/9&width=480&u=1788895507000"
+    },
+    {
+      "id": "10685240",
+      "title": "Groei met de handrem op",
+      "link": "https://www.tijd.be/r/t/1/id/10685240",
+      "category": "Opinie",
+      "description": "Naast adequaat overheidsbeleid is een ‘switch naar groei’ alleen mogelijk als ondernemend Vlaanderen deze crisis benut voor een cultuuromslag.",
+      "pubDate": "Tue, 08 Sep 2026 19:05:48 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:09z660PpK8uAaQxhE8IJeE&context=ONLINE&ratio=16/9&width=480&u=1788883513000"
+    },
+    {
+      "id": "10685078",
+      "title": "Nergens zonder weg in Tielt-Winge",
+      "link": "https://www.tijd.be/r/t/1/id/10685078",
+      "category": "Dossiers",
+      "description": "Verdwalend in eigen land kijkt Rik Van Puymbroeck naar wat verwondert en soms overdondert.",
+      "pubDate": "Tue, 08 Sep 2026 18:31:51 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:CxgmjB95K5RAubSWJo1Rrj&context=ONLINE&ratio=16/9&width=480&u=1788869914000"
+    },
+    {
+      "id": "10685185",
+      "title": "Na de rampzalige Vlaamse PISA-scores: 'Waar is het reddingsplan van de koepels voor het bso?'",
+      "link": "https://www.tijd.be/r/t/1/id/10685185",
+      "category": "Politiek & Economie",
+      "description": "De PISA-cijfers zinderen na. Dat drie op vier van de 15-jarigen in het bso zelfs niet de basislat haalt, doet alle alarmbellen afgaan. 'Als toekomstige loodgieters, schilders en bakkers straks niet kunnen lezen, wordt dat een drama.'",
+      "pubDate": "Tue, 08 Sep 2026 18:13:31 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:99CTJpaLaX3BpOY7f7bxq3&context=ONLINE&ratio=16/9&width=480&u=1788891216000"
+    },
+    {
+      "id": "10685208",
+      "title": "Intel, AMD en Qualcomm blinken uit op rood Wall Street",
+      "link": "https://www.tijd.be/r/t/1/id/10685208",
+      "category": "Markten Live",
+      "description": "De oplopende olieprijs kleurt Wall Street rood na een verlengd weekend. Intel vlamt na positieve geluiden over de productie met high-NA-EUV-chipmachines van ASML. AMD deelt gunstige vraagvooruitzichten, terwijl Qualcomm een deal met Amazon sloot.",
+      "pubDate": "Tue, 08 Sep 2026 18:00:33 GMT",
+      "score": 0,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:4V9SrKGp4029Fm9DTtOozz&context=ONLINE&ratio=16/9&width=480&u=1788890437000"
+    },
+    {
+      "id": "10685227",
+      "title": "Rechtszekerheid over fiscale korting ploegenarbeid komt met prijs",
+      "link": "https://www.tijd.be/r/t/1/id/10685227",
+      "category": "Politiek & Economie",
+      "description": "De regering werkt aan een hervorming die bedrijven meer rechtszekerheid geeft over de fiscale korting voor ploegen- en nachtarbeid. Maar de bijbehorende premie voor de werknemers gaat naar omhoog.",
+      "pubDate": "Tue, 08 Sep 2026 17:53:53 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:ACgG7Js2KJL8zTnP9st4Ts&context=ONLINE&ratio=16/9&width=480&u=1788896569000"
+    },
+    {
+      "id": "10685156",
+      "title": "Europa zet Netanyahu onder druk: 'Situatie in bezet gebied staat op ontploffen'",
+      "link": "https://www.tijd.be/r/t/1/id/10685156",
+      "category": "Dossiers",
+      "description": "Een dozijn landen voert een handelsverbod in met de Israëlische nederzettingen. De demarche zet druk op premier Benjamin Netanyahu, die in eigen land onder vuur ligt omdat hij waarschuwingen over de terreuraanval van 2023 zou hebben genegeerd.",
+      "pubDate": "Tue, 08 Sep 2026 17:30:35 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:FK3Y1XJe4aG8YFtkQI7_sz&context=ONLINE&ratio=16/9&width=480&u=1788888640000"
+    },
+    {
       "id": "10684433",
       "title": "De zorghervorming van de eeuw: hoe 12 miljard aan artsenlonen verdelen?",
       "link": "https://www.tijd.be/r/t/1/id/10684433",
@@ -32,6 +120,17 @@
       "score": 5,
       "in_de7": false,
       "image": "https://images.tijd.be/view?iid=Elvis:F0ZP0Hl4KHBBHuSdmijqA-&context=ONLINE&ratio=16/9&width=480&u=1788886911000"
+    },
+    {
+      "id": "10684649",
+      "title": "Naams ziekenhuis wil universitaire status, maar stuit op verzet",
+      "link": "https://www.tijd.be/r/t/1/id/10684649",
+      "category": "Politiek & Economie",
+      "description": "Moet ons land een extra universitair ziekenhuis krijgen? Het CHU UCL Namur vindt dat een van zijn campussen die erkenning verdient. Veel bijval krijgt het niet.",
+      "pubDate": "Tue, 08 Sep 2026 16:02:45 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:59sgR8c8aDu9-QQM3ajdJx&context=ONLINE&ratio=16/9&width=480&u=1788892407000"
     },
     {
       "id": "10685211",
