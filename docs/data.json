@@ -1,7 +1,162 @@
 {
-  "generated_at": "2026-09-07T22:08:06.031005+00:00",
+  "generated_at": "2026-09-08T09:14:18.745099+00:00",
   "date": "2026-09-08",
-  "de7_title": "07/09 | Weekvooruitblik met Chef Politiek Jasper D'hoore | 'Na winst AfD staat positie bondskanselier Merz onder druk' | 'Bouchez speelt gevaarlijk spel rond begroting'",
-  "de7_matched_count": 0,
-  "articles": []
+  "de7_title": "08/09 | Overheid stelt fiscale kortingen voor bedrijven in vraag | Audi wil Europese e-autoverkoop boosten met nieuw A2-model | Nieuw stadion Club Brugge klaar in 2029",
+  "de7_matched_count": 2,
+  "articles": [
+    {
+      "id": "10685092",
+      "title": "Audi-CEO Gernot Döllner: ‘De Chinese prijzenoorlog is in Europa aangekomen’",
+      "link": "https://www.tijd.be/r/t/1/id/10685092",
+      "category": "Ondernemen",
+      "description": "Met een extra heffing op elektrische auto’s uit China is de Europese auto-industrie nog niet gered, zegt Audi-CEO Gernot Döllner. Hij waarschuwt dat China zijn problemen naar Europa exporteert. ‘De Chinese autoverkoop krimpt met 4 miljoen exemplaren, terwijl de Chinese auto-export groeit tot 5 miljoen auto’s.’",
+      "pubDate": "Tue, 08 Sep 2026 03:00:00 GMT",
+      "score": 17,
+      "in_de7": true,
+      "image": "https://images.tijd.be/view?iid=Elvis:5p6MjB3CqB8Akj5qYWT55b&context=ONLINE&ratio=16/9&width=480&u=1788855479000"
+    },
+    {
+      "id": "10685071",
+      "title": "Administratie stelt fiscale kortingen voor bedrijven in vraag",
+      "link": "https://www.tijd.be/r/t/1/id/10685071",
+      "category": "Politiek & Economie",
+      "description": "De 4,4 miljard euro die jaarlijks opgaat aan fiscale kortingen voor ploegenarbeid, onderzoek en overuren staat niet in verhouding tot de oorspronkelijke doelstelling, zegt de administratie in een doorlichting. Vooruit, CD&V en Les Engagés pleiten voor een hervorming, Voka vindt de voorstelling in miljarden oneerlijk.",
+      "pubDate": "Tue, 08 Sep 2026 03:00:00 GMT",
+      "score": 14,
+      "in_de7": true,
+      "image": "https://images.tijd.be/view?iid=Elvis:5iRaJrdD4ET8r2bNBhFe5F&context=ONLINE&ratio=16/9&width=480&u=1788857620000"
+    },
+    {
+      "id": "10685089",
+      "title": "Que se passe-t-il en Belgique francophone?",
+      "link": "https://www.tijd.be/r/t/1/id/10685089",
+      "category": "Tijd",
+      "description": "Als u de businessactualiteit volgt, dan weet u misschien dat Odoo, een softwarebedrijf uit Waals-Brabant, de hoogst gewaardeerde unicorn in ons land is. Dat is een bedrijf in privéhanden dat meer dan 1 miljard dollar waard is. De Waalse ondernemer Fabien Pinckaers is er na jaren van bloed, zweet en tranen in geslaagd om een softwareplatform en softwarediensten uit te bouwen die wereldwijd aanslaan.",
+      "pubDate": "Tue, 08 Sep 2026 08:45:09 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:44I1PCtMKRiAjmoAVgI9X-&context=ONLINE&ratio=16/9&width=480&u=1788857112000"
+    },
+    {
+      "id": "10685123",
+      "title": "Campine doet overname in Oost-Vlaanderen: 'We worden powerhouse in vlamvertragers'",
+      "link": "https://www.tijd.be/r/t/1/id/10685123",
+      "category": "Ondernemen",
+      "description": "Het Kempense Campine neemt het Oost-Vlaamse Flamaway over en versterkt daarmee zijn positie in de markt voor vlamvertragers.",
+      "pubDate": "Tue, 08 Sep 2026 07:02:04 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:6tG4lwgvKKv8hlnM7xlF-m&context=ONLINE&ratio=16/9&width=480&u=1788850928000"
+    },
+    {
+      "id": "10685113",
+      "title": "Houthi's claimen nieuwe aanvallen op Saoedi-Arabië",
+      "link": "https://www.tijd.be/r/t/1/id/10685113",
+      "category": "Politiek & Economie",
+      "description": "De Houthi-rebellen hebben nieuwe aanvallen uitgevoerd op verschillende doelwitten in het zuidwesten van Saoedi-Arabië. Intussen zijn in Jemen de voorbije dagen al meer dan 300 mensen gedood bij nieuwe escalaties tussen de Houthi's en het regeringsleger.",
+      "pubDate": "Tue, 08 Sep 2026 04:48:01 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:AAj1BV7YqNJBYZdlLonfdk&context=ONLINE&ratio=16/9&width=480&u=1788853782000"
+    },
+    {
+      "id": "10684965",
+      "title": "Keuringsbedrijf ACEG op zoek naar nieuwe mede-eigenaar",
+      "link": "https://www.tijd.be/r/t/1/id/10684965",
+      "category": "Ondernemen",
+      "description": "De aandeelhouders van het Strombeekse keurings- en inspectiebedrijf ACEG zoeken een nieuwe partner. Die moet de Europese expansie van de groep met ruim 50 miljoen euro omzet een zetje geven, en een exit mogelijk maken voor enkele privé-investeerders.",
+      "pubDate": "Tue, 08 Sep 2026 03:00:35 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:DXgDJa-LqNABpUgBk_06vR&context=ONLINE&ratio=16/9&width=480&u=1788801992000"
+    },
+    {
+      "id": "10685129",
+      "title": "Franse AI-uitdager Mistral tekent voor grootste kapitaalronde ooit voor Europees techbedrijf",
+      "link": "https://www.tijd.be/r/t/1/id/10685129",
+      "category": "Ondernemen",
+      "description": "De Franse AI-specialist Mistral AI verdubbelt bijna in waarde nadat hij 3 miljard euro groeikapitaal heeft opgehaald bij investeerders, waaronder de Belgische bank Belfius. Daarmee tekent Mistral voor de grootste kapitaalronde ooit voor een Europees techbedrijf.",
+      "pubDate": "Tue, 08 Sep 2026 08:14:35 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:6Y--hxmgq449g8fyUPQ7S5&context=ONLINE&ratio=16/9&width=480&u=1788856605000"
+    },
+    {
+      "id": "10685125",
+      "title": "Europese telecomreuzen smeden satellietfront tegen Starlink, Proximus ontbreekt",
+      "link": "https://www.tijd.be/r/t/1/id/10685125",
+      "category": "Ondernemen",
+      "description": "Europa wil minder afhankelijk worden van Elon Musks Starlink voor satellietcommunicatie. Vier telecomreuzen bekijken daarom of ze de handen in elkaar kunnen slaan om smartphones rechtstreeks met satellieten te verbinden. Proximus zit voorlopig niet aan boord.",
+      "pubDate": "Tue, 08 Sep 2026 07:41:00 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:05Am7HLuaXx9b2PHelYlsv&context=ONLINE&ratio=16/9&width=480&u=1788853263000"
+    },
+    {
+      "id": "10685100",
+      "title": "Macron vraagt Europees verbod op sociale media voor jongeren onder 15 jaar",
+      "link": "https://www.tijd.be/r/t/1/id/10685100",
+      "category": "Politiek & Economie",
+      "description": "De Franse president Emmanuel Macron dringt bij de Europese Commissie aan op een Europees verbod op sociale media voor jongeren onder 15 jaar, nadat hij in eigen land teruggefloten werd door de grondwettelijke raad.",
+      "pubDate": "Tue, 08 Sep 2026 07:31:00 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:2KG8aZZw47I8Pcn4pOwXNA&context=ONLINE&ratio=16/9&width=480&u=1788852660000"
+    },
+    {
+      "id": "10684962",
+      "title": "PISA-studie: Vlaamse leerlingen zakken alweer dieper weg voor lezen en wiskunde",
+      "link": "https://www.tijd.be/r/t/1/id/10684962",
+      "category": "Politiek & Economie",
+      "description": "De Vlaamse lees- en wiskundeprestaties gaan verder achteruit. Al 20 jaar glijdt ons onderwijs van dieptepunt naar dieptepunt, en ook de nieuwste PISA-studie van de internationale denktank OESO bevestigt die trend. Minister Zuhal Demir ziet daarin een reden om haar hervormingen onverminderd door te voeren. ‘De achteruitgang is geen natuurwet.’",
+      "pubDate": "Tue, 08 Sep 2026 07:30:00 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:9rPeSdxv4nHAbO-Zle5K5m&context=ONLINE&ratio=16/9&width=480&u=1788854894000"
+    },
+    {
+      "id": "10685061",
+      "title": "De weg naar meer groei loopt bergop",
+      "link": "https://www.tijd.be/r/t/1/id/10685061",
+      "category": "Opinie",
+      "description": "De politieke ambitie om de Belgische economie weer te doen groeien is de juiste. Maar wie begint aan de denkoefening over hoe dat dan moet, ontdekt snel dat het niet alleen de meest logische weg is, maar ook de lastigste.",
+      "pubDate": "Tue, 08 Sep 2026 04:51:05 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:BmbxBd9ea0pB-y3A9Eu27e&context=ONLINE&ratio=16/9&width=480&u=1788855542000"
+    },
+    {
+      "id": "10685008",
+      "title": "Investeerder Capital A werkt na stevige groeispurt aan exit uit IT-speler Alistar",
+      "link": "https://www.tijd.be/r/t/1/id/10685008",
+      "category": "Ondernemen",
+      "description": "Het investeringsfonds Capital A bereidt zijn exit uit de Gentse IT-groep Alistar voor. Dat vernam De Tijd van meerdere bronnen. Het proces kan uitmonden in een transactie van honderden miljoenen euro's.",
+      "pubDate": "Tue, 08 Sep 2026 03:00:30 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:F_yp6L5eqAyBM722M4wQX-&context=ONLINE&ratio=16/9&width=480&u=1788815843000"
+    },
+    {
+      "id": "10685114",
+      "title": "Overheid stelt fiscale kortingen voor bedrijven in vraag | Audi wil e-autoverkoop boosten met nieuw A2-model | Nieuw Club Brugge-stadion klaar in 2029",
+      "link": "https://www.tijd.be/r/t/1/id/10685114",
+      "category": "Podcasts",
+      "description": "De 7 is een dagelijkse podcast van De Tijd. U krijgt het nieuws dat u nodig heeft om uw dag goed te starten in zeven punten.",
+      "pubDate": "Tue, 08 Sep 2026 04:58:09 GMT",
+      "score": 1,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:931R4myZacjBtjjzVEwsr9&context=ONLINE&ratio=16/9&width=480&u=1788845387000"
+    },
+    {
+      "id": "10685012",
+      "title": "In Marokko vonden ze hun visuele taal: Mous Lamrabat en Lisa Lapauw over hun grenzeloze carrière",
+      "link": "https://www.tijd.be/r/t/1/id/10685012",
+      "category": "Sabato",
+      "description": "Je dromen volgen vraagt moed, maar soms leidt die sprong in het duister tot de internationale doorbraak. Fotograaf Mous Lamrabat en styliste Lisa Lapauw over het land dat hun leven voorgoed veranderde.",
+      "pubDate": "Tue, 08 Sep 2026 04:45:37 GMT",
+      "score": 1,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:D3MYkCC9K1pAShSa21h8uq&context=ONLINE&ratio=16/9&width=480&u=1788780820000"
+    }
+  ]
 }
