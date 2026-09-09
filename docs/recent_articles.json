@@ -1,6 +1,72 @@
 {
   "articles": [
     {
+      "id": "10685397",
+      "title": "Apple lanceert nieuwe vouwbare iPhone Duo, met prijskaartje van 2.339 euro",
+      "link": "https://www.tijd.be/r/t/1/id/10685397",
+      "category": "Ondernemen",
+      "description": "Op de jaarlijkse productshow van Apple heeft de kersverse CEO John Ternus een reeks nieuwigheden uit de doeken gedaan. De blikvanger is de langverwachte vouwbare iPhone. Die is met 2.339 euro niet goedkoop, maar Apple kan in die niche een kwart van het marktaandeel veroveren, menen experts.",
+      "pubDate": "Wed, 09 Sep 2026 19:04:32 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:5cSMHtbzK97BQcAOjhyCJq&context=ONLINE&ratio=16/9&width=480&u=1788983376000"
+    },
+    {
+      "id": "10685415",
+      "title": "Gokken met onze staatsschuld",
+      "link": "https://www.tijd.be/r/t/1/id/10685415",
+      "category": "Opinie",
+      "description": "De aanhoudende rentestijging op ’s werelds overheidsschulden heeft de Belgische tienjaarsrente woensdag boven de symbolische grens van 4 procent geduwd. De druk op de federale begrotingsgesprekken neemt toe, wat goed kan uitpakken. Of desastreus.",
+      "pubDate": "Wed, 09 Sep 2026 18:46:17 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:1hq48kKr4UF8q84eT8gQjt&context=ONLINE&ratio=16/9&width=480&u=1788981602000"
+    },
+    {
+      "id": "10685412",
+      "title": "Rekenkamer: 'Europa doet te weinig om af te kicken van Russische energie'",
+      "link": "https://www.tijd.be/r/t/1/id/10685412",
+      "category": "Politiek & Economie",
+      "description": "De Europese lidstaten doen te weinig investeringen om af te schakelen van Russische olie en gas. Dat is extra problematisch omdat door de oorlog in Iran nu ook de aanvoer uit het Midden-Oosten stokt. Dat concludeert de Europese Rekenkamer in een rapport.",
+      "pubDate": "Wed, 09 Sep 2026 18:36:59 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:1OeydgL3aeRBS8z9UFBNbg&context=ONLINE&ratio=16/9&width=480&u=1788979024000"
+    },
+    {
+      "id": "10685084",
+      "title": "Nergens zonder weg in Wevelgem",
+      "link": "https://www.tijd.be/r/t/1/id/10685084",
+      "category": "Dossiers",
+      "description": "Verdwalend in eigen land kijkt Rik Van Puymbroeck naar wat verwondert en soms overdondert.",
+      "pubDate": "Wed, 09 Sep 2026 18:30:00 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:ESdl1Ld2KGUBunNc-eb7Ex&context=ONLINE&ratio=16/9&width=480&u=1788981853000"
+    },
+    {
+      "id": "10685391",
+      "title": "Ontslag met slaande deuren bij Anthropic zet spotlicht op gevaren industriële AI-wedloop",
+      "link": "https://www.tijd.be/r/t/1/id/10685391",
+      "category": "Ondernemen",
+      "description": "Het ontslag van een onderzoeker bij het AI-bedrijf Anthropic krijgt op sociale media veel weerklank. Jacob Coxon zegt te vertrekken omdat de AI-bedrijven meer bezig zijn met geld verdienen dan met de veiligheid van een 'technologie die in staat zal zijn de mensheid uit te roeien'.",
+      "pubDate": "Wed, 09 Sep 2026 18:27:56 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:7268ms3EKDAApftWmeRuTv&context=ONLINE&ratio=16/9&width=480&u=1788982462000"
+    },
+    {
+      "id": "10685399",
+      "title": "Belgische rente stijgt voor het eerst in ruim 14 jaar boven 4 procent",
+      "link": "https://www.tijd.be/r/t/1/id/10685399",
+      "category": "Politiek & Economie",
+      "description": "Wereldwijde zorgen over gapende begrotingstekorten en de stijgende levensduurte hebben de Belgische tienjaarsrente voor het eerst sinds januari 2012 boven 4 procent doen stijgen. Dat maakt het terugdringen van het begrotingstekort nog moeilijker.",
+      "pubDate": "Wed, 09 Sep 2026 17:53:44 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:9eIFdcfCqDZBUUxw1syAy9&context=ONLINE&ratio=16/9&width=480&u=1788982661000"
+    },
+    {
       "id": "10685409",
       "title": "CEO Francis Deprez vertrekt bij D’Ieteren",
       "link": "https://www.tijd.be/r/t/1/id/10685409",
