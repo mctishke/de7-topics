@@ -1,6 +1,171 @@
 {
   "articles": [
     {
+      "id": "10685365",
+      "title": "Miljardair achter luxehuis Richemont brengt zoon in stelling voor opvolging",
+      "link": "https://www.tijd.be/r/t/1/id/10685365",
+      "category": "Ondernemen",
+      "description": "Johann Rupert, de miljardair die bij het Zwitserse luxehuis Richemont de lakens uitdeelt, heeft zijn zoon aangeduid als kroonprins. Richemont is de groep achter onder meer de Cartier-juwelen en het Belgische handtassenmerk Delvaux.",
+      "pubDate": "Wed, 09 Sep 2026 13:25:00 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:7AHq3nJTqAeAzvPIZlTpSF&context=ONLINE&ratio=16/9&width=480&u=1788961336000"
+    },
+    {
+      "id": "10685327",
+      "title": "Marc Overmars vertrekt als technisch directeur bij voetbalclub Antwerp",
+      "link": "https://www.tijd.be/r/t/1/id/10685327",
+      "category": "Ondernemen",
+      "description": "De Nederlander Marc Overmars stopt om gezondheidsredenen abrupt als sportieve leider bij voetbalclub Antwerp. Daar deed hij waar hij eerder bij Ajax goed in was: sportief succes combineren met commerciële winst in spelershandel.",
+      "pubDate": "Wed, 09 Sep 2026 13:09:29 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:8_izCWN-qwD8jA3Ew1krvw&context=ONLINE&ratio=16/9&width=480&u=1788959721000"
+    },
+    {
+      "id": "10685324",
+      "title": "Recensie 'Johnnie Walker' van Connie Palmen | Memoires van een eenzame cowboy",
+      "link": "https://www.tijd.be/r/t/1/id/10685324",
+      "category": "Cultuur",
+      "description": "Na elf jaar komt de Nederlandse auteur Connie Palmen (70) met een nieuwe roman. 'Johnnie Walker' is een slim gecomponeerd zelfportret, dat meer maskers opzet dan afneemt.",
+      "pubDate": "Wed, 09 Sep 2026 13:01:43 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:FuYG6VjiKlAAV5q6b352BK&context=ONLINE&ratio=16/9&width=480&u=1788958714000"
+    },
+    {
+      "id": "10685367",
+      "title": "De 7 Extra | 25 jaar 9/11: 'VS branden keer op keer hun vingers in het Midden-Oosten, ook nu in Iran'",
+      "link": "https://www.tijd.be/r/t/1/id/10685367",
+      "category": "Podcasts",
+      "description": "'De 7 Extra' is een podcast van De Tijd. Bij grote nieuwsverhalen krijg je meer achtergrond, analyse en duiding.",
+      "pubDate": "Wed, 09 Sep 2026 12:45:14 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:D5qdfbSIKTz8cNh_7E2gDA&context=ONLINE&ratio=16/9&width=480&u=1788958404000"
+    },
+    {
+      "id": "10685361",
+      "title": "Waalse overheid springt bedrijf achter iconische blauwe hardsteen bij",
+      "link": "https://www.tijd.be/r/t/1/id/10685361",
+      "category": "Ondernemen",
+      "description": "De Waalse onderneming Les Carrières de la Pierre Bleue Belge, een van de ontginners van de iconische Belgische blauwe hardsteen, krijgt een broodnodige injectie van 4,5 miljoen euro. Twee Waalse overheidsholdings stappen daarbij in het kapitaal.",
+      "pubDate": "Wed, 09 Sep 2026 12:38:44 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:A1vEtmkoK--AwXGPOVikK_&context=ONLINE&ratio=16/9&width=480&u=1788958274000"
+    },
+    {
+      "id": "10685354",
+      "title": "Het beste onderwijs voor je kind willen, mag dat nog?",
+      "link": "https://www.tijd.be/r/t/1/id/10685354",
+      "category": "Opinie",
+      "description": "Als je als ouder schoolse ambities voor je kind uitspreekt, krijg je algauw de stempel elitair te willen zijn.",
+      "pubDate": "Wed, 09 Sep 2026 12:36:59 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:0n87FVNkKL49Dm_iPp7fsc&context=ONLINE&ratio=16/9&width=480&u=1788957423000"
+    },
+    {
+      "id": "10685329",
+      "title": "Oliemarkt houdt hart vast voor escalatie van oorlog in Jemen",
+      "link": "https://www.tijd.be/r/t/1/id/10685329",
+      "category": "Dossiers",
+      "description": "De opflakkerende strijd tussen de Jemenitische Houthi's en Saoedi-Arabië dreigt het Midden-Oosten in een complete chaos te storten. Wordt na de blokkade van de Straat van Hormuz nu ook het olietransport via de Rode Zee gegijzeld?",
+      "pubDate": "Wed, 09 Sep 2026 12:32:35 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:2FgyemIg4aBB0CdW-GWJyz&context=ONLINE&ratio=16/9&width=480&u=1788958956000"
+    },
+    {
+      "id": "10684408",
+      "title": "Belgische rente klimt voor het eerst sinds 2012 boven 4 procent",
+      "link": "https://www.tijd.be/r/t/1/id/10684408",
+      "category": "Markten Live",
+      "description": "De gestage klim van de Belgische rente tot boven 4 procent vloeit grotendeels voort uit de mondiale zorgen rond inflatie en gapende begrotingstekorten, maar dreigt wel de binnenlandse begrotingszorgen nog nijpender te maken.",
+      "pubDate": "Wed, 09 Sep 2026 12:22:43 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:776fu5Vv4lO8ug7u5P99-J&context=ONLINE&ratio=16/9&width=480&u=1788958700000"
+    },
+    {
+      "id": "10685339",
+      "title": "Hittegolven eisten meer en jongere slachtoffers dan gedacht: Vandenbroucke kondigt paraatheidsplan aan",
+      "link": "https://www.tijd.be/r/t/1/id/10685339",
+      "category": "Politiek & Economie",
+      "description": "De hittedoden van afgelopen zomer waren niet alleen talrijker, maar ook jonger dan verwacht, stelt Sciensano na nieuwe analyses. Minister van Volksgezondheid Frank Vandenbroucke (Vooruit) kondigt daarom een paraatheids- en responsplan aan.",
+      "pubDate": "Wed, 09 Sep 2026 12:02:03 GMT",
+      "score": 1,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:9Q5Xo56hKiv8po64AKnMsb&context=ONLINE&ratio=16/9&width=480&u=1788955803000"
+    },
+    {
+      "id": "10685353",
+      "title": "Belgische ondernemer doet megadeal met grootste paardenkliniek ter wereld: 'Mooier wordt het niet'",
+      "link": "https://www.tijd.be/r/t/1/id/10685353",
+      "category": "Ondernemen",
+      "description": "De Belgische ondernemer en paardenchirurg Tom Mariën slaat zijn grootste slag ooit. Het Amerikaanse Rood & Riddle - de grootste paardenkliniek ter wereld - treedt toe tot zijn paardenzorggroep Equine Care Group. De omzet verdubbelt in één klap tot 250 miljoen euro omzet.",
+      "pubDate": "Wed, 09 Sep 2026 11:40:15 GMT",
+      "score": 5,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:E1CGSw0DKA-B9kc__dqDYW&context=ONLINE&ratio=16/9&width=480&u=1788957271000"
+    },
+    {
+      "id": "10685348",
+      "title": "Koreaanse eigenaar Brusselse Financietoren verliest rechtszaak",
+      "link": "https://www.tijd.be/r/t/1/id/10685348",
+      "category": "Ondernemen",
+      "description": "JR Global Reit, de eigenaar van de Brusselse Financietoren, heeft een rechtszaak in Londen tegen zijn schuldeisers rond de waardering van het kantoorgebouw verloren. Dat duwt de Koreaanse vennootschap dieper in de problemen.",
+      "pubDate": "Wed, 09 Sep 2026 11:40:04 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:DJay0yrfawPAOB-aQYFn8x&context=ONLINE&ratio=16/9&width=480&u=1788958225000"
+    },
+    {
+      "id": "10685302",
+      "title": "Religieuze sollicitanten maken minder kans op jobgesprek",
+      "link": "https://www.tijd.be/r/t/1/id/10685302",
+      "category": "Politiek & Economie",
+      "description": "UGent-onderzoek toont aan dat kandidaten van wie recruiters denken dat ze gelovig of atheïstisch zijn, minder vaak worden uitgenodigd voor een jobgesprek. Recruiters vrezen weerstand van collega's en klanten.",
+      "pubDate": "Wed, 09 Sep 2026 10:25:24 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:0qNHTdnwqVqBJ3WKItSc-w&context=ONLINE&ratio=16/9&width=480&u=1788951147000"
+    },
+    {
+      "id": "10685320",
+      "title": "Nationale Bank: Belgische economie knoopt weer met groei aan",
+      "link": "https://www.tijd.be/r/t/1/id/10685320",
+      "category": "Politiek & Economie",
+      "description": "Na een nulgroei in het tweede kwartaal groeit de Belgische economie in het derde kwartaal met 0,3 procent. Dat voorspelt de Nationale Bank. De groei is vooral te danken aan een heropleving van de investeringen.",
+      "pubDate": "Wed, 09 Sep 2026 09:52:21 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:D3tAXOjZK9-8GbiIkTSCgL&context=ONLINE&ratio=16/9&width=480&u=1788949727000"
+    },
+    {
+      "id": "10685333",
+      "title": "La Patate haalt in enkele uren 1 miljoen euro op via crowdfunding",
+      "link": "https://www.tijd.be/r/t/1/id/10685333",
+      "category": "Ondernemen",
+      "description": "De crowdlending van La Patate, de frituurketen van de influencer Average Rob, blijkt een groot succes. In amper enkele uren werd 1 miljoen euro opgehaald.",
+      "pubDate": "Wed, 09 Sep 2026 09:50:43 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:9hPwqAwIaNe8LRH-Lb_JB2&context=ONLINE&ratio=16/9&width=480&u=1788957930000"
+    },
+    {
+      "id": "10685328",
+      "title": "Frederik Anseel | De ultieme vaardigheid voor de toekomst",
+      "link": "https://www.tijd.be/r/t/1/id/10685328",
+      "category": "Opinie",
+      "description": "Ervaren medewerkers kunnen AI doeltreffend gebruiken dankzij de expertise die ze jarenlang hebben opgebouwd.",
+      "pubDate": "Wed, 09 Sep 2026 09:37:23 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:DWZdcca0KeH95TPOwnB3fx&context=ONLINE&ratio=16/9&width=480&u=1788946647000"
+    },
+    {
       "id": "10685290",
       "title": "OpenAI beweert 90 jaar oud wiskundig probleem in 88 uur te hebben opgelost",
       "link": "https://www.tijd.be/r/t/1/id/10685290",
@@ -4193,7 +4358,7 @@
       "pubDate": "Mon, 31 Aug 2026 13:28:12 GMT",
       "score": 2,
       "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:CT8KUeUkqqbA8cLgjH8icu&context=ONLINE&ratio=16/9&width=480&u=1788182891000"
+      "image": "https://images.tijd.be/view?iid=Elvis:CT8KUeUkqqbA8cLgjH8icu&context=ONLINE&ratio=16/9&width=480&u=1788961358000"
     },
     {
       "id": "10683881",
