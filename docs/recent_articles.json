@@ -1,6 +1,138 @@
 {
   "articles": [
     {
+      "id": "10685290",
+      "title": "OpenAI beweert 90 jaar oud wiskundig probleem in 88 uur te hebben opgelost",
+      "link": "https://www.tijd.be/r/t/1/id/10685290",
+      "category": "Ondernemen",
+      "description": "OpenAI zegt dat het met behulp van een nieuw model voor artificiële intelligentie en duizenden AI-bots in amper 88 uur een doorbraak heeft bereikt in een wiskundig probleem dat al zo'n 90 jaar onopgelost is. Er is wel controverse over de rol van andere wiskundigen.",
+      "pubDate": "Wed, 09 Sep 2026 08:52:00 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:FK57-6A5KEK98XGRK6Awiv&context=ONLINE&ratio=16/9&width=480&u=1788944149000"
+    },
+    {
+      "id": "10685309",
+      "title": "Argenta verhoogt opnieuw rente op spaarrekeningen",
+      "link": "https://www.tijd.be/r/t/1/id/10685309",
+      "category": "Netto",
+      "description": "Voor de derde keer in drie maanden verhoogt Argenta de rente op een aantal van haar spaarboekjes. Vanaf 14 september biedt de bank een totale rente van 1,70 procent op de getrouwheidsrekening en 0,60 procent op de klassieke rekening.",
+      "pubDate": "Wed, 09 Sep 2026 08:44:39 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:7XwKTIrcaYQ9VvVEyOMoj-&context=ONLINE&ratio=16/9&width=480&u=1788944419000"
+    },
+    {
+      "id": "10685288",
+      "title": "Gimv investeert in Nederlandse industriële elektricien en automatiseerder",
+      "link": "https://www.tijd.be/r/t/1/id/10685288",
+      "category": "Ondernemen",
+      "description": "De investeringsmaatschappij Gimv realiseert met Worxinvest haar derde ankerinvestering. Samen stappen ze in het kapitaal van het Nederlandse Batenburg Techniek, dat gespecialiseerd is in de aanleg van elektriciteitsnetten en automatisering van de industrie.",
+      "pubDate": "Wed, 09 Sep 2026 08:40:53 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:4pzfuFSkaeSBv0w64OFrRD&context=ONLINE&ratio=16/9&width=480&u=1788943416000"
+    },
+    {
+      "id": "10685291",
+      "title": "Zara-eigenaar Inditex trotseert koopkrachtcrisis en hittegolf met stevig rapport",
+      "link": "https://www.tijd.be/r/t/1/id/10685291",
+      "category": "Ondernemen",
+      "description": "De Spaanse kledingretailer Inditex rapporteert te midden van een energiecrisis en Europese hittegolven onverstoorbaar 9 procent groei. De verwende belegger reageert met een slow clap.",
+      "pubDate": "Wed, 09 Sep 2026 07:19:14 GMT",
+      "score": 5,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:0Vh_R8XhasbAYFhLkOk8Tz&context=ONLINE&ratio=16/9&width=480&u=1788939132000"
+    },
+    {
+      "id": "10685289",
+      "title": "Olieprijs doorbreekt grens van 100 dollar na nieuw geweld tussen VS en Iran",
+      "link": "https://www.tijd.be/r/t/1/id/10685289",
+      "category": "Dossiers",
+      "description": "De prijs van een vat Brent-olie is woensdag gestegen tot meer dan 100 dollar per vat, nadat de Verenigde Staten en Iran elkaar in het Midden-Oosten opnieuw bestookt hebben. Het conflict is weer helemaal opgelaaid.",
+      "pubDate": "Wed, 09 Sep 2026 06:27:15 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:8RumGjMD4Ah85DaldiD0Sy&context=ONLINE&ratio=16/9&width=480&u=1788941509000"
+    },
+    {
+      "id": "10685276",
+      "title": "Trump doet handelsoorlog met Canada verder escaleren met nieuwe importverboden",
+      "link": "https://www.tijd.be/r/t/1/id/10685276",
+      "category": "Dossiers",
+      "description": "De Amerikaanse president Donald Trump heeft de handelsoorlog met buurland Canada nog wat verder laten escaleren. Hij legt een importverbod op aan Canadese motorfietsen en bepaalde alcoholische dranken, en trekt zijn tarieven op.",
+      "pubDate": "Wed, 09 Sep 2026 05:16:33 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:DAX1C3T_K25AR1j2PR6aKs&context=ONLINE&ratio=16/9&width=480&u=1788930996000"
+    },
+    {
+      "id": "10685279",
+      "title": "Verplichting mobiliteitsbudget kan tot 1 miljard kosten | Mistral AI doet historische kapitaalronde | Crowdlending Average Robs frietketen: goed idee?",
+      "link": "https://www.tijd.be/r/t/1/id/10685279",
+      "category": "Podcasts",
+      "description": "De 7 is een dagelijkse podcast van De Tijd. U krijgt het nieuws dat u nodig heeft om uw dag goed te starten in zeven punten.",
+      "pubDate": "Wed, 09 Sep 2026 04:59:26 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:931R4myZacjBtjjzVEwsr9&context=ONLINE&ratio=16/9&width=480&u=1788930610000"
+    },
+    {
+      "id": "10685217",
+      "title": "Belgische artrosespecialist Allegro meldt bemoedigende resultaten, maar weg is nog lang",
+      "link": "https://www.tijd.be/r/t/1/id/10685217",
+      "category": "Ondernemen",
+      "description": "Het Belgische medtechbedrijf Allegro meldt dat patiënten na de toediening van zijn kandidaat-behandeling tegen knieartrose maanden later nog altijd minder pijn hebben. Maar de weg naar de markt is nog lang.",
+      "pubDate": "Wed, 09 Sep 2026 04:00:34 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:1Koi41LBKmVBSAsByK91WC&context=ONLINE&ratio=16/9&width=480&u=1788879593000"
+    },
+    {
+      "id": "10685261",
+      "title": "Nieuwe lijst bedreigt 21 Vlaamse postkantoren met sluiting",
+      "link": "https://www.tijd.be/r/t/1/id/10685261",
+      "category": "Ondernemen",
+      "description": "Federaal minister van Overheidsbedrijven Vanessa Matz heeft een nieuwe lijst klaar van 33 postkantoren die in 2027 met sluiting worden bedreigd. Daarvan liggen er 21 in Vlaanderen en 12 in Wallonië.",
+      "pubDate": "Wed, 09 Sep 2026 03:15:36 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:7me4kKK24TT8bF_TxDWShY&context=ONLINE&ratio=16/9&width=480&u=1788899147000"
+    },
+    {
+      "id": "10685168",
+      "title": "Particuliere verhuurder haakt af: een op vijf wil nog maar investeren in huurwoningen",
+      "link": "https://www.tijd.be/r/t/1/id/10685168",
+      "category": "Netto",
+      "description": "Amper een op de vijf particuliere verhuurders is van plan de komende jaren nog opnieuw te investeren in huurvastgoed. Vooral de oudere generatie, die het gros van de verhuurders vertegenwoordigt, haakt af, onder meer door de oplopende renovatiekosten. 'Een dalend aanbod zet de betaalbaarheid van huren nog verder onder druk.'",
+      "pubDate": "Wed, 09 Sep 2026 03:05:00 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:DspDvCU4am58Y9ELJhBSpJ&context=ONLINE&ratio=16/9&width=480&u=1788938305000"
+    },
+    {
+      "id": "10683779",
+      "title": "Uit frustratie over ‘trage’ syndicus lanceren vier Vlamingen met AI eigen kantoor",
+      "link": "https://www.tijd.be/r/t/1/id/10683779",
+      "category": "Ondernemen",
+      "description": "Een jaar nadat de drie bedenkers van de blindenapp Oko hun bedrijf hebben verkocht aan een Amerikaanse private-equitygroep, halen ze 5 miljoen euro op voor iets nieuws. Samen met syndicus Sebastiaan Murre richtten ze Sebas op, een AI-gedreven syndicuskantoor. 'De sector is rijp voor disruptie.'",
+      "pubDate": "Wed, 09 Sep 2026 03:00:00 GMT",
+      "score": 6,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:DbQUEu7VKLQ8ZUEsH2xgHc&context=ONLINE&ratio=16/9&width=480&u=1788940800000"
+    },
+    {
+      "id": "10685232",
+      "title": "Verplicht mobiliteitsbudget dreigt begroting tot 1 miljard euro te kosten",
+      "link": "https://www.tijd.be/r/t/1/id/10685232",
+      "category": "Netto",
+      "description": "De verplichting voor middelgrote bedrijven om vanaf volgend jaar een mobiliteitsbudget aan te bieden, dreigt de federale overheid tot 1 miljard euro aan inkomsten uit belastingen en accijnzen te kosten.",
+      "pubDate": "Wed, 09 Sep 2026 03:00:00 GMT",
+      "score": 14,
+      "in_de7": true,
+      "image": "https://images.tijd.be/view?iid=Elvis:8-knLIaKKFtADw82vYHX72&context=ONLINE&ratio=16/9&width=480&u=1788938147000"
+    },
+    {
       "id": "10685242",
       "title": "Netbeheerder Elia op de vingers getikt voor ‘te duur’ nieuw kantoor en Tomorrowland-tickets",
       "link": "https://www.tijd.be/r/t/1/id/10685242",
