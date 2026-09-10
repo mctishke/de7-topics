@@ -1,6 +1,116 @@
 {
   "articles": [
     {
+      "id": "10685573",
+      "title": "Een megafabriek in Marcinelle",
+      "link": "https://www.tijd.be/r/t/1/id/10685573",
+      "category": "Opinie",
+      "description": "Het Waalse ruimtevaartbedrijf Aerospacelab haalt een miljardencontract binnen. Het is een succes waar we ook in Vlaanderen wat van kunnen opsteken.",
+      "pubDate": "Thu, 10 Sep 2026 19:33:27 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:4j5dMtnGK0t9QB1vqwLLkm&context=ONLINE&ratio=16/9&width=480&u=1789068810000"
+    },
+    {
+      "id": "10685574",
+      "title": "Aanslagen 9/11 verrasten ook Europa, dat zich nadien helemaal uit elkaar liet spelen",
+      "link": "https://www.tijd.be/r/t/1/id/10685574",
+      "category": "Politiek & Economie",
+      "description": "Na de aanslagen van 11 september 2001 besefte Europa dat met het internationale terrorisme een nieuwe dreiging was opgestaan. Het kon niet vermijden dat het zelf ook aangevallen werd, maar werkte wel een strategie uit. Intussen moet het zich ook tegen Rusland verdedigen. ‘Dat ligt Europa veel minder, het is een vredesproject.’",
+      "pubDate": "Thu, 10 Sep 2026 19:07:27 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:DKNdpJE6K0gAJxhl3img3Q&context=ONLINE&ratio=16/9&width=480&u=1789067251000"
+    },
+    {
+      "id": "10685442",
+      "title": "Amerika verloor zijn onkwetsbaarheid door terroristen, maar vergooide zijn betrouwbaarheid vervolgens zelf",
+      "link": "https://www.tijd.be/r/t/1/id/10685442",
+      "category": "Politiek & Economie",
+      "description": "De aanslagen van 11 september 2001 betekenden het einde van de vermeende onkwetsbaarheid van de Verenigde Staten. Een sliert strategische miskleunen ondermijnde de Amerikaanse positie nog meer. En daar kwam dan nog eens Donald Trump bovenop.",
+      "pubDate": "Thu, 10 Sep 2026 18:56:44 GMT",
+      "score": 1,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:0tMFMXZ14KO9cq2HJRXFfC&context=ONLINE&ratio=16/9&width=480&u=1789068973000"
+    },
+    {
+      "id": "10685558",
+      "title": "Zelden was belang van Amerikaans inflatierapport zo groot voor Fed",
+      "link": "https://www.tijd.be/r/t/1/id/10685558",
+      "category": "Markten Live",
+      "description": "Het Amerikaanse inflatierapport van vrijdag zal waarschijnlijk bepalend zijn voor het rentebesluit van de centrale bank (Fed) volgende week.",
+      "pubDate": "Thu, 10 Sep 2026 18:43:59 GMT",
+      "score": 0,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:CPUKhPL4qKL9FD69_NlqPb&context=ONLINE&ratio=16/9&width=480&u=1789066900000"
+    },
+    {
+      "id": "10685087",
+      "title": "Nergens zonder weg in Brussel",
+      "link": "https://www.tijd.be/r/t/1/id/10685087",
+      "category": "Dossiers",
+      "description": "Verdwalend in eigen land kijkt Rik Van Puymbroeck naar wat verwondert en soms overdondert.",
+      "pubDate": "Thu, 10 Sep 2026 18:30:20 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:BRYgIPrPalO8iqkmylfZUC&context=ONLINE&ratio=16/9&width=480&u=1789027167000"
+    },
+    {
+      "id": "10685579",
+      "title": "Nationaliteitswet rond Westelijke Sahara dreigt relatie Spanje en Marokko verder te verslechteren",
+      "link": "https://www.tijd.be/r/t/1/id/10685579",
+      "category": "Politiek & Economie",
+      "description": "Een nieuwe Spaanse wet zou tienduizenden mensen die vóór 1977 in de Westelijke Sahara zijn geboren en hun nakomelingen de Spaanse nationaliteit geven. De wet dreigt de spanningen met buurland Marokko verder op te voeren.",
+      "pubDate": "Thu, 10 Sep 2026 18:08:00 GMT",
+      "score": 1,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:BGbiRDPNa2_BkUxEorMFbN&context=ONLINE&ratio=16/9&width=480&u=1789063685000"
+    },
+    {
+      "id": "10685522",
+      "title": "Minister De Ridder blijft luchthavendeal verdedigen: ‘Hij geeft rechtszekerheid’",
+      "link": "https://www.tijd.be/r/t/1/id/10685522",
+      "category": "Politiek & Economie",
+      "description": "‘Holle woorden’, ‘een cadeau met een gele strik’, ‘Hollandse rekenkunde’. In de commissie Mobiliteit was de oppositie scherp voor Vlaams minister Annick De Ridder na haar deal voor de regionale luchthavens. De N-VA’ster week niet.",
+      "pubDate": "Thu, 10 Sep 2026 17:59:05 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:7K8Wii0n4QFAxzjEuoJGSF&context=ONLINE&ratio=16/9&width=480&u=1789064867000"
+    },
+    {
+      "id": "10685502",
+      "title": "Na het vertrek van Vlaams fractievoorzitter Lachaert: wie is anders genoeg voor Anders?",
+      "link": "https://www.tijd.be/r/t/1/id/10685502",
+      "category": "Politiek & Economie",
+      "description": "Breken met het verleden, de economische geloofwaardigheid heroveren en de juiste mensen naar voren schuiven. Dat is de strategie die Anders-voorzitter Frédéric De Gucht voor de partij heeft uitgetekend. Maar de onhandige wissel van de Vlaamse fractievoorzitter toont dat ze langs een hobbelige weg loopt.",
+      "pubDate": "Thu, 10 Sep 2026 17:53:31 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:2shAD1voaEHB_cCs8MtJcR&context=ONLINE&ratio=16/9&width=480&u=1789065262000"
+    },
+    {
+      "id": "10685538",
+      "title": "Alexander De Croo, nummer drie van de Verenigde Naties: ‘Ik mis het premierschap geen seconde’",
+      "link": "https://www.tijd.be/r/t/1/id/10685538",
+      "category": "Dossiers",
+      "description": "Nadat hij dit jaar al onder meer de gruwel in Gaza, Afghanistan en Haïti heeft bezocht, is Alexander De Croo deze week in Oekraïne. Het wereldbeeld van het hoofd van de ontwikkelingsorganisatie van de Verenigde Naties is er sinds zijn aantreden niet beter op geworden. ‘Maar we zoeken naar wat wél mogelijk is.’",
+      "pubDate": "Thu, 10 Sep 2026 17:39:33 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:6BR29qa24Bg9Uy19HSvCCQ&context=ONLINE&ratio=16/9&width=480&u=1789063371000"
+    },
+    {
+      "id": "10685576",
+      "title": "Nieuwe golfconcept LIV mikt op doorstart na gerechtelijk akkoord",
+      "link": "https://www.tijd.be/r/t/1/id/10685576",
+      "category": "Ondernemen",
+      "description": "Het professionele golfcircuit LIV heeft na terugtrekking van zijn geldschieter Saoedi-Arabië het faillissement aangevraagd. Het plan is met een hervormd concept verder te doen, maar dat komt met voorwaarden.",
+      "pubDate": "Thu, 10 Sep 2026 17:21:07 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:B500IsZ6Ke0BC7nz0SmGBP&context=ONLINE&ratio=16/9&width=480&u=1789061971000"
+    },
+    {
       "id": "10685570",
       "title": "Deal met Fluxys stopt overnamegevecht in Australië",
       "link": "https://www.tijd.be/r/t/1/id/10685570",
