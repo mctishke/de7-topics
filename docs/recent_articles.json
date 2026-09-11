@@ -1,6 +1,94 @@
 {
   "articles": [
     {
+      "id": "10685742",
+      "title": "Hoe zorgwekkend is een rente van 4 procent voor België?",
+      "link": "https://www.tijd.be/r/t/1/id/10685742",
+      "category": "Politiek & Economie",
+      "description": "De renteklim op tienjarig Belgisch staatspapier gaat onverminderd door, in tandem met de rest van de wereld. Deze week steeg de rente boven de grens van 4 procent. Reden tot paniek, of is nuance op haar plaats?",
+      "pubDate": "Fri, 11 Sep 2026 19:38:37 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:5NeXiB5qavk9OoOxcuCJda&context=ONLINE&ratio=16/9&width=480&u=1789155625000"
+    },
+    {
+      "id": "10685769",
+      "title": "New Yorkse brandweer herdenkt 9/11: 'Ik heb jonge familieleden die niet eens bij deze dag stilstaan'",
+      "link": "https://www.tijd.be/r/t/1/id/10685769",
+      "category": "Politiek & Economie",
+      "description": "Veel New Yorkers zijn te jong om de aanslagen van 11 september 2001 bewust meegemaakt te hebben. Bij het brandweerkorps is de herinnering wel springlevend. 'Die jongens dachten die ochtend dat ze gewoon naar werk gingen, net zoals ik.’",
+      "pubDate": "Fri, 11 Sep 2026 18:42:39 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:BfYcFTdu4haAY8EU3cvijk&context=ONLINE&ratio=16/9&width=480&u=1789152162000"
+    },
+    {
+      "id": "10685356",
+      "title": "‘Zelfs van de Playboy verkoop ik elke maand nog twee boekjes’",
+      "link": "https://www.tijd.be/r/t/1/id/10685356",
+      "category": "Ondernemen",
+      "description": "Ze zijn met steeds minder en ze verkopen ook steeds minder kranten en tijdschriften. Toch rinkelt de deurbel constant. Voor de Lotto, voor sigaretten en zeker voor het brengen en halen van pakjes. Dat Bpost de eigen postpunten in de krantenwinkels beconcurreert met de Bbox steekt. ‘Maar de 24 autobanden die ik hier gisteren staan had, krijgen ze niet in zo’n vakje.’",
+      "pubDate": "Fri, 11 Sep 2026 18:31:25 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:6-WjdRloKy69o-G1kvnI5c&context=ONLINE&ratio=16/9&width=480&u=1789148841000"
+    },
+    {
+      "id": "10685595",
+      "title": "Zou Tracy wakker liggen van Parijs?",
+      "link": "https://www.tijd.be/r/t/1/id/10685595",
+      "category": "Opinie",
+      "description": "Journalist en schrijver Rik Van Puymbroeck kijkt door zijn lens naar de wereld.",
+      "pubDate": "Fri, 11 Sep 2026 18:31:25 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:3XkteSeN4CVBgXisehSxtn&context=ONLINE&ratio=16/9&width=480&u=1789115400000"
+    },
+    {
+      "id": "10685747",
+      "title": "De onzichtbare hand | Meten is niet altijd weten",
+      "link": "https://www.tijd.be/r/t/1/id/10685747",
+      "category": "Opinie",
+      "description": "Spraakmakende testen beheersten recent het nieuws, van de PISA-resultaten over ons onderwijsniveau tot een test waarop het nieuwste AI-model van OpenAI zo hoog scoorde dat wel sprake moet zijn van superintelligentie. Helaas blijft de vloek van ‘Goodharts wet’ een hardnekkige spelbederver.",
+      "pubDate": "Fri, 11 Sep 2026 18:27:34 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:1hq48kKr4UF8q84eT8gQjt&context=ONLINE&ratio=16/9&width=480&u=1789151258000"
+    },
+    {
+      "id": "10685771",
+      "title": "De derde oorlog van Trump",
+      "link": "https://www.tijd.be/r/t/1/id/10685771",
+      "category": "Opinie",
+      "description": "Na de handelsoorlog en die tegen Iran lijkt de Amerikaanse president aan zijn derde grote front begonnen. Misschien nog het gevaarlijkste van allemaal.",
+      "pubDate": "Fri, 11 Sep 2026 18:17:10 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:4j5dMtnGK0t9QB1vqwLLkm&context=ONLINE&ratio=16/9&width=480&u=1789155180000"
+    },
+    {
+      "id": "10685770",
+      "title": "Terugval olieprijs stuwt Wall Street, met Dell in een glansrol",
+      "link": "https://www.tijd.be/r/t/1/id/10685770",
+      "category": "Markten Live",
+      "description": "Het dikke orderboekje van Oracle geeft de producenten van AI-servers vleugels.",
+      "pubDate": "Fri, 11 Sep 2026 17:58:48 GMT",
+      "score": 0,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:1usi9pHzqFG8jgyyfnygtA&context=ONLINE&ratio=16/9&width=480&u=1789149632000"
+    },
+    {
+      "id": "10685647",
+      "title": "Hoe bang moeten we zijn voor de 'AI-pocalyps'?",
+      "link": "https://www.tijd.be/r/t/1/id/10685647",
+      "category": "Ondernemen",
+      "description": "Een ontslagnemende AI-onderzoeker van Anthropic trok deze week aan de alarmbel over de mogelijke apocalyptische gevaren van de AI-wedloop. Hoe realistisch is de angst voor een AI-ondersteund einde der tijden? En hoe zou dat er dan uit kunnen zien?",
+      "pubDate": "Fri, 11 Sep 2026 17:54:52 GMT",
+      "score": 5,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:53IZ_jqrK749Jcl5qtCDO7&context=ONLINE&ratio=16/9&width=480&u=1789154870000"
+    },
+    {
       "id": "10685646",
       "title": "India zoekt op sobere BRICS-top evenwicht tussen China en VS",
       "link": "https://www.tijd.be/r/t/1/id/10685646",
@@ -31,7 +119,7 @@
       "pubDate": "Fri, 11 Sep 2026 16:37:30 GMT",
       "score": 1,
       "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:DT9xLy_GaevBP6SpSNRTAX&context=ONLINE&ratio=16/9&width=480&u=1789144654000"
+      "image": "https://images.tijd.be/view?iid=Elvis:DT9xLy_GaevBP6SpSNRTAX&context=ONLINE&ratio=16/9&width=480&u=1789147514000"
     },
     {
       "id": "10685664",
@@ -75,7 +163,7 @@
       "pubDate": "Fri, 11 Sep 2026 16:00:29 GMT",
       "score": 3,
       "in_de7": false,
-      "image": null
+      "image": "https://images.tijd.be/view?iid=Elvis:4UJGp3vZKfV9QsA9_1Tz4c&context=ONLINE&ratio=16/9&width=480&u=1789148013000"
     },
     {
       "id": "10685743",
@@ -119,7 +207,7 @@
       "pubDate": "Fri, 11 Sep 2026 15:40:32 GMT",
       "score": 2,
       "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:F7jGpWv9qiK9nURBYu9OA5&context=ONLINE&ratio=16/9&width=480&u=1789146065000"
+      "image": "https://images.tijd.be/view?iid=Elvis:F7jGpWv9qiK9nURBYu9OA5&context=ONLINE&ratio=16/9&width=480&u=1789153212000"
     },
     {
       "id": "10685564",
@@ -152,7 +240,7 @@
       "pubDate": "Fri, 11 Sep 2026 14:45:33 GMT",
       "score": 1,
       "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:1myW5k53qIBAx4MacSlS2j&context=ONLINE&ratio=16/9&width=480&u=1789140466000"
+      "image": "https://images.tijd.be/view?iid=Elvis:1myW5k53qIBAx4MacSlS2j&context=ONLINE&ratio=16/9&width=480&u=1789149842000"
     },
     {
       "id": "10685711",
