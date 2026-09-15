@@ -1,6 +1,138 @@
 {
   "articles": [
     {
+      "id": "10686032",
+      "title": "Holding Luxempart ziet beurskoers herstellen, maar korting op intrinsieke waarde blijft groot",
+      "link": "https://www.tijd.be/r/t/1/id/10686032",
+      "category": "Markten Live",
+      "description": "De holding Luxempart zag de intrinsieke waarde in de eerste jaarhelft met 3,3 procent stijgen. De beurskoers steeg sterker, waardoor de korting wat daalde, al blijft ze stevig.",
+      "pubDate": "Tue, 15 Sep 2026 14:05:55 GMT",
+      "score": 1,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:12Zn49NWq9r9eZRqz9rkzy&context=ONLINE&ratio=16/9&width=480&u=1789481532000"
+    },
+    {
+      "id": "10685986",
+      "title": "Groei blijft mogelijk in ons land, en wel zo",
+      "link": "https://www.tijd.be/r/t/1/id/10685986",
+      "category": "Opinie",
+      "description": "Hoe kan het beleid onze economie op een groeipad zetten?",
+      "pubDate": "Tue, 15 Sep 2026 14:05:24 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:0oyCFqMW44z8Y_txkMPN6V&context=ONLINE&ratio=16/9&width=480&u=1789468106000"
+    },
+    {
+      "id": "10686078",
+      "title": "CEO Peter Willems staat onder druk bij voetbalbond",
+      "link": "https://www.tijd.be/r/t/1/id/10686078",
+      "category": "Ondernemen",
+      "description": "Voorzitster Pascale Van Damme pusht om CEO Peter Willems te ontslaan bij de Belgische voetbalbond. Ze doet deze namiddag een nieuwe poging tijdens de raad van bestuur.",
+      "pubDate": "Tue, 15 Sep 2026 13:59:08 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:B677DLJg42a8mVNGTzFzB8&context=ONLINE&ratio=16/9&width=480&u=1789480751000"
+    },
+    {
+      "id": "10686068",
+      "title": "De 7 Extra | Moeten we echt vrezen voor een AI-pocalyps?",
+      "link": "https://www.tijd.be/r/t/1/id/10686068",
+      "category": "Podcasts",
+      "description": "'De 7 Extra' is een podcast van De Tijd. Bij grote nieuwsverhalen krijgt u meer achtergrond, analyse en duiding.",
+      "pubDate": "Tue, 15 Sep 2026 13:19:44 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:D5qdfbSIKTz8cNh_7E2gDA&context=ONLINE&ratio=16/9&width=480&u=1789478388000"
+    },
+    {
+      "id": "10685866",
+      "title": "Recensie 'The Invite' | Hilarische dissectie van een seksloos huwelijksleven",
+      "link": "https://www.tijd.be/r/t/1/id/10685866",
+      "category": "Cultuur",
+      "description": "In haar hilarische, maar ook bittere tragikomedie ‘The Invite’ houdt actrice-cineaste Olivia Wilde het huwelijk meedogenloos tegen het licht. Een bezoek van de hartstochtelijke bovenburen wordt een kantelpunt in de relatie van een uitgeblust echtpaar.",
+      "pubDate": "Tue, 15 Sep 2026 13:19:41 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:4RB-GR5MaO68RrYYzVOEf4&context=ONLINE&ratio=16/9&width=480&u=1789478385000"
+    },
+    {
+      "id": "10686023",
+      "title": "Noord-Korea en Rusland trekken steeds vaker samen op, tot afgrijzen van China",
+      "link": "https://www.tijd.be/r/t/1/id/10686023",
+      "category": "Politiek & Economie",
+      "description": "China ziet met steeds meer argwaan hoe Noord-Korea en Rusland de handen in elkaar slaan. President Xi Jinping vreest een verstoring van de machtsbalans in zijn achtertuin.",
+      "pubDate": "Tue, 15 Sep 2026 13:17:24 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:3tof8j774OfBcWZkbsVpDk&context=ONLINE&ratio=16/9&width=480&u=1789480452000"
+    },
+    {
+      "id": "10686046",
+      "title": "Atenor voor het eerst een centjesaandeel",
+      "link": "https://www.tijd.be/r/t/1/id/10686046",
+      "category": "Markten Live",
+      "description": "De Europese beurzen werken de openingsverliezen weg. Chemiewaarden als Azelis en Syensqo lijden onder de stijgende olieprijs. De stijgende rente duwt de koers van Atenor onder 1 euro.",
+      "pubDate": "Tue, 15 Sep 2026 13:09:08 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:FLZSOn-74F88gHd7E6PKAb&context=ONLINE&ratio=16/9&width=480&u=1789478414000"
+    },
+    {
+      "id": "10686024",
+      "title": "Hoeveel kunt u lenen voor uw droomhuis? Bereken het met de tool van De Tijd",
+      "link": "https://www.tijd.be/r/t/1/id/10686024",
+      "category": "Netto",
+      "description": "Nu woonleningen fors duurder worden door de stijgende rente, wordt het voor velen steeds moeilijker om hun droomwoning te financieren. Bereken met de interactieve tool van De Tijd hoeveel u nog kunt lenen en welke impact de rentestijging op uw vastgoedkoopkracht heeft.",
+      "pubDate": "Tue, 15 Sep 2026 12:32:36 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:7E1qJPBcqhKAnnXQHmCAAZ&context=ONLINE&ratio=16/9&width=480&u=1789478089000"
+    },
+    {
+      "id": "10686036",
+      "title": "Hooggerechtshof trekt streep door Trumps plan om stemmen per post in te perken",
+      "link": "https://www.tijd.be/r/t/1/id/10686036",
+      "category": "Politiek & Economie",
+      "description": "In een spoedbeslissing heeft het Hooggerechtshof beslist dat poststemmen in de VS alvast niet voor de belangrijke midterms in november beperkingen mogen worden opgelegd. Dat is een streep door de rekening van president Donald Trump.",
+      "pubDate": "Tue, 15 Sep 2026 12:19:37 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:6uvB_N9Tay99oD96fBchsz&context=ONLINE&ratio=16/9&width=480&u=1789478674000"
+    },
+    {
+      "id": "10686019",
+      "title": "De Wever kijkt Europees Raadsvoorzitter Costa in de ogen over Euroclear",
+      "link": "https://www.tijd.be/r/t/1/id/10686019",
+      "category": "Politiek & Economie",
+      "description": "Het concurrentievermogen van de Europese economie, de meerjarenbegroting van de EU en de bevroren Russische tegoeden bij Euroclear. Premier Bart De Wever en Europees Raadsvoorzitter António Costa hebben woensdag heel wat te bespreken.",
+      "pubDate": "Tue, 15 Sep 2026 11:48:03 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:9dIl0JzGqGX8db-qceG8f1&context=ONLINE&ratio=16/9&width=480&u=1789477419000"
+    },
+    {
+      "id": "10686034",
+      "title": "Telecomoperatoren onderscheppen elke dag bijna 570.000 frauduleuze oproepen",
+      "link": "https://www.tijd.be/r/t/1/id/10686034",
+      "category": "Netto",
+      "description": "De Belgische telecomoperatoren hebben in de eerste helft van dit jaar 103 miljoen frauduleuze oproepen onderschept. Bij het merendeel van die oproepen deden criminelen zich voor als een betrouwbare afzender.",
+      "pubDate": "Tue, 15 Sep 2026 10:54:44 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:EP8Wwqrn4-s9xHMtjqbMpr&context=ONLINE&ratio=16/9&width=480&u=1789481611000"
+    },
+    {
+      "id": "10675557",
+      "title": "Knokke bezoeken? Deze expo's mag je niet missen",
+      "link": "https://www.tijd.be/r/t/1/id/10675557",
+      "category": "Sabato",
+      "description": "Op zoek naar interessante exposities om te bezoeken in Knokke? Dit zijn de favorieten van onze correspondent die de stad door en door kent.",
+      "pubDate": "Tue, 15 Sep 2026 10:36:31 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:Dgyt_HDaqKOBR1P2so1zoR&context=ONLINE&ratio=16/9&width=480&u=1789468591000"
+    },
+    {
       "id": "10685918",
       "title": "De Calimero-strategie van de PS",
       "link": "https://www.tijd.be/r/t/1/id/10685918",
