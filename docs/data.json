@@ -1,9 +1,86 @@
 {
-  "generated_at": "2026-09-14T23:14:15.161246+00:00",
+  "generated_at": "2026-09-15T09:41:29.119438+00:00",
   "date": "2026-09-15",
-  "de7_title": "14/09 | Weekvooruitblik met tech-CEO Jeroen Lemaire | 'Als we AI vertragen komt die in handen van de foute mensen en landen' | 'Regering moet bij begroting inzetten op groei in plaats van gehaaste sanering'",
-  "de7_matched_count": 0,
+  "de7_title": "15/09 | Vennootschapsbelasting voor vzw’s op regeringstafel | EU overweegt minimumleeftijd van 15 voor sociale media | ’s Werelds grootste bank loopt in de pas die Peking dicteert",
+  "de7_matched_count": 1,
   "articles": [
+    {
+      "id": "10685965",
+      "title": "Vennootschapsbelasting voor vzw’s op regeringstafel",
+      "link": "https://www.tijd.be/r/t/1/id/10685965",
+      "category": "Politiek & Economie",
+      "description": "Om de commerciële inkomsten van mutualiteiten meer te belasten, bekijkt minister van Financiën Jan Jambon (N-VA) voorstellen om vzw’s voortaan aan vennootschapsbelasting te onderwerpen. Die komen in aangepaste vorm op tafel bij de begrotingsbesprekingen.",
+      "pubDate": "Tue, 15 Sep 2026 03:00:00 GMT",
+      "score": 14,
+      "in_de7": true,
+      "image": "https://images.tijd.be/view?iid=Elvis:2MzjOlLE4N_8HLyMSUYVPr&context=ONLINE&ratio=16/9&width=480&u=1789458959000"
+    },
+    {
+      "id": "10685883",
+      "title": "Unizo-topman Bart Buysse: ‘Politici moeten beseffen dat de 1,3 miljoen zelfstandigen ook stemmen’",
+      "link": "https://www.tijd.be/r/t/1/id/10685883",
+      "category": "Politiek & Economie",
+      "description": "Bij de zelfstandigen en kmo’s is het vet van de soep, waarschuwt Unizo-topman Bart Buysse aan de vooravond van de start van het politieke werkjaar. ‘Qua hervormingen blijven we op onze honger zitten.’",
+      "pubDate": "Tue, 15 Sep 2026 03:00:26 GMT",
+      "score": 6,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:3XUWFiLl4kLBcAml7VPr3M&context=ONLINE&ratio=16/9&width=480&u=1789421137000"
+    },
+    {
+      "id": "10686002",
+      "title": "'Widow's Bay' en 'The Pitt' slokoppen op Emmy Awards, 'The Late Show' krijgt eerbetoon",
+      "link": "https://www.tijd.be/r/t/1/id/10686002",
+      "category": "Cultuur",
+      "description": "Op de 78ste Emmy Awards in Los Angeles, officieus de Oscars voor televisiereeksen, is ziekenhuisdrama 'The Pitt' opnieuw in de prijzen gevallen als beste dramaserie. 'Widow's Bay' verzilverde de nominatie voor beste comedyserie.",
+      "pubDate": "Tue, 15 Sep 2026 09:17:03 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:1E3xc1b2KAF8L1yuFsELEb&context=ONLINE&ratio=16/9&width=480&u=1789463826000"
+    },
+    {
+      "id": "10685996",
+      "title": "China: ‘Amerikaanse AI-rem dient vooral om ons af te remmen’",
+      "link": "https://www.tijd.be/r/t/1/id/10685996",
+      "category": "Dossiers",
+      "description": "Volgens Peking dient de Amerikaanse roep om de AI-race af te remmen vooral één doel: voorkomen dat China zijn achterstand verder dicht.",
+      "pubDate": "Tue, 15 Sep 2026 08:01:06 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:DVmq1OXc4mLBGsii1x15Pl&context=ONLINE&ratio=16/9&width=480&u=1789460983000"
+    },
+    {
+      "id": "10685894",
+      "title": "Duitse smartphonebank Trade Republic gooit zich in strijd om Belgische spaarder",
+      "link": "https://www.tijd.be/r/t/1/id/10685894",
+      "category": "Ondernemen",
+      "description": "De Duitse smartphonebank Trade Republic wakkert de concurrentie op de Belgische bankenmarkt nog wat verder aan door uit te pakken met zichtrekeningen met een rente van netto 2,1 procent. Tegelijk krijgen klanten hier voortaan een Belgisch rekeningnummer in plaats van een Duits. 'We merkten dat dat een rem op onze groei zette.'",
+      "pubDate": "Tue, 15 Sep 2026 05:01:32 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:CczwHYMsKQv86Mf7zQ9Uqa&context=ONLINE&ratio=16/9&width=480&u=1789421103000"
+    },
+    {
+      "id": "10685886",
+      "title": "Mint Dental, een van ’s lands grootste tandartsenketens, staat in de etalage",
+      "link": "https://www.tijd.be/r/t/1/id/10685886",
+      "category": "Ondernemen",
+      "description": "De investeerder Core Equity zoekt een nieuwe eigenaar voor Mint Dental, een van Belgiës grootste tandartsenketens. Dat vernam De Tijd van meerdere bronnen.",
+      "pubDate": "Tue, 15 Sep 2026 03:00:00 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:DsVmBlL7qhV9RlWyWQO2k2&context=ONLINE&ratio=16/9&width=480&u=1789448252000"
+    },
+    {
+      "id": "10685905",
+      "title": "Hans Op de Beeck: 'Ik doe niet aan hyperrealisme, dan moet ik voor Madame Tussauds werken'",
+      "link": "https://www.tijd.be/r/t/1/id/10685905",
+      "category": "Sabato",
+      "description": "Hij lokte meer dan 250.000 bezoekers naar het KMSKA, exposeerde van New York tot Tokio en nam deel aan 16 biënnales. Nu krijgt kunstenaar Hans Op de Beeck (57) voor het eerst in 15 jaar weer een solo-expo in Brussel.",
+      "pubDate": "Tue, 15 Sep 2026 04:45:00 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:5WmTGoCj4dL9vxYJxfI_be&context=ONLINE&ratio=16/9&width=480&u=1789463928000"
+    },
     {
       "id": "10685755",
       "title": "Miljoenen gelekte documenten bewijzen: ’s werelds grootste bank loopt in de pas die Peking dicteert",
@@ -14,6 +91,149 @@
       "score": 3,
       "in_de7": false,
       "image": "https://images.tijd.be/view?iid=Elvis:AAS86GCNqni8SKrcAN34zb&context=ONLINE&ratio=16/9&width=480&u=1789421055000"
+    },
+    {
+      "id": "10686009",
+      "title": "Federaal Planbureau: 'Hoog risico op onhoudbare schuld in Franse Gemeenschap, Wallonië en Brussel'",
+      "link": "https://www.tijd.be/r/t/1/id/10686009",
+      "category": "Politiek & Economie",
+      "description": "Brussel, Wallonië en de Franse Gemeenschap lopen een hoog risico dat hun schulden straks onhoudbaar zijn, zegt het Federaal Planbureau in een analyse. Voor Vlaanderen wordt dat risico als matig beschouwd.",
+      "pubDate": "Tue, 15 Sep 2026 09:24:48 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:Df2prW_4af-B2VS4NDFHFB&context=ONLINE&ratio=16/9&width=480&u=1789464292000"
+    },
+    {
+      "id": "10685982",
+      "title": "44 gemeenten vragen vrijstelling voor nieuwe sociale woningen, Depraetere noemt dat 'onbegrijpelijk'",
+      "link": "https://www.tijd.be/r/t/1/id/10685982",
+      "category": "Politiek & Economie",
+      "description": "In totaal hebben al 44 Vlaamse gemeenten een gehele of gedeeltelijke vrijstelling aangevraagd voor hun sociale woonplicht.",
+      "pubDate": "Tue, 15 Sep 2026 06:19:10 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:4fXCxq-makWBSza9hOu3dN&context=ONLINE&ratio=16/9&width=480&u=1789459165000"
+    },
+    {
+      "id": "10685918",
+      "title": "De Calimero-strategie van de PS",
+      "link": "https://www.tijd.be/r/t/1/id/10685918",
+      "category": "Opinie",
+      "description": "De eigen verantwoordelijkheid afwentelen op een externe vijand komt vooral de Brusselse PS heel goed uit.",
+      "pubDate": "Tue, 15 Sep 2026 09:32:09 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:8arysVDIKBDBcjl3CxSeFe&context=ONLINE&ratio=16/9&width=480&u=1789452762000"
+    },
+    {
+      "id": "10686014",
+      "title": "Trump belt Nvidia-topman Huang en noemt AI-angst een ‘hoax’",
+      "link": "https://www.tijd.be/r/t/1/id/10686014",
+      "category": "Markten Live",
+      "description": "De Amerikaanse president Donald Trump probeert de oplopende AI-vrees te bezweren door die als een ‘hoax’ weg te zetten. Zijn boodschap bleek onvoldoende om de markten echt te sussen.",
+      "pubDate": "Tue, 15 Sep 2026 08:55:21 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:20fXTcyHq_d8igkhZ73o7Q&context=ONLINE&ratio=16/9&width=480&u=1789462673000"
+    },
+    {
+      "id": "10686001",
+      "title": "Morgan Stanley: 'Ga short op België'",
+      "link": "https://www.tijd.be/r/t/1/id/10686001",
+      "category": "Markten Live",
+      "description": "België ziet het renteverschil met Duitsland naar het hoogste peil van het jaar oplopen. Zakenbank Morgan Stanley wijst erop dat de begrotingsronde in de Wetstraat tot extra onzekerheid leidt en raadt beleggers aan om short te gaan in Belgisch schuldpapier.",
+      "pubDate": "Tue, 15 Sep 2026 08:44:15 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:4HS50tcyaJZAPQJKs2OqKu&context=ONLINE&ratio=16/9&width=480&u=1789462952000"
+    },
+    {
+      "id": "10685988",
+      "title": "Russische oligarch gelieerd aan Poetin betaalde mee voor trouwfeest Donald Trump Jr.",
+      "link": "https://www.tijd.be/r/t/1/id/10685988",
+      "category": "Politiek & Economie",
+      "description": "Een deel van de huwelijksfeestelijkheden van de oudste zoon van de Amerikaanse president Donald Trump is betaald door een Russische oligarch gelinkt aan het Kremlin. Maar volgens Trump Jr. heeft 'vriendschap geen politieke motieven'.",
+      "pubDate": "Tue, 15 Sep 2026 08:18:10 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:CR85zlRlqjLAbZKrq0e0WB&context=ONLINE&ratio=16/9&width=480&u=1789460469000"
+    },
+    {
+      "id": "10685998",
+      "title": "ECB-personeel wil klaarheid over toekomst Lagarde",
+      "link": "https://www.tijd.be/r/t/1/id/10685998",
+      "category": "Politiek & Economie",
+      "description": "Het personeel van de Europese Centrale Bank vraagt in een brief aan de directie om duidelijkheid te scheppen over een eventuele vervroegd vertrek van voorzitster Christine Lagarde. ‘De onzekerheid dreigt het vertrouwen in de instelling aan te tasten.’",
+      "pubDate": "Tue, 15 Sep 2026 07:47:23 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:3hwu36Qga1v8g1D0Q6Hec5&context=ONLINE&ratio=16/9&width=480&u=1789464192000"
+    },
+    {
+      "id": "10685984",
+      "title": "Grote treinstoring in Nederland wellicht gevolg van sabotage",
+      "link": "https://www.tijd.be/r/t/1/id/10685984",
+      "category": "Politiek & Economie",
+      "description": "In Nederland liggen grote delen van het treinverkeer stil. 'Op meerdere plekken op het spoor zijn materialen aangetroffen die daar bewust zijn neergelegd', meldt de spoorwegbeheerder ProRail.",
+      "pubDate": "Tue, 15 Sep 2026 06:53:01 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:DOlNaZJeKQZB3shCpqA7KQ&context=ONLINE&ratio=16/9&width=480&u=1789465198000"
+    },
+    {
+      "id": "10685973",
+      "title": "AG verhoogt rente op tak 21-verzekeringen",
+      "link": "https://www.tijd.be/r/t/1/id/10685973",
+      "category": "Ondernemen",
+      "description": "AG Insurance, de marktleider op de Belgische verzekeringsmarkt, verhoogt vanaf zaterdag 19 september de gewaarborgde rente op zijn tak 21-spaarverzekeringen Future Invest Bon en AG Invest+.",
+      "pubDate": "Tue, 15 Sep 2026 04:58:41 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:9cV_i2f84Sr9yLyIX7_KUc&context=ONLINE&ratio=16/9&width=480&u=1789462856000"
+    },
+    {
+      "id": "10685942",
+      "title": "Colruyt geeft gezinnen die sporten bij JIMS korting",
+      "link": "https://www.tijd.be/r/t/1/id/10685942",
+      "category": "Ondernemen",
+      "description": "Colruyt smeedt commerciële banden tussen zijn supermarkten en zijn fitnessketen JIMS. De winkelgroep reageert daarmee op de kritiek dat er weinig synergie is tussen haar winkels en haar gezondheidsactiviteiten.",
+      "pubDate": "Tue, 15 Sep 2026 04:01:43 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:AQrF08J74ABALUOFVa4G5c&context=ONLINE&ratio=16/9&width=480&u=1789406737000"
+    },
+    {
+      "id": "10685954",
+      "title": "AB InBev-telgen doen via HomeExchange aan huizenruil",
+      "link": "https://www.tijd.be/r/t/1/id/10685954",
+      "category": "Ondernemen",
+      "description": "Verlinvest, het investeringsvehikel van de familie De Spoelberch, stapt in HomeExchange. Dat is de wereldmarktleider in huizenruil. Steeds meer mensen kiezen die formule om op vakantie te gaan.",
+      "pubDate": "Tue, 15 Sep 2026 04:00:00 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:ByupQ57va3_905dHn1GHcB&context=ONLINE&ratio=16/9&width=480&u=1789454135000"
+    },
+    {
+      "id": "10685934",
+      "title": "De barrière | Waalse markt stelt Vlaamse winkelformules op de proef",
+      "link": "https://www.tijd.be/r/t/1/id/10685934",
+      "category": "Dossiers",
+      "description": "De taalgrens is voor Vlaamse winkelketens een economische grens. In Wallonië botsen ze op een lagere koopkracht, een kleinere doelgroep en goedkopere lokale rivalen. Wie de Vlaamse succesformule blind kopieert, dreigt zich te mispakken.",
+      "pubDate": "Tue, 15 Sep 2026 03:00:00 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:0Nt2X35v49vBG6FfOiRLuS&context=ONLINE&ratio=16/9&width=480&u=1789452674000"
+    },
+    {
+      "id": "10685993",
+      "title": "Europese beurzen glijden uit over rijzende rente",
+      "link": "https://www.tijd.be/r/t/1/id/10685993",
+      "category": "Markten Live",
+      "description": "Hoewel de chipaandelen herstellen, zien we het gemiddelde Europese aandeel zakken als gevolg van de verdere klim van de langetermijnrentes. Bankaandelen zijn opvallende verliezers.",
+      "pubDate": "Tue, 15 Sep 2026 07:50:13 GMT",
+      "score": 0,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:E7INU4YF44Q9HWfRan9V2n&context=ONLINE&ratio=16/9&width=480&u=1789461638000"
     }
   ]
 }
