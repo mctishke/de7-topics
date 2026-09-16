@@ -1,6 +1,83 @@
 {
   "articles": [
     {
+      "id": "10686291",
+      "title": "Amerikaanse bankaandelen onderuit na strenge toespraak van Warsh",
+      "link": "https://www.tijd.be/r/t/1/id/10686291",
+      "category": "Markten Live",
+      "description": "De Amerikaanse beurzen kleurden rood na de renteverhoging van de Fed. De Dow Jones leed onder uitglijdende bankaandelen en Boeing bevond zich in een luchtzak. J.B. Hunt gaf een zeldzaam winstalarm door de recordprijs voor diesel en haalde zo de hele trucksector onderuit.",
+      "pubDate": "Wed, 16 Sep 2026 20:23:57 GMT",
+      "score": 1,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:4JmCmFMkqKzAbzhmieR0aD&context=ONLINE&ratio=16/9&width=480&u=1789590237000"
+    },
+    {
+      "id": "10686293",
+      "title": "UGent-professor Freddy Mortier uitgejouwd na uitspraken over zaak-Cofnas",
+      "link": "https://www.tijd.be/r/t/1/id/10686293",
+      "category": "Politiek & Economie",
+      "description": "Professor ethiek Freddy Mortier is woensdag uitgejouwd tijdens een proclamatie aan de UGent nadat hij kritiek had geuit op de schorsing van de omstreden onderzoeker Nathan Cofnas. Verschillende studenten verlieten de zaal.",
+      "pubDate": "Wed, 16 Sep 2026 20:16:40 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:ECZKoZJWaDfBrNoV25LwSW&context=ONLINE&ratio=16/9&width=480&u=1789589803000"
+    },
+    {
+      "id": "10686290",
+      "title": "Gentse autotoeleverancier Benteler stopt in april 2027 na einde Volvo-contract",
+      "link": "https://www.tijd.be/r/t/1/id/10686290",
+      "category": "Ondernemen",
+      "description": "Na een jarenlange afbouw van productiecapaciteit dreigt nu ook de definitieve sluiting van Benteler, een voor- en achterasproducent uit Gent. Het contract tussen de toeleverancier en de Gentse Volvo-fabriek wordt na april 2027 niet meer verlengd.",
+      "pubDate": "Wed, 16 Sep 2026 19:29:42 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:FAupyE34a9gAji_ZVXT9KD&context=ONLINE&ratio=16/9&width=480&u=1789586986000"
+    },
+    {
+      "id": "10686279",
+      "title": "Na de Vlaamse plannen voor een gasexit: wat valt er te leren van de Nederlanders?",
+      "link": "https://www.tijd.be/r/t/1/id/10686279",
+      "category": "Ondernemen",
+      "description": "Vlaanderen gaat het gasnet uitfaseren en botst op ongenoegen nu gezinnen op termijn hun gasaansluiting dreigen te verliezen. In Nederland is ‘van het gas af’ al jaren een begrip. Kan Vlaanderen daar lessen uit trekken? ‘Je moet het vertrouwen van mensen winnen en het moet betaalbaar blijven.’",
+      "pubDate": "Wed, 16 Sep 2026 19:24:07 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:Fv8Q4oitaRl84we67LC1y7&context=ONLINE&ratio=16/9&width=480&u=1789588008000"
+    },
+    {
+      "id": "10686286",
+      "title": "Makke Von der Leyen steekt hand uit naar Canada, maar biedt geen inspiratie aan Europa",
+      "link": "https://www.tijd.be/r/t/1/id/10686286",
+      "category": "Politiek & Economie",
+      "description": "Ursula von der Leyen leverde een weinig inspirerende State of the Union af. Nochtans staat Europa volgens de voorzitster van de Europese Commissie voor grote uitdagingen. Met het aanbod van een 'light' EU-lidmaatschap voor Canada wist ze wel de aandacht te kapen.",
+      "pubDate": "Wed, 16 Sep 2026 19:05:21 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:5SXT15aRK2P9k0qR_Sgumg&context=ONLINE&ratio=16/9&width=480&u=1789586948000"
+    },
+    {
+      "id": "10686266",
+      "title": "Canadadroom mag niet bedoeld zijn om te verhullen dat de EU haar huiswerk te traag maakt",
+      "link": "https://www.tijd.be/r/t/1/id/10686266",
+      "category": "Opinie",
+      "description": "De Europese banden aanhalen met Canada is een goed idee, omdat het toelaat sterker te worden in een wereld die alleen maar kracht respecteert. Maar het mag geen rookgordijn zijn om te verbergen dat de EU te traag haar eigen huiswerk maakt.",
+      "pubDate": "Wed, 16 Sep 2026 18:49:34 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:1ZcuLV0TqHXB3Fw5IGpEsn&context=ONLINE&ratio=16/9&width=480&u=1789588640000"
+    },
+    {
+      "id": "10686108",
+      "title": "Nergens zonder weg in Walhain",
+      "link": "https://www.tijd.be/r/t/1/id/10686108",
+      "category": "Dossiers",
+      "description": "Verdwalend in eigen land kijkt Rik Van Puymbroeck naar wat verwondert en soms overdondert.",
+      "pubDate": "Wed, 16 Sep 2026 18:31:26 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:4KCbp5W7KA884pWPK_9VRY&context=ONLINE&ratio=16/9&width=480&u=1789538269000"
+    },
+    {
       "id": "10686284",
       "title": "Fed verhoogt rente voor het eerst in drie jaar",
       "link": "https://www.tijd.be/r/t/1/id/10686284",
