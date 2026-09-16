@@ -1,6 +1,160 @@
 {
   "articles": [
     {
+      "id": "10686163",
+      "title": "Oekraïne breekt met operatie Vivaldi door Russisch front in oostelijke Donbas-regio",
+      "link": "https://www.tijd.be/r/t/1/id/10686163",
+      "category": "Dossiers",
+      "description": "Met een verrassend offensief heeft het Oekraïense leger Rusland een klap gegeven en flink wat terrein veroverd aan het oostelijke front. 'En dit is nog maar het begin', waarschuwt commandant Andrii Biletsky.",
+      "pubDate": "Wed, 16 Sep 2026 14:07:53 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:24yuemnYKkj8CtHRGjU8pI&context=ONLINE&ratio=16/9&width=480&u=1789567676000"
+    },
+    {
+      "id": "10686201",
+      "title": "Komt er Zweeds-Chinese stoelendans bij Volvo Gent?",
+      "link": "https://www.tijd.be/r/t/1/id/10686201",
+      "category": "Ondernemen",
+      "description": "Om zich staande te houden in de huidige bikkelharde autowereld snijdt Volvo Cars in de kosten en wordt de samenwerking met de Chinese zustermerken steeds inniger. Donderdag moet het iets duidelijker worden wat dat betekent voor Volvo Gent, de laatste autofabriek van ons land.",
+      "pubDate": "Wed, 16 Sep 2026 13:07:40 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:6J50utOw4nYAQqcXIBtgn4&context=ONLINE&ratio=16/9&width=480&u=1789565119000"
+    },
+    {
+      "id": "10686222",
+      "title": "TikTok-oprichter Zhang Yiming wordt rijkste Aziaat",
+      "link": "https://www.tijd.be/r/t/1/id/10686222",
+      "category": "Ondernemen",
+      "description": "De Chinese internetondernemer Zhang Yiming, die onder meer aan de basis ligt van de erg populaire socialmedia-app TikTok, is voor het eerst de rijkste Aziaat geworden. De nieuwsdienst Bloomberg raamt zijn vermogen op ruim 105 miljard dollar (91 miljard euro).",
+      "pubDate": "Wed, 16 Sep 2026 13:02:29 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:3dMEhfKQaC_8RLhYuQBA7p&context=ONLINE&ratio=16/9&width=480&u=1789563752000"
+    },
+    {
+      "id": "10686175",
+      "title": "Bitcoin krijgt 'double whammy': cryptowet strandt en renteverhoging dreigt",
+      "link": "https://www.tijd.be/r/t/1/id/10686175",
+      "category": "Markten Live",
+      "description": "De cryptomarkt krijgt klappen nu een langverwachte Amerikaanse cryptowet is vastgelopen en beleggers zich schrap zetten voor een mogelijke renteverhoging door de Federal Reserve.",
+      "pubDate": "Wed, 16 Sep 2026 12:35:25 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:A8VMBbpMK6w8IvodPhUr3P&context=ONLINE&ratio=16/9&width=480&u=1789564515000"
+    },
+    {
+      "id": "10686156",
+      "title": "Vakbond Synova neemt niet deel aan vakbondsactie op 9 oktober",
+      "link": "https://www.tijd.be/r/t/1/id/10686156",
+      "category": "Politiek & Economie",
+      "description": "De betoging van 9 oktober tegen het beleid van de federale regering zal niet in gemeenschappelijk vakbondsfront verlopen. Synova, de vroegere ACLVB, voert het protest op andere manieren.",
+      "pubDate": "Wed, 16 Sep 2026 12:30:00 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:1ANODCALaPyAABl_kxsSjs&context=ONLINE&ratio=16/9&width=480&u=1789565852000"
+    },
+    {
+      "id": "10686212",
+      "title": "33 jobs in gevaar door stopzetting bottelarij Palm en Cornet",
+      "link": "https://www.tijd.be/r/t/1/id/10686212",
+      "category": "Ondernemen",
+      "description": "De Nederlandse brouwer Swinkels snoeit in zijn Belgische dochter Brouwerij Palm. De eigen afvullijnen voor flessen en vaten verdwijnen. 33 van de 147 werknemers dreigen hun werk te verliezen.",
+      "pubDate": "Wed, 16 Sep 2026 12:12:54 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:1mi_yLW9aBhAUxqk37m81X&context=ONLINE&ratio=16/9&width=480&u=1789565383000"
+    },
+    {
+      "id": "10686195",
+      "title": "Infrastructuurbouwer APK doet met GITS derde overname van 2026",
+      "link": "https://www.tijd.be/r/t/1/id/10686195",
+      "category": "Ondernemen",
+      "description": "De Limburgse infrastructuurbouwer APK Group neemt het eveneens Limburgse GITS over. Dat is een bedrijf dat onder meer thuis is in datacenters en al als onderaannemer aan de slag is voor APK. Het is de derde overname door APK dit jaar.",
+      "pubDate": "Wed, 16 Sep 2026 12:05:18 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:AAAoz6o6Kqd8tj4w-IF7Kv&context=ONLINE&ratio=16/9&width=480&u=1789564428000"
+    },
+    {
+      "id": "10686119",
+      "title": "Beleggersagenda van donderdag 17 september: koorddansen in Londen",
+      "link": "https://www.tijd.be/r/t/1/id/10686119",
+      "category": "Markten Live",
+      "description": "Voor de Bank of England is het moeilijk laveren tussen een te hoge inflatie en een zwakke jobmarkt. Per saldo levert dat donderdag waarschijnlijk een status quo van de rente op.",
+      "pubDate": "Wed, 16 Sep 2026 12:00:00 GMT",
+      "score": 0,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:CS4djJjBqEk9jI_v_SaiWd&context=ONLINE&ratio=16/9&width=480&u=1789561478000"
+    },
+    {
+      "id": "10675647",
+      "title": "Onze favoriete restaurants in Parijs",
+      "link": "https://www.tijd.be/r/t/1/id/10675647",
+      "category": "Sabato",
+      "description": "Op zoek naar een goed restaurant in Parijs? Dit zijn de favoriete restaurants van onze correspondent die de stad door en door kent.",
+      "pubDate": "Wed, 16 Sep 2026 11:56:36 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:2aNZPFvv4lEAWVRwk8nDvZ&context=ONLINE&ratio=16/9&width=480&u=1789559796000"
+    },
+    {
+      "id": "10686191",
+      "title": "‘AI doet niet meer dan papegaaien’ en andere denkfouten",
+      "link": "https://www.tijd.be/r/t/1/id/10686191",
+      "category": "Opinie",
+      "description": "Critici vinden de aandacht voor de risico’s van ontspoorde AI onterecht. Maar we mogen best kritischer zijn voor hun bedenkingen.",
+      "pubDate": "Wed, 16 Sep 2026 11:40:50 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:9kEWbWEpqFnBLe-t_MvtzR&context=ONLINE&ratio=16/9&width=480&u=1789558855000"
+    },
+    {
+      "id": "10686184",
+      "title": "Eigenaar Around Partners wil fakkel doorgeven bij On IT",
+      "link": "https://www.tijd.be/r/t/1/id/10686184",
+      "category": "Ondernemen",
+      "description": "De Antwerpse investeerder Around Partners werkt aan de verkoop van zijn meerderheidsbelang in de IT-speler On IT. Het proces zit nog in een prille fase.",
+      "pubDate": "Wed, 16 Sep 2026 11:15:00 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:4JjosvJ_aBr8_zPjcZB4AR&context=ONLINE&ratio=16/9&width=480&u=1789565157000"
+    },
+    {
+      "id": "10686103",
+      "title": "KBC laat vertrouwenspersoon meekijken: banken wapenen zich extra tegen phishing",
+      "link": "https://www.tijd.be/r/t/1/id/10686103",
+      "category": "Netto",
+      "description": "KBC laat klanten voortaan een vertrouwenspersoon inschakelen die kan meekijken bij verdachte overschrijvingen. De ‘engelbewaarder’ is het jongste wapen in een reeks nieuwe verdedigingslinies die banken optrekken tegen phishing.",
+      "pubDate": "Wed, 16 Sep 2026 10:38:27 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:BGSBKyyXatkAk0AETghQy7&context=ONLINE&ratio=16/9&width=480&u=1789562568000"
+    },
+    {
+      "id": "10686189",
+      "title": "Belgische onderwijsapp Wooclap koopt Britse concurrent",
+      "link": "https://www.tijd.be/r/t/1/id/10686189",
+      "category": "Ondernemen",
+      "description": "Het Brusselse Wooclap, gespecialiseerd in onderwijstechnologie, koopt zijn Britse sectorgenoot Vevox. Het is de eerste overname sinds de grote kapitaalronde van 25 miljoen euro vorig jaar.",
+      "pubDate": "Wed, 16 Sep 2026 10:19:07 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:25vGJaDQKCsAn4jWz-tJs4&context=ONLINE&ratio=16/9&width=480&u=1789563996000"
+    },
+    {
+      "id": "10686179",
+      "title": "Oost-Vlaams bedrijf achter herbruikbare bekers Tomorrowland overgenomen",
+      "link": "https://www.tijd.be/r/t/1/id/10686179",
+      "category": "Ondernemen",
+      "description": "De Oost-Vlaamse automatiseringsspecialist Aucxis wordt een onderdeel van de Britse softwaregroep Vesta. Het is de eerste deal van het bedrijf in ons land.",
+      "pubDate": "Wed, 16 Sep 2026 10:19:05 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:9h-xe887aPTAg03tjP_TWE&context=ONLINE&ratio=16/9&width=480&u=1789564919000"
+    },
+    {
       "id": "10686149",
       "title": "Fanmail voor KBC zet Bel20 op weg naar remonte",
       "link": "https://www.tijd.be/r/t/1/id/10686149",
