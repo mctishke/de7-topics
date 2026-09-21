@@ -1,6 +1,193 @@
 {
   "articles": [
     {
+      "id": "10686919",
+      "title": "Ex-topman Digi verkast naar rivaal Orange Belgium",
+      "link": "https://www.tijd.be/r/t/1/id/10686919",
+      "category": "Ondernemen",
+      "description": "Jeroen Degadt, de ex-topman van de nieuwe Belgische telecomoperator Digi, stapt over naar concurrent Orange Belgium. Daar wordt hij als directielid verantwoordelijk voor de bedrijvenklanten.",
+      "pubDate": "Mon, 21 Sep 2026 15:55:47 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:2M7sYHgTaFtB0yUp1C8ixD&context=ONLINE&ratio=16/9&width=480&u=1790006599000"
+    },
+    {
+      "id": "10686912",
+      "title": "Olieprijs tuimelt onder 100 dollar na uitspraken van Trump",
+      "link": "https://www.tijd.be/r/t/1/id/10686912",
+      "category": "Markten Live",
+      "description": "Een uitspraak van de Amerikaanse president Donald Trump doet de olieprijs terugvallen,  waardoor ook de langetermijnrentes dalen en de aandelenmarkten stijgen.",
+      "pubDate": "Mon, 21 Sep 2026 15:54:03 GMT",
+      "score": 0,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:2xh6ZWftKThAv1bwqgCu_O&context=ONLINE&ratio=16/9&width=480&u=1790006101000"
+    },
+    {
+      "id": "10686833",
+      "title": "Het Kraaienest | Saneringsoefening kan niet om sociale zekerheid heen",
+      "link": "https://www.tijd.be/r/t/1/id/10686833",
+      "category": "Opinie",
+      "description": "De grote uitdaging op onze arbeidsmarkt ligt niet bij de werklozen, maar bij de veel grotere groep inactieven, onder wie de langdurig arbeidsongeschikten.",
+      "pubDate": "Mon, 21 Sep 2026 15:30:08 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:3dBX13vJqDfAZv_lZKtujZ&context=ONLINE&ratio=16/9&width=480&u=1790004611000"
+    },
+    {
+      "id": "10686851",
+      "title": "Tienduizenden werknemers uit auto-industrie trekken straat op in Duitsland",
+      "link": "https://www.tijd.be/r/t/1/id/10686851",
+      "category": "Ondernemen",
+      "description": "Tienduizenden werknemers uit de auto-industrie, die een zware crisis doormaakt, zijn maandag in heel Duitsland op straat gekomen, na een oproep van de vakbond IG Metall. Ze willen opkomen voor het behoud van banen en productiesites.",
+      "pubDate": "Mon, 21 Sep 2026 15:09:38 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:BF3sxmdB4lABvh4Hi6s2Hs&context=ONLINE&ratio=16/9&width=480&u=1790004133000"
+    },
+    {
+      "id": "10686906",
+      "title": "Vakbond hekelt falende scanners in haven van Antwerpen",
+      "link": "https://www.tijd.be/r/t/1/id/10686906",
+      "category": "Politiek & Economie",
+      "description": "De douane in de haven van Antwerpen verliest controlecapaciteit door aanhoudende pannes van de scanners, hekelt de vakbond ACOD. De overheidsdienst Financiën zegt dat de problemen worden opgevolgd.",
+      "pubDate": "Mon, 21 Sep 2026 14:56:14 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:By1gambKqPH9p5ihuHoYFF&context=ONLINE&ratio=16/9&width=480&u=1790002578000"
+    },
+    {
+      "id": "10686832",
+      "title": "Houthi-rebellen zetten Saoedi-Arabië mes op de keel",
+      "link": "https://www.tijd.be/r/t/1/id/10686832",
+      "category": "Dossiers",
+      "description": "Met hun offensief tegen Saoedi-Arabië zetten de Jemenitische Houthi-rebellen het Midden-Oosten onder hoogspanning. De Verenigde Staten willen zich niet laten meeslepen in een nieuw conflict.",
+      "pubDate": "Mon, 21 Sep 2026 14:43:48 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:60Tzdace42uA396_rb4TnE&context=ONLINE&ratio=16/9&width=480&u=1790004565000"
+    },
+    {
+      "id": "10686861",
+      "title": "Vragen over de Vlaamse gasexit of de recordprijzen aan de pomp? Chat met onze energie-experts",
+      "link": "https://www.tijd.be/r/t/1/id/10686861",
+      "category": "Dossiers",
+      "description": "Hebt u vragen over het Vlaamse plan om van aardgas af te stappen, de energiecrisis die woedt of de oplopende prijzen aan de pomp? Chat woensdagmiddag met onze energie-journalisten Tobe Steel en Robbe van Lier en stuur nu uw vraag al in.",
+      "pubDate": "Mon, 21 Sep 2026 14:26:29 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:AI37IxaWahS9GNn2xiDpcv&context=ONLINE&ratio=16/9&width=480&u=1790001754000"
+    },
+    {
+      "id": "10686835",
+      "title": "Verkiezingen leveren Poetin sterk mandaat op en voeden vrees voor mobilisatie",
+      "link": "https://www.tijd.be/r/t/1/id/10686835",
+      "category": "Politiek & Economie",
+      "description": "De partij van president Vladimir Poetin versterkt haar greep na de Russische verkiezingen - de eerste sinds de oorlog in Oekraïne. Dat vergroot de kans op een mobilisatie voor die oorlog.",
+      "pubDate": "Mon, 21 Sep 2026 14:23:00 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:7qP-6dvT4h78Vy4ut6uimJ&context=ONLINE&ratio=16/9&width=480&u=1790004166000"
+    },
+    {
+      "id": "10686822",
+      "title": "‘Nieuwe besparingen op universiteiten kunnen niet zonder verhoging inschrijvingsgeld’",
+      "link": "https://www.tijd.be/r/t/1/id/10686822",
+      "category": "Politiek & Economie",
+      "description": "Nu de Vlaamse begrotingsgesprekken zich over de onderwijsuitgaven buigen, stijgt de zenuwachtigheid bij de universiteiten over nieuwe besparingen. Wordt er opnieuw beknibbeld, dan is een verhoging van het inschrijvingsgeld niet meer te vermijden, klinkt het.",
+      "pubDate": "Mon, 21 Sep 2026 14:07:34 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:0-WhLlDi4GU8aBPR5yJuic&context=ONLINE&ratio=16/9&width=480&u=1790001826000"
+    },
+    {
+      "id": "10675325",
+      "title": "Shopping in Londen: onze aanraders",
+      "link": "https://www.tijd.be/r/t/1/id/10675325",
+      "category": "Sabato",
+      "description": "Op zoek naar de beste winkels in Londen? Dit zijn de nieuwste shopadressen van onze correspondent die de stad door en door kent.",
+      "pubDate": "Mon, 21 Sep 2026 14:05:38 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:7sHuCSoV4E1Bz08jfAmiJI&context=ONLINE&ratio=16/9&width=480&u=1789999969000"
+    },
+    {
+      "id": "10686874",
+      "title": "Fiscaal voordeelstatuut van private privak zit op de wip",
+      "link": "https://www.tijd.be/r/t/1/id/10686874",
+      "category": "Netto",
+      "description": "De private privak, een populair vehikel in ons land om in niet-beursgenoteerde aandelen te beleggen, dreigt haar fiscaal gunststatuut te verliezen. Dat is nodig om een gelijk speelveld te creëren met private-equityfondsen die wel onder de meerwaardebelasting vallen.",
+      "pubDate": "Mon, 21 Sep 2026 13:42:44 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:FMOiQZQWK0vBogDuoo7Qzc&context=ONLINE&ratio=16/9&width=480&u=1790004687000"
+    },
+    {
+      "id": "10686873",
+      "title": "Omstreden Oostends N-VA-kopstuk gedegradeerd van eerste naar achtste schepen",
+      "link": "https://www.tijd.be/r/t/1/id/10686873",
+      "category": "Politiek & Economie",
+      "description": "De omstreden N-VA-schepen uit Oostende, Charlotte Verkeyn, wordt gedegradeerd van eerste naar achtste schepen. De beslissing van het stadsbestuur volgt op een onderzoek naar de omgang met de ambtenarij.",
+      "pubDate": "Mon, 21 Sep 2026 13:09:45 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:5XpRNj4_qcLBuHTb6bnxSp&context=ONLINE&ratio=16/9&width=480&u=1790005874000"
+    },
+    {
+      "id": "10686858",
+      "title": "De Amerikaanse groeiplannen van AB InBev",
+      "link": "https://www.tijd.be/r/t/1/id/10686858",
+      "category": "Ondernemen",
+      "description": "Op de investeerdersdagen in de bakermat van zijn Amerikaanse topmerk Budweiser zal AB InBev naar verwachting tonen hoe de brouwer na moeilijke jaren weer duurzaam wil groeien in de Verenigde Staten.",
+      "pubDate": "Mon, 21 Sep 2026 13:08:43 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:FvFD2TdK4B7B2vaWggC-qU&context=ONLINE&ratio=16/9&width=480&u=1790000772000"
+    },
+    {
+      "id": "10686317",
+      "title": "Verhoging studiegeld schrikt buitenlandse studenten niet af",
+      "link": "https://www.tijd.be/r/t/1/id/10686317",
+      "category": "Politiek & Economie",
+      "description": "Hoewel minister van Onderwijs Zuhal Demir (N-VA) de instroom van niet-Europese studenten in het hoger onderwijs wou afremmen, blijven ze komen. ‘Jullie onderwijs is top, in vergelijking met andere landen is het nog steeds betaalbaar en… klopt het dat jullie een bad nemen in bier?’",
+      "pubDate": "Mon, 21 Sep 2026 12:43:00 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:FieTpqAVqPLAVjPo3gAel0&context=ONLINE&ratio=16/9&width=480&u=1790000260000"
+    },
+    {
+      "id": "10686866",
+      "title": "Zoon van luxepaus Arnault stapt in kapitaal hypercars Delage",
+      "link": "https://www.tijd.be/r/t/1/id/10686866",
+      "category": "Ondernemen",
+      "description": "Antoine Arnault, de oudste zoon van LVMH-topman en luxepaus Bernard Arnault, vervoegt het kransje miljardairs in het kapitaal van de weer tot leven gewekte Franse autobouwer Delage Automobiles.",
+      "pubDate": "Mon, 21 Sep 2026 12:09:11 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:8egEmqzxKuq8rjIGECeb2s&context=ONLINE&ratio=16/9&width=480&u=1789993100000"
+    },
+    {
+      "id": "10686820",
+      "title": "AG Insurance verhoogt gegarandeerde rente op groepsverzekeringen naar 2,75 procent",
+      "link": "https://www.tijd.be/r/t/1/id/10686820",
+      "category": "Netto",
+      "description": "De marktleider AG Insurance trekt vanaf volgend jaar de gegarandeerde rente op groepsverzekeringen op van 1,75 naar 2,75 procent. De verzekeraar biedt zo meer dan de wettelijke minimumrente van 2,5 procent die werkgevers moeten garanderen.",
+      "pubDate": "Mon, 21 Sep 2026 12:00:00 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:CzFaL5mra_g93MHXjhYI_w&context=ONLINE&ratio=16/9&width=480&u=1789997175000"
+    },
+    {
+      "id": "10686853",
+      "title": "Ierse privacywaakhond legt Google boete van 403 miljoen euro op",
+      "link": "https://www.tijd.be/r/t/1/id/10686853",
+      "category": "Ondernemen",
+      "description": "De Ierse privacywaakhond heeft Google maandag een boete van 403 miljoen euro opgelegd wegens schendingen van de Europese regels over het verwerken van de geolocatiegegevens van gebruikers.",
+      "pubDate": "Mon, 21 Sep 2026 11:53:29 GMT",
+      "score": 5,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:7DJJmkMxKYeBZwk5h7XaWK&context=ONLINE&ratio=16/9&width=480&u=1789992765000"
+    },
+    {
       "id": "10686828",
       "title": "Wat Trump en Xi ook beslissen, Europa dreigt de rekening te betalen",
       "link": "https://www.tijd.be/r/t/1/id/10686828",
@@ -253,7 +440,7 @@
       "category": "Politiek & Economie",
       "description": "Bij de verkiezingen in de Duitse deelstaat Mecklenburg-Voor-Pommeren vandaag kan de sociaaldemocratische SPD het uiterst rechtse AfD nog inhalen. De CDU van kanselier Friedrich Merz dreigt uit het parlement te vallen. Ook Berlijn trekt naar de stembus.",
       "pubDate": "Sun, 20 Sep 2026 10:43:39 GMT",
-      "image": null
+      "image": "https://images.tijd.be/view?iid=Elvis:DFq7i3tbaVnA2edWQknNNO&context=ONLINE&ratio=16/9&width=480&u=1789902246000"
     },
     {
       "id": "10686755",
@@ -262,7 +449,7 @@
       "category": "Politiek & Economie",
       "description": "De Britse zanger Ed Sheeran heeft zaterdagavond  tijdens zijn concert in de Amerikaanse stad Philadelphia toegegeven dat hij de situatie in Gaza verkeerd heeft ingeschat. Dat leidde er eerder deze week toe dat de artiesten uit zijn voorprogramma opstapten.",
       "pubDate": "Sun, 20 Sep 2026 06:28:17 GMT",
-      "image": null
+      "image": "https://images.tijd.be/view?iid=Elvis:6zlrcnPxaPm8TC-qwvAIhx&context=ONLINE&ratio=16/9&width=480&u=1789887460000"
     },
     {
       "id": "10686220",
@@ -271,7 +458,7 @@
       "category": "Sabato",
       "description": "Van een familiale auberge met een ster tot een château met prijswinnende wijnen: in deze tien hotel-restaurants in Frankrijk wil je meteen een tafel en een kamer boeken.",
       "pubDate": "Sun, 20 Sep 2026 03:30:25 GMT",
-      "image": null
+      "image": "https://images.tijd.be/view?iid=Elvis:EhwqKbisqZT9I_5ozaUOF1&context=ONLINE&ratio=16/9&width=480&u=1789738318000"
     },
     {
       "id": "10686748",
@@ -280,7 +467,7 @@
       "category": "Politiek & Economie",
       "description": "Journalisten van de televisiezenders CNN en  MS NOW (het voormalige MSNBC) en de nieuwsorganisatie Politico zijn zaterdag daadwerkelijk de toegang tot het Witte Huis geweigerd.  President Trump maakte vrijdagavond bekend dat zeniet meer welkom zijn.",
       "pubDate": "Sat, 19 Sep 2026 18:48:22 GMT",
-      "image": null
+      "image": "https://images.tijd.be/view?iid=Elvis:CzLm9FNH4xUBgaK19IHVOA&context=ONLINE&ratio=16/9&width=480&u=1789843705000"
     },
     {
       "id": "10686188",
@@ -289,7 +476,7 @@
       "category": "Sabato",
       "description": "Achter klassieke kasteelfaçades kunnen innovatieve chefs schuilgaan. In deze zeven hotel-restaurants in de Benelux tafel en logeer je koninklijk.",
       "pubDate": "Sat, 19 Sep 2026 03:30:32 GMT",
-      "image": null
+      "image": "https://images.tijd.be/view?iid=Elvis:E_dB7S8TKSQ9uusmjqI94i&context=ONLINE&ratio=16/9&width=480&u=1789840368000"
     },
     {
       "id": "10686608",
@@ -298,7 +485,7 @@
       "category": "Netto",
       "description": "De Vlaamse Nutsregulator (VNR) maakt zich zorgen over de opgelopen aardgasprijs en de gevolgen daarvan voor de energieleveranciers. De energiewaakhond wil dat de leveranciers zich voorbereiden op moeilijke tijden met mogelijke wanbetalers en cashflowproblemen.",
       "pubDate": "Sat, 19 Sep 2026 03:00:56 GMT",
-      "image": null
+      "image": "https://images.tijd.be/view?iid=Elvis:5uH0T4lXa4-A4fVhcdvOra&context=ONLINE&ratio=16/9&width=480&u=1790003683000"
     },
     {
       "id": "10686261",
@@ -307,7 +494,7 @@
       "category": "Netto",
       "description": "De echo’s van de crisis van 2021-2022 klinken almaar luider op de energiemarkt. Er mogen deze winter geen tegenvallers zijn of de al nijpende situatie dreigt te ontsporen, zeggen experts. ‘We moeten alweer hopen op het beste, zonder dat we ons hebben voorbereid op het slechtste.’",
       "pubDate": "Sat, 19 Sep 2026 03:00:00 GMT",
-      "image": null
+      "image": "https://images.tijd.be/view?iid=Elvis:9EaSRHUrKDJ8y0VhVOF4n6&context=ONLINE&ratio=16/9&width=480&u=1790002722000"
     },
     {
       "id": "10686572",
