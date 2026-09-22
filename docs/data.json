@@ -1,7 +1,129 @@
 {
-  "generated_at": "2026-09-21T23:36:04.428897+00:00",
+  "generated_at": "2026-09-22T09:32:53.925503+00:00",
   "date": "2026-09-22",
-  "de7_title": "De 7 Extra | De Barrière: 'De verschillen tussen Vlaanderen en Wallonië spelen internationaal minder een rol'",
-  "de7_matched_count": 0,
-  "articles": []
+  "de7_title": "22/09 | Bedrijven langer in ongewisse over groene belastingkorting | Meer buitenlandse studenten ondanks hogere studiegelden | Leuvense start-up haalt $21 miljoen op met AI voor rekruteerders",
+  "de7_matched_count": 2,
+  "articles": [
+    {
+      "id": "10686475",
+      "title": "Leuvense AI-recruiter Spott haalt 21 miljoen dollar op: ‘Omzet ging dit jaar al maal tien’",
+      "link": "https://www.tijd.be/r/t/1/id/10686475",
+      "category": "Ondernemen",
+      "description": "Met hun razendsnel groeiende start-up Spott halen drie Leuvense boezemvrienden 21 miljoen dollar op. Dat geld moet dienen om de steeds grotere en internationale klanten te bedienen. ‘Onze groei is geëxplodeerd.’",
+      "pubDate": "Tue, 22 Sep 2026 04:00:25 GMT",
+      "score": 16,
+      "in_de7": true,
+      "image": "https://images.tijd.be/view?iid=Elvis:3GQZhElrKT58oFlHkj6R_W&context=ONLINE&ratio=16/9&width=480&u=1790023482000"
+    },
+    {
+      "id": "10686867",
+      "title": "Bedrijven twee jaar in het ongewisse over groene belastingkorting",
+      "link": "https://www.tijd.be/r/t/1/id/10686867",
+      "category": "Politiek & Economie",
+      "description": "Bedrijven die sinds begin 2025 groene investeringen deden, weten nog altijd niet of ze de beloofde belastingkorting van 40 procent krijgen. Dat kan duren tot volgend jaar.",
+      "pubDate": "Tue, 22 Sep 2026 03:00:00 GMT",
+      "score": 14,
+      "in_de7": true,
+      "image": "https://images.tijd.be/view?iid=Elvis:0GFJ428SKxI9eDGA75p0z4&context=ONLINE&ratio=16/9&width=480&u=1790063275000"
+    },
+    {
+      "id": "10686953",
+      "title": "Hefboomfonds vervangt miljoenenploeg door vier AI-agenten",
+      "link": "https://www.tijd.be/r/t/1/id/10686953",
+      "category": "Markten Live",
+      "description": "De Amerikaanse fondsmanager Brian Kelly heeft zijn vroegere ploeg van acht werknemers vervangen door vier AI-agenten. De jaarlijkse kosten van zijn handelsdesk zakten daardoor volgens hem van ongeveer 5 miljoen naar 40.000 dollar. Maar of de robots ook beter beleggen?",
+      "pubDate": "Tue, 22 Sep 2026 08:34:54 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:6WvkCVlzajH8niqO4CH1Zg&context=ONLINE&ratio=16/9&width=480&u=1790066754000"
+    },
+    {
+      "id": "10686344",
+      "title": "Geloof is het laatste taboe op de werkvloer",
+      "link": "https://www.tijd.be/r/t/1/id/10686344",
+      "category": "Opinie",
+      "description": "We hebben geloof als samenleving zo grondig uit het publieke domein geduwd - van het klaslokaal tot het sollicitatiegesprek - dat we simpelweg niet meer weten hoe we ermee moeten omgaan.",
+      "pubDate": "Tue, 22 Sep 2026 08:27:37 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:4nGNapzIapH8F2I3V7MctW&context=ONLINE&ratio=16/9&width=480&u=1790065661000"
+    },
+    {
+      "id": "10686891",
+      "title": "Frans Andera klimt aan boord bij vliegtuighersteller Sabena Engineering",
+      "link": "https://www.tijd.be/r/t/1/id/10686891",
+      "category": "Ondernemen",
+      "description": "Het Franse investeringsfonds Andera koopt zich in bij Sabena Engineering, dat passagiers- en vrachtvliegtuigen herstelt en onderhoudt. Het zusterbedrijf Sabca, ook een onderdeel van de Orizio-groep, blijft buiten de transactie.",
+      "pubDate": "Tue, 22 Sep 2026 05:00:00 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:9GEEN7gx4F1A8FdjOa8fZM&context=ONLINE&ratio=16/9&width=480&u=1790055688000"
+    },
+    {
+      "id": "10686831",
+      "title": "Het welkomstcadeau is een bloedanalyse: binnenkijken bij de nieuwe members club Opus in Antwerpen",
+      "link": "https://www.tijd.be/r/t/1/id/10686831",
+      "category": "Sabato",
+      "description": "Vergeet de sigarenrook of whiskylucht: in deze members club gaat het intakegesprek gepaard met een… bloedanalyse. Met een focus op gezondheid en longevity wil de nieuwe club Opus in Antwerpen een stijlvol antwoord bieden op de midlifecrisis.",
+      "pubDate": "Tue, 22 Sep 2026 04:45:00 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:0CNmpjde4QM8WsOrEBuyOq&context=ONLINE&ratio=16/9&width=480&u=1790061038000"
+    },
+    {
+      "id": "10686860",
+      "title": "Gentse AI-verzekeringstool Paperbox komt in Amerikaanse handen",
+      "link": "https://www.tijd.be/r/t/1/id/10686860",
+      "category": "Ondernemen",
+      "description": "Paperbox, een Gents AI-bedrijf dat verzekeraars en makelaars helpt hun documenten efficiënt te beheren, wordt overgenomen door het Amerikaanse softwarebedrijf Adlib.",
+      "pubDate": "Tue, 22 Sep 2026 04:00:38 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:1kmGKVWqKZF8yVLBWpDV5I&context=ONLINE&ratio=16/9&width=480&u=1790023633000"
+    },
+    {
+      "id": "10686887",
+      "title": "Nieuwe cyberregels zaaien verwarring in Belgische industrie",
+      "link": "https://www.tijd.be/r/t/1/id/10686887",
+      "category": "Ondernemen",
+      "description": "Veel bedrijven weten niet goed welke verplichtingen rond cyberveiligheid op hen van toepassing zijn, blijkt uit een bevraging door de technologiefederatie Agoria.",
+      "pubDate": "Tue, 22 Sep 2026 03:00:38 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:2wEkGO97K15Bn_2iN_NbSU&context=ONLINE&ratio=16/9&width=480&u=1789998297000"
+    },
+    {
+      "id": "10686948",
+      "title": "Bedrijven langer onzeker over groene belastingkorting | Meer buitenlandse studenten ondanks hoger studiegeld | Leuvenaars scoren met rekruteerders-AI",
+      "link": "https://www.tijd.be/r/t/1/id/10686948",
+      "category": "Podcasts",
+      "description": "De 7 is een dagelijkse podcast van De Tijd. U krijgt het nieuws dat u nodig heeft om uw dag goed te starten in zeven punten.",
+      "pubDate": "Tue, 22 Sep 2026 04:59:18 GMT",
+      "score": 1,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:931R4myZacjBtjjzVEwsr9&context=ONLINE&ratio=16/9&width=480&u=1790054032000"
+    },
+    {
+      "id": "10686951",
+      "title": "Alibaba voert strijd met Nvidia op met eigen AI-chip en datacenters op megaschaal",
+      "link": "https://www.tijd.be/r/t/1/id/10686951",
+      "category": "Markten Live",
+      "description": "Alibaba schakelt een versnelling hoger in artificiële intelligentie. De Chinese techreus lanceert een krachtigere eigen AI-chip en wil zijn wereldwijde datacentercapaciteit tegen 2032 opvoeren tot meer dan 20 gigawatt. Het aandeel ging dinsdag in Hongkong flink hoger.",
+      "pubDate": "Tue, 22 Sep 2026 06:56:47 GMT",
+      "score": 0,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:E4_EORuT4YM8BJJ4iuRI-n&context=ONLINE&ratio=16/9&width=480&u=1790067452000"
+    },
+    {
+      "id": "10686945",
+      "title": "Meta ontketent nieuwe AI-gekte op de beurs met Muse",
+      "link": "https://www.tijd.be/r/t/1/id/10686945",
+      "category": "Markten Live",
+      "description": "De nieuwe AI-assistent van Meta zet de beurzen van New York tot Hongkong op winst. De hele techsector geniet van een nieuwe impuls, en ook een Nederlandse holding profiteert mee.",
+      "pubDate": "Tue, 22 Sep 2026 06:15:40 GMT",
+      "score": 0,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:EuYMTGIQKlvBztNdjfuFc3&context=ONLINE&ratio=16/9&width=480&u=1790068293000"
+    }
+  ]
 }
