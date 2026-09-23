@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T18:28:32.873742+00:00",
+  "generated_at": "2026-09-23T21:39:15.514333+00:00",
   "date": "2026-09-23",
   "de7_title": "23/09 | Nieuwe RIZIV-rapporten zullen artsen vergelijken | Vlaamse regering overweegt duurdere dienstencheques | Muse van Meta zorgt voor verse AI-beursgekte",
   "de7_matched_count": 2,
@@ -148,6 +148,17 @@
       "image": "https://images.tijd.be/view?iid=Elvis:6XoDUAs4K138_WLRRjcRkH&context=ONLINE&ratio=16/9&width=480&u=1790187382000"
     },
     {
+      "id": "10687178",
+      "title": "Prijzenoorlog in AI-land schakelt versnelling hoger: ‘Nog niet gezien in de geschiedenis’",
+      "link": "https://www.tijd.be/r/t/1/id/10687178",
+      "category": "Ondernemen",
+      "description": "Met agressieve prijsverlagingen proberen AI-leiders Anthropic en OpenAI hun marktaandeel veilig te stellen. Daarbij gokken ze erop dat zo’n prijzenoorlog de omzet niet zal aantasten in aanloop naar hun beursgang. Ze vertrouwen daarvoor op de theorie van een econoom uit de 19de eeuw.",
+      "pubDate": "Wed, 23 Sep 2026 18:34:05 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:FGRWh_kDqBdAtxijA682oV&context=ONLINE&ratio=16/9&width=480&u=1790190315000"
+    },
+    {
       "id": "10687105",
       "title": "Staking opgeschort bij luchtverkeersleider Skeyes in Charleroi",
       "link": "https://www.tijd.be/r/t/1/id/10687105",
@@ -201,6 +212,17 @@
       "score": 3,
       "in_de7": false,
       "image": "https://images.tijd.be/view?iid=Elvis:EqjOYLbV4078gduRGzNk15&context=ONLINE&ratio=16/9&width=480&u=1790178369000"
+    },
+    {
+      "id": "10687214",
+      "title": "Vlaamse regering kijkt ook naar quick wins voor begroting",
+      "link": "https://www.tijd.be/r/t/1/id/10687214",
+      "category": "Politiek & Economie",
+      "description": "Het liefst zou Vlaams minister-president Matthias Diependaele zoveel mogelijk nieuwe accenten uit zijn regeerakkoord behouden, maar in de zoektocht naar een begrotingsevenwicht zijn het de makkelijke besparingen. Geen enkele Vlaming wordt iets afgenomen als de verlaging van de erfbelasting of de meeruitgaven op Welzijn niet volledig doorgaan.",
+      "pubDate": "Wed, 23 Sep 2026 18:36:46 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:9enmJ9ul47M8BpD4u_q5ue&context=ONLINE&ratio=16/9&width=480&u=1790194230000"
     },
     {
       "id": "10687040",
@@ -421,28 +443,6 @@
       "score": 2,
       "in_de7": false,
       "image": "https://images.tijd.be/view?iid=Elvis:Cdx9es9-KBh9fcqnScyQo0&context=ONLINE&ratio=16/9&width=480&u=1790187787000"
-    },
-    {
-      "id": "10687181",
-      "title": "IonQ neemt drempel naar werkbare kwantumcomputer weg",
-      "link": "https://www.tijd.be/r/t/1/id/10687181",
-      "category": "Ondernemen",
-      "description": "De aandelen van kwantumtechnologiebedrijven zitten in de lift dankzij een technische doorbraak bij IonQ. Het bedrijf zegt dat het in real time de zogenaamde foutcorrectie op een kwantumcomputer kan uitvoeren.",
-      "pubDate": "Wed, 23 Sep 2026 14:30:07 GMT",
-      "score": 2,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:94XTGonu4J29Umso5ILO7y&context=ONLINE&ratio=16/9&width=480&u=1790186102000"
-    },
-    {
-      "id": "10687206",
-      "title": "Hervorming gezondheidszorg dreigt alweer op de lange baan te worden geschoven",
-      "link": "https://www.tijd.be/r/t/1/id/10687206",
-      "category": "Opinie",
-      "description": "Hoewel iedereen het eens lijkt over de noodzaak van de hervormingen in de gezondheidszorg, is het maar de vraag of die tijdig goedgekeurd raken. De betrokkenen zetten de hakken in het zand en een breed publiek debat blijft uit.",
-      "pubDate": "Wed, 23 Sep 2026 15:32:35 GMT",
-      "score": 2,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:5FK3vHx2KfD9VMTcuZgKca&context=ONLINE&ratio=16/9&width=480&u=1790173508000"
     }
   ]
 }
