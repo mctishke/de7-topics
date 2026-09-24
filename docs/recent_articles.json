@@ -1,6 +1,127 @@
 {
   "articles": [
     {
+      "id": "10687370",
+      "title": "Meta surft verder op Muse-enthousiasme op volatiel Wall Street",
+      "link": "https://www.tijd.be/r/t/1/id/10687370",
+      "category": "Markten Live",
+      "description": "Door een volatiele olieprijs schommelt Wall Street tussen winst en verlies. De Amerikaanse 30-jarige rente bereikt het hoogste peil in 22 jaar. Meta blijft profiteren van het enthousiasme rond AI-agent Muse.",
+      "pubDate": "Thu, 24 Sep 2026 17:45:59 GMT",
+      "score": 0,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:0GJ5dekhaYA8GRDXHutWU1&context=ONLINE&ratio=16/9&width=480&u=1790271962000"
+    },
+    {
+      "id": "10687381",
+      "title": "Vooruit ruikt kans om belastingvrije schenking familiebedrijven te schrappen",
+      "link": "https://www.tijd.be/r/t/1/id/10687381",
+      "category": "Politiek & Economie",
+      "description": "Nu blijkt dat vorig jaar voor 25 miljard euro familiebedrijven belastingvrij zijn weggeschonken, wil viceminister-president Melissa Depraetere (Vooruit) bij de Vlaamse begrotingsronde komaf maken met het gunstregime. De N-VA geeft (nog) geen hard njet, werkgeversorganisaties steigeren. 'Dit leidt tot de uitverkoop van familiebedrijven.'",
+      "pubDate": "Thu, 24 Sep 2026 17:34:14 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:DDumT9YsaXy8E3cF09YWw4&context=ONLINE&ratio=16/9&width=480&u=1790273170000"
+    },
+    {
+      "id": "10687387",
+      "title": "Trump vóór overleg met Xi: 'Vangrails voor AI zijn niet nodig'",
+      "link": "https://www.tijd.be/r/t/1/id/10687387",
+      "category": "Politiek & Economie",
+      "description": "De Amerikaanse president Trump blijft zich verzetten tegen de regulering van artificiële intelligentie. Het is een heikel thema tijdens het bezoek van de Chinese president Xi Jinping.",
+      "pubDate": "Thu, 24 Sep 2026 17:26:06 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:4MyYW7WYKB88AnLIHfjh0G&context=ONLINE&ratio=16/9&width=480&u=1790270766000"
+    },
+    {
+      "id": "10687408",
+      "title": "Vlaamse ondernemers ongerust over Europees vennootschapsregime",
+      "link": "https://www.tijd.be/r/t/1/id/10687408",
+      "category": "Politiek & Economie",
+      "description": "Het Vlaamse bedrijfsleven is er niet gerust op dat het nieuwe pan-Europese vennootschapsregime EU Inc. zijn meerwaarde zal bewijzen. ‘Hoeveel nationale uitzonderingen kan een Europees systeem torsen zonder zijn bestaansreden te verliezen?’, vragen ze zich af. Ook de vakbonden maken zich zorgen.",
+      "pubDate": "Thu, 24 Sep 2026 16:42:22 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:8hKQ3_2PK27AxmeAGhXq3y&context=ONLINE&ratio=16/9&width=480&u=1790274255000"
+    },
+    {
+      "id": "10687402",
+      "title": "Herschikking ECB-directie start met overstap Isabel Schnabel naar IMF",
+      "link": "https://www.tijd.be/r/t/1/id/10687402",
+      "category": "Markten Live",
+      "description": "Isabel Schnabel, een invloedrijke bestuurster van de Europese Centrale Bank (ECB), krijgt begin 2027 een topfunctie bij het Internationaal Monetair Fonds (IMF). Haar vertrek is de start van een grondige herschikking van de ECB-directie.",
+      "pubDate": "Thu, 24 Sep 2026 16:34:28 GMT",
+      "score": 0,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:CbP_U-_k4oN8_oramU6elV&context=ONLINE&ratio=16/9&width=480&u=1790267668000"
+    },
+    {
+      "id": "10687410",
+      "title": "Vrouw overleden in politiecel in Herentals",
+      "link": "https://www.tijd.be/r/t/1/id/10687410",
+      "category": "Politiek & Economie",
+      "description": "In het hoofdkantoor van de lokale politiezone Neteland in Herentals is donderdagochtend een 38-jarige vrouw dood aangetroffen in een politiecel. Dat meldt Gazet van Antwerpen en bevestigt het Antwerpse parket.",
+      "pubDate": "Thu, 24 Sep 2026 15:46:37 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:9QmnE2JSqDgAJuMc8L38nt&context=ONLINE&ratio=16/9&width=480&u=1790265565000"
+    },
+    {
+      "id": "10687349",
+      "title": "Groeiplan MR wordt op ongeloof onthaald: 'Moeilijk ernstig te nemen'",
+      "link": "https://www.tijd.be/r/t/1/id/10687349",
+      "category": "Politiek & Economie",
+      "description": "De federale regering zit donderdagavond opnieuw samen over de begroting. Het groeiplan dat de MR woensdag voorstelde, lijkt die oefening eerder moeilijker te maken dan vooruit te helpen.",
+      "pubDate": "Thu, 24 Sep 2026 15:41:34 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:AHbqPaNJaKM9ZJX_jxnBq9&context=ONLINE&ratio=16/9&width=480&u=1790269666000"
+    },
+    {
+      "id": "10687378",
+      "title": "AI-hack van Australische overheid lijkt onschuldig, maar is het verre van",
+      "link": "https://www.tijd.be/r/t/1/id/10687378",
+      "category": "Ondernemen",
+      "description": "De infiltratie door een AI-agent in een beveiligde Australische overheidssite lijkt op het eerste gezicht geen grote gevolgen te hebben. Maar op basis van wat we al weten, zijn de conclusies alarmerend.",
+      "pubDate": "Thu, 24 Sep 2026 15:09:15 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:64dVKOIFK38AO0OXxssj8r&context=ONLINE&ratio=16/9&width=480&u=1790268451000"
+    },
+    {
+      "id": "10687368",
+      "title": "Heropleving Duitse economie wint vaart: 'Bijna te goed om waar te zijn'",
+      "link": "https://www.tijd.be/r/t/1/id/10687368",
+      "category": "Politiek & Economie",
+      "description": "Het Duitse ondernemersvertrouwen is gestegen naar het hoogste peil in drie jaar en de belangrijkste onderzoeksinstellingen hebben hun groeiprognose voor de Duitse economie verdubbeld.",
+      "pubDate": "Thu, 24 Sep 2026 15:01:48 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:Bp2iQiYp42GA1Z3X_yRGA_&context=ONLINE&ratio=16/9&width=480&u=1790263204000"
+    },
+    {
+      "id": "10687389",
+      "title": "CEO Fabien Pinckaers: 'Odoo is al 10 miljard euro waard'",
+      "link": "https://www.tijd.be/r/t/1/id/10687389",
+      "category": "Ondernemen",
+      "description": "Het Belgische techbedrijf Odoo groeit, na een iets minder jaar, opnieuw met 50 procent en denkt in de komende twaalf maanden 2.000 mensen aan te werven. ‘Dat tempo kunnen we zeker nog drie jaar volhouden’, zegt oprichter en CEO Fabien Pinckaers.",
+      "pubDate": "Thu, 24 Sep 2026 14:53:14 GMT",
+      "score": 6,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:Ecw3B75eKJEBsk8ETN7xJr&context=ONLINE&ratio=16/9&width=480&u=1790268479000"
+    },
+    {
+      "id": "10687364",
+      "title": "Allereerste volledige Ironman in België in enkele minuten uitverkocht: 'Nooit gezien'",
+      "link": "https://www.tijd.be/r/t/1/id/10687364",
+      "category": "Ondernemen",
+      "description": "Op 5 september 2027 vindt de allereerste volledige Ironman ooit plaats in ons land. Enkele minuten na de start van de ticketverkoop waren alle 2.800 startplaatsen voor de triatlon in Knokke-Heist de deur uit. Nochtans is een startnummer niet goedkoop.",
+      "pubDate": "Thu, 24 Sep 2026 14:35:07 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:EHKm5Of1aAHATIOntaIRFC&context=ONLINE&ratio=16/9&width=480&u=1790267161000"
+    },
+    {
       "id": "10687359",
       "title": "Banken riskeren 230 miljard te mislopen door opkomst 'slim geld'",
       "link": "https://www.tijd.be/r/t/1/id/10687359",
