@@ -1,6 +1,248 @@
 {
   "articles": [
     {
+      "id": "10687675",
+      "title": "Nergens zonder weg in Tielt-Winge",
+      "link": "https://www.tijd.be/r/t/1/id/10687675",
+      "category": "Dossiers",
+      "description": "Verdwalend in eigen land kijkt Rik Van Puymbroeck naar wat verwondert en soms overdondert.",
+      "pubDate": "Mon, 28 Sep 2026 18:30:18 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:EopKdmNC4Ru9ynXPhGxqvR&context=ONLINE&ratio=16/9&width=480&u=1790606864000"
+    },
+    {
+      "id": "10687712",
+      "title": "Iran-oorlog hertekent zeeroutes: terwijl haven van Dubai opdroogt, bouwt Oman aan alternatief",
+      "link": "https://www.tijd.be/r/t/1/id/10687712",
+      "category": "Politiek & Economie",
+      "description": "Het containerverkeer in Jebel Ali, de haven van Dubai, is door de Iran-oorlog met 90 procent ingestort. Even verderop bouwt Oman de haven van Duqm uit tot een alternatieve logistieke draaischijf voor de Golf, mét hulp uit ons land. ‘De Belgen zijn ineens wakker geworden. Nu werken ze 24 uur per dag.’",
+      "pubDate": "Mon, 28 Sep 2026 18:19:28 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:A4KtMGfW4JGBsImBn-FxW6&context=ONLINE&ratio=16/9&width=480&u=1790619577000"
+    },
+    {
+      "id": "10687778",
+      "title": "Vlaamse nachtschade",
+      "link": "https://www.tijd.be/r/t/1/id/10687778",
+      "category": "Opinie",
+      "description": "Nu de Vlaamse regering zegt op een zucht van een septemberverklaring te staan, blijft de vraag waar de grote lijn in het beleid zit. En waarom daarvoor een nachtelijk crisisbeleid nodig is.",
+      "pubDate": "Mon, 28 Sep 2026 18:05:06 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:5ZuvyD2LauZ8iIsuJEYiuJ&context=ONLINE&ratio=16/9&width=480&u=1790618709000"
+    },
+    {
+      "id": "10687760",
+      "title": "Vlaanderen haalt geld bij huizenkopers, kinderbijslag, dienstencheques en gemeenten",
+      "link": "https://www.tijd.be/r/t/1/id/10687760",
+      "category": "Politiek & Economie",
+      "description": "Voor de 'grootste besparingsoefening tijdens een legislatuur' verhoogt Vlaanderen de registratierechten tot 3 procent, maakt het dienstencheques 2 euro duurder en snijdt het zwaar in de kinderbijslag en de financiering van de gemeenten. Minister-president Matthias Diependaele moet de laatste knelpunten nog wegwerken, maar heeft zijn 'zwarte nul' bijna op zak.",
+      "pubDate": "Mon, 28 Sep 2026 17:54:41 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:AmY_rqciaZJ9SjTES68fwK&context=ONLINE&ratio=16/9&width=480&u=1790618084000"
+    },
+    {
+      "id": "10687711",
+      "title": "Nvidia trotseert rood Wall Street met inkooprecord van 150 miljard",
+      "link": "https://www.tijd.be/r/t/1/id/10687711",
+      "category": "Markten Live",
+      "description": "Rode cijfers op Wall Street: zowel de Dow Jones als de Nasdaq verliest terrein. Nvidia kondigt de grootste aandeleninkoop ooit aan en stuurt het aandeel tegen de stroom in bijna 3 procent hoger. Ondertussen veroorzaakt Meta paniek bij softwarebedrijven.",
+      "pubDate": "Mon, 28 Sep 2026 17:27:02 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:E-upH4TZK099h39F3Wug0y&context=ONLINE&ratio=16/9&width=480&u=1790616422000"
+    },
+    {
+      "id": "10687766",
+      "title": "De Wever wil al dit weekend tot de finish gaan",
+      "link": "https://www.tijd.be/r/t/1/id/10687766",
+      "category": "Politiek & Economie",
+      "description": "Met een aangepaste versie van zijn startnota wil premier Bart De Wever al dit weekend tot de finish onderhandelen over een sanering van 10 miljard euro. 'Dat is het droomscenario', luidt het in zijn entourage.",
+      "pubDate": "Mon, 28 Sep 2026 16:52:17 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:9wjvvqYhKQEBn5xj-jfFSB&context=ONLINE&ratio=16/9&width=480&u=1790614340000"
+    },
+    {
+      "id": "10687777",
+      "title": "Europa begint zoektocht naar ‘hybride verdediging’ tegen Rusland",
+      "link": "https://www.tijd.be/r/t/1/id/10687777",
+      "category": "Politiek & Economie",
+      "description": "Nu de dreiging van Rusland tegen doelwitten in Europa steeds groter wordt, zoeken de Europese landen een manier om hun collectieve defensie te versterken. ‘Als we met hybride oorlogsvoering te maken krijgen, moeten we een hybride verdediging hebben.’",
+      "pubDate": "Mon, 28 Sep 2026 16:41:16 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:B2ThL00QqInAoNLOe9h2px&context=ONLINE&ratio=16/9&width=480&u=1790613680000"
+    },
+    {
+      "id": "10687734",
+      "title": "Vakbonden en werkgevers botsen over 'prikklok'",
+      "link": "https://www.tijd.be/r/t/1/id/10687734",
+      "category": "Politiek & Economie",
+      "description": "De regeringsplannen om alle bedrijven vanaf volgend jaar te verplichten de werktijd nauwgezet te registreren, gaan niet ver genoeg voor de vakbonden. Voor de werkgevers moeten de plannen weg. Wellicht krijgt geen van beide zijn zin.",
+      "pubDate": "Mon, 28 Sep 2026 16:40:58 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:8HbCb84u4MDATqi7vjSclp&context=ONLINE&ratio=16/9&width=480&u=1790613662000"
+    },
+    {
+      "id": "10687762",
+      "title": "Belgische CEO van parkingreus Q-Park aast op extra overnames",
+      "link": "https://www.tijd.be/r/t/1/id/10687762",
+      "category": "Ondernemen",
+      "description": "De Nederlandse parkingreus Q-Park ziet kansen om de komende jaren middelgrote concurrenten over te nemen. Die zijn volgens de Belgische topman Frank De Moor niet in staat te investeren in technologie, zoals een app, slimme camera’s en laadpalen.",
+      "pubDate": "Mon, 28 Sep 2026 16:18:30 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:8CDM-3gOqu7BFX1ecz2IHl&context=ONLINE&ratio=16/9&width=480&u=1790612314000"
+    },
+    {
+      "id": "10687715",
+      "title": "Servische president Vucic stapt op en mikt op premierschap",
+      "link": "https://www.tijd.be/r/t/1/id/10687715",
+      "category": "Politiek & Economie",
+      "description": "Aleksandar Vucic stapt op als president van Servië, een maand voor de aangekondigde vervroegde parlementsverkiezingen en na twee jaar van studentenprotesten waarin om zijn ontslag werd gevraagd. Als zijn partij die wint, ligt de weg naar het premierschap open.",
+      "pubDate": "Mon, 28 Sep 2026 16:12:49 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:C8kc_a_9qXTBTULh4eOK5v&context=ONLINE&ratio=16/9&width=480&u=1790614435000"
+    },
+    {
+      "id": "10687774",
+      "title": "Wat zijn gevolgen van hogere registratierechten? ‘Starters zullen langer op huurmarkt blijven’",
+      "link": "https://www.tijd.be/r/t/1/id/10687774",
+      "category": "Netto",
+      "description": "De Vlaamse regering draait de verlaging van de registratiebelasting op de aankoop van een gezinswoning terug. De vastgoedsector reageert misnoegd: ‘De woningmarkt heeft nood aan een voorspelbaar beleid.’",
+      "pubDate": "Mon, 28 Sep 2026 16:10:41 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:DYWp5zGoaB08PnW88fjBlu&context=ONLINE&ratio=16/9&width=480&u=1790616912000"
+    },
+    {
+      "id": "10687744",
+      "title": "Oliehausse laat bonanza van energieaandelen voortduren",
+      "link": "https://www.tijd.be/r/t/1/id/10687744",
+      "category": "Markten Live",
+      "description": "Met een olieprijs boven 100 dollar per vat zijn het gouden tijden voor de oliemaatschappijen. Ondanks de stevige beurswinsten zijn de waarderingen in de sector niet duur, zolang de prijs van ruwe olie niet crasht.",
+      "pubDate": "Mon, 28 Sep 2026 15:50:40 GMT",
+      "score": 0,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:0GLExWAJ4LX9XEb2W09MRU&context=ONLINE&ratio=16/9&width=480&u=1790613872000"
+    },
+    {
+      "id": "10687757",
+      "title": "‘Chemiebedrijf Evonik wijst miljardenbod van BASF af wegens te laag’",
+      "link": "https://www.tijd.be/r/t/1/id/10687757",
+      "category": "Ondernemen",
+      "description": "Evonik zou een overnamebod van 10,3 miljard euro van zijn grotere Duitse sectorgenoot BASF afgewezen hebben. Volgens bronnen vond het chemiebedrijf de geboden prijs te lauw om formele onderhandelingen te starten.",
+      "pubDate": "Mon, 28 Sep 2026 15:40:13 GMT",
+      "score": 6,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:15o4ZYVk4gcBmcPvLTHf4y&context=ONLINE&ratio=16/9&width=480&u=1790611157000"
+    },
+    {
+      "id": "10687747",
+      "title": "Europese pakjestaks raakt Shein: prijzen omhoog, reclamebudget krimpt",
+      "link": "https://www.tijd.be/r/t/1/id/10687747",
+      "category": "Ondernemen",
+      "description": "De Chinese kledingwebshop Shein ziet zijn logistieke kosten oplopen door de Europese pakjestaks. Het bedrijf verhoogt noodgedwongen zijn prijzen en kan daardoor minder uitgeven aan reclame.",
+      "pubDate": "Mon, 28 Sep 2026 15:29:30 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:CsSZSqrQaL9BC4-gew7p22&context=ONLINE&ratio=16/9&width=480&u=1790611123000"
+    },
+    {
+      "id": "10687668",
+      "title": "Van Bossuyt wil rem op studiemigratie: 'Studeren is geen toegangsticket om hier te blijven'",
+      "link": "https://www.tijd.be/r/t/1/id/10687668",
+      "category": "Dossiers",
+      "description": "Om 'fraude en misbruik' bij niet-Europese studenten tegen te gaan, wil minister van Migratie Anneleen Van Bossuyt (N-VA) de studiemigratie stevig verstrengen. Zowel het bedrijfsleven als het hoger onderwijs verzet zich. 'Onze studenten zijn geen spookstudenten.'",
+      "pubDate": "Mon, 28 Sep 2026 15:25:31 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:2EMBbIXqqSN9hnto-H2kT-&context=ONLINE&ratio=16/9&width=480&u=1790611076000"
+    },
+    {
+      "id": "10687756",
+      "title": "Vooruit zet Jinnih Beels aan de deur: ‘Als ze weigert het fair te spelen, moeten we ingrijpen’",
+      "link": "https://www.tijd.be/r/t/1/id/10687756",
+      "category": "Politiek & Economie",
+      "description": "Het is de kroniek van een aangekondigd vertrek: provincieraadslid en voormalig Antwerps kopstuk Jinnih Beels is aan de deur gezet bij Vooruit ‘na aanhoudende klachten over haar deloyaal gedrag’.",
+      "pubDate": "Mon, 28 Sep 2026 15:23:35 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:DlppHe5vaDXAgFDildgMau&context=ONLINE&ratio=16/9&width=480&u=1790620408000"
+    },
+    {
+      "id": "10687725",
+      "title": "Vlaamse regering verhoogt registratierechten op aankoop gezinswoning weer, erfbelastingen zullen dalen",
+      "link": "https://www.tijd.be/r/t/1/id/10687725",
+      "category": "Politiek & Economie",
+      "description": "De Vlaamse regering draait de verlaging van de registratierechten op de aankoop van de eerste en eigen woning van vorig jaar terug. Begin 2027 stijgt het tarief weer van 2 naar 3 procent. De erfbelastingen zullen wel dalen en het gunstregime voor schenkingen van familiale bedrijven blijft overeind.",
+      "pubDate": "Mon, 28 Sep 2026 15:21:35 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:8qz66-j7qzD9PvKJKaR1rR&context=ONLINE&ratio=16/9&width=480&u=1790608895000"
+    },
+    {
+      "id": "10687724",
+      "title": "Bouwmaterialengroep Etex schrapt bijna 100 jobs in Kapelle-op-den-Bos",
+      "link": "https://www.tijd.be/r/t/1/id/10687724",
+      "category": "Ondernemen",
+      "description": "De Belgische bouwmaterialengroep Etex schrapt bijna 100 banen in haar Eternit-vestiging in Kapelle-op-den-Bos. Dat is een kwart van het totale aantal werknemers in de fabriek. Ook wordt een deel van de productie overgeheveld naar Litouwen en China.",
+      "pubDate": "Mon, 28 Sep 2026 15:19:33 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:7_GCsoG8a9BBqG_uMvqXQb&context=ONLINE&ratio=16/9&width=480&u=1790619087000"
+    },
+    {
+      "id": "10687742",
+      "title": "Trump sluit grens voor reeks Canadese producten",
+      "link": "https://www.tijd.be/r/t/1/id/10687742",
+      "category": "Politiek & Economie",
+      "description": "De Verenigde Staten verbieden vanaf dinsdag de import van een reeks Canadese producten. Met het verbod zet de Amerikaanse president Donald Trump voor het eerst een nieuw wapen in zijn handelsoorlogen in.",
+      "pubDate": "Mon, 28 Sep 2026 15:17:02 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:8QsgkGGCqSHAoBMAg37xYt&context=ONLINE&ratio=16/9&width=480&u=1790620663000"
+    },
+    {
+      "id": "10687700",
+      "title": "Modehuis Armani start gesprekken over instap luxeconcerns",
+      "link": "https://www.tijd.be/r/t/1/id/10687700",
+      "category": "Ondernemen",
+      "description": "Het modehuis Armani maakt werk van de wens van zijn vorig jaar overleden oprichter voor een gedeeltelijke verkoop. Wijlen Giorgio Armani noemde in zijn testament drie potentiële kopers bij naam, maar de CEO maakt nu een opening naar andere kandidaten.",
+      "pubDate": "Mon, 28 Sep 2026 14:47:07 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:AmPfuU8aKxHA4azM2pRGcA&context=ONLINE&ratio=16/9&width=480&u=1790607256000"
+    },
+    {
+      "id": "10674948",
+      "title": "Onze favoriete restaurants in Brussel",
+      "link": "https://www.tijd.be/r/t/1/id/10674948",
+      "category": "Sabato",
+      "description": "Op zoek naar een goed restaurant in Brussel? Dit zijn de favoriete restaurants van onze correspondent die de stad door en door kent.",
+      "pubDate": "Mon, 28 Sep 2026 13:05:21 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:2Tzgg_0Vawc8YklsHE-eWq&context=ONLINE&ratio=16/9&width=480&u=1790600601000"
+    },
+    {
+      "id": "10687696",
+      "title": "Recensie | ‘Notre salut’ geeft collaboratie in Vichy een menselijk gezicht",
+      "link": "https://www.tijd.be/r/t/1/id/10687696",
+      "category": "Cultuur",
+      "description": "Waarom heulen mensen mee met de bezetter? Het antwoord van het oorlogsdrama ‘Notre salut’ is minder evident dan je verwacht en des te confronterender. Regisseur Emmanuel Marre zat dicht bij de bron: zijn overgrootvader werkte voor het regime in Vichy.",
+      "pubDate": "Mon, 28 Sep 2026 11:25:21 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:90auUqVyq8O8XF1ORNEB9j&context=ONLINE&ratio=16/9&width=480&u=1790618428000"
+    },
+    {
       "id": "10687438",
       "title": "De Tijdcapsule | Yves Lejaeghere (Deliveryves): ‘KV Oostende overlaten aan Marc Coucke was het moeilijkste wat ik ooit deed’",
       "link": "https://www.tijd.be/r/t/1/id/10687438",
@@ -192,7 +434,7 @@
       "category": "Opinie",
       "description": "De Vlaamse begroting op de sporen krijgen zou in de Wetstraat het makkelijke werk moeten zijn. Het is weinig hoopgevend dat het dat niet lijkt te zijn.",
       "pubDate": "Sun, 27 Sep 2026 17:33:54 GMT",
-      "image": null
+      "image": "https://images.tijd.be/view?iid=Elvis:5ZuvyD2LauZ8iIsuJEYiuJ&context=ONLINE&ratio=16/9&width=480&u=1790618709000"
     },
     {
       "id": "10687628",
@@ -201,7 +443,7 @@
       "category": "Politiek & Economie",
       "description": "In het Verenigd Koninkrijk zijn vijf mannen opgepakt die volgens de politie een terreurdaad voorbereidden nabij een Amerikaanse luchtmachtbasis. De antiterrorisme-eenheid van de Britse politie leidt het onderzoek.",
       "pubDate": "Sun, 27 Sep 2026 13:34:27 GMT",
-      "image": null
+      "image": "https://images.tijd.be/view?iid=Elvis:39JdswvXK3p86doLKncfmP&context=ONLINE&ratio=16/9&width=480&u=1790575339000"
     },
     {
       "id": "10687621",
@@ -237,7 +479,7 @@
       "category": "Sabato",
       "description": "Tweesterrenchef Pascal Devalkeneer van restaurant Le Chalet de la Forêt in Brussel sloopte zijn interieur, liet voor de nieuwe tafels en stoelen hout aanrukken uit het Zoniënwoud en koos voor een rauw, nieuw avontuur. Wij mochten binnenkijken.",
       "pubDate": "Sun, 27 Sep 2026 03:31:30 GMT",
-      "image": null
+      "image": "https://images.tijd.be/view?iid=Elvis:CeCUYlELKwDBbTYIZIvLj9&context=ONLINE&ratio=16/9&width=480&u=1790602319000"
     },
     {
       "id": "10687385",
