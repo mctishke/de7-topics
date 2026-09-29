@@ -1,6 +1,160 @@
 {
   "articles": [
     {
+      "id": "10687956",
+      "title": "OpenAI heeft nu ook AI-assistent voor dagelijks gebruik klaar",
+      "link": "https://www.tijd.be/r/t/1/id/10687956",
+      "category": "Ondernemen",
+      "description": "De topman van OpenAI, Sam Altman, heeft op de jaarlijkse ontwikkelaarsconferentie van zijn bedrijf de AI-assistent Dots gepresenteerd. Daarmee mengt Altman zich in de wedloop naar de nieuwste toepassing van een sector die nog altijd op zoek is naar structurele verdienmodellen.",
+      "pubDate": "Tue, 29 Sep 2026 20:53:18 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:2kkezSMcqXVASjkVeRX1vS&context=ONLINE&ratio=16/9&width=480&u=1790715202000"
+    },
+    {
+      "id": "10687919",
+      "title": "Diependaele zet rekeningen op orde, maar krijgt zijn regering niet uit vechtmodus",
+      "link": "https://www.tijd.be/r/t/1/id/10687919",
+      "category": "Politiek & Economie",
+      "description": "Door facturen te verhogen voor burgers, te snijden in de subsidies en de overheid, en door 700 miljoen euro geplande uitgaven te annuleren, heeft de regering-Diependaele haar begrotingsevenwichten beet. Daarmee maakt de N-VA haar ambitie waar, maar omdat Vooruit gewrongen zit met de besparingen op Welzijn dreigen nog zure oprispingen.",
+      "pubDate": "Tue, 29 Sep 2026 20:17:51 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:5rwxmekjqyB8sYlcua5RDf&context=ONLINE&ratio=16/9&width=480&u=1790715653000"
+    },
+    {
+      "id": "10687954",
+      "title": "Wall Street: 'Waarschuwing over AI-agent Muse bezorgt Apple tik van bijna 3 procent'",
+      "link": "https://www.tijd.be/r/t/1/id/10687954",
+      "category": "Markten Live",
+      "description": "De Amerikaanse beurzen sloten lichtrood nu de rentes weer opveren. Apple kreeg een tik nu Bank of America vreest dat AI-agenten als Muse aan het verdienmodel van de techreus kunnen knagen. Carnival ging fors hoger na een prognoseverhoging.",
+      "pubDate": "Tue, 29 Sep 2026 20:13:53 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:CjatTMDLaF2BZRQjEhvlED&context=ONLINE&ratio=16/9&width=480&u=1790713904000"
+    },
+    {
+      "id": "10687935",
+      "title": "Debat over registratierechten mag echte woonuitdaging niet overschaduwen",
+      "link": "https://www.tijd.be/r/t/1/id/10687935",
+      "category": "Opinie",
+      "description": "Een stijging van de registratierechten met 1 procentpunt zal de Vlaamse woonmarkt op zichzelf niet fundamenteel veranderen.",
+      "pubDate": "Tue, 29 Sep 2026 19:39:50 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:4ZxpigAaaxdA5saMgUVBc0&context=ONLINE&ratio=16/9&width=480&u=1790710806000"
+    },
+    {
+      "id": "10687932",
+      "title": "Dienstenchequebedrijf Daenens na Vlaamse besparing: ‘Op twee jaar moet gezin 1.000 euro meer betalen voor dezelfde dienst’",
+      "link": "https://www.tijd.be/r/t/1/id/10687932",
+      "category": "Politiek & Economie",
+      "description": "De Vlaamse regering verhoogt de prijs van dienstencheques. Een jammerlijke besparing, vindt Nico Daenens, de topman van de grootste werkgever van huishoudhulpen. 'Ik vraag de Vlaamse regering een deel terug te laten vloeien naar de sector, voor betere arbeidsvoorwaarden, opleiding en begeleiding.'",
+      "pubDate": "Tue, 29 Sep 2026 19:13:31 GMT",
+      "score": 5,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:4GSNIIyMK718xo2ifq5SPN&context=ONLINE&ratio=16/9&width=480&u=1790709218000"
+    },
+    {
+      "id": "10687934",
+      "title": "Een inflatieschok die we konden missen",
+      "link": "https://www.tijd.be/r/t/1/id/10687934",
+      "category": "Opinie",
+      "description": "De stijgende inflatie toont hoe belangrijk het is het dubbele carcan van de automatische indexering van de lonen en de loonwet te hervormen. Tegelijkertijd maakt ze die broodnodige oefening net moeilijker.",
+      "pubDate": "Tue, 29 Sep 2026 18:43:33 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:5ZuvyD2LauZ8iIsuJEYiuJ&context=ONLINE&ratio=16/9&width=480&u=1790707416000"
+    },
+    {
+      "id": "10687849",
+      "title": "Nergens zonder weg in Antwerpen",
+      "link": "https://www.tijd.be/r/t/1/id/10687849",
+      "category": "Dossiers",
+      "description": "Verdwalend in eigen land kijkt Rik Van Puymbroeck naar wat verwondert en soms overdondert.",
+      "pubDate": "Tue, 29 Sep 2026 18:31:53 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:1ZcseMoiaCi8XNDBNLbI1n&context=ONLINE&ratio=16/9&width=480&u=1790672148000"
+    },
+    {
+      "id": "10687950",
+      "title": "'Het kwartier is om': Vlaamse regering heeft akkoord over begroting",
+      "link": "https://www.tijd.be/r/t/1/id/10687950",
+      "category": "Politiek & Economie",
+      "description": "Het duurde iets langer dan het door Vlaams minister-president Matthias Diependaele vooropgestelde kwartier, maar de Vlaamse regering heeft een akkoord bereikt over de begroting voor de komende jaren. Om het budget in evenwicht te houden, is tegen 2029 een sanering van 3,1 miljard euro nodig.",
+      "pubDate": "Tue, 29 Sep 2026 18:15:34 GMT",
+      "score": 7,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:4E5wF8gAKLs90Wu0DvNP-D&context=ONLINE&ratio=16/9&width=480&u=1790705734000"
+    },
+    {
+      "id": "10687930",
+      "title": "Opvallend idee van Oostenrijk: ‘Eenvoudigere Europese regels? Maak een jaar lang geen nieuwe’",
+      "link": "https://www.tijd.be/r/t/1/id/10687930",
+      "category": "Politiek & Economie",
+      "description": "Met twee nieuwe initiatieven zet het anders zo discrete Oostenrijk zich aan de kop van het Europese peloton om de plannen voor minder belastende regelgeving een extra impuls te geven. ‘We moeten focussen op wat we al hebben.’",
+      "pubDate": "Tue, 29 Sep 2026 18:07:24 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:Fa1Mt6Gj4JL8m2px3Qdac9&context=ONLINE&ratio=16/9&width=480&u=1790712114000"
+    },
+    {
+      "id": "10687948",
+      "title": "CD&V krijgt zitje van Jinnih Beels in provinciebestuur Antwerpen",
+      "link": "https://www.tijd.be/r/t/1/id/10687948",
+      "category": "Politiek & Economie",
+      "description": "De Vlaamse coalitiepartners hebben een deal gesloten om Jinnih Beels, de in ongenade gevallen Vooruit-pion in Antwerpen, te kunnen afserveren. CD&V krijgt haar post in het provinciebestuur.",
+      "pubDate": "Tue, 29 Sep 2026 18:04:10 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:463leVPCK4PATxX3gjYBhn&context=ONLINE&ratio=16/9&width=480&u=1790705940000"
+    },
+    {
+      "id": "10687942",
+      "title": "Monopoly-spel ‘made in America’? Niet zonder hulp uit Turnhout",
+      "link": "https://www.tijd.be/r/t/1/id/10687942",
+      "category": "Ondernemen",
+      "description": "Het Amerikaanse WS Game Company wilde een Monopoly-editie maken die volledig in de Verenigde Staten werd geproduceerd. Het vond daarvoor maar één geïnteresseerde klassieke spellenfabrikant: het Belgische Cartamundi.",
+      "pubDate": "Tue, 29 Sep 2026 17:42:10 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:45IECvRCKW8B09uvGnvaZa&context=ONLINE&ratio=16/9&width=480&u=1790707061000"
+    },
+    {
+      "id": "10687916",
+      "title": "Jean-Jacques De Gucht wordt bestuurder bij Brussels museum Kanal",
+      "link": "https://www.tijd.be/r/t/1/id/10687916",
+      "category": "Politiek & Economie",
+      "description": "Jean-Jacques De Gucht, die in 2024 de politiek verliet, wordt bestuurder bij het Brusselse museum Kanal-Pompidou. Het gaat om een onbezoldigd mandaat.",
+      "pubDate": "Tue, 29 Sep 2026 17:25:57 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:Ad0NhjvKK5eBtp2zsrcgop&context=ONLINE&ratio=16/9&width=480&u=1790708882000"
+    },
+    {
+      "id": "10687929",
+      "title": "518 miljard dollar: gelekt prospectus plakt cijfer op AI-visie van Anthropic",
+      "link": "https://www.tijd.be/r/t/1/id/10687929",
+      "category": "Ondernemen",
+      "description": "Met een nakende beursgang wil Anthropic zijn toekomstige investeringen in de uitbouw van AI-infrastructuur financieren. Uit het gelekte prospectus blijkt hoeveel geld die visie mag kosten: 518 miljard dollar. Sceptici krabben zich in de haren over de haalbaarheid.",
+      "pubDate": "Tue, 29 Sep 2026 17:14:39 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:9s52_O8YKQr8_1WLX0KKXO&context=ONLINE&ratio=16/9&width=480&u=1790710866000"
+    },
+    {
+      "id": "10687891",
+      "title": "Kmo's over schrapping opleidingssteun: 'Voor ons maakt het echt verschil'",
+      "link": "https://www.tijd.be/r/t/1/id/10687891",
+      "category": "Verkiezingen",
+      "description": "De Vlaamse regering schrapt de kmo-portefeuille, het potje waarmee bedrijven opleidingen kunnen betalen. Niet alleen kmo’s voelen dat. Opleidingsverstrekkers zoals Vlerick Business School vrezen een terugval van de inschrijvingen.",
+      "pubDate": "Tue, 29 Sep 2026 16:56:26 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:BqY7GJcOadTApXH-Ji5NuB&context=ONLINE&ratio=16/9&width=480&u=1790715414000"
+    },
+    {
       "id": "10687937",
       "title": "Carrefour en Intermarché bieden op laatste Franse brok van Colruyt",
       "link": "https://www.tijd.be/r/t/1/id/10687937",
