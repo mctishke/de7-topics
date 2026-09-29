@@ -1,7 +1,239 @@
 {
-  "generated_at": "2026-09-28T23:29:33.528577+00:00",
+  "generated_at": "2026-09-29T10:58:36.178319+00:00",
   "date": "2026-09-29",
-  "de7_title": "28/09 | Weekvooruitblik met econome Dorien Emmers | Raakt de Vlaamse begroting op tijd rond? | 'Golden Week in China is cruciale test voor binnenlandse economie'",
-  "de7_matched_count": 0,
-  "articles": []
+  "de7_title": "29/09 | Vlaanderen haalt geld bij huizenkopers, kinderbijslag, dienstencheques en gemeenten | Taksen op diesel bij de hoogste in Europa | Bonanza olieaandelen duurt voort",
+  "de7_matched_count": 1,
+  "articles": [
+    {
+      "id": "10687463",
+      "title": "Diesel bijna nergens zo zwaar belast als in België",
+      "link": "https://www.tijd.be/r/t/1/id/10687463",
+      "category": "Dossiers",
+      "description": "De dieselprijs ligt in België ver boven het Europese gemiddelde, vooral gedreven door de hoge belastingen aan de pomp. In de EU zijn er maar twee landen waar het aandeel van taksen en belastingen in de dieselprijs nóg hoger ligt.",
+      "pubDate": "Tue, 29 Sep 2026 03:00:00 GMT",
+      "score": 12,
+      "in_de7": true,
+      "image": "https://images.tijd.be/view?iid=Elvis:AdcceMDaKxeB9QuI2r6BVm&context=ONLINE&ratio=16/9&width=480&u=1790667737000"
+    },
+    {
+      "id": "10687659",
+      "title": "Gents Spotable tankt 4 miljoen euro en trekt met bouwsoftware naar Amerika",
+      "link": "https://www.tijd.be/r/t/1/id/10687659",
+      "category": "Ondernemen",
+      "description": "Spotable krijgt van enkele bekende techondernemers een kapitaalinjectie van 4 miljoen euro. De Gentse start-up wil groeien in de Verenigde Staten met software die bouwbedrijven helpt bij opmetingen en offertes.",
+      "pubDate": "Tue, 29 Sep 2026 10:00:58 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:Ca6T3aiaax9967y5006VDm&context=ONLINE&ratio=16/9&width=480&u=1790672253000"
+    },
+    {
+      "id": "10687810",
+      "title": "Lachaert: 'Anders heeft gekozen voor stedelijke linkse lijn rond migratie'",
+      "link": "https://www.tijd.be/r/t/1/id/10687810",
+      "category": "Politiek & Economie",
+      "description": "De gewezen liberale partijvoorzitter Egbert Lachaert gaat ervan uit dat zijn ex-partij Anders gekozen heeft voor een 'stedelijke linkse lijn' rond de thema's veiligheid en migratie. Dat heeft hij gezegd in een interview in 'De ochtend' op Radio 1.",
+      "pubDate": "Tue, 29 Sep 2026 07:57:16 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:628fzkuhqCjA89Wvtz4rVk&context=ONLINE&ratio=16/9&width=480&u=1790669382000"
+    },
+    {
+      "id": "10687792",
+      "title": "Langdurig ziekteverzuim zakt met 4,6 procent",
+      "link": "https://www.tijd.be/r/t/1/id/10687792",
+      "category": "Politiek & Economie",
+      "description": "Het langdurige absenteïsme op de werkvloer is in de eerste helft van dit jaar met 4,6 procent gedaald tegenover een jaar eerder. Volgens het hr-bedrijf Securex heeft dat te maken met het 'terug naar werk'-beleid.",
+      "pubDate": "Tue, 29 Sep 2026 05:17:12 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:A8ZQHY3WqUuA8V_7tqBI_v&context=ONLINE&ratio=16/9&width=480&u=1790667333000"
+    },
+    {
+      "id": "10687852",
+      "title": "Van droogkuis tot boegbeeld van mensgerichte AI: Fei-Fei Li stapt voor 8 miljard binnen bij AMD",
+      "link": "https://www.tijd.be/r/t/1/id/10687852",
+      "category": "Dossiers",
+      "description": "Ze kwam als tiener met haar ouders vanuit China naar de Verenigde Staten, sprak nauwelijks Engels en hielp mee in restaurants en de stomerij van haar familie. Vier decennia later behoort Fei-Fei Li tot de invloedrijkste wetenschappers in artificiële intelligentie, met de overname van haar start-up World Labs door AMD als orgelpunt.",
+      "pubDate": "Tue, 29 Sep 2026 10:49:36 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:6eU07WWA49P968zMsaTxHM&context=ONLINE&ratio=16/9&width=480&u=1790679101000"
+    },
+    {
+      "id": "10687439",
+      "title": "De Tijdcapsule | Yves Lejaeghere (DeliverYves): ‘Door het gat in de markt te zoeken, heb ik geen ‘courante’ businesses gehad’",
+      "link": "https://www.tijd.be/r/t/1/id/10687439",
+      "category": "Dossiers",
+      "description": "Yves Lejaeghere (64) is serieel ondernemer en de stichter van Open Bedrijvendag, die zondag voor de 36ste keer plaatsvindt. Nadat hij dat initiatief in 2012 had verkocht aan Roularta, werd hij de voorzitter van de voetbalclub KV Oostende, die Marc Coucke in 2013 van hem overnam. Nu runt hij de start-up en drankenleverancier voor kmo’s DeliverYves. Deze week neemt hij plaats in De Tijdcapsule. Vandaag: de tegenwoordige tijd.",
+      "pubDate": "Tue, 29 Sep 2026 10:31:39 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:4STq7UO0qU9AWJWkST0koj&context=ONLINE&ratio=16/9&width=480&u=1790671482000"
+    },
+    {
+      "id": "10687854",
+      "title": "Uitgelekt prospectus Anthropic onthult cijfers voor beursgang",
+      "link": "https://www.tijd.be/r/t/1/id/10687854",
+      "category": "Ondernemen",
+      "description": "In de marge van waarschuwingen voor 'existentiële risico's voor de mensheid' zijn ook financiële details uit het prospectus van Anthropic gelekt.",
+      "pubDate": "Tue, 29 Sep 2026 10:17:40 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:D1UsCl76a0G8Wzw18uCicj&context=ONLINE&ratio=16/9&width=480&u=1790677063000"
+    },
+    {
+      "id": "10687858",
+      "title": "Belgische inflatie sluipt richting 5 procent",
+      "link": "https://www.tijd.be/r/t/1/id/10687858",
+      "category": "Markten Live",
+      "description": "Door de Iran-oorlog en bijhorende energieschok is het inflatietempo in ons land sinds februari verdrievoudigd, tot bijna 5 procent nu.",
+      "pubDate": "Tue, 29 Sep 2026 09:48:45 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:37aKH1meqBC99IU09klT87&context=ONLINE&ratio=16/9&width=480&u=1790678574000"
+    },
+    {
+      "id": "10687857",
+      "title": "Vlaamse regering hervat vanmiddag begrotingsgesprekken",
+      "link": "https://www.tijd.be/r/t/1/id/10687857",
+      "category": "Politiek & Economie",
+      "description": "De Vlaamse regering komt deze namiddag weer bijeen om een begrotingsakkoord te sluiten, nadat de gesprekken maandag zijn afgebroken. Een van de belangrijke losse eindjes gaat over steun aan energie-intensieve bedrijven.",
+      "pubDate": "Tue, 29 Sep 2026 09:45:48 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:4RqNPmlNKqvBeZwPhvm3BT&context=ONLINE&ratio=16/9&width=480&u=1790675213000"
+    },
+    {
+      "id": "10687796",
+      "title": "VS gaan uit van buitenlandse betrokkenheid bij 'geplande aanslag' op Britse luchtmachtbasis",
+      "link": "https://www.tijd.be/r/t/1/id/10687796",
+      "category": "Politiek & Economie",
+      "description": "Bij de vermoedelijke geplande aanslag op een luchtmachtbasis in Engeland was volgens de Amerikaanse minister van Buitenlandse Zaken Marco Rubio 'duidelijk een buitenlandse actor' betrokken. Nochtans werden de verdachten maandag vrijgelaten.",
+      "pubDate": "Tue, 29 Sep 2026 05:17:42 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:7szCOXDSqPLAEPz4JsYzEL&context=ONLINE&ratio=16/9&width=480&u=1790667252000"
+    },
+    {
+      "id": "10687846",
+      "title": "Belfius-topman houdt boot af voor fusie met Ethias",
+      "link": "https://www.tijd.be/r/t/1/id/10687846",
+      "category": "Ondernemen",
+      "description": "Gezien de focus van Belfius op de openstelling van zijn kapitaal staat, is het nu niet mogelijk om een fusie met verzekeraar Ethias te bestuderen. Dat heeft CEO Olivier Onclin gezegd in de Kamer.",
+      "pubDate": "Tue, 29 Sep 2026 10:03:06 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:8dwD8yDF47zA_o4h_TibkY&context=ONLINE&ratio=16/9&width=480&u=1790676416000"
+    },
+    {
+      "id": "10687859",
+      "title": "Colruyt is geen zondagskind",
+      "link": "https://www.tijd.be/r/t/1/id/10687859",
+      "category": "Ondernemen",
+      "description": "De kans dat Colruyt zijn prognose woensdag op de aandeelhoudersvergadering aanpast, lijkt klein. En als er een verandering komt, zal die er door de nijpende concurrentie allicht geen ten goede zijn.",
+      "pubDate": "Tue, 29 Sep 2026 09:49:17 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:DX0XKnczqDi81Pzq6VwJs2&context=ONLINE&ratio=16/9&width=480&u=1790675504000"
+    },
+    {
+      "id": "10687808",
+      "title": "OpenAI schrapt nieuw model wegens veiligheidsproblemen",
+      "link": "https://www.tijd.be/r/t/1/id/10687808",
+      "category": "Ondernemen",
+      "description": "OpenAI schrapt de uitrol van zijn nieuwste model, Astra 6.1, omdat het volgens het bedrijf onvoldoende veilig is. Het model zou zich niet aan de instructies van de gebruiker houden.",
+      "pubDate": "Tue, 29 Sep 2026 08:28:48 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:CeljdO6YaRV9qIGLR_uk2o&context=ONLINE&ratio=16/9&width=480&u=1790674223000"
+    },
+    {
+      "id": "10687812",
+      "title": "Volkswagen sluit Chinese deal voor Europese batterijfabrieken",
+      "link": "https://www.tijd.be/r/t/1/id/10687812",
+      "category": "Ondernemen",
+      "description": "Volkswagen heeft een miljardendeal gesloten met de Chinese batterijproducent Gotion voor de productie van de goedkope LFP-batterijen voor elektrische auto's. Daarmee hoopt Volkswagen in één klap zijn achterstand in die steeds populairdere batterijtechnologie goed te maken.",
+      "pubDate": "Tue, 29 Sep 2026 08:27:55 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:6nrk03Zi4HF8Q_lAK7CqnL&context=ONLINE&ratio=16/9&width=480&u=1790676685000"
+    },
+    {
+      "id": "10687717",
+      "title": "Investeringsfonds Waterland schuift simultaan met vier deals op het overnameschaakbord",
+      "link": "https://www.tijd.be/r/t/1/id/10687717",
+      "category": "Ondernemen",
+      "description": "De investeringsgroep Waterland werkt parallel aan een exit uit vier Belgische bedrijven, vernam De Tijd. Het gaat om de IT-groep 9altitudes, de logistieke specialist Dematra, BontexGeo (technisch textiel) en de zwembadafdekker T&A. De verkoopprocessen zitten nog in een beginstadium.",
+      "pubDate": "Tue, 29 Sep 2026 03:02:00 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:6wfTh9V1KSC9_YY5QEHjrK&context=ONLINE&ratio=16/9&width=480&u=1790669347000"
+    },
+    {
+      "id": "10687850",
+      "title": "S&P behoudt kredietrating voor Brussels Gewest",
+      "link": "https://www.tijd.be/r/t/1/id/10687850",
+      "category": "Politiek & Economie",
+      "description": "De Brusselse regering behoudt het vertrouwen van kredietbeoordelaar Standard & Poor's, al blijven er zorgen over de hoge schulden van het hoofdstedelijk gewest.",
+      "pubDate": "Tue, 29 Sep 2026 09:20:34 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:FSkCy5A6qZC9k_O3Gway_G&context=ONLINE&ratio=16/9&width=480&u=1790674913000"
+    },
+    {
+      "id": "10687727",
+      "title": "Vietnamees, Taiwanees en Thai openen samen grootste Chinees restaurant van Brussel",
+      "link": "https://www.tijd.be/r/t/1/id/10687727",
+      "category": "Sabato",
+      "description": "Na de Brusselse horeca al te hebben veroverd met smashburgers en Thais streetfood openen de ondernemers achter de restaurants Rambo en Old Boy nu het grootste Chinese restaurant van de hoofdstad.",
+      "pubDate": "Tue, 29 Sep 2026 04:45:33 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:6TzU1IlLqDbAH32rAqlqkK&context=ONLINE&ratio=16/9&width=480&u=1790602476000"
+    },
+    {
+      "id": "10687716",
+      "title": "François Rochon, de Canadese Buffett: ‘Verschroeiende groei van AI-investeringen kan geen jaren meer duren’",
+      "link": "https://www.tijd.be/r/t/1/id/10687716",
+      "category": "Markten Live",
+      "description": "‘Mensen vergeten dat halfgeleiders een zeer cyclische sector zijn. Het slechtste moment om dat te vergeten, is tijdens een hausse.’ François Rochon, de ‘Canadese Warren Buffett’, waarschuwt voor de keerzijde van de AI-boom. Volgens hem beginnen de grootste AI-investeerders te beseffen dat hun miljardenuitgaven veel minder rendement zullen opleveren dan verwacht.",
+      "pubDate": "Tue, 29 Sep 2026 08:22:34 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:E__Gx6364d38xcJL0oRLd2&context=ONLINE&ratio=16/9&width=480&u=1790670158000"
+    },
+    {
+      "id": "10687872",
+      "title": "Klap voor Amerikaanse IPO-markt: smartringmaker Oura stelt beursgang uit",
+      "link": "https://www.tijd.be/r/t/1/id/10687872",
+      "category": "Markten Live",
+      "description": "De Finse maker van slimme ringen Oura verwijst naar de onzekere marktomstandigheden om zijn beursgang op Nasdaq uit te stellen.",
+      "pubDate": "Tue, 29 Sep 2026 10:30:08 GMT",
+      "score": 0,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:2Tqo_xPH4kxBZYcGoh9kFm&context=ONLINE&ratio=16/9&width=480&u=1790677950000"
+    },
+    {
+      "id": "10687836",
+      "title": "Onteigeningsdreiging verhoogt druk op Duitse vastgoedaandelen",
+      "link": "https://www.tijd.be/r/t/1/id/10687836",
+      "category": "Markten Live",
+      "description": "De radicaal-linkse partij Die Linke, die de verkiezingen in Berlijn won, wil grote woningportefeuilles in de Duitse hoofdstad onteigenen. Hoewel het plan weinig kans maakt, zet het de al wankele Duitse vastgoedaandelen verder onder druk.",
+      "pubDate": "Tue, 29 Sep 2026 10:27:09 GMT",
+      "score": 0,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:1m2MMp4bKEkAK51fuiYthP&context=ONLINE&ratio=16/9&width=480&u=1790677633000"
+    },
+    {
+      "id": "10687791",
+      "title": "Ier Liam Kelly nieuwe CEO van medtechbedrijf Nyxoah",
+      "link": "https://www.tijd.be/r/t/1/id/10687791",
+      "category": "Markten Live",
+      "description": "Liam Kelly wordt de nieuwe CEO van medtechbedrijf Nyxoah. De Ier met Amerikaanse medtechervaring krijgt de zware job de slaapapneuchip Genio zo snel mogelijk op de kaart te zetten op de Amerikaanse markt.",
+      "pubDate": "Tue, 29 Sep 2026 05:01:40 GMT",
+      "score": 0,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:3dpGcYUWaMzAuZVGSEBd8t&context=ONLINE&ratio=16/9&width=480&u=1790667230000"
+    }
+  ]
 }
