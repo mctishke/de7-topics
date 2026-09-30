@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T16:32:50.952407+00:00",
+  "generated_at": "2026-09-30T20:59:24.129036+00:00",
   "date": "2026-09-30",
   "de7_title": "30/09 | Vooruit stemt dan toch niet in met Vlaams begrotingsakkoord | Industrie krijgt vanaf november energiekorting | Volkswagen sluit deal met Chinese batterijproducent",
   "de7_matched_count": 2,
@@ -58,6 +58,17 @@
       "score": 6,
       "in_de7": false,
       "image": "https://images.tijd.be/view?iid=Elvis:8MlrKwaeKps8v6Tk96QjL7&context=ONLINE&ratio=16/9&width=480&u=1790768147000"
+    },
+    {
+      "id": "10688104",
+      "title": "Wat betekent Vlaams begrotingsakkoord voor u en uw bedrijf?",
+      "link": "https://www.tijd.be/r/t/1/id/10688104",
+      "category": "Netto",
+      "description": "De Vlaamse regering is erin geslaagd de beoogde 3 miljard euro te vinden die nodig was om de begroting de volgende jaren in evenwicht te krijgen en te houden. Niet verrassend bevat het akkoord verschillende maatregelen die iedereen zal voelen.",
+      "pubDate": "Wed, 30 Sep 2026 17:56:57 GMT",
+      "score": 6,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:9Tc44aoIq9EA_IR5uALDJI&context=ONLINE&ratio=16/9&width=480&u=1790797407000"
     },
     {
       "id": "10687972",
@@ -181,6 +192,17 @@
       "image": "https://images.tijd.be/view?iid=Elvis:8a4jNC3nqUHAkXn1XP2ICl&context=ONLINE&ratio=16/9&width=480&u=1790776091000"
     },
     {
+      "id": "10688106",
+      "title": "Antwerpse olieraffinaderijen verliezen 35 miljoen euro subsidies",
+      "link": "https://www.tijd.be/r/t/1/id/10688106",
+      "category": "Ondernemen",
+      "description": "De Vlaamse regering schrapt 35 miljoen euro aan jaarlijkse energiesteun voor de olieraffinaderijen van ExxonMobil en TotalEnergies in Antwerpen en legt de industrie een hogere waterfactuur op.",
+      "pubDate": "Wed, 30 Sep 2026 17:37:51 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:1oxkdrkhKIY8-d4WlKrv3f&context=ONLINE&ratio=16/9&width=480&u=1790790866000"
+    },
+    {
       "id": "10687440",
       "title": "De Tijdcapsule | Yves Lejaeghere (DeliverYves): 'Toen Richard Branson het podium opkwam, dacht iedereen: 'Hoe heeft hij dat gelapt?''",
       "link": "https://www.tijd.be/r/t/1/id/10687440",
@@ -201,6 +223,39 @@
       "score": 3,
       "in_de7": false,
       "image": "https://images.tijd.be/view?iid=Elvis:0a6Otp_3qhlBKhNbOS1FI2&context=ONLINE&ratio=16/9&width=480&u=1790763661000"
+    },
+    {
+      "id": "10688013",
+      "title": "Tijdens de 'Gouden Week' wil Peking de Chinezen meer laten uitgeven, maar die houden de hand op de knip",
+      "link": "https://www.tijd.be/r/t/1/id/10688013",
+      "category": "Politiek & Economie",
+      "description": "China viert donderdag de 77ste verjaardag van de Volksrepubliek. Voor de Chinezen begint daarmee de 'Gouden Week', een van de langste vakantieperiodes van het jaar. Peking hoopt dat die vrije dagen de consumptie aanjagen in een economie die gebukt gaat onder een zwakke binnenlandse vraag. 'Een grote koopwoede blijft wellicht uit.'",
+      "pubDate": "Wed, 30 Sep 2026 19:45:37 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:2zCXUIWtKx3ATKL8gkdl5l&context=ONLINE&ratio=16/9&width=480&u=1790797947000"
+    },
+    {
+      "id": "10688038",
+      "title": "Waarom BMW nog wel miljarden in zijn dure Beierse fabrieken investeert",
+      "link": "https://www.tijd.be/r/t/1/id/10688038",
+      "category": "Ondernemen",
+      "description": "Terwijl Volkswagen vier Duitse fabrieken sluit en Mercedes-Benz met massaontslag dreigt als zijn Duitse werknemers geen langere werkweken willen draaien, investeert BMW volop in zijn Duitse fabrieken.",
+      "pubDate": "Wed, 30 Sep 2026 18:34:53 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:DHdn3eWMas2AgABC2Cglp6&context=ONLINE&ratio=16/9&width=480&u=1790798384000"
+    },
+    {
+      "id": "10688086",
+      "title": "Europa haalt trukendoos boven in poging energiecrisis te voorkomen",
+      "link": "https://www.tijd.be/r/t/1/id/10688086",
+      "category": "Politiek & Economie",
+      "description": "Door nieuwe rapporteringsverplichtingen voor importeurs van fossiele brandstoffen een jaar uit te stellen, wil de Europese Commissie vermijden dat de levering van olie en gas aan Europa in het gedrang komt. Daarnaast vraagt ze in een poging een energiecrisis te voorkomen aan de lidstaten om een zo zuinig mogelijk energieverbruik te stimuleren.",
+      "pubDate": "Wed, 30 Sep 2026 16:51:03 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:BN8nRMnfqiTAOmdcRmwRiB&context=ONLINE&ratio=16/9&width=480&u=1790787068000"
     },
     {
       "id": "10688014",
@@ -388,61 +443,6 @@
       "score": 2,
       "in_de7": false,
       "image": "https://images.tijd.be/view?iid=Elvis:08iH5KYGKAM8rQx5Kjbpvt&context=ONLINE&ratio=16/9&width=480&u=1790779564000"
-    },
-    {
-      "id": "10688058",
-      "title": "Een land zonder concurrentiekracht brengt geen wereldspelers voort",
-      "link": "https://www.tijd.be/r/t/1/id/10688058",
-      "category": "Opinie",
-      "description": "België bevindt zich in een economische wurggreep, maar het besef van de hoogdringendheid lijkt bij velen nog altijd veraf.",
-      "pubDate": "Wed, 30 Sep 2026 13:23:52 GMT",
-      "score": 2,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:9VWxAUlc4ZX9O3wxi7WlF2&context=ONLINE&ratio=16/9&width=480&u=1790776867000"
-    },
-    {
-      "id": "10675668",
-      "title": "Parijs bezoeken? Deze plekken mag je niet missen",
-      "link": "https://www.tijd.be/r/t/1/id/10675668",
-      "category": "Sabato",
-      "description": "Op zoek naar bijzondere dingen om te zien en doen in Parijs? Dit zijn de favorieten van onze correspondent die de stad door en door kent.",
-      "pubDate": "Wed, 30 Sep 2026 12:02:07 GMT",
-      "score": 2,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:FJ8ypU69aSAA00c-eSwjgH&context=ONLINE&ratio=16/9&width=480&u=1790769727000"
-    },
-    {
-      "id": "10687901",
-      "title": "Wat verandert voor uw portemonnee in oktober?",
-      "link": "https://www.tijd.be/r/t/1/id/10687901",
-      "category": "Netto",
-      "description": "In oktober verandert er heel wat op energievlak. Zo stijgen de sociale tarieven voor gas en elektriciteit. Wie met stookolie verwarmt, zal meer betalen. Voortaan kunnen oudere student-zelfstandigen hun statuut behouden. We zetten elf wijzigingen op een rij.",
-      "pubDate": "Wed, 30 Sep 2026 11:45:49 GMT",
-      "score": 2,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:2n1RAV8Ja4PBCG4o0ZJJw1&context=ONLINE&ratio=16/9&width=480&u=1790781241000"
-    },
-    {
-      "id": "10688002",
-      "title": "Een kwart grote werkgevers verkent of gebruikt flexibele verloning",
-      "link": "https://www.tijd.be/r/t/1/id/10688002",
-      "category": "Netto",
-      "description": "Een leasefiets, extra vakantiedagen of een verzekering: een kwart van de grote Belgische werkgevers verkent of gebruikt flexibele verloning. Vier op de tien kennen het concept, maar willen het niet invoeren.",
-      "pubDate": "Wed, 30 Sep 2026 11:35:28 GMT",
-      "score": 2,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:0AhYDgiJ48g9yqb2qbMrSi&context=ONLINE&ratio=16/9&width=480&u=1790768132000"
-    },
-    {
-      "id": "10687996",
-      "title": "Franse risicopremie spurt naar hoogste peil sinds 2012",
-      "link": "https://www.tijd.be/r/t/1/id/10687996",
-      "category": "Markten Live",
-      "description": "De nervositeit bij beleggers groeit, nu in Frankrijk het straatprotest aanzwelt nog voor er één begrotingsmaatregel is afgeklopt en presidentskandidaten voorstellen om 'schulden in de fik te steken'.",
-      "pubDate": "Wed, 30 Sep 2026 09:17:35 GMT",
-      "score": 1,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:A-CxjdWvqEJBGYf-o1Lcyj&context=ONLINE&ratio=16/9&width=480&u=1790759858000"
     }
   ]
 }
