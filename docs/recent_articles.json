@@ -1,6 +1,204 @@
 {
   "articles": [
     {
+      "id": "10694412",
+      "title": "Gouverneur Franse centrale bank: 'Land dreigt te verstikken door rentetarieven'",
+      "link": "https://www.tijd.be/r/t/1/id/10694412",
+      "category": "Markten Live",
+      "description": "De gouverneur van de Franse centrale bank waarschuwt dat Frankrijk door de stijgende rente dreigt te verstikken als het zijn begroting niet saneert.",
+      "pubDate": "Mon, 05 Oct 2026 19:45:56 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:FBTWk_ZhabWA_B4g_LlFpL&context=ONLINE&ratio=16/9&width=480&u=1791229559000"
+    },
+    {
+      "id": "10694414",
+      "title": "Blaam voor medewerker Weyts die vals opiniestuk probeerde te verspreiden",
+      "link": "https://www.tijd.be/r/t/1/id/10694414",
+      "category": "Politiek & Economie",
+      "description": "Vlaams minister van Begroting Ben Weyts (N-VA) heeft de kabinetsmedewerker die zich in een vals opiniestuk voordeed als een homoseksuele moslim een blaam gegeven. Dat laat zijn woordvoerder maandag weten.",
+      "pubDate": "Mon, 05 Oct 2026 19:03:06 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:3igVskahabJBJ2qT_btnzf&context=ONLINE&ratio=16/9&width=480&u=1791226990000"
+    },
+    {
+      "id": "10694413",
+      "title": "Duitse spionagedienst waarschuwt voor conflict met Rusland",
+      "link": "https://www.tijd.be/r/t/1/id/10694413",
+      "category": "Politiek & Economie",
+      "description": "Duitsland loopt een toenemend risico om betrokken te raken bij een gewapend conflict met Rusland. Daarvoor heeft Martin Jäger, het hoofd van de Duitse buitenlandse inlichtingendienst, maandag gewaarschuwd.",
+      "pubDate": "Mon, 05 Oct 2026 18:50:44 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:EafBf_ZMqCgAYxmdARxH1B&context=ONLINE&ratio=16/9&width=480&u=1791227379000"
+    },
+    {
+      "id": "10694409",
+      "title": "Wall Street: ‘Microsoft profiteert van paniek over ontsnappende AI-agents’",
+      "link": "https://www.tijd.be/r/t/1/id/10694409",
+      "category": "Markten Live",
+      "description": "De Amerikaanse beurzen gaan hoger, waarbij met name de techwaarden positief opvallen. Microsoft profiteert van een adviesverhoging. MercadoLibre wint dankzij zijn hoge blootstelling aan de Braziliaanse markt. PTC gaat een derde hoger, nu het Franse Schneider Electric de softwarespeler overneemt.",
+      "pubDate": "Mon, 05 Oct 2026 18:40:09 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:CjatTMDLaF2BZRQjEhvlED&context=ONLINE&ratio=16/9&width=480&u=1791227455000"
+    },
+    {
+      "id": "10694408",
+      "title": "VRT in opstand tegen nieuwe besparingen",
+      "link": "https://www.tijd.be/r/t/1/id/10694408",
+      "category": "Dossiers",
+      "description": "Terwijl de vele subsidies voor de publieke omroep een doorn in het oog zijn van de commerciële spelers die het niet onder de markt hebben in medialand, verhit een nieuw(e) besparingsgolf(je) de gemoederen aan de Reyerslaan. Dinsdag wordt op een personeelsvergadering beslist of er wordt gestaakt.",
+      "pubDate": "Mon, 05 Oct 2026 18:36:57 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:0QVQFE0oq2fAEyc4MUYI1Y&context=ONLINE&ratio=16/9&width=480&u=1791227421000"
+    },
+    {
+      "id": "10694399",
+      "title": "Heropbouw van Oekraïne moet Europese bedrijven voordeel geven op concurrenten uit VS en China",
+      "link": "https://www.tijd.be/r/t/1/id/10694399",
+      "category": "Politiek & Economie",
+      "description": "Door Oekraïne steeds dieper in de Europese interne markt te integreren, moeten bedrijven in de EU een concurrentieel voordeel kunnen halen uit de heropbouw van het door oorlog geteisterde land. Dat staat in een nieuwe strategie om het draagvlak voor de toetreding van Oekraïne en andere landen tot de Europese Unie te vergroten.",
+      "pubDate": "Mon, 05 Oct 2026 18:32:29 GMT",
+      "score": 1,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:8AqjPunz4wpAmrSk2JLdK6&context=ONLINE&ratio=16/9&width=480&u=1791229750000"
+    },
+    {
+      "id": "10694285",
+      "title": "Nergens zonder weg in Aarschot",
+      "link": "https://www.tijd.be/r/t/1/id/10694285",
+      "category": "Dossiers",
+      "description": "Verdwalend in eigen land kijkt Rik Van Puymbroeck naar wat verwondert en soms overdondert.",
+      "pubDate": "Mon, 05 Oct 2026 18:31:25 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:0vE-uHtj41B8vDW8AkgaEI&context=ONLINE&ratio=16/9&width=480&u=1791188101000"
+    },
+    {
+      "id": "10694375",
+      "title": "Niet voor snel overprikkelde zielen: de zintuiglijke kunst van Raphaela Vogel",
+      "link": "https://www.tijd.be/r/t/1/id/10694375",
+      "category": "Cultuur",
+      "description": "De intense werken van Raphaela Vogel prikkelen meteen alle zintuigen met licht, geluid, video en materiaal. Tegelijkertijd vraagt hun gelaagdheid om een trage blik. Bij Z33 in Hasselt loopt de eerste Belgische solotentoonstelling van de Duitse kunstenares.",
+      "pubDate": "Mon, 05 Oct 2026 17:12:41 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:C0rYssePa9jBDUXWjCvmx7&context=ONLINE&ratio=16/9&width=480&u=1791220366000"
+    },
+    {
+      "id": "10694389",
+      "title": "Brussel blaast de argwaan nog niet weg",
+      "link": "https://www.tijd.be/r/t/1/id/10694389",
+      "category": "Opinie",
+      "description": "De Brusselse regering geeft in haar beleidsverklaring voor 2027 de juiste politieke boodschap, maar na jaren van gemiste afspraken zijn meer details en resultaten nodig om het vertrouwen te herstellen.",
+      "pubDate": "Mon, 05 Oct 2026 16:44:40 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:1ZcuLV0TqHXB3Fw5IGpEsn&context=ONLINE&ratio=16/9&width=480&u=1791230036000"
+    },
+    {
+      "id": "10694338",
+      "title": "Helpt Spaanse wooncrisis 'feniks' Sánchez nog eens uit zijn politieke as te herrijzen?",
+      "link": "https://www.tijd.be/r/t/1/id/10694338",
+      "category": "Politiek & Economie",
+      "description": "Negen maanden eerder dan gepland luidt Pedro Sánchez het einde van zijn derde mandaat als Spaans premier in. De door migratie-, corruptie- en andere crises geplaagde socialist gokt dat protest over onbetaalbare huisvesting hem aan een zoveelste 'remontada' zal helpen bij een vervroegde parlementsrace.",
+      "pubDate": "Mon, 05 Oct 2026 16:13:58 GMT",
+      "score": 6,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:3C8xPEqy4CzBgwnuV2hB9L&context=ONLINE&ratio=16/9&width=480&u=1791217863000"
+    },
+    {
+      "id": "10694376",
+      "title": "Kempense hommelkweker BioFirst investeert tientallen miljoenen in Brazilië: 'We mikken op omzet van 2 miljard'",
+      "link": "https://www.tijd.be/r/t/1/id/10694376",
+      "category": "Ondernemen",
+      "description": "Het Kempense BioFirst, hommelkweker en wereldspeler in biologische gewasbescherming, draait al een half miljard euro omzet en investeert fors in expansie in Brazilië en Marokko. ‘Ons volgende doel: 2 miljard omzet, binnen tien jaar.’",
+      "pubDate": "Mon, 05 Oct 2026 15:57:08 GMT",
+      "score": 5,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:8v8_Jcmt4599tNzy-2PGSC&context=ONLINE&ratio=16/9&width=480&u=1791226997000"
+    },
+    {
+      "id": "10694308",
+      "title": "Nettoloon zal in november iets hoger of lager liggen: dit verandert er voor u",
+      "link": "https://www.tijd.be/r/t/1/id/10694308",
+      "category": "Netto",
+      "description": "Vanaf november zullen enkele recente fiscale hervormingen zich laten voelen in de berekening van de bedrijfsvoorheffing. Daardoor zal het nettoloon van werknemers licht stijgen of dalen. Wij lijsten de verschillende situaties op.",
+      "pubDate": "Mon, 05 Oct 2026 15:52:38 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:7rWpeY9Bq1A82jpH0MWx8r&context=ONLINE&ratio=16/9&width=480&u=1791228199000"
+    },
+    {
+      "id": "10694397",
+      "title": "Miljardairs achter brillenreus EssilorLuxottica steunen bod op oudste bank ter wereld",
+      "link": "https://www.tijd.be/r/t/1/id/10694397",
+      "category": "Ondernemen",
+      "description": "De ruziënde Italiaanse miljardairsfamilie Del Vecchio, bekend van de brillen- en lenzenreus EssilorLuxottica, steunt het bod van de bank Intesa Sanpaolo op Monte dei Paschi, de oudste bank ter wereld.",
+      "pubDate": "Mon, 05 Oct 2026 15:42:15 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:5Jq0yTCX4ftAaOtSWniwvt&context=ONLINE&ratio=16/9&width=480&u=1791227772000"
+    },
+    {
+      "id": "10694386",
+      "title": "Luchtvaartmaatschappij Transavia moet op dieet",
+      "link": "https://www.tijd.be/r/t/1/id/10694386",
+      "category": "Ondernemen",
+      "description": "De Nederlandse luchtvaartmaatschappij Transavia moet de buikriem aanhalen, omdat ze onvoldoende winst maakt. Of de besparingen ook een impact zullen hebben op de activiteiten op Zaventem is voorlopig onduidelijk.",
+      "pubDate": "Mon, 05 Oct 2026 15:12:57 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:1yZP_QqX4DJ9E9mFB2WRhP&context=ONLINE&ratio=16/9&width=480&u=1791227729000"
+    },
+    {
+      "id": "10694366",
+      "title": "Adviesraden vragen duidelijkheid over wie wanneer van het gas af moet",
+      "link": "https://www.tijd.be/r/t/1/id/10694366",
+      "category": "Ondernemen",
+      "description": "De gasexit is nog te vaag, zeggen de Vlaamse sociale partners. Ze willen duidelijkheid over waar en wanneer het gasnet voor gezinnen en bedrijven in Vlaanderen buiten dienst zal worden genomen.",
+      "pubDate": "Mon, 05 Oct 2026 14:09:22 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:BdGk7wnlKnRByVz-c4bV-s&context=ONLINE&ratio=16/9&width=480&u=1791227804000"
+    },
+    {
+      "id": "10694358",
+      "title": "Spaanse demonstranten: 'Verkiezingen worden referendum over de wooncrisis'",
+      "link": "https://www.tijd.be/r/t/1/id/10694358",
+      "category": "Politiek & Economie",
+      "description": "In twaalf dagen is collectieve woede over de uithuiszetting van een hoogbejaarde vrouw via een bezettingsactie en massaprotest geëscaleerd tot vervroegde Spaanse verkiezingen. 'De energie op het plein zal nu alleen maar sterker worden', klinkt het bij de demonstranten.",
+      "pubDate": "Mon, 05 Oct 2026 13:49:27 GMT",
+      "score": 6,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:AH-pVN4CqmIBSItMllxAtL&context=ONLINE&ratio=16/9&width=480&u=1791225644000"
+    },
+    {
+      "id": "10694332",
+      "title": "Botsing MR en PS over sociale woningen ontsiert Brussels begrotingsakkoord",
+      "link": "https://www.tijd.be/r/t/1/id/10694332",
+      "category": "Politiek & Economie",
+      "description": "Door zijn ambtswoning te koop te stellen, wil Brussels minister-president Boris Dilliès (MR) tonen dat een nieuwe wind doorheen de Brusselse regering waait. Een botsing met de PS over het budget voor sociale woningen leerde echter meteen hoe moeilijk dat blijft.",
+      "pubDate": "Mon, 05 Oct 2026 13:46:19 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:5a51fJAi4IlA_nXiBLSo9F&context=ONLINE&ratio=16/9&width=480&u=1791217024000"
+    },
+    {
+      "id": "10694345",
+      "title": "Exporteurs voorzichtig positief over goedkopere euro, maar vrezen duurdere dollargrondstoffen",
+      "link": "https://www.tijd.be/r/t/1/id/10694345",
+      "category": "Ondernemen",
+      "description": "Exporterende bedrijven reageren voorzichtig positief nu de euro goedkoper wordt. Ze hopen dat de export erdoor toeneemt, al kan het door de woelige macro-economie een druppel op een hete plaat worden. Bovendien stijgen de kosten voor grondstoffen in dollar.",
+      "pubDate": "Mon, 05 Oct 2026 13:30:07 GMT",
+      "score": 1,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:8cA352H_atXBuOQpYlN4db&context=ONLINE&ratio=16/9&width=480&u=1791207011000"
+    },
+    {
       "id": "10674043",
       "title": "Gent bezoeken? Deze plekken mag je niet missen",
       "link": "https://www.tijd.be/r/t/1/id/10674043",
@@ -210,7 +408,7 @@
       "category": "Politiek & Economie",
       "description": "Iran koppelt een eventuele heropening van de Straat van Hormuz aan de vervulling van zeven voorwaarden door de Verenigde Staten. Dat heeft parlementsvoorzitter Mohammad Bagher Ghalibaf zondag gezegd.",
       "pubDate": "Sun, 04 Oct 2026 11:48:29 GMT",
-      "image": null
+      "image": "https://images.tijd.be/view?iid=Elvis:BGcOVQLgKB_B8Lurno5JbF&context=ONLINE&ratio=16/9&width=480&u=1791114512000"
     },
     {
       "id": "10693709",
@@ -228,7 +426,7 @@
       "category": "Sabato",
       "description": "In de reeks Kitchen Roulette draait elke maand een andere chef aan het culinaire rad. Chef Jakub ‘Kuba’ Blogowski is de laatste keer aan de beurt met zijn versie van de Poolse dumplingklassieker pierogi.",
       "pubDate": "Sun, 04 Oct 2026 04:45:34 GMT",
-      "image": null
+      "image": "https://images.tijd.be/view?iid=Elvis:CJeClF12aqE9FhwV0K8GSd&context=ONLINE&ratio=16/9&width=480&u=1790861264000"
     },
     {
       "id": "10691895",
@@ -255,7 +453,7 @@
       "category": "Netto",
       "description": "Heeft uw vennootschap sinds 1 januari 2025 in groene technologie geïnvesteerd, zoals zonnepanelen of een batterijsysteem? Dan kan ze onder voorwaarden genieten van de thematische investeringsaftrek. Dat is een extra fiscale aftrek boven op de gewone aftrekbare afschrijvingen. Maar wie het attest niet op tijd aanvraagt, verliest dat voordeel.",
       "pubDate": "Sat, 03 Oct 2026 03:00:35 GMT",
-      "image": null
+      "image": "https://images.tijd.be/view?iid=Elvis:EvHY-8IzKU78ER6qZirpwe&context=ONLINE&ratio=16/9&width=480&u=1790977518000"
     },
     {
       "id": "10688360",
@@ -264,7 +462,7 @@
       "category": "Netto",
       "description": "De gemiddelde verhuurder van een appartement betaalt meer jaarlijkse vastgoedbelasting dan wie een huis verhuurt, hoewel die laatste 25 procent meer inkomsten opstrijkt. Dat blijkt uit een onderzoek van Hogent.",
       "pubDate": "Sat, 03 Oct 2026 03:00:24 GMT",
-      "image": null
+      "image": "https://images.tijd.be/view?iid=Elvis:38Hu-XHjKSeAhwL6GqG3N2&context=ONLINE&ratio=16/9&width=480&u=1791206805000"
     },
     {
       "id": "10688149",
@@ -309,7 +507,7 @@
       "category": "Netto",
       "description": "Het is niet omdat een bedrijf een groen label op een product kleeft dat het ook daadwerkelijk beter is voor het milieu. Om consumenten te helpen bij dat onderscheid gelden sinds kort strengere regels voor het gebruik van termen als ‘duurzaam’ of ‘groen’. Wat betekent dat voor uw zaak?",
       "pubDate": "Sat, 03 Oct 2026 03:00:00 GMT",
-      "image": null
+      "image": "https://images.tijd.be/view?iid=Elvis:7rkj_-8IqKtA8jPG4BwdXu&context=ONLINE&ratio=16/9&width=480&u=1791226239000"
     },
     {
       "id": "10688221",
@@ -318,7 +516,7 @@
       "category": "Ondernemen",
       "description": "Met de uitbouw en verkoop van de specialist in boekhoudsoftware Silverfin kon Joris Van Der Gucht in principe op zijn lauweren rusten. In plaats daarvan mikt hij met opvolger Ravical nog hoger. ‘Ik ga altijd all-in, het is zwart of wit.’",
       "pubDate": "Fri, 02 Oct 2026 22:05:00 GMT",
-      "image": null
+      "image": "https://images.tijd.be/view?iid=Elvis:1FCUx04BahoAYrvn6TnH2O&context=ONLINE&ratio=16/9&width=480&u=1791114936000"
     },
     {
       "id": "10688200",
@@ -382,7 +580,7 @@
       "category": "Cultuur",
       "description": "Van fenomeen tot polemiek van het literaire najaar. Eén post op X veranderde de stemming over het boek ‘C’était ça ou mourir’ en zo ook het leven van zijn schrijver Thélyson Orélien. De verdenking is dat niet hij, maar AI de auteur van het succesboek is. Wij lazen het. Erg graag.",
       "pubDate": "Fri, 02 Oct 2026 18:30:00 GMT",
-      "image": null
+      "image": "https://images.tijd.be/view?iid=Elvis:D1K6dxyVqPP9zH1BoxNIgx&context=ONLINE&ratio=16/9&width=480&u=1791115007000"
     },
     {
       "id": "10688197",
