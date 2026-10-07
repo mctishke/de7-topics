@@ -1,9 +1,20 @@
 {
-  "generated_at": "2026-10-07T11:25:21.464194+00:00",
+  "generated_at": "2026-10-07T17:52:10.507158+00:00",
   "date": "2026-10-07",
-  "de7_title": "07/10 | Vooruit viseert managementvennootschappen in begrotingsgesprekken | Softwaregigant SAP neemt Gentse TechWolf over voor zo'n €500 miljoen | Israëli's keren met overheidsgeld terug naar grensdorpen",
+  "de7_title": "De 7 Extra | Komt er een nieuwe eurocrisis? 'De regeringen moeten nu echt in actie komen'",
   "de7_matched_count": 0,
   "articles": [
+    {
+      "id": "10694703",
+      "title": "Shell ziet recordmarges in raffinage door oliecrisis",
+      "link": "https://www.tijd.be/r/t/1/id/10694703",
+      "category": "Ondernemen",
+      "description": "De verstoring van de wereldwijde handel in olieproducten door het conflict in het Midden-Oosten zorgt voor recordcijfers bij raffinaderijen. Shell verwacht dat de marges in het derde kwartaal 75 procent hoger liggen dan de al goede cijfers van het tweede kwartaal.",
+      "pubDate": "Wed, 07 Oct 2026 16:19:06 GMT",
+      "score": 6,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:9epWqYrfKX18Gf7gUZ-K1b&context=ONLINE&ratio=16/9&width=480&u=1791390289000"
+    },
     {
       "id": "10688400",
       "title": "Consultant Moore Belgium wordt spil van Europese groep met 1 miljard euro omzet",
@@ -38,6 +49,39 @@
       "image": "https://images.tijd.be/view?iid=Elvis:CwS7JQQtaeN8ARQoJSZvDe&context=ONLINE&ratio=16/9&width=480&u=1791366849000"
     },
     {
+      "id": "10694719",
+      "title": "Waarom SAP voor Gentse hr-oplossing valt: 'Dit konden ze zelf nooit zo snel bouwen'",
+      "link": "https://www.tijd.be/r/t/1/id/10694719",
+      "category": "Ondernemen",
+      "description": "Met de verkoop van TechWolf aan SAP schrijft de Gentse techsector alweer een reuzendeal in de annalen. 'Voor SAP is dit een logische overname, maar in de uitvoering schuilen nog risico's', zeggen experts.",
+      "pubDate": "Wed, 07 Oct 2026 16:50:05 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:8ZXk-dFi4_dAASZSz0h0Z-&context=ONLINE&ratio=16/9&width=480&u=1791393887000"
+    },
+    {
+      "id": "10694694",
+      "title": "Hogere rente dreigt begrotingstekort nog 2 miljard groter te maken",
+      "link": "https://www.tijd.be/r/t/1/id/10694694",
+      "category": "Politiek & Economie",
+      "description": "De Nationale Bank en de Schatkist schotelen het kernkabinet vanavond een update over de impact van de hogere rente op de begroting voor. Het zou wel eens kunnen dat De Wever en co. een extra factuur van zowat 2 miljard gepresenteerd krijgen.",
+      "pubDate": "Wed, 07 Oct 2026 14:43:04 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:9HNkuZPZaT491e0wmChLkm&context=ONLINE&ratio=16/9&width=480&u=1791387666000"
+    },
+    {
+      "id": "10694672",
+      "title": "Hoog spel met Europees industrieplan: ‘Haal hele wet weer van tafel’",
+      "link": "https://www.tijd.be/r/t/1/id/10694672",
+      "category": "Politiek & Economie",
+      "description": "Zal het reddingsplan voor de Europese industrie ooit werkelijkheid worden? De vraag klinkt luid nu een deel van de machtige Europese Volkspartij ermee dreigt het wetsvoorstel weer van de tafel te halen. ‘We kunnen ons geen handelsoorlogen met onze dichtste partners veroorloven.’",
+      "pubDate": "Wed, 07 Oct 2026 17:45:43 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:6teQOfmFqEsA-o-yDgju1g&context=ONLINE&ratio=16/9&width=480&u=1791395184000"
+    },
+    {
       "id": "10694641",
       "title": "Het studentenprotest: allez, les bleus?",
       "link": "https://www.tijd.be/r/t/1/id/10694641",
@@ -69,6 +113,28 @@
       "score": 3,
       "in_de7": false,
       "image": "https://images.tijd.be/view?iid=Elvis:8DHEu71YKY6Bo0EaFtrQIx&context=ONLINE&ratio=16/9&width=480&u=1791356213000"
+    },
+    {
+      "id": "10694708",
+      "title": "Na oproep vicepremier Vandenbroucke: ‘Schijnzelfstandigen via een vennootschap zijn heel moeilijk op de radar te krijgen’",
+      "link": "https://www.tijd.be/r/t/1/id/10694708",
+      "category": "Politiek & Economie",
+      "description": "Wie in de discussie over managementvennootschappen naar de essentie zoekt, komt terecht bij de strijd tegen schijnzelfstandigen. Maar die controle loopt heel moeilijk, erkent de sociale inspectie.",
+      "pubDate": "Wed, 07 Oct 2026 16:41:47 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:B1UdthZ3aVqAPTSRimBtEv&context=ONLINE&ratio=16/9&width=480&u=1791392197000"
+    },
+    {
+      "id": "10694403",
+      "title": "Nieuwe regels leiden tot overvolle studiezalen: ‘Natuurlijk spelen ze Uno. Dit is bezigheidstherapie’",
+      "link": "https://www.tijd.be/r/t/1/id/10694403",
+      "category": "Politiek & Economie",
+      "description": "Sinds minister van Onderwijs Zuhal Demir scholen verplichtte leerlingen op school te houden als de leerkracht afwezig is, zien velen hun studiezalen overvol zitten. Verschillende directeurs roepen op de maatregel terug te draaien, maar Demir ziet het als een organisatorisch probleem dat zal worden opgelost.",
+      "pubDate": "Wed, 07 Oct 2026 14:26:49 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:CHQzMY8Kavm8j8k1y-Ppa0&context=ONLINE&ratio=16/9&width=480&u=1791392958000"
     },
     {
       "id": "10694609",
@@ -168,6 +234,127 @@
       "score": 2,
       "in_de7": false,
       "image": "https://images.tijd.be/view?iid=Elvis:4_20e5o6aAOAp8kkc5OmTh&context=ONLINE&ratio=16/9&width=480&u=1791357496000"
+    },
+    {
+      "id": "10694725",
+      "title": "Wie betaalt de begroting als AI het werk overneemt?",
+      "link": "https://www.tijd.be/r/t/1/id/10694725",
+      "category": "Opinie",
+      "description": "Als we over de centen van de overheid spreken, mogen we niet blind zijn voor wat staat te gebeuren in de wereld van werk.",
+      "pubDate": "Wed, 07 Oct 2026 17:26:00 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:2D3UvcXjKiUB4QK_jLTy2u&context=ONLINE&ratio=16/9&width=480&u=1791393964000"
+    },
+    {
+      "id": "10694701",
+      "title": "Met saneringsplan poogt Le Pen sérieux en credibiliteit uit te stralen te midden van Franse multicrisis",
+      "link": "https://www.tijd.be/r/t/1/id/10694701",
+      "category": "Politiek & Economie",
+      "description": "Met een cascade aan cijfers en grafieken heeft Marine Le Pen Frankrijk en Europa uitgelegd hoe haar Rassemblement National wat orde denkt te scheppen in de Franse overheidsfinanciën. Het doel van de operatie: geloofwaardigheid projecteren voor de presidentsrace van 2027, nu de tweede economie van de eurozone in het vizier ligt van de financiële markten.",
+      "pubDate": "Wed, 07 Oct 2026 16:59:56 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:3hr3qn0tqnh8DXFdNQtpOl&context=ONLINE&ratio=16/9&width=480&u=1791392401000"
+    },
+    {
+      "id": "10687538",
+      "title": "Expo De Pont in Tilburg | Sigmar Polke was eerst alchemist, dan schilder",
+      "link": "https://www.tijd.be/r/t/1/id/10687538",
+      "category": "Cultuur",
+      "description": "De Duitse schilder Sigmar Polke mengde allerlei vreemde materialen door zijn verf. Hij transformeerde zo vanzelf van schilder naar alchemist. De Pont in Tilburg focust in een knappe expo op zijn experimenten.",
+      "pubDate": "Wed, 07 Oct 2026 16:36:23 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:1E0YLb84aN-BfyEkDDYTjv&context=ONLINE&ratio=16/9&width=480&u=1791394846000"
+    },
+    {
+      "id": "10694669",
+      "title": "AI-agent van OpenAI getest: Dot roept je tot de orde",
+      "link": "https://www.tijd.be/r/t/1/id/10694669",
+      "category": "Opinie",
+      "description": "Straks hebben we een vloot van AI-agenten die ons als assistenten ondersteunen. Techexpert Roland Legrand testte Dot van OpenAI en werpt een blik in de toekomst.",
+      "pubDate": "Wed, 07 Oct 2026 15:44:29 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:CsuotnK7qtIAZZXbM28ZJ_&context=ONLINE&ratio=16/9&width=480&u=1791387878000"
+    },
+    {
+      "id": "10682892",
+      "title": "Hoeveel mag uw eerste (huur)woonst kosten? Dit moet u weten",
+      "link": "https://www.tijd.be/r/t/1/id/10682892",
+      "category": "Netto",
+      "description": "Een eerste eigen plek betekent vrijheid, maar ook een heleboel kosten. Hoeveel van uw loon mag u aan wonen spenderen? En wanneer is huren of cohousen slimmer? Wij beantwoorden de belangrijkste vragen. 'Jongeren onderschatten vaak één aspect.'",
+      "pubDate": "Wed, 07 Oct 2026 15:29:00 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:EPf3agMqqe39p9Cr2Cg_q6&context=ONLINE&ratio=16/9&width=480&u=1791387244000"
+    },
+    {
+      "id": "10694687",
+      "title": "Oud-topman Guibert keert terug naar krokodillenmerk Lacoste",
+      "link": "https://www.tijd.be/r/t/1/id/10694687",
+      "category": "Ondernemen",
+      "description": "De vroegere succescoach Thierry Guibert moet na dik een jaar terugkeren als CEO van het Franse kledingmerk Lacoste.",
+      "pubDate": "Wed, 07 Oct 2026 15:14:23 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:7_bK9pdTq4-BFK8ST7qMpw&context=ONLINE&ratio=16/9&width=480&u=1791386068000"
+    },
+    {
+      "id": "10694655",
+      "title": "Bedrijf achter beurs Babyboom trekt voor nieuwe overname naar Spanje",
+      "link": "https://www.tijd.be/r/t/1/id/10694655",
+      "category": "Ondernemen",
+      "description": "Het Brusselse bedrijf N2COM, bekend van de beurs Babyboom en de gelijknamige geschenkzakken en gelinkt aan zuivelgroep Inex, koopt een Spaanse sectorgenoot. Begin dit jaar was er al een deal in Nederland.",
+      "pubDate": "Wed, 07 Oct 2026 14:04:40 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:DoyqYD44q0q8TkJQszkqNV&context=ONLINE&ratio=16/9&width=480&u=1791385160000"
+    },
+    {
+      "id": "10694661",
+      "title": "Nobelprijs Chemie eert duo voor oplossen eeuwenoud mysterie over gespiegelde moleculen",
+      "link": "https://www.tijd.be/r/t/1/id/10694661",
+      "category": "Ondernemen",
+      "description": "De Nobelprijs voor Chemie gaat naar de Japanner Kenso Soai en de Fransman Henri B. Kagan. Ze ontdekten hoe bij een chemische reactie één van twee gespiegelde moleculen de overhand krijgt, een belangrijke vondst voor de ontwikkeling van onder meer geneesmiddelen.",
+      "pubDate": "Wed, 07 Oct 2026 13:24:16 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:9DBHAlGk4WmBMU3WIsV0Sl&context=ONLINE&ratio=16/9&width=480&u=1791385338000"
+    },
+    {
+      "id": "10694679",
+      "title": "Waarom Stefan Hertmans de Nobelprijs Literatuur waarschijnlijk niet wint",
+      "link": "https://www.tijd.be/r/t/1/id/10694679",
+      "category": "Cultuur",
+      "description": "Vorig weekend circuleerde de naam van Belg Stefan Hertmans als kanshebber op de Nobelprijs Literatuur. Dat hij die prijs donderdag voor de neus van Can Xue, Anne Carson of Haruki Murakami zou wegkapen, is hoogst onwaarschijnlijk.",
+      "pubDate": "Wed, 07 Oct 2026 14:03:35 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:7Xkv3SOp4WD9FceAuCqzNG&context=ONLINE&ratio=16/9&width=480&u=1791381818000"
+    },
+    {
+      "id": "10675338",
+      "title": "Brussel bezoeken? Deze plekken mag je niet missen",
+      "link": "https://www.tijd.be/r/t/1/id/10675338",
+      "category": "Sabato",
+      "description": "Op zoek naar leuke dingen om te zien en doen in Brussel? Dit zijn de favorieten van onze correspondent die de stad door en door kent.",
+      "pubDate": "Wed, 07 Oct 2026 13:00:42 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:2QNnemcN4Fx8KW0WKmezfZ&context=ONLINE&ratio=16/9&width=480&u=1791378162000"
+    },
+    {
+      "id": "10694645",
+      "title": "Genadeloze sanering, zeer grote SUV en nieuwe supersportwagen moeten van Porsche winstmachine maken",
+      "link": "https://www.tijd.be/r/t/1/id/10694645",
+      "category": "Ondernemen",
+      "description": "Porsche moet weer een klein en exclusief luxemerk worden. Een genadeloze saneringsoperatie, de lancering van een zeer grote SUV en een nieuwe supersportwagen moeten het merk immuun maken voor de huidige helletocht in China.",
+      "pubDate": "Wed, 07 Oct 2026 12:45:11 GMT",
+      "score": 1,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:2BYTGp8VK07BobXNEz061I&context=ONLINE&ratio=16/9&width=480&u=1791390166000"
     },
     {
       "id": "10694662",
