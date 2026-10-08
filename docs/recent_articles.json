@@ -1,6 +1,204 @@
 {
   "articles": [
     {
+      "id": "10694805",
+      "title": "Internationale steun aan Oekraïne valt terug naar laagste niveau sinds begin van oorlog",
+      "link": "https://www.tijd.be/r/t/1/id/10694805",
+      "category": "Dossiers",
+      "description": "Ondanks de Europese inspanningen valt de militaire en financiële steun aan Oekraïne flink terug in vergelijking met de voorbije oorlogsjaren. Vanuit de VS is de rechtstreekse hulpstroom volledig opgedroogd. Wel blijven Amerikaanse defensiebedrijven cruciaal voor de Oekraïense verdediging.",
+      "pubDate": "Thu, 08 Oct 2026 17:38:37 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:57VNTF5T4wF9UrIOItQjtC&context=ONLINE&ratio=16/9&width=480&u=1791481122000"
+    },
+    {
+      "id": "10694923",
+      "title": "Netbeheerders: ‘Bij koude winter kunnen gastekorten ontstaan in Europa’",
+      "link": "https://www.tijd.be/r/t/1/id/10694923",
+      "category": "Ondernemen",
+      "description": "Europa gaat de winter tegemoet met historisch lage gasvoorraden. Bij een koude winter dreigt het gasverbruik noodgedwongen te moeten worden ingeperkt, zo waarschuwen de Europese gasnetbeheerders.",
+      "pubDate": "Thu, 08 Oct 2026 17:29:14 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:5ea8U9fQ4ltB8OlLW8R8fz&context=ONLINE&ratio=16/9&width=480&u=1791480558000"
+    },
+    {
+      "id": "10694922",
+      "title": "Uitverkoop in VS behoedt Polestar voor krimp",
+      "link": "https://www.tijd.be/r/t/1/id/10694922",
+      "category": "Ondernemen",
+      "description": "De uitverkoop van zijn modellengamma in de Verenigde Staten heeft Volvo-zusje Polestar behoed voor een verkoopdaling. Beleggers keken door de eenmalige groei in de VS heen en sturen het aandeel bijna 5 procent lager.",
+      "pubDate": "Thu, 08 Oct 2026 17:22:46 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:CFgDu3b6afXAZfWPLl_pUQ&context=ONLINE&ratio=16/9&width=480&u=1791480169000"
+    },
+    {
+      "id": "10694852",
+      "title": "Gaat Nobelprijs voor de Vrede naar de ruimte?",
+      "link": "https://www.tijd.be/r/t/1/id/10694852",
+      "category": "Dossiers",
+      "description": "In een wereld vol conflicten reikt het Noorse Nobelcomité vrijdag de Nobelprijs voor de Vrede uit. Kandidaten zijn er genoeg, maar het Internationaal Ruimtestation geldt als een van de kanshebbers. Gaat de vredesprijs straks naar de ruimte?",
+      "pubDate": "Thu, 08 Oct 2026 17:18:09 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:0x8_Edfn4COAe77o7vJqfV&context=ONLINE&ratio=16/9&width=480&u=1791479892000"
+    },
+    {
+      "id": "10694919",
+      "title": "Eigenaars pompen vers kapitaal in Wittamer",
+      "link": "https://www.tijd.be/r/t/1/id/10694919",
+      "category": "Ondernemen",
+      "description": "De eigenaars van Wittamer investeren 3,8 miljoen euro in de Brusselse patisseriezaak. Dat geld moet dienen om het financieel huishouden recht te trekken en het merk te herlanceren.",
+      "pubDate": "Thu, 08 Oct 2026 16:51:55 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:8E-Kr7VEa3C824t3K05xdY&context=ONLINE&ratio=16/9&width=480&u=1791478318000"
+    },
+    {
+      "id": "10694886",
+      "title": "Wie koopt straks onze schuld?",
+      "link": "https://www.tijd.be/r/t/1/id/10694886",
+      "category": "Opinie",
+      "description": "Dertig jaar lang hielpen China, Japan en centrale banken de rente laag te houden. Nu die zekerheden een voor een verdwijnen, worden kopers van schuldpapier zenuwachtiger.",
+      "pubDate": "Thu, 08 Oct 2026 16:17:39 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:49SLhXFhKEeA_0x87oqZS3&context=ONLINE&ratio=16/9&width=480&u=1791479327000"
+    },
+    {
+      "id": "10694870",
+      "title": "Crisis barst los in Brusselse regering over budget voor sociale woningen",
+      "link": "https://www.tijd.be/r/t/1/id/10694870",
+      "category": "Politiek & Economie",
+      "description": "In de Brusselse regering is een crisis losgebarsten over het budget voor sociale woningen, waardoor ook de botsing tussen de MR en de PS over vermeend cliëntelisme bij de socialehuisvestingsmaatschappij Anderlechtse Haard opleeft.",
+      "pubDate": "Thu, 08 Oct 2026 16:00:48 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:0aNTu05sKGdBxCAmoqVlMm&context=ONLINE&ratio=16/9&width=480&u=1791475247000"
+    },
+    {
+      "id": "10694907",
+      "title": "Goldman Sachs betaalt top half miljard aan bonussen uit",
+      "link": "https://www.tijd.be/r/t/1/id/10694907",
+      "category": "Ondernemen",
+      "description": "De Amerikaanse zakenbank Goldman Sachs staat op het punt een van de grootste bonuspakketten uit haar geschiedenis uit te keren aan haar topmanagers. Alleen al CEO David Solomon krijgt zicht op een aandelenpakket van 100 miljoen dollar.",
+      "pubDate": "Thu, 08 Oct 2026 16:00:06 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:CMYcEscQ4JK8LEP7AZDNHd&context=ONLINE&ratio=16/9&width=480&u=1791476116000"
+    },
+    {
+      "id": "10694876",
+      "title": "Hoog tijd dat we uit onze bubbel treden",
+      "link": "https://www.tijd.be/r/t/1/id/10694876",
+      "category": "Opinie",
+      "description": "In het machtsbastion Europa ligt een massa kansen voor Belgische bedrijven.",
+      "pubDate": "Thu, 08 Oct 2026 15:59:51 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:1wa2bWMsace8kN1EEkSSPq&context=ONLINE&ratio=16/9&width=480&u=1791477602000"
+    },
+    {
+      "id": "10694839",
+      "title": "Bel20 op de roetsjbaan",
+      "link": "https://www.tijd.be/r/t/1/id/10694839",
+      "category": "Markten Live",
+      "description": "Een mislukte geneesmiddelenstudie bij het biotechzwaargewicht Argenx duwde de Bel20 tot 3 procent omlaag in de ochtend. Door een plotselinge ontspanning op de obligatiemarkten halveerde het verlies in de namiddag, maar tegen het slot liep het rode cijfer weer op.",
+      "pubDate": "Thu, 08 Oct 2026 15:54:22 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:C9iDB2CAqtB9GMpM_n_qBf&context=ONLINE&ratio=16/9&width=480&u=1791477481000"
+    },
+    {
+      "id": "10694869",
+      "title": "Op rondleiding door Charleroi met Vlaamse zakenlui: ‘Hier rollen ze de rode loper voor ons uit’",
+      "link": "https://www.tijd.be/r/t/1/id/10694869",
+      "category": "Politiek & Economie",
+      "description": "Met de steun van een reeks enthousiaste Vlaamse zakenlui verzet burgemeester van Charleroi Thomas Dermine zich tegen het clichébeeld van zijn stad. 'Wij zien dat we hier heel welkom zijn.'",
+      "pubDate": "Thu, 08 Oct 2026 15:45:45 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:CmeAKFsWquRBRYjPbOp9Np&context=ONLINE&ratio=16/9&width=480&u=1791478680000"
+    },
+    {
+      "id": "10694840",
+      "title": "Begrotingsonderhandelingen raken geen millimeter vooruit: 'Iedereen kijkt het wit uit elkaars ogen'",
+      "link": "https://www.tijd.be/r/t/1/id/10694840",
+      "category": "Politiek & Economie",
+      "description": "Hoe urgent het ook is dat Bart De Wever en co. werk maken van een serieuze sanering, die ons land uit het vizier van de steeds onrustiger wordende financiële markten moet houden, de onthutsende waarheid is dat de premier nog nergens staat. 'Het is tijd om knopen door te hakken.'",
+      "pubDate": "Thu, 08 Oct 2026 15:20:33 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:0qcn6IvbaqWAFL8SNIHTMn&context=ONLINE&ratio=16/9&width=480&u=1791478768000"
+    },
+    {
+      "id": "10694888",
+      "title": "Koffieketen IzyCoffee halveert in een jaar tijd",
+      "link": "https://www.tijd.be/r/t/1/id/10694888",
+      "category": "Ondernemen",
+      "description": "Na een stil faillissement gaat IzyCoffee door met elf vestigingen. De hyperambitieuze Belgische koffiebarketen ziet haar aantal vestigingen zo in minder dan een jaar halveren.",
+      "pubDate": "Thu, 08 Oct 2026 15:17:48 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:Ec8QGGx5qWCALpls8mQIF-&context=ONLINE&ratio=16/9&width=480&u=1791473748000"
+    },
+    {
+      "id": "10694848",
+      "title": "ABVV-voorzitter Engelaar: 'Als er een indexsprong komt, sta ik niet in voor de gevolgen'",
+      "link": "https://www.tijd.be/r/t/1/id/10694848",
+      "category": "Politiek & Economie",
+      "description": "De drie vakbonden voeren vrijdag elk op hun manier actie tegen een federaal begrotingsakkoord dat er nog niet is. Daarbij waarschuwen ze dat de btw niet omhoog kan.",
+      "pubDate": "Thu, 08 Oct 2026 14:45:52 GMT",
+      "score": 5,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:4NrsQNYE4OH8oR9IYHRuAB&context=ONLINE&ratio=16/9&width=480&u=1791478637000"
+    },
+    {
+      "id": "10694847",
+      "title": "Met nieuwe kieswet hoopt Meloni zich te verzekeren van de macht",
+      "link": "https://www.tijd.be/r/t/1/id/10694847",
+      "category": "Politiek & Economie",
+      "description": "Het Italiaanse parlement heeft een nieuwe kieswet goedgekeurd, waardoor het grootste blok bij de verkiezingen kans maakt op een bonusaantal zetels. Premier Giorgia Meloni rekent erop zich zo te kunnen verzekeren van de macht, maar dat blijft een gok.",
+      "pubDate": "Thu, 08 Oct 2026 14:37:03 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:2rNrEPEYaul85ffUQFAcPC&context=ONLINE&ratio=16/9&width=480&u=1791471501000"
+    },
+    {
+      "id": "10694718",
+      "title": "Ooit was Werk een vette vis voor Vlaanderen, vandaag bespaart het er vooral op: 'Demir waagt een grote gok'",
+      "link": "https://www.tijd.be/r/t/1/id/10694718",
+      "category": "Politiek & Economie",
+      "description": "In de ruime bevoegdheden die Vlaanderen zo graag wilde voor zijn eigen arbeidsmarkt zet bevoegd minister Zuhal Demir nu vooral het mes. Voor het gros van de besparingen valt iets te zeggen, maar het pijnpunt is dat er weinig in de plaats komt. 'We hebben wel nog een minister van Onderwijs, maar niet meer van Werk.'",
+      "pubDate": "Thu, 08 Oct 2026 13:50:32 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:7762rm1kaQqBZVCwYt0orp&context=ONLINE&ratio=16/9&width=480&u=1791473288000"
+    },
+    {
+      "id": "10694804",
+      "title": "Beobank mengt zich in strijd om Belgische belegger",
+      "link": "https://www.tijd.be/r/t/1/id/10694804",
+      "category": "Ondernemen",
+      "description": "De Belgische banken richten hun pijlen steeds nadrukkelijker op beleggers om zich voor hun inkomsten minder afhankelijk te maken van schommelende rentevoeten. Als jongste in het rijtje breidt nu ook Beobank haar aanbod gevoelig uit om beleggen laagdrempeliger te maken.",
+      "pubDate": "Thu, 08 Oct 2026 13:19:27 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:52ghLJfmqdpAm_0Va8Kens&context=ONLINE&ratio=16/9&width=480&u=1791469661000"
+    },
+    {
+      "id": "10694753",
+      "title": "Wie zijn de protesterende scholieren in Luik? ‘Dat zijn geen idioten’",
+      "link": "https://www.tijd.be/r/t/1/id/10694753",
+      "category": "Politiek & Economie",
+      "description": "Nu er een samenscholingsverbod geldt, gaat in Luik alle aandacht naar de ‘casseurs’. Boze scholieren vrezen dat door die relschoppers hun boodschap verloren gaat. Want onder de woede gaan wel degelijk echte frustraties schuil. ‘Scholieren voelen zich niet comfortabel in de klas.’",
+      "pubDate": "Thu, 08 Oct 2026 12:18:15 GMT",
+      "score": 5,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:CwXZRYcdKpk8eeEa-XLTWe&context=ONLINE&ratio=16/9&width=480&u=1791469476000"
+    },
+    {
       "id": "10694810",
       "title": "Anne Carson wint Nobelprijs Literatuur",
       "link": "https://www.tijd.be/r/t/1/id/10694810",
@@ -5086,7 +5284,7 @@
       "pubDate": "Fri, 25 Sep 2026 10:53:26 GMT",
       "score": 2,
       "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:FmFexD37aKL8FLO8gA2yQc&context=ONLINE&ratio=16/9&width=480&u=1790333622000"
+      "image": "https://images.tijd.be/view?iid=Elvis:1HOm_2D5aVa9majjDodhda&context=ONLINE&ratio=16/9&width=480&u=1791461174000"
     },
     {
       "id": "10687501",
