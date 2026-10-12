@@ -1,6 +1,395 @@
 {
   "articles": [
     {
+      "id": "10695263",
+      "title": "McKinsey degradeert topman na controversiële posts op LinkedIn",
+      "link": "https://www.tijd.be/r/t/1/id/10695263",
+      "category": "Ondernemen",
+      "description": "De consultant McKinsey heeft een topman van zijn onderzoeksinstituut zijn leiderschapsfuncties ontnomen. De man, een Australiër, had online commentaren gepost over de moeilijke strijd van vrouwelijke topmanagers in het bedrijfsleven.",
+      "pubDate": "Mon, 12 Oct 2026 12:26:44 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:1NLBcyzpq_VAaHnE5BYn93&context=ONLINE&ratio=16/9&width=480&u=1791808008000"
+    },
+    {
+      "id": "10695243",
+      "title": "Recensie ‘Franz’ | Verwacht vooral geen klassieke Kafka-biopic",
+      "link": "https://www.tijd.be/r/t/1/id/10695243",
+      "category": "Cultuur",
+      "description": "In haar nieuwe film ‘Franz’ neemt de Poolse cineaste Agnieszka Holland (‘Green Border’) ons mee door het leven en werk van Franz Kafka. Maar verwacht vooral geen klassieke biopic. De schrijver laat zich tenslotte niet zomaar vastpinnen.",
+      "pubDate": "Mon, 12 Oct 2026 12:15:12 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:4yywk8BFqbQ8V6P455Lo-6&context=ONLINE&ratio=16/9&width=480&u=1791807316000"
+    },
+    {
+      "id": "10695248",
+      "title": "Beurzen trotseren nerveuze oliemarkt",
+      "link": "https://www.tijd.be/r/t/1/id/10695248",
+      "category": "Markten Live",
+      "description": "De Europese beurzen starten de week in het groen, ondanks de volatiele olieprijzen. In Brussel zet Argenx zijn herstel verder, terwijl Xior en Kinepolis profiteren van fanmail. Ageas krijgt een hoger koersdoel, WDP een lager.",
+      "pubDate": "Mon, 12 Oct 2026 12:13:35 GMT",
+      "score": 0,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:56cVeUbmay992irIzdiF6Y&context=ONLINE&ratio=16/9&width=480&u=1791807744000"
+    },
+    {
+      "id": "10695182",
+      "title": "Beleggersagenda van dinsdag 13 februari: Jamie trapt af",
+      "link": "https://www.tijd.be/r/t/1/id/10695182",
+      "category": "Markten Live",
+      "description": "De Amerikaanse bankgigant JPMorgan trapt dinsdag voorbeurs, noblesse oblige, het cijferseizoen op Wall Street af.",
+      "pubDate": "Mon, 12 Oct 2026 12:01:23 GMT",
+      "score": 0,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:4ehT057Uq_S9ds35i1_AE9&context=ONLINE&ratio=16/9&width=480&u=1791790846000"
+    },
+    {
+      "id": "10695251",
+      "title": "‘The Devils’ | De excessieve (en exclusieve) versie van religieus drama na 55 jaar onthuld",
+      "link": "https://www.tijd.be/r/t/1/id/10695251",
+      "category": "Cultuur",
+      "description": "Na meer dan 50 jaar mag de wereld eindelijk ‘The Devils’ ontdekken zoals regisseur Ken Russell het religieuze drama bedoeld heeft: ongeremd en ongecensureerd.",
+      "pubDate": "Mon, 12 Oct 2026 11:53:26 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:22oqe_wcK7fA_UiGPGNCE5&context=ONLINE&ratio=16/9&width=480&u=1791808058000"
+    },
+    {
+      "id": "10695253",
+      "title": "Volkswagen ziet sterkste verkoopdaling sinds 2022",
+      "link": "https://www.tijd.be/r/t/1/id/10695253",
+      "category": "Ondernemen",
+      "description": "De Duitse autobouwer Volkswagen, de grootste speler in Europa in de sector en een van de grootste ter wereld, heeft in het derde kwartaal de sterkste verkoopdaling sinds 2022 opgetekend. China is opnieuw een van de boosdoeners.",
+      "pubDate": "Mon, 12 Oct 2026 11:30:23 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:4x3Qh-8Wqne9h4MGoBu4sk&context=ONLINE&ratio=16/9&width=480&u=1791804626000"
+    },
+    {
+      "id": "10695250",
+      "title": "Sipef-rivaal waarschuwt voor El Niño, aandeel keldert in Londen",
+      "link": "https://www.tijd.be/r/t/1/id/10695250",
+      "category": "Markten Live",
+      "description": "Voor het eerst waarschuwt een belangrijke palmolieproducent expliciet voor de gevolgen van het weersfenomeen El Niño in 2027. AEP Plantations, een rivaal van het Belgische Sipef, keldert op de beurs van Londen meteen tot 9 procent.",
+      "pubDate": "Mon, 12 Oct 2026 11:29:48 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:BLFpkULuKcr8T2kyYxS-YS&context=ONLINE&ratio=16/9&width=480&u=1791805726000"
+    },
+    {
+      "id": "10675491",
+      "title": "Onze favoriete bars in Knokke",
+      "link": "https://www.tijd.be/r/t/1/id/10675491",
+      "category": "Sabato",
+      "description": "Op zoek naar een goede bar in Knokke? Dit zijn de favoriete bars van onze correspondent die de stad door en door kent.",
+      "pubDate": "Mon, 12 Oct 2026 11:26:56 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:FOF_VNjAarZAyM_m5jwE5-&context=ONLINE&ratio=16/9&width=480&u=1791806334000"
+    },
+    {
+      "id": "10695233",
+      "title": "Britten lopen storm voor obligaties die tegelijk loterijticket zijn",
+      "link": "https://www.tijd.be/r/t/1/id/10695233",
+      "category": "Markten Live",
+      "description": "In het Verenigd Koninkrijk is de populariteit van ‘premium bonds’ fors gestegen. Dat zijn leningen aan de staat die geen rente opleveren, maar elke ingelegde pond biedt elke maand de kans om tot 1 miljoen te winnen.",
+      "pubDate": "Mon, 12 Oct 2026 10:51:03 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:0_-pgK5_aW9AWbvznw-cSj&context=ONLINE&ratio=16/9&width=480&u=1791807288000"
+    },
+    {
+      "id": "10695207",
+      "title": "Bonden vrezen voor lot schriftjesmaker Aurora uit Beerse na overname",
+      "link": "https://www.tijd.be/r/t/1/id/10695207",
+      "category": "Ondernemen",
+      "description": "Aurora uit Beerse, de noodlijdende producent van schriften en cursusblokken, is volgens de vakbonden overgenomen door de Franse groep Hamelin. Maar ze vrezen dat dat de voorbode is van een sluiting.",
+      "pubDate": "Mon, 12 Oct 2026 10:47:36 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:2075mDi1qqMBzt70UEvHVm&context=ONLINE&ratio=16/9&width=480&u=1791803962000"
+    },
+    {
+      "id": "10695211",
+      "title": "Nobelprijs Economie voor Amerikanen die blinde vlek in keynesianisme opvulden",
+      "link": "https://www.tijd.be/r/t/1/id/10695211",
+      "category": "Politiek & Economie",
+      "description": "De Amerikanen Robert Hall en Michael Woodford winnen dit jaar de Nobelprijs Economie voor een beter inzicht in hoe beleidsmakers de economie uit de greep van hoge werkloosheid of inflatie kunnen houden. Ze vulden daarmee een blinde vlek op in het stabilisatiebeleid van John Maynard Keynes.",
+      "pubDate": "Mon, 12 Oct 2026 10:30:35 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:BTDYDF2mqmbB1o4yNtU9KG&context=ONLINE&ratio=16/9&width=480&u=1791806159000"
+    },
+    {
+      "id": "10695224",
+      "title": "Glucksmann verdedigt kleuren van ‘socialistisch en democratisch links’ in Franse presidentsrace van 2027",
+      "link": "https://www.tijd.be/r/t/1/id/10695224",
+      "category": "Politiek & Economie",
+      "description": "In Frankrijk vestigt ‘sociaaldemocratisch links’ zijn presidentiële hoop op Raphaël Glucksmann. Na de vlotte zege bij de voorverkiezing begint voor de leider van Place publique het zware werk: het progressieve electoraat voor zich winnen in een klimaat waarin de radicaal-linkse stokebrand Jean-Luc Mélenchon gevoelige snaren raakt.",
+      "pubDate": "Mon, 12 Oct 2026 10:07:20 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:5TVdXpXQaHu9EoYPFPAQUG&context=ONLINE&ratio=16/9&width=480&u=1791799645000"
+    },
+    {
+      "id": "10695210",
+      "title": "Hof van Cassatie levert munitie voor strengere straffen bij belastingontwijking",
+      "link": "https://www.tijd.be/r/t/1/id/10695210",
+      "category": "Netto",
+      "description": "Een recent arrest van het Hof van Cassatie stelt dat belastingontwijking - waarbij binnen de contouren van de fiscale wet gebleven wordt - toch als onwettig gekwalificeerd kan worden, met mogelijk zwaardere sancties tot gevolg. Fiscaal advocaten vrezen dat de scheiding tussen belastingontwijking en belastingontduiking hiermee verder vervaagt.",
+      "pubDate": "Mon, 12 Oct 2026 09:52:08 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:DJigcpCCq1rAuN_GkJvEcc&context=ONLINE&ratio=16/9&width=480&u=1791803694000"
+    },
+    {
+      "id": "10695236",
+      "title": "Peter Hinssen | Liever een raket dan een brandend bushokje",
+      "link": "https://www.tijd.be/r/t/1/id/10695236",
+      "category": "Opinie",
+      "description": "Niet elk kind moet programmeur worden. Maar elk kind moet ervaren dat technologie iets is wat je zelf kunt maken, en niet alleen iets wat je overkomt.",
+      "pubDate": "Mon, 12 Oct 2026 09:50:16 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:An-yPI6_KpBADqC0o2w72i&context=ONLINE&ratio=16/9&width=480&u=1791798619000"
+    },
+    {
+      "id": "10695186",
+      "title": "Digitaal veiligheidsprobleem bij Ahold Delhaize: webwinkels op zwart, 'magazijnen leveren niet uit'",
+      "link": "https://www.tijd.be/r/t/1/id/10695186",
+      "category": "Ondernemen",
+      "description": "De webwinkels en apps van de supermarktketen Albert Heijn en alle Amerikaanse Ahold Delhaize-dochters liggen door een digitaal veiligheidsprobleem plat. Thuisleveringen kunnen niet doorgaan. De magazijnen van Albert Heijn leveren volgens de vakbonden niet uit en ook die van Delhaize werken niet zoals normaal.",
+      "pubDate": "Mon, 12 Oct 2026 08:42:46 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:3PAjTZV4qJo94zvVLK7SqB&context=ONLINE&ratio=16/9&width=480&u=1791804609000"
+    },
+    {
+      "id": "10695117",
+      "title": "Familie Wittouck investeert na Gates en Bezos in Brits kwantumtechbedrijf",
+      "link": "https://www.tijd.be/r/t/1/id/10695117",
+      "category": "Ondernemen",
+      "description": "De Belgische familie Wittouck stapt in het Britse kwantumtechbedrijf Universal Quantum, dat eerder al geld kreeg van het door Bill Gates (Microsoft) en Jeff Bezos (Amazon) gesteunde Village Global. De kapitaalronde wordt mee geleid door de Vlaming Kris Naudts.",
+      "pubDate": "Mon, 12 Oct 2026 06:00:00 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:E07wQFOb40UBWA5sR1tRV-&context=ONLINE&ratio=16/9&width=480&u=1791806862000"
+    },
+    {
+      "id": "10695178",
+      "title": "Steeds meer landen raden vliegreizen naar Saoedi-Arabië af na aanvallen op luchthavens",
+      "link": "https://www.tijd.be/r/t/1/id/10695178",
+      "category": "Politiek & Economie",
+      "description": "Na meerdere dodelijke aanvallen op Saoedische luchthavens scherpen verschillende landen hun reisadvies aan. Reizigers worden opgeroepen luchthavens te vermijden of niet-noodzakelijke reizen uit te stellen. België raadt alle niet-essentiële reizen naar Saoedi-Arabië af.",
+      "pubDate": "Mon, 12 Oct 2026 04:53:10 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:02pqeEZA4St80IhcaXMhWk&context=ONLINE&ratio=16/9&width=480&u=1791782124000"
+    },
+    {
+      "id": "10694833",
+      "title": "Achter de poort: ‘De Ford Cortina Mk I uit 1964 was liefde op het eerste gezicht’",
+      "link": "https://www.tijd.be/r/t/1/id/10694833",
+      "category": "Sabato",
+      "description": "Wat begon met een verroeste Mazda onder een afdak op de boerderij, groeide voor Toon Van den Broeck uit tot een indrukwekkende verzameling, met onder meer een nagenoeg maagdelijke Lancia Flavia Coupé.",
+      "pubDate": "Mon, 12 Oct 2026 04:45:45 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:Cm1aTEwe4-sBH3FdQ2lHPz&context=ONLINE&ratio=16/9&width=480&u=1791458507000"
+    },
+    {
+      "id": "10695060",
+      "title": "Bijna helft zelfstandigen weet niet dat ze recht hebben op ziekte-uitkering",
+      "link": "https://www.tijd.be/r/t/1/id/10695060",
+      "category": "Netto",
+      "description": "Slechts 19 procent van de zelfstandigen heeft ooit een beroep gedaan op een vervangingsinkomen bij ziekte. Bijna de helft weet niet eens dat dat bestaat.",
+      "pubDate": "Mon, 12 Oct 2026 02:00:00 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:1dgjeWRdq42A-JGTonjBjW&context=ONLINE&ratio=16/9&width=480&u=1791789156000"
+    },
+    {
+      "id": "10695148",
+      "title": "Federale meerderheid speelt gevaarlijke verlengingen",
+      "link": "https://www.tijd.be/r/t/1/id/10695148",
+      "category": "Opinie",
+      "description": "Na een patstelling tussen zijn coalitiepartners stelde premier Bart De Wever zondag de beleidsverklaring uit. Daarmee komt België op gevaarlijk terrein. Het wordt tijd voor pragmatische compromissen, omdat de alternatieven schadelijker zijn.",
+      "pubDate": "Sun, 11 Oct 2026 19:16:34 GMT",
+      "image": null
+    },
+    {
+      "id": "10695147",
+      "title": "De Wever stelt beleidsverklaring uit door patstelling over begroting",
+      "link": "https://www.tijd.be/r/t/1/id/10695147",
+      "category": "Politiek & Economie",
+      "description": "Het weekend van de waarheid voor de federale begroting is dat van de stilstand geworden. Door de weigering van de MR om over een btw-verhoging te praten, stelt premier Bart De Wever (N-VA) zijn beleidsverklaring uit.",
+      "pubDate": "Sun, 11 Oct 2026 18:33:37 GMT",
+      "image": null
+    },
+    {
+      "id": "10695143",
+      "title": "Stellantis belooft elektrische Citroën 2CV voor 15.000 euro",
+      "link": "https://www.tijd.be/r/t/1/id/10695143",
+      "category": "Ondernemen",
+      "description": "Het zieltogende Citroën reïncarneert zijn 2CV als goedkoop elektrisch model, dat vanaf 2028 in de Europese showrooms moet staan én in Europa moet worden gebouwd.",
+      "pubDate": "Sun, 11 Oct 2026 17:00:00 GMT",
+      "image": "https://images.tijd.be/view?iid=Elvis:7SSQbUjRae68PhOQ3CHjNG&context=ONLINE&ratio=16/9&width=480&u=1791805124000"
+    },
+    {
+      "id": "10695138",
+      "title": "Minstens 45.000 deelnemers aan klimaatmars in Brussel",
+      "link": "https://www.tijd.be/r/t/1/id/10695138",
+      "category": "Politiek & Economie",
+      "description": "Tienduizenden mensen trokken zondag door Brussel om meer klimaatactie te eisen. De Klimaatcoalitie vraagt een permanente belasting op fossiele overwinsten en meer steun voor gezinnen en bedrijven die overstappen op groene energie.",
+      "pubDate": "Sun, 11 Oct 2026 16:09:05 GMT",
+      "image": null
+    },
+    {
+      "id": "10695137",
+      "title": "EU wil import Chinese hybridewagens beperken tot 350.000 per jaar",
+      "link": "https://www.tijd.be/r/t/1/id/10695137",
+      "category": "Politiek & Economie",
+      "description": "De Europese Unie wil de invoer van Chinese hybridewagens vanaf december beperken tot 350.000 per jaar om haar auto-industrie te beschermen.",
+      "pubDate": "Sun, 11 Oct 2026 15:46:39 GMT",
+      "image": null
+    },
+    {
+      "id": "10695135",
+      "title": "Trump: 'Er is een staakt-het-vuren rond energie tussen Rusland en Oekraïne'",
+      "link": "https://www.tijd.be/r/t/1/id/10695135",
+      "category": "Politiek & Economie",
+      "description": "Volgens de Amerikaanse president Donald Trump hebben Rusland en Oekraïne afgesproken hun aanvallen op elkaars energievoorzieningen te stoppen.",
+      "pubDate": "Sun, 11 Oct 2026 15:06:39 GMT",
+      "image": null
+    },
+    {
+      "id": "10695133",
+      "title": "Polen onderzoekt mogelijke aanslag op premier en minister van Defensie",
+      "link": "https://www.tijd.be/r/t/1/id/10695133",
+      "category": "Politiek & Economie",
+      "description": "De Poolse veiligheidsdiensten onderzoeken een mogelijk plan om premier Donald Tusk en minister van Defensie Władysław Kosiniak-Kamysz aan te vallen na 'nieuwe, verontrustende signalen'. De autoriteiten leggen voorlopig geen verband met Rusland.",
+      "pubDate": "Sun, 11 Oct 2026 12:33:14 GMT",
+      "image": null
+    },
+    {
+      "id": "10695132",
+      "title": "Zelensky: 'We stoppen enkel aanvallen op Russische raffinaderijen als Rusland onze energie-infrastructuur niet meer aanvalt'",
+      "link": "https://www.tijd.be/r/t/1/id/10695132",
+      "category": "Politiek & Economie",
+      "description": "Oekraïne wil zijn aanvallen op Russische olieraffinaderijen stopzetten als Rusland de Oekraïense energie-infrastructuur met rust laat. President Volodymyr Zelensky, die steun krijgt van de Britse premier, reageert daarmee op kritiek van Donald Trump.",
+      "pubDate": "Sun, 11 Oct 2026 11:32:42 GMT",
+      "image": null
+    },
+    {
+      "id": "10695129",
+      "title": "Minderjarige relschoppers na betoging in Brussel vrijgelaten door plaatsgebrek in jeugdinstellingen",
+      "link": "https://www.tijd.be/r/t/1/id/10695129",
+      "category": "Politiek & Economie",
+      "description": "Acht van de in totaal zestien minderjarigen die zijn gearresteerd na de betoging vrijdag in Brussel kwamen in aanmerking voor een plaatsing in een Openbare Instelling voor Jeugdbescherming (IPPJ), maar moesten worden vrijgelaten door een tekort aan beschikbare plaatsen.",
+      "pubDate": "Sun, 11 Oct 2026 08:51:57 GMT",
+      "image": null
+    },
+    {
+      "id": "10694812",
+      "title": "Recept: prei, grijze garnalen, ravigotesaus van chef Géry Van Peteghem (bistro Kartouche)",
+      "link": "https://www.tijd.be/r/t/1/id/10694812",
+      "category": "Sabato",
+      "description": "Chef Géry Van Peteghem van bistro Kartouche in Elsene deelt zijn recept voor Poireau vinaigrette, een klassieker uit de Franse bistrokeuken, hier in een versie met grijze garnalen.",
+      "pubDate": "Sun, 11 Oct 2026 04:47:02 GMT",
+      "image": null
+    },
+    {
+      "id": "10694836",
+      "title": "Tip van de accountant: 'Schuif de opbouw van een grotere pensioenspaarpot niet voor u uit'",
+      "link": "https://www.tijd.be/r/t/1/id/10694836",
+      "category": "Netto",
+      "description": "Wie als zelfstandige of kmo-bedrijfsleider zijn pensioen serieus neemt, kreeg dit jaar goed nieuws. De regels voor het aanvullend pensioen zijn versoepeld en uitgebreid. Maar die ruimte benutten vereist kennis van de spelregels.",
+      "pubDate": "Sat, 10 Oct 2026 17:06:39 GMT",
+      "image": null
+    },
+    {
+      "id": "10695104",
+      "title": "Europees Hof veroordeelt België omwille van te lange fiscale procedure",
+      "link": "https://www.tijd.be/r/t/1/id/10695104",
+      "category": "Ondernemen",
+      "description": "Het Europees Hof voor de Rechten van de Mens heeft de Belgische staat veroordeeld voor de ‘onredelijk lange termijn’ in een fiscale rechtszaak tegen een Belgisch bedrijf dat actief is in verhuisdiensten.",
+      "pubDate": "Sat, 10 Oct 2026 08:01:46 GMT",
+      "image": "https://images.tijd.be/view?iid=Elvis:4sbk-78zax7984hfBhLIc3&context=ONLINE&ratio=16/9&width=480&u=1791633412000"
+    },
+    {
+      "id": "10695066",
+      "title": "Luminus riskeert miljoenenclaim voor vertraging nieuwe gascentrale in Seraing",
+      "link": "https://www.tijd.be/r/t/1/id/10695066",
+      "category": "Ondernemen",
+      "description": "De energieleverancier Luminus is door zijn medefinancier CVC Capital Partners voor de rechter gedaagd, omdat de bouw van een nieuwe gascentrale in Seraing blijft aanslepen. Het bedrijf riskeert miljoenenboetes.",
+      "pubDate": "Sat, 10 Oct 2026 04:00:29 GMT",
+      "image": "https://images.tijd.be/view?iid=Elvis:0YeaDSzsKeK9g8onqDN0vV&context=ONLINE&ratio=16/9&width=480&u=1791571938000"
+    },
+    {
+      "id": "10694798",
+      "title": "Waarom zoveel topsporters gaan golfen: 'Met welke ondernemers kan je zo lang vergaderen als tijdens 18 holes?'",
+      "link": "https://www.tijd.be/r/t/1/id/10694798",
+      "category": "Sabato",
+      "description": "Wat hebben Michael Phelps, Michael Jordan, Carlos Sainz, Mathieu van der Poel, Wesley Sonck en Félix Denayer gemeen? Het zijn allemaal topsporters met een passie voor golf. Maar waarom is de sport zo populair bij sporters?",
+      "pubDate": "Sat, 10 Oct 2026 03:26:36 GMT",
+      "image": null
+    },
+    {
+      "id": "10695079",
+      "title": "Hoe ideetje in Gentse aula uitgroeide tot TechWolf-deal van half miljard",
+      "link": "https://www.tijd.be/r/t/1/id/10695079",
+      "category": "Ondernemen",
+      "description": "Een ideetje dat ontstond op de achterste rij van een Gentse aula werd deze week voor meer dan 500 miljoen euro verkocht aan de Duitse softwaremastodont SAP. Wat maakt het amper acht jaar oude TechWolf zo gegeerd door de groten der aarde? ‘We voelden meteen dat ze door muren wilden gaan.’",
+      "pubDate": "Sat, 10 Oct 2026 03:05:15 GMT",
+      "image": "https://images.tijd.be/view?iid=Elvis:3VhDsQG94X-9sGbFTFjDbP&context=ONLINE&ratio=16/9&width=480&u=1791790183000"
+    },
+    {
+      "id": "10694877",
+      "title": "Wat als uw cryptoplatform niet de juiste vergunningen heeft?",
+      "link": "https://www.tijd.be/r/t/1/id/10694877",
+      "category": "Dossiers",
+      "description": "De Europese cryptoregels leggen aanbieders strengere voorwaarden op. Wie zijn munten bij een platform zonder de vereiste vergunning laat staan, dreigt bij fraude niet beschermd te zijn. Intussen krijgen de belastingdiensten meer zicht op uw crypto. Wat moet u weten?",
+      "pubDate": "Sat, 10 Oct 2026 03:03:19 GMT",
+      "image": null
+    },
+    {
+      "id": "10694692",
+      "title": "‘Het goedkoopste ziekenfonds is niet altijd de financieel beste keuze’",
+      "link": "https://www.tijd.be/r/t/1/id/10694692",
+      "category": "Netto",
+      "description": "Regelmatig switchen van energiecontract is een evidentie. Maar als het gaat om een ziekenfonds, zijn de Belgen hondstrouw. Nochtans kan een overstap honderden euro’s opleveren.",
+      "pubDate": "Sat, 10 Oct 2026 03:02:19 GMT",
+      "image": null
+    },
+    {
+      "id": "10688181",
+      "title": "Hoe een Oost-Vlaamse schroevenhandelaar wil afkicken van China: 'De wereld is onvoorspelbaar geworden'",
+      "link": "https://www.tijd.be/r/t/1/id/10688181",
+      "category": "Ondernemen",
+      "description": "Een schroef lijkt het simpelste product om te verkopen. Maar het verhaal van het Oost-Vlaamse familiebedrijf PGB Europe toont hoe de wereldhandel verandert. Na decennia van goedkope import uit Azië wordt Europese productie opnieuw interessanter. Aan de derde generatie om die omslag te maken.",
+      "pubDate": "Sat, 10 Oct 2026 03:00:00 GMT",
+      "image": null
+    },
+    {
+      "id": "10694909",
+      "title": "Chef Nick Bril: ‘Er zijn mensen die me voor altijd een klootzak zullen vinden’",
+      "link": "https://www.tijd.be/r/t/1/id/10694909",
+      "category": "Cultuur",
+      "description": "Een jaar geleden opende chef Nick Bril een kleinere, ingetogen versie van zijn sterrenzaak The Jane. Het is een nieuwe start na een tijdperk van ‘work hard, play hard’, waarin hij de culinaire top bereikte en heel diep crashte.",
+      "pubDate": "Sat, 10 Oct 2026 03:00:00 GMT",
+      "image": null
+    },
+    {
+      "id": "10695007",
+      "title": "Zelfstandige, maar niet alleen: is gedeelde onderneming iets voor u?",
+      "link": "https://www.tijd.be/r/t/1/id/10695007",
+      "category": "Netto",
+      "description": "Offertes opstellen, facturen versturen en administratie bijhouden: voor veel zelfstandigen zijn dat de minst fijne kanten van hun werk. Een gedeelde onderneming kan die taken voor u en andere ondernemers uit handen nemen. Hoe werkt dat?",
+      "pubDate": "Sat, 10 Oct 2026 03:00:00 GMT",
+      "image": null
+    },
+    {
       "id": "10695100",
       "title": "Trump: 'Poetin maakt miljoenen tonnen diesel vrij voor Amerikaanse en wereldmarkt'",
       "link": "https://www.tijd.be/r/t/1/id/10695100",
@@ -5366,831 +5755,6 @@
       "score": 3,
       "in_de7": false,
       "image": "https://images.tijd.be/view?iid=Elvis:8-DkDB3Pqak8ywQt1IBtq7&context=ONLINE&ratio=16/9&width=480&u=1790589199000"
-    },
-    {
-      "id": "10687633",
-      "title": "Outsider McNulty kroont zich tot wereldkampioen wielrennen",
-      "link": "https://www.tijd.be/r/t/1/id/10687633",
-      "category": "Ondernemen",
-      "description": "De Amerikaan Brandon McNulty heeft zich in het Canadese Montreal na een doldwaze wedstrijd tot wereldkampioen wielrennen gekroond. De Australiër Michael Matthews en de Nederlander Mathieu van der Poel vervolledigden het podium. Remco Evenepoel werd de eerste Belg op de twaalfde plaats.",
-      "pubDate": "Sun, 27 Sep 2026 19:33:59 GMT",
-      "image": "https://images.tijd.be/view?iid=Elvis:8vlgytD3aTKB6Im4H7b_uT&context=ONLINE&ratio=16/9&width=480&u=1790572828000"
-    },
-    {
-      "id": "10687630",
-      "title": "Waarom maakt Vlaanderen niet makkelijker het verschil?",
-      "link": "https://www.tijd.be/r/t/1/id/10687630",
-      "category": "Opinie",
-      "description": "De Vlaamse begroting op de sporen krijgen zou in de Wetstraat het makkelijke werk moeten zijn. Het is weinig hoopgevend dat het dat niet lijkt te zijn.",
-      "pubDate": "Sun, 27 Sep 2026 17:33:54 GMT",
-      "image": "https://images.tijd.be/view?iid=Elvis:5ZuvyD2LauZ8iIsuJEYiuJ&context=ONLINE&ratio=16/9&width=480&u=1790618709000"
-    },
-    {
-      "id": "10687628",
-      "title": "Vijf arrestaties bij 'groot incident' nabij Amerikaanse luchtmachtbasis in VK",
-      "link": "https://www.tijd.be/r/t/1/id/10687628",
-      "category": "Politiek & Economie",
-      "description": "In het Verenigd Koninkrijk zijn vijf mannen opgepakt die volgens de politie een terreurdaad voorbereidden nabij een Amerikaanse luchtmachtbasis. De antiterrorisme-eenheid van de Britse politie leidt het onderzoek.",
-      "pubDate": "Sun, 27 Sep 2026 13:34:27 GMT",
-      "image": "https://images.tijd.be/view?iid=Elvis:39JdswvXK3p86doLKncfmP&context=ONLINE&ratio=16/9&width=480&u=1790575339000"
-    },
-    {
-      "id": "10687621",
-      "title": "Boeing biecht nieuw softwareprobleem op bij 737 MAX",
-      "link": "https://www.tijd.be/r/t/1/id/10687621",
-      "category": "Ondernemen",
-      "description": "Boeing heeft een nieuw softwareprobleem ontdekt bij de 737 MAX, het toestel waar de Amerikaanse vliegtuigbouwer al meermaals mee in de problemen kwam.",
-      "pubDate": "Sun, 27 Sep 2026 08:43:32 GMT",
-      "image": "https://images.tijd.be/view?iid=Elvis:20S7eYn-Ki592OOBktu5Rn&context=ONLINE&ratio=16/9&width=480&u=1790574719000"
-    },
-    {
-      "id": "10687618",
-      "title": "Apple moet ruim 5,7 miljard dollar betalen in patentzaak",
-      "link": "https://www.tijd.be/r/t/1/id/10687618",
-      "category": "Ondernemen",
-      "description": "Een Amerikaanse federale jury in San Diego heeft techreus Apple veroordeeld tot het betalen van een schadevergoeding van ruim 5,7 miljard dollar (ongeveer 5,1 miljard euro) voor het schenden van twee patenten. Apple heeft al aangekondigd in beroep te gaan.",
-      "pubDate": "Sun, 27 Sep 2026 08:08:02 GMT",
-      "image": "https://images.tijd.be/view?iid=Elvis:9TYkCHXN4fU8ZbzxUdwO5l&context=ONLINE&ratio=16/9&width=480&u=1790580606000"
-    },
-    {
-      "id": "10687615",
-      "title": "OpenAI pauzeert ontwikkeling krachtigste modellen na nieuw veiligheidsincident",
-      "link": "https://www.tijd.be/r/t/1/id/10687615",
-      "category": "Ondernemen",
-      "description": "OpenAI, de Amerikaanse AI-gigant achter ChatGPT, pauzeert de ontwikkeling van zijn krachtigste modellen nadat een AI-agent tijdens een test toegangsbeperkingen tot het internet had omzeild.",
-      "pubDate": "Sun, 27 Sep 2026 06:49:29 GMT",
-      "image": "https://images.tijd.be/view?iid=Elvis:8_lh1iWfaPUBiSo_oIs9kC&context=ONLINE&ratio=16/9&width=480&u=1790575345000"
-    },
-    {
-      "id": "10686913",
-      "title": "Binnenkijken in het nieuwe Le Chalet de la Fôret in Brussel: ‘Michelin beslist wat het moet beslissen’",
-      "link": "https://www.tijd.be/r/t/1/id/10686913",
-      "category": "Sabato",
-      "description": "Tweesterrenchef Pascal Devalkeneer van restaurant Le Chalet de la Forêt in Brussel sloopte zijn interieur, liet voor de nieuwe tafels en stoelen hout aanrukken uit het Zoniënwoud en koos voor een rauw, nieuw avontuur. Wij mochten binnenkijken.",
-      "pubDate": "Sun, 27 Sep 2026 03:31:30 GMT",
-      "image": "https://images.tijd.be/view?iid=Elvis:CeCUYlELKwDBbTYIZIvLj9&context=ONLINE&ratio=16/9&width=480&u=1790602319000"
-    },
-    {
-      "id": "10687385",
-      "title": "7 procent meer werknemers met een arbeidsbeperking aan de slag via maatwerk",
-      "link": "https://www.tijd.be/r/t/1/id/10687385",
-      "category": "Netto",
-      "description": "Een werknemer met een arbeidsbeperking in dienst nemen hoeft voor een werkgever niet te betekenen dat hij alle extra kosten zelf draagt. Via individueel maatwerk financiert de Vlaamse overheid een deel van de loonkosten en de extra begeleiding.",
-      "pubDate": "Sun, 27 Sep 2026 03:00:00 GMT",
-      "image": "https://images.tijd.be/view?iid=Elvis:BKMsQneqK1-8v3o_Mb1CuJ&context=ONLINE&ratio=16/9&width=480&u=1790505420000"
-    },
-    {
-      "id": "10687612",
-      "title": "Diependaele begint straks aan begrotingsmarathon",
-      "link": "https://www.tijd.be/r/t/1/id/10687612",
-      "category": "Politiek & Economie",
-      "description": "De topministers van de Vlaamse regering hervatten zondag om 12u het begrotingsoverleg . De landing wordt in de vroege uurtjes van maandagochtend verwacht.",
-      "pubDate": "Sat, 26 Sep 2026 19:29:20 GMT",
-      "image": "https://images.tijd.be/view?iid=Elvis:9enmJ9ul47M8BpD4u_q5ue&context=ONLINE&ratio=16/9&width=480&u=1790608335000"
-    },
-    {
-      "id": "10687611",
-      "title": "Nederlandse veelwinnaar Demi Vollering is voor het eerst wereldkampioen wielrennen",
-      "link": "https://www.tijd.be/r/t/1/id/10687611",
-      "category": "Ondernemen",
-      "description": "Wereldtopper Demi Vollering bekroont haar boerenjaar en favorietenstatus met een eerste wereldtitel. Ze won dit jaar al de monumenten Ronde van Vlaanderen en Luik-Bastenaken-Luik en zowel Giro als Tour.",
-      "pubDate": "Sat, 26 Sep 2026 18:54:35 GMT",
-      "image": "https://images.tijd.be/view?iid=Elvis:BtSGjYF0aD9Abyo2HsADY_&context=ONLINE&ratio=16/9&width=480&u=1790451192000"
-    },
-    {
-      "id": "10687610",
-      "title": "Trump verwerpt voorstel tot bestand van Iran om Straat van Hormuz te heropenen",
-      "link": "https://www.tijd.be/r/t/1/id/10687610",
-      "category": "Politiek & Economie",
-      "description": "De Amerikaanse president Donald Trump zegt dat hij een voorstel van Iran voor een staakt-het-vuren van een week verworpen heeft. De Iraniërs koppelden daar heropening van de Straat van Hormuz aan en ruimere onderhandelingen over een permanente vredesdeal.",
-      "pubDate": "Sat, 26 Sep 2026 18:13:00 GMT",
-      "image": "https://images.tijd.be/view?iid=Elvis:2kKMNDKX4rz8FmNkFJzsP3&context=ONLINE&ratio=16/9&width=480&u=1790504175000"
-    },
-    {
-      "id": "10687608",
-      "title": "Voorzitter Manchester City: 'Wij zijn onschuldig'",
-      "link": "https://www.tijd.be/r/t/1/id/10687608",
-      "category": "Ondernemen",
-      "description": "De voorzitter van topclub Manchester City, Khaldoon al-Mubarak, vindt het belangrijk genoeg met een verklaring te reageren op de vermeende veroordeling voor inbreuken op de financiële spelregels door City. De zaak overstijgt het voetbal omdat het evenveel over de politieke relaties tussen de Verenigde Arabische Emiraten en het Verenigd Koninkrijk gaat.",
-      "pubDate": "Sat, 26 Sep 2026 16:46:21 GMT",
-      "image": "https://images.tijd.be/view?iid=Elvis:BivCSOy54V4AqjPv0UxlAk&context=ONLINE&ratio=16/9&width=480&u=1790441998000"
-    },
-    {
-      "id": "10687607",
-      "title": "Eigenaar IT-platform voor sportclubs en jeugdbewegingen dient klacht in voor hacking",
-      "link": "https://www.tijd.be/r/t/1/id/10687607",
-      "category": "Ondernemen",
-      "description": "De Britse eigenaar van het IT-platform Twizzit heeft klacht ingediend bij het Belgische Centrum voor Cybersecurity na ontdekking van een hacking. Bij het datalek zijn persoonsgegevens gekopieerd van onder meer Chirojeugd Vlaanderen.",
-      "pubDate": "Sat, 26 Sep 2026 13:58:52 GMT",
-      "image": "https://images.tijd.be/view?iid=Elvis:2yy9X1TXqGPBmu1YF58Dlt&context=ONLINE&ratio=16/9&width=480&u=1790434892000"
-    },
-    {
-      "id": "10687604",
-      "title": "Minister Van Bossuyt over Palestijnse hongerstakers: 'Dit is nooit een middel om een overheid te dwingen'",
-      "link": "https://www.tijd.be/r/t/1/id/10687604",
-      "category": "Politiek & Economie",
-      "description": "Twee mannen van een groep Palestijnse hongerstakers in de Begijnhofkerk in Brussel zijn opgenomen in het ziekenhuis. Ze vragen overbrenging van hun gezin uit Gaza. Minister van Asiel en Migratie Anneleen Van Bossuyt (N-VA) stelt dat hongerstaking nooit een middel is om de overheid onder druk te zetten.",
-      "pubDate": "Sat, 26 Sep 2026 12:10:05 GMT",
-      "image": "https://images.tijd.be/view?iid=Elvis:2LYaJo6VqCu936lZ9FRGsp&context=ONLINE&ratio=16/9&width=480&u=1790424609000"
-    },
-    {
-      "id": "10687602",
-      "title": "Ondernemers planten bomen waarvan de volgende generatie de vruchten plukt, hak deze bomen niet om",
-      "link": "https://www.tijd.be/r/t/1/id/10687602",
-      "category": "Opinie",
-      "description": "In België zijn familiale bedrijven goed voor het grootste deel van ons ondernemingsweefsel en voor honderdduizenden jobs. De overheid zou dat moeten koesteren.",
-      "pubDate": "Sat, 26 Sep 2026 09:27:59 GMT",
-      "image": "https://images.tijd.be/view?iid=Elvis:5Tx-skzgaxw8d2oOBBzGS0&context=ONLINE&ratio=16/9&width=480&u=1790589661000"
-    },
-    {
-      "id": "10687598",
-      "title": "AI-agenten gooiden beelden van gebruikers van ChatGPT online, erkent OpenAI",
-      "link": "https://www.tijd.be/r/t/1/id/10687598",
-      "category": "Ondernemen",
-      "description": "AI-agenten van het Amerikaanse bedrijf OpenAI, de maker van ChatGPT, hebben beelden van gebruikers van de chatbot online gepubliceerd.",
-      "pubDate": "Sat, 26 Sep 2026 06:32:09 GMT",
-      "image": "https://images.tijd.be/view?iid=Elvis:CXaRQn_24-EBLcZNYUbBcT&context=ONLINE&ratio=16/9&width=480&u=1790427786000"
-    },
-    {
-      "id": "10686921",
-      "title": "Exclusief binnenkijken in het palacio van Le Pain Quotidien-oprichter Alain Coumont",
-      "link": "https://www.tijd.be/r/t/1/id/10686921",
-      "category": "Sabato",
-      "description": "Alain Coumont, de oprichter van Le Pain Quotidien en Le Botaniste, vind je vandaag in zijn Palacio de Montellano in Andalusië. Een exclusieve blik achter de gevels van zijn Spaanse landgoed.",
-      "pubDate": "Sat, 26 Sep 2026 03:30:14 GMT",
-      "image": "https://images.tijd.be/view?iid=Elvis:FUcDsU68KY48o--xcG8s0U&context=ONLINE&ratio=16/9&width=480&u=1790445049000"
-    },
-    {
-      "id": "10687551",
-      "title": "Het radicaal-rechtse sprookjesbos",
-      "link": "https://www.tijd.be/r/t/1/id/10687551",
-      "category": "Opinie",
-      "description": "De diagnoses die het Vlaams Belang van de samenlevingsproblemen maakt, zijn op veel vlakken niet verkeerd. Maar de oplossingen doorstaan de test van de realiteit niet.",
-      "pubDate": "Sat, 26 Sep 2026 03:00:00 GMT",
-      "image": "https://images.tijd.be/view?iid=Elvis:5ZuvyD2LauZ8iIsuJEYiuJ&context=ONLINE&ratio=16/9&width=480&u=1790618709000"
-    },
-    {
-      "id": "10687596",
-      "title": "'Drie bieders naar volgende ronde voor Telenet-netwerkdochter Wyre'",
-      "link": "https://www.tijd.be/r/t/1/id/10687596",
-      "category": "Ondernemen",
-      "description": "De Amerikaanse telecom- en mediagroep Liberty Global heeft drie bieders geselecteerd voor de volgende ronde van de verkoop van het Vlaamse netwerkbedrijf Wyre, een dochter van Telenet. Dat meldt het persbureau Bloomberg.",
-      "pubDate": "Fri, 25 Sep 2026 21:49:27 GMT",
-      "image": "https://images.tijd.be/view?iid=Elvis:0Ts99G3QKnv9S0d2a_-MdK&context=ONLINE&ratio=16/9&width=480&u=1790373227000"
-    },
-    {
-      "id": "10687594",
-      "title": "‘Houthi’s beloven Europese schepen met rust te laten’",
-      "link": "https://www.tijd.be/r/t/1/id/10687594",
-      "category": "Politiek & Economie",
-      "description": "De Houthi-rebellen in Jemen beloven Europese vaartuigen in de Rode Zee niet aan te vallen, meldt de Financial Times. Steeds meer containerschepen gebruiken de belangrijke route opnieuw.",
-      "pubDate": "Fri, 25 Sep 2026 21:22:32 GMT",
-      "image": "https://images.tijd.be/view?iid=Elvis:5VYGF9kf4Sj9E4R2bmSUhO&context=ONLINE&ratio=16/9&width=480&u=1790371357000"
-    },
-    {
-      "id": "10687576",
-      "title": "Nervositeit in Vlaamse begrotingsronde piekt, getuige de steekjes en de lekken",
-      "link": "https://www.tijd.be/r/t/1/id/10687576",
-      "category": "Politiek & Economie",
-      "description": "Vrijdag was er in de Vlaamse regering nog geen uitzicht op een begrotingsakkoord, waardoor de tijd stilaan begint te dringen voor de septemberverklaring van minister-president Matthias Diependaele op maandag. De schimpscheuten en lekken over elkaars dada's tonen dat de zenuwachtigheid aan het Martelaarsplein piekt.",
-      "pubDate": "Fri, 25 Sep 2026 20:08:35 GMT",
-      "image": "https://images.tijd.be/view?iid=Elvis:4-LLhOA6aT3BKgLlVgW4jB&context=ONLINE&ratio=16/9&width=480&u=1790368767000"
-    },
-    {
-      "id": "10687477",
-      "title": "Na Claude schrikt Muse beleggers op: wie wint en verliest in de race om de autonome winkelassistent?",
-      "link": "https://www.tijd.be/r/t/1/id/10687477",
-      "category": "Markten Live",
-      "description": "Na software neemt artificiële intelligentie nu een alledaagser verdienmodel onder vuur: onze gemakzucht. Meta’s nieuwe AI-agent Muse kan vergelijken, boeken en kopen in onze plaats. Banken, verzekeraars en reisplatformen kregen prompt klappen. Terecht of niet?",
-      "pubDate": "Fri, 25 Sep 2026 19:35:00 GMT",
-      "image": "https://images.tijd.be/view?iid=Elvis:2cKROh3dqyh8xKdOTJX9p9&context=ONLINE&ratio=16/9&width=480&u=1790368073000"
-    },
-    {
-      "id": "10687357",
-      "title": "In zes stappen naar een ETF-plan dat bij u past",
-      "link": "https://www.tijd.be/r/t/1/id/10687357",
-      "category": "Netto",
-      "description": "Elke maand een klein beetje spaargeld in een beursgenoteerd indexfonds stoppen kan een goede manier zijn om een mooie spaarpot op te bouwen. Maar hoe begint u aan zo’n ETF-plan, en waarop moet u letten?",
-      "pubDate": "Fri, 25 Sep 2026 18:42:11 GMT",
-      "score": 2,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:Cc0r163BKxV9W2qAhjHLqH&context=ONLINE&ratio=16/9&width=480&u=1790361735000"
-    },
-    {
-      "id": "10687344",
-      "title": "Het verhaal van een huwelijk",
-      "link": "https://www.tijd.be/r/t/1/id/10687344",
-      "category": "Opinie",
-      "description": "Journalist en schrijver Rik Van Puymbroeck kijkt door zijn lens naar de wereld.",
-      "pubDate": "Fri, 25 Sep 2026 18:30:42 GMT",
-      "score": 2,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:51P13NK-q6e8nMPIOBzoFy&context=ONLINE&ratio=16/9&width=480&u=1790265355000"
-    },
-    {
-      "id": "10687591",
-      "title": "Bill Gates waarschuwt dat AI ‘1 miljard doden’ kan veroorzaken",
-      "link": "https://www.tijd.be/r/t/1/id/10687591",
-      "category": "Politiek & Economie",
-      "description": "'Er is nog nooit een wapen geweest dat zo machtig is als de combinatie van kwaadwillende mensen die de nieuwste AI-tools gebruiken', zegt Microsoft-miljardair Bill Gates in een gesprek met de Amerikaanse tv-zender NBC.",
-      "pubDate": "Fri, 25 Sep 2026 18:21:05 GMT",
-      "score": 7,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:42HKKex8q7B8QH64NO76n2&context=ONLINE&ratio=16/9&width=480&u=1790360774000"
-    },
-    {
-      "id": "10687578",
-      "title": "Volkswagen staat voor grootste terugroepactie sinds dieselgate",
-      "link": "https://www.tijd.be/r/t/1/id/10687578",
-      "category": "Ondernemen",
-      "description": "Volkswagen moet op grote schaal auto's van zijn merken VW, Audi, Skoda en Seat terugroepen vanwege een mogelijk roestprobleem in de stuurinrichting. Volgens verschillende bronnen kan het de grootste terugroepactie worden sinds dieselgate, meer dan tien jaar geleden.",
-      "pubDate": "Fri, 25 Sep 2026 18:18:53 GMT",
-      "score": 2,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:EPtmIdFCqtf96pFipoYXTO&context=ONLINE&ratio=16/9&width=480&u=1790360336000"
-    },
-    {
-      "id": "10687582",
-      "title": "Microsoft krijgt applaus voor verbeterde AI-assistent, aandeel op hoogste peil in tien maanden",
-      "link": "https://www.tijd.be/r/t/1/id/10687582",
-      "category": "Markten Live",
-      "description": "Microsoft is vrijdag de uitblinker op Wall Street na de introductie van nieuwe functies in AI-assistent Copilot.",
-      "pubDate": "Fri, 25 Sep 2026 18:17:06 GMT",
-      "score": -1,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:6DAdGKAq4d2A1Ulf3-UwSu&context=ONLINE&ratio=16/9&width=480&u=1790360230000"
-    },
-    {
-      "id": "10687165",
-      "title": "‘Durf denken’ is de slogan, maar in de UGent bijten professoren op hun tong",
-      "link": "https://www.tijd.be/r/t/1/id/10687165",
-      "category": "Politiek & Economie",
-      "description": "Al maanden is de Universiteit Gent wereldnieuws door de omstreden onderzoeker Nathan Cofnas. Een storm in een glas water of heeft de UGent een structureel probleem, niet het minst met haar eigen credo, ‘Durf denken’?",
-      "pubDate": "Fri, 25 Sep 2026 18:12:43 GMT",
-      "score": 4,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:AvE45rK7qTQAx2kn0itbH9&context=ONLINE&ratio=16/9&width=480&u=1790359966000"
-    },
-    {
-      "id": "10687581",
-      "title": "Consensus in Vlaamse regering om dienstencheque 2 euro duurder te maken",
-      "link": "https://www.tijd.be/r/t/1/id/10687581",
-      "category": "Politiek & Economie",
-      "description": "In de Vlaamse regering is er een consensus om de prijs van de dienstencheques van 10 naar 12 euro te verhogen. Ook de maximale hoeveelheid cheques die gezinnen tegen dat tarief mogen aankopen gaat omlaag.",
-      "pubDate": "Fri, 25 Sep 2026 18:08:12 GMT",
-      "score": 4,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:95K1PCLaqkK9bOhmCkJbiN&context=ONLINE&ratio=16/9&width=480&u=1790362757000"
-    },
-    {
-      "id": "10687504",
-      "title": "Vlaams Belang-voorzitter Tom Van Grieken: 'De Wever is het probleem voor iedereen die een rechts beleid wil'",
-      "link": "https://www.tijd.be/r/t/1/id/10687504",
-      "category": "Politiek & Economie",
-      "description": "Nu radicaal-rechts overal in Europa de wind in de zeilen heeft, droomt Tom Van Grieken van de macht. Premier Bart De Wever is daarbij zijn belangrijkste sta-in-de-weg en daarom kiest de Vlaams Belang-voorzitter voor de frontale aanval. 'De Wever komt veel te gemakkelijk met zijn verhaaltjes weg.'",
-      "pubDate": "Fri, 25 Sep 2026 17:38:18 GMT",
-      "score": 3,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:EoAl_9uZ4oD9s9cm2CUcoi&context=ONLINE&ratio=16/9&width=480&u=1790358332000"
-    },
-    {
-      "id": "10687490",
-      "title": "Netflix breidt reclameomzet volop uit: ook in België komt er formule met advertenties",
-      "link": "https://www.tijd.be/r/t/1/id/10687490",
-      "category": "Ondernemen",
-      "description": "Belgische abonnees van Netflix kunnen vanaf maart volgend jaar ook kiezen voor een goedkoper tarief met advertenties. De streamingdienst is zijn reclame-inkomsten volop aan het uitbreiden.",
-      "pubDate": "Fri, 25 Sep 2026 17:26:50 GMT",
-      "score": 2,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:AZm1YxNn4JA9pCykCcqUA8&context=ONLINE&ratio=16/9&width=480&u=1790357879000"
-    },
-    {
-      "id": "10687573",
-      "title": "AI-fraudeurs pluimen grootste bank van Italië voor 95 miljoen",
-      "link": "https://www.tijd.be/r/t/1/id/10687573",
-      "category": "Ondernemen",
-      "description": "Een groep oplichters is er via CEO-fraude met AI in geslaagd om 95 miljoen euro weg te sluizen bij de privatebankingdochter van de Italiaanse grootbank Intesa Sanpaolo.",
-      "pubDate": "Fri, 25 Sep 2026 17:03:24 GMT",
-      "score": 5,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:1v6b-ip94dbAa4lWi1fjwh&context=ONLINE&ratio=16/9&width=480&u=1790356918000"
-    },
-    {
-      "id": "10687575",
-      "title": "Bnode-zorgenkind Radial krijgt negende CEO sinds 2016",
-      "link": "https://www.tijd.be/r/t/1/id/10687575",
-      "category": "Ondernemen",
-      "description": "Radial, de Amerikaanse e-commercedochter van pakjes- en postgroep Bnode, krijgt weer een nieuwe CEO. Het is al de negende topman in tien jaar tijd.",
-      "pubDate": "Fri, 25 Sep 2026 16:59:10 GMT",
-      "score": 2,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:EY2LsJNNaqD94odgmf184c&context=ONLINE&ratio=16/9&width=480&u=1790355553000"
-    },
-    {
-      "id": "10687571",
-      "title": "De groeirecepten van AB InBev: cocktails in blik en 'Amazon van het bier'",
-      "link": "https://www.tijd.be/r/t/1/id/10687571",
-      "category": "Ondernemen",
-      "description": "Met gerichtere reclame, meer cocktails in blik en 'de Amazon van het bier' wil AB InBev weer structureel groeien. De brouwer verschuift de focus van grote overnames naar groeien op eigen kracht. Daarmee wil het zijn hogere winstambitie waarmaken, terwijl China de plannen op de proef stelt.",
-      "pubDate": "Fri, 25 Sep 2026 16:55:41 GMT",
-      "score": 4,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:7k_N07lYa-fBo25Oq76SxC&context=ONLINE&ratio=16/9&width=480&u=1790359417000"
-    },
-    {
-      "id": "10687561",
-      "title": "'Manchester City schuldig bevonden aan inbreuken op financiële spelregels'",
-      "link": "https://www.tijd.be/r/t/1/id/10687561",
-      "category": "Ondernemen",
-      "description": "Topclub Manchester City is in een al jaren aanslepend dossier schuldig bevonden aan inbreuken op de financiële spelregels in het Engelse voetbal. Dat melden meerdere Angelsaksische media.",
-      "pubDate": "Fri, 25 Sep 2026 16:47:43 GMT",
-      "score": 4,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:EYc015fCK6EAXX_IpX4xvm&context=ONLINE&ratio=16/9&width=480&u=1790355312000"
-    },
-    {
-      "id": "10687332",
-      "title": "Kernafval kan honderden miljoenen opleveren als kankermedicijn",
-      "link": "https://www.tijd.be/r/t/1/id/10687332",
-      "category": "Politiek & Economie",
-      "description": "Het Belgisch kernafval bevat uitzonderlijke hoeveelheden radium, een radioactief materiaal dat als grondstof kan dienen voor een nieuw type kankertherapie.",
-      "pubDate": "Fri, 25 Sep 2026 16:23:22 GMT",
-      "score": 2,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:5R6JjxXIa-MAG29JtwMbWn&context=ONLINE&ratio=16/9&width=480&u=1790359940000"
-    },
-    {
-      "id": "10687286",
-      "title": "‘600 gram Kempisch radiumafval kan de wereld van kankermedicijnen voorzien’",
-      "link": "https://www.tijd.be/r/t/1/id/10687286",
-      "category": "Ondernemen",
-      "description": "Een eeuw geleden stond de grootste radiumfabriek ter wereld in Olen. Dat zadelde de Kempen op met besmet afval dat mogelijk miljarden kost om te bergen. Als grondstof voor een veelbelovend kankermedicijn blijkt dat afval nu plots goud waard.",
-      "pubDate": "Fri, 25 Sep 2026 16:20:24 GMT",
-      "score": 4,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:CR27I66dq7DBFxx0RQ1mgZ&context=ONLINE&ratio=16/9&width=480&u=1790361733000"
-    },
-    {
-      "id": "10687548",
-      "title": "Brad Pitt bezorgt Chimay in nieuwe film gratis reclame",
-      "link": "https://www.tijd.be/r/t/1/id/10687548",
-      "category": "Ondernemen",
-      "description": "In zijn nieuwe film ‘Heart of the Beast’, die woensdag in de zalen verscheen, bezorgt Brad Pitt de Waalse trappistenbrouwerij Chimay reclame voor filmliefhebbers wereldwijd. De brouwerij hoefde naar eigen zeggen geen cent te betalen voor de prominente plek op het witte doek.",
-      "pubDate": "Fri, 25 Sep 2026 16:17:56 GMT",
-      "score": 2,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:11Ru6Hbn4Cw99AJsnWZDLp&context=ONLINE&ratio=16/9&width=480&u=1790353079000"
-    },
-    {
-      "id": "10687555",
-      "title": "Kernkabinet nog niet rijp voor begrotingsconclaaf",
-      "link": "https://www.tijd.be/r/t/1/id/10687555",
-      "category": "Dossiers",
-      "description": "Het kernkabinet gaat dit weekend nog niet in conclaaf voor het oplappen van de meerjarenbegroting. Er is geen eensgezindheid over de omvang en de verdeling van de inspanning en over het narratief. Pas vanaf zaterdag 3 oktober sluiten de topministers zichzelf op.",
-      "pubDate": "Fri, 25 Sep 2026 16:02:21 GMT",
-      "score": 2,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:7-TuNGGwq5VBz3BIfeFJ_H&context=ONLINE&ratio=16/9&width=480&u=1790361276000"
-    },
-    {
-      "id": "10687305",
-      "title": "De onzichtbare hand | Vuurrood Berlijn: de zichtbaarste hand",
-      "link": "https://www.tijd.be/r/t/1/id/10687305",
-      "category": "Politiek & Economie",
-      "description": "Met de zege van extreemlinks in Berlijn maakt het ultieme 'fausse bonne idée' weer opgeld: een 'Vergesellschaftung' als wonderoplossing voor onbetaalbare woningen.",
-      "pubDate": "Fri, 25 Sep 2026 16:00:57 GMT",
-      "score": 2,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:4AtCUo2tayw9R5UKW3NWwH&context=ONLINE&ratio=16/9&width=480&u=1790340283000"
-    },
-    {
-      "id": "10687547",
-      "title": "Waterpeil in Rijn zakt voor het eerst ‘tot nul’: ‘Boze klanten vragen waar hun producten blijven’",
-      "link": "https://www.tijd.be/r/t/1/id/10687547",
-      "category": "Politiek & Economie",
-      "description": "De belangrijkste transportroute van Europa staat droog. Aan het officiële ijkpunt van de Rijn in het Duitse dorpje Kaub zakte het waterpeil vrijdag voor het eerst tot 0 centimeter. Dat weegt ook op Vlaamse bouwwerven. ‘Het is maanden geleden dat we er een schip langs kregen.’",
-      "pubDate": "Fri, 25 Sep 2026 15:47:01 GMT",
-      "score": 3,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:2OoECFSb4gU9SzaQao861E&context=ONLINE&ratio=16/9&width=480&u=1790354139000"
-    },
-    {
-      "id": "10687246",
-      "title": "Op het WK rijden ze al, maar breken Chinese koersfietsen ook hier door?",
-      "link": "https://www.tijd.be/r/t/1/id/10687246",
-      "category": "Ondernemen",
-      "description": "Op het WK in Montreal rijden dit weekend wielrenners rond op fietsen van de volledig Chinese merken Winspace en XDS. Beide willen nu ook doorbreken in België. 'De kwaliteit kan best oké zijn, maar ze hebben geen uithangborden.'",
-      "pubDate": "Fri, 25 Sep 2026 14:36:20 GMT",
-      "score": 2,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:EjzVp_8baUD8jDAfrhfz2p&context=ONLINE&ratio=16/9&width=480&u=1790346987000"
-    },
-    {
-      "id": "10687521",
-      "title": "Nieuwe staking in gevangenissen: ‘Mensen slapen naast toiletpot’",
-      "link": "https://www.tijd.be/r/t/1/id/10687521",
-      "category": "Politiek & Economie",
-      "description": "De vakbonden slaan opnieuw alarm over de overbevolking in de Belgische gevangenissen. Nu het aantal grondslapers weer stijgt, zien ze ook de wantoestanden en agressie toenemen. Van de noodmaatregelen die volgende week ingaan, verwachten de bonden weinig. ‘Ik hou mijn hart vast.’",
-      "pubDate": "Fri, 25 Sep 2026 14:25:25 GMT",
-      "score": 5,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:73mz0HPS4EtBwpgYAiL8uS&context=ONLINE&ratio=16/9&width=480&u=1790346328000"
-    },
-    {
-      "id": "10687340",
-      "title": "State of the Union | MAGA steekt Atlantische Oceaan over",
-      "link": "https://www.tijd.be/r/t/1/id/10687340",
-      "category": "Opinie",
-      "description": "In Europa winnen de extremen, terwijl het centrum verdampt. Wie in Washington woont, herkent het beeld.",
-      "pubDate": "Fri, 25 Sep 2026 14:21:31 GMT",
-      "score": 2,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:8j9S5QfPaJkB9uK2h4-LTH&context=ONLINE&ratio=16/9&width=480&u=1790328274000"
-    },
-    {
-      "id": "10687527",
-      "title": "Vijf keer cultuur die u niet mag missen: van Froukje tot Philip Aguirre y Otegui",
-      "link": "https://www.tijd.be/r/t/1/id/10687527",
-      "category": "Dossiers",
-      "description": "De cultuurredactie van De Tijd tipt wekelijks haar favorieten. Welke expo moet u gezien hebben? Bij welk boek kunt u op zondag wegdromen? Nog snel tickets bestellen voor die bijna uitverkochte voorstelling? U leest het hier.",
-      "pubDate": "Fri, 25 Sep 2026 14:11:11 GMT",
-      "score": 2,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:Cg157rpY4AuB9uAEkhpkwI&context=ONLINE&ratio=16/9&width=480&u=1790345474000"
-    },
-    {
-      "id": "10687428",
-      "title": "Defensiechef Frederik Vansina: ‘Ongerustheid groeit dat Rusland de NAVO wil testen’",
-      "link": "https://www.tijd.be/r/t/1/id/10687428",
-      "category": "Politiek & Economie",
-      "description": "Lange tijd was de consensus onder hoge militairen dat Rusland pas tegen 2029 in staat zou zijn om de NAVO aan te vallen. Daar is nu een nieuw element bijgekomen, zegt Defensiechef Frederik Vansina. ‘De ongerustheid groeit dat we al eerder met een gerichte actie te maken zullen krijgen.’",
-      "pubDate": "Fri, 25 Sep 2026 14:01:46 GMT",
-      "score": 4,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:56YyuC_ta0-8NHPnn-ZpOC&context=ONLINE&ratio=16/9&width=480&u=1790347736000"
-    },
-    {
-      "id": "10687103",
-      "title": "Design Museum Gent heropent: dit mag je er niet missen",
-      "link": "https://www.tijd.be/r/t/1/id/10687103",
-      "category": "Sabato",
-      "description": "Voor de heropening van Design Museum Gent, op 3 oktober, bedacht curator Siegrid Demyttenaere het concept ‘From Earth to Sky’. Deze jonge makers en ontwerpers vroeg ze om het museum van beneden tot boven aan te pakken.",
-      "pubDate": "Fri, 25 Sep 2026 14:00:46 GMT",
-      "score": 2,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:62j4PLrq4Wv8Xz_53I1VRr&context=ONLINE&ratio=16/9&width=480&u=1790332044000"
-    },
-    {
-      "id": "10687188",
-      "title": "Oxford-professor Ludovic Phalippou: 'Waar zijn de privéjets van al die private-equityklanten?'",
-      "link": "https://www.tijd.be/r/t/1/id/10687188",
-      "category": "Dossiers",
-      "description": "Als een luis in de pels klaagt Ludovic Phalippou al 25 jaar de 'misleidende' rendementen in de private-equitywereld aan. 'Het rendement is hetzelfde als bij een goedkope ETF.' Ontbijt met De Tijd.",
-      "pubDate": "Fri, 25 Sep 2026 14:00:33 GMT",
-      "score": 3,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:FjFKzeQ6qui94SUczBopGL&context=ONLINE&ratio=16/9&width=480&u=1790343679000"
-    },
-    {
-      "id": "10687197",
-      "title": "Froukje blijft haar nuchtere zelf op nieuw album: 'Stilstaan bij wat je speciaal maakt, is helemaal niet zo prettig'",
-      "link": "https://www.tijd.be/r/t/1/id/10687197",
-      "category": "Cultuur",
-      "description": "Froukje voert een lichting Nederlandse liedjesschrijvers aan die hun kwetsbaarheden en kleinmenselijke trekjes zonder veel poespas op tafel gooien. Op haar tweede album, ‘Kijk je naar mij?’, doet ze dat met nog meer naturel. ‘Ik ben geen David Bowie die telkens in een ander personage kruipt.’",
-      "pubDate": "Fri, 25 Sep 2026 13:30:59 GMT",
-      "score": 3,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:6OR9DAHZKmR9epzUeElm9M&context=ONLINE&ratio=16/9&width=480&u=1790267554000"
-    },
-    {
-      "id": "10687285",
-      "title": "Betaalbaar wonen vraagt meer woningen, niet meer overheidscontrole",
-      "link": "https://www.tijd.be/r/t/1/id/10687285",
-      "category": "Opinie",
-      "description": "Om wonen betaalbaar te houden eisen overheden een actievere rol op in de woningmarkt. Dat is niet noodzakelijk de juiste reactie.",
-      "pubDate": "Fri, 25 Sep 2026 12:55:35 GMT",
-      "score": 2,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:Da7VEFdm4Rs8Tob6L4oV2B&context=ONLINE&ratio=16/9&width=480&u=1790245396000"
-    },
-    {
-      "id": "10687514",
-      "title": "Hervorming loonwet wordt race met federale begrotingsgesprekken",
-      "link": "https://www.tijd.be/r/t/1/id/10687514",
-      "category": "Dossiers",
-      "description": "De vakbonden en werkgevers zullen er niet in slagen voor het einde van september een akkoord te vinden over een hervorming van de loonwet en de index. Daardoor doemen twee nieuwe hindernissen op: vakbondsprotest en de federale begrotingsgesprekken.",
-      "pubDate": "Fri, 25 Sep 2026 12:46:34 GMT",
-      "score": 4,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:6QaHzIyu4kyBKKsgxHrSky&context=ONLINE&ratio=16/9&width=480&u=1790340955000"
-    },
-    {
-      "id": "10687211",
-      "title": "Philip Aguirre y Otegui: ‘Een kunstenaar met één verhaal, dat is al heel wat’",
-      "link": "https://www.tijd.be/r/t/1/id/10687211",
-      "category": "Cultuur",
-      "description": "In het KMSKA, waar Philip Aguirre y Otegui als kind aan de hand van zijn vader liep, is vanaf volgende week zijn eigen werk te zien. Beelden, etsen, tekeningen, installaties en doeken van een kunstenaar met een blik op de wereld. ‘De manier waarop je iets maakt, wordt de inhoud.’",
-      "pubDate": "Fri, 25 Sep 2026 12:46:17 GMT",
-      "score": 4,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:Co7k4WHaacT9tXPKq1X4hh&context=ONLINE&ratio=16/9&width=480&u=1790345414000"
-    },
-    {
-      "id": "10687447",
-      "title": "Tom Waes steunt ook tweede fonds van bedrijvendokter CIM Capital",
-      "link": "https://www.tijd.be/r/t/1/id/10687447",
-      "category": "Ondernemen",
-      "description": "De Antwerpse bedrijvendokter CIM Capital heeft 42 miljoen euro ingezameld in het kader van een tweede fonds. Dat mikt net als zijn voorganger op bedrijven in moeilijkheden.",
-      "pubDate": "Fri, 25 Sep 2026 12:42:48 GMT",
-      "score": 4,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:6Q7fRy_34x39AXT46moV-x&context=ONLINE&ratio=16/9&width=480&u=1790346852000"
-    },
-    {
-      "id": "10687147",
-      "title": "Recensie | ‘Unabomber’ tikt wel, maar ontploft niet",
-      "link": "https://www.tijd.be/r/t/1/id/10687147",
-      "category": "Cultuur",
-      "description": "De Netflix-film ‘Unabomber’ toont hoe de jonge Ted Kaczynski in de late jaren 50 op Harvard  iets meemaakte wat hem transformeerde tot een bommenterrorist. Een boeiend gegeven, al vindt de film de kern niet.",
-      "pubDate": "Fri, 25 Sep 2026 12:30:51 GMT",
-      "score": 4,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:6fCDREluK8l8uTWprcHY6_&context=ONLINE&ratio=16/9&width=480&u=1790265605000"
-    },
-    {
-      "id": "10687513",
-      "title": "Bedrijven mogen ‘duurzaam’ en ‘CO₂-neutraal’ niet langer zomaar op producten zetten",
-      "link": "https://www.tijd.be/r/t/1/id/10687513",
-      "category": "Netto",
-      "description": "Vanaf zondag gelden strengere regels voor bedrijven die hun producten als groen, duurzaam of klimaatvriendelijk aanprijzen. Zo worden vage milieuclaims moeilijker, en verdwijnen zelfbedachte groene labels. CO₂-compensatie volstaat ook niet langer om een product ‘klimaatneutraal’ te noemen.",
-      "pubDate": "Fri, 25 Sep 2026 12:23:38 GMT",
-      "score": 4,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:EEEoWhUFaUSA71QO9aBTZ7&context=ONLINE&ratio=16/9&width=480&u=1790344272000"
-    },
-    {
-      "id": "10687136",
-      "title": "De matrix | Als de robot trappen en slagen uitdeelt",
-      "link": "https://www.tijd.be/r/t/1/id/10687136",
-      "category": "Opinie",
-      "description": "Vooraleer humanoïde robots een kaskraker kunnen worden in onze huiskamers, moeten ze extreem veilig zijn. De klassieke industrie-oplossing, de noodstop, volstaat niet.",
-      "pubDate": "Fri, 25 Sep 2026 12:02:03 GMT",
-      "score": 2,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:0kf3A2Xga-P9ToFWkuI83i&context=ONLINE&ratio=16/9&width=480&u=1790164953000"
-    },
-    {
-      "id": "10687161",
-      "title": "De influencer | Voka Brussel-voorzitster Kristien Vermoesen: ‘Mooie bokshandschoenen mogen iets kosten’",
-      "link": "https://www.tijd.be/r/t/1/id/10687161",
-      "category": "Ondernemen",
-      "description": "Met haar man Raf Weverbergh richtte Kristien Vermoesen (51) in 2006 Finn op, waarmee ze als journalist de bocht maakte richting strategische en corporate communicatie. Vorig jaar fuseerde het bedrijf met Gosselin & de Walque, dat sterk is in public affairs. Sinds januari 2025 is Vermoesen ook voorzitster van Voka Brussels Metropolitan. Wat inspireert en pleziert haar?",
-      "pubDate": "Fri, 25 Sep 2026 12:00:00 GMT",
-      "score": 3,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:5dJ06xNs45t9LI17O_SuwN&context=ONLINE&ratio=16/9&width=480&u=1790342612000"
-    },
-    {
-      "id": "10687510",
-      "title": "West-Vlaamse boerenzoon bouwt AI-unicorn in Helsinki",
-      "link": "https://www.tijd.be/r/t/1/id/10687510",
-      "category": "Ondernemen",
-      "description": "De AI-wereld heeft een Belgische unicorn. Ruben Bryon, zoon van West-Vlaamse varkensboeren, bouwt vanuit Helsinki een Europese hyperscaler die al op 1 miljard dollar wordt gewaardeerd. Hij startte nochtans ver weg van de techsector, als projectmanager in de bouw.",
-      "pubDate": "Fri, 25 Sep 2026 11:59:30 GMT",
-      "score": 4,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:9WGbcs5x4CoBRr5Yi7ubqd&context=ONLINE&ratio=16/9&width=480&u=1790347365000"
-    },
-    {
-      "id": "10687493",
-      "title": "Diepvriesgroentebedrijf Ardo sluit fabriek in Oostenrijk en schrapt extra jobs in Ardooie",
-      "link": "https://www.tijd.be/r/t/1/id/10687493",
-      "category": "Ondernemen",
-      "description": "Het West-Vlaamse diepvriesgroentebedrijf Ardo sluit zijn fabriek in Oostenrijk. Daardoor gaan 240 banen verloren. In de thuishaven Ardooie gaan nog eens tien jobs voor de bijl.",
-      "pubDate": "Fri, 25 Sep 2026 11:02:54 GMT",
-      "score": 3,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:6pfuq3GC42N9FuvIqHZxJ7&context=ONLINE&ratio=16/9&width=480&u=1790341067000"
-    },
-    {
-      "id": "10674921",
-      "title": "Antwerpen bezoeken? Deze plekken mag je niet missen",
-      "link": "https://www.tijd.be/r/t/1/id/10674921",
-      "category": "Sabato",
-      "description": "Op zoek naar leuke dingen om te zien en doen in Antwerpen? Dit zijn de favorieten van onze correspondent die de stad door en door kent.",
-      "pubDate": "Fri, 25 Sep 2026 10:53:26 GMT",
-      "score": 2,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:1HOm_2D5aVa9majjDodhda&context=ONLINE&ratio=16/9&width=480&u=1791461174000"
-    },
-    {
-      "id": "10687501",
-      "title": "‘Lake America’-shirt kost CEO van coöperatieve bank de kop",
-      "link": "https://www.tijd.be/r/t/1/id/10687501",
-      "category": "Politiek & Economie",
-      "description": "Een foto op sociale media heeft tot het ontslag geleid van de topvrouw van de Amerikaanse coöperatieve bank Family First. CEO Jane Smith postte een familiefoto waarop haar gezin truien droeg met het opschrift ‘Lake America’.",
-      "pubDate": "Fri, 25 Sep 2026 10:15:26 GMT",
-      "score": 5,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:6lG5ofxtKpOBPJpi0undD2&context=ONLINE&ratio=16/9&width=480&u=1790343273000"
-    },
-    {
-      "id": "10687460",
-      "title": "Xi’s bezoek aan VS levert mooie beelden op, maar doorbraken over handel of AI blijven uit",
-      "link": "https://www.tijd.be/r/t/1/id/10687460",
-      "category": "Dossiers",
-      "description": "Het staatsbezoek van de Chinese president Xi Jinping aan de VS leverde geen doorbraken op, behalve een verlenging van het bestand in de handelsoorlog. Dat zegt alles: voor de Amerikaanse president Donald Trump telde vooral het uiterlijk vertoon.",
-      "pubDate": "Fri, 25 Sep 2026 09:49:58 GMT",
-      "score": 4,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:7qBQIGPNqlfAt5IdIf6WMH&context=ONLINE&ratio=16/9&width=480&u=1790329925000"
-    },
-    {
-      "id": "10687482",
-      "title": "Hoge rente houdt vastgoed niet tegen op Brusselse beurs",
-      "link": "https://www.tijd.be/r/t/1/id/10687482",
-      "category": "Markten Live",
-      "description": "Gunstige berichten uit de vastgoedsector zorgen voor wind in de zeilen op Euronext Brussel. Dankzij strategische verkopen en grote investeringen voeren vastgoedspelers als Banimmo en Montea de stijgers aan.",
-      "pubDate": "Fri, 25 Sep 2026 09:35:57 GMT",
-      "score": 0,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:BgQv-3faqy_BwFp-M2tR6B&context=ONLINE&ratio=16/9&width=480&u=1790328960000"
-    },
-    {
-      "id": "10687239",
-      "title": "Krantenverdeler AMP (Bnode) verliest Vlaamse uitgevers als klanten",
-      "link": "https://www.tijd.be/r/t/1/id/10687239",
-      "category": "Ondernemen",
-      "description": "De Vlaamse uitgevers Mediahuis en DPG Media doen voor de distributie van hun kranten in Vlaanderen na 2027 niet langer een beroep op de krantenverdeler AMP. Dat is een onderdeel van de pakjes- en postgroep Bnode. Mediafin, de nummer drie, moet volgen.",
-      "pubDate": "Fri, 25 Sep 2026 09:31:42 GMT",
-      "score": 2,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:6rrrBYC5a_JATlN1qsfV4c&context=ONLINE&ratio=16/9&width=480&u=1790329437000"
-    },
-    {
-      "id": "10687495",
-      "title": "De Belegger Aan Tafel over Meta, Novo, Exor en AB InBev",
-      "link": "https://www.tijd.be/r/t/1/id/10687495",
-      "category": "Markten Live",
-      "description": "Onze marktenexperten Gert Bakelants en Simon Renty (De Belegger) en Ellen Vermorgen (De Tijd) gaan dieper in op de beursactualiteit en geven aan hoe u er als (kleine) belegger op kan reageren of kan inspelen.",
-      "pubDate": "Fri, 25 Sep 2026 09:30:03 GMT",
-      "score": 0,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:3DYgEgnr4H18e0ICeKQuwO&context=ONLINE&ratio=16/9&width=480&u=1790328910000"
-    },
-    {
-      "id": "10687484",
-      "title": "Twee op drie Vlamingen willen liever kleinere woning dan andere locatie",
-      "link": "https://www.tijd.be/r/t/1/id/10687484",
-      "category": "Netto",
-      "description": "Als ze moeten kiezen, geven twee op de drie Vlamingen de voorkeur aan een kleinere woning in een betere buurt dan aan een grotere woning op een mindere locatie.",
-      "pubDate": "Fri, 25 Sep 2026 09:17:20 GMT",
-      "score": 2,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:2BjjMj4s4e2A5y5oZ8pP5X&context=ONLINE&ratio=16/9&width=480&u=1790328998000"
-    },
-    {
-      "id": "10687268",
-      "title": "De richtlijn door Rik Van Cauwelaert | Rabarber",
-      "link": "https://www.tijd.be/r/t/1/id/10687268",
-      "category": "Opinie",
-      "description": "Om de democratie en het maatschappelijk middenveld te beschermen reserveert de Europese Commissie in haar meerjarig financieel kader liefst 9 miljard euro voor een AgoraEU-programma.",
-      "pubDate": "Fri, 25 Sep 2026 09:06:30 GMT",
-      "score": 4,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:ErhT0tvzaZq8ZucZW_TqH7&context=ONLINE&ratio=16/9&width=480&u=1790327626000"
-    },
-    {
-      "id": "10687222",
-      "title": "Op de beleggersagenda volgende week: inflatie, jobrapport, TotalEnergies, Colruyt en Nike",
-      "link": "https://www.tijd.be/r/t/1/id/10687222",
-      "category": "Markten Live",
-      "description": "Beleggers kijken uit naar de Belgische en Europese inflatiecijfers. Op de Brusselse beurs gaat de aandacht vooral naar de algemene vergadering van Colruyt woensdag. Een dag later publiceert Nike kwartaalcijfers.",
-      "pubDate": "Fri, 25 Sep 2026 09:00:00 GMT",
-      "score": 0,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:6m3ZjVEJKD6A47nOMXVYVb&context=ONLINE&ratio=16/9&width=480&u=1790327199000"
-    },
-    {
-      "id": "10687025",
-      "title": "Over de vloer | Uw volgende CEO zit al in huis",
-      "link": "https://www.tijd.be/r/t/1/id/10687025",
-      "category": "Opinie",
-      "description": "Zodra een bedrijf niet de verhoopte koers vaart, lonkt het bestuur naar de externe CEO-markt. Maar de beste kandidaat loopt wellicht al op de eigen werkvloer rond.",
-      "pubDate": "Fri, 25 Sep 2026 08:44:47 GMT",
-      "score": 2,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:DMrPxwH94MC92Z0TxbKFDV&context=ONLINE&ratio=16/9&width=480&u=1790156347000"
-    },
-    {
-      "id": "10687466",
-      "title": "‘Investeerder EQT plant exit uit groep achter Bobbejaanland’",
-      "link": "https://www.tijd.be/r/t/1/id/10687466",
-      "category": "Ondernemen",
-      "description": "De Zweedse investeerder EQT heeft de zakenbank JPMorgan in de arm genomen als adviseur voor de verkoop van Parques Reunidos, de Spaanse pretparkengroep achter Bobbejaanland. Dat schrijft de Spaanse krant Expansión. Ook de Frère-holding GBL zit in het kapitaal van de groep.",
-      "pubDate": "Fri, 25 Sep 2026 08:01:42 GMT",
-      "score": 4,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:7GmIhwke4z1AwvrB_AJCcK&context=ONLINE&ratio=16/9&width=480&u=1790328555000"
-    },
-    {
-      "id": "10687384",
-      "title": "De meestgestelde vragen over de Vlaamse gasuitstap en de hoge energieprijzen",
-      "link": "https://www.tijd.be/r/t/1/id/10687384",
-      "category": "Netto",
-      "description": "Terwijl Vlaanderen de stopzetting van het aardgasnet voorbereidt, leiden de crisis in het Midden-Oosten en de Oekraïense droneaanvallen op Russische raffinaderijen tot piekende olieprijzen. Bovendien dreigen ook de elektriciteits- en aardgasprijzen in Europa deze winter hoog op te lopen. We beantwoorden uw meestgestelde vragen over de huidige situatie op de energiemarkt.",
-      "pubDate": "Fri, 25 Sep 2026 08:00:00 GMT",
-      "score": 3,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:2BjoxWLaaaOBoRueIFHoTn&context=ONLINE&ratio=16/9&width=480&u=1790327371000"
-    },
-    {
-      "id": "10687210",
-      "title": "Tip van de accountant: ‘Fitness op kosten van de vennootschap? Het kan, maar onder voorwaarden’",
-      "link": "https://www.tijd.be/r/t/1/id/10687210",
-      "category": "Netto",
-      "description": "Een recent arrest van het hof van beroep in Gent stelt dat fitnesskosten aftrekbaar kunnen zijn, ook al komen ze vooral de werknemer ten goede. Belangrijk is wel dat de onderneming zelf een voldoende economisch belang kan aantonen.",
-      "pubDate": "Fri, 25 Sep 2026 07:55:25 GMT",
-      "score": 3,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:A9IHiGqn4MCArkkMuL_isq&context=ONLINE&ratio=16/9&width=480&u=1790322928000"
-    },
-    {
-      "id": "10687456",
-      "title": "Minister Brouns schiet idee voor stijging waterfactuur af",
-      "link": "https://www.tijd.be/r/t/1/id/10687456",
-      "category": "Politiek & Economie",
-      "description": "In de Vlaamse begrotingsgesprekken ligt het idee om de Vlaming meer te laten betalen voor drinkwater op tafel. Maar voor bevoegd Vlaams minister Jo Brouns (CD&V) is dat niet bespreekbaar. ‘Mensen zijn al bang om te gaan tanken door de hoge prijzen. We gaan gezinnen niet belasten met een hogere waterfactuur.’",
-      "pubDate": "Fri, 25 Sep 2026 07:21:07 GMT",
-      "score": 2,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:F7AzpCE6aQLBp9iUzKgmtK&context=ONLINE&ratio=16/9&width=480&u=1790328075000"
-    },
-    {
-      "id": "10687450",
-      "title": "Israëlische premier Netanyahu in de clinch met burgemeester van New York",
-      "link": "https://www.tijd.be/r/t/1/id/10687450",
-      "category": "Politiek & Economie",
-      "description": "Tijdens zijn toespraak op de Algemene Vergadering van de Verenigde Naties in New York heeft de Israëlische premier Benjamin Netanyahu op alle manieren geprobeerd zijn land te verdedigen, inclusief beledigingen. Maar hij blijft geïsoleerd achter.",
-      "pubDate": "Fri, 25 Sep 2026 05:47:21 GMT",
-      "score": 2,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:3XbNCIYDa7Y8zv3NjXqO7C&context=ONLINE&ratio=16/9&width=480&u=1790315727000"
-    },
-    {
-      "id": "10686847",
-      "title": "Chef Ralf Berendsen kookt in nieuw restaurant Suis een selectie uit zijn beste gerechten",
-      "link": "https://www.tijd.be/r/t/1/id/10686847",
-      "category": "Sabato",
-      "description": "De gevierde chef Ralf Berendsen kookt in het nieuwe restaurant Suis in Nederlands-Limburg een selectie uit zijn beste gerechten van de voorbije vijftien jaar. Een menu vol hoogtepunten, vindt onze recensent.",
-      "pubDate": "Fri, 25 Sep 2026 04:46:49 GMT",
-      "score": 2,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:8rOtP-18q5NB6RO1yjZG4s&context=ONLINE&ratio=16/9&width=480&u=1790262516000"
-    },
-    {
-      "id": "10687262",
-      "title": "Eerste studie naar effect smartphoneverbod: ‘Meer gsm thuis en net meer afleiding tijdens de les’",
-      "link": "https://www.tijd.be/r/t/1/id/10687262",
-      "category": "Politiek & Economie",
-      "description": "Sinds minister van Onderwijs Zuhal Demir (N-VA) smartphones op school in de ban deed, gebruiken leerlingen hun telefoon veel meer thuis. Bovendien leidt de maatregel niet tot meer concentratie op school. Dat blijkt uit een eerste UGent-studie naar de effecten van het verbod.",
-      "pubDate": "Fri, 25 Sep 2026 04:30:00 GMT",
-      "score": 3,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:3iD8yP1DKvm9nPr4ytkLHm&context=ONLINE&ratio=16/9&width=480&u=1790323254000"
-    },
-    {
-      "id": "10687367",
-      "title": "Stroomproducenten vechten stijging nettarieven aan",
-      "link": "https://www.tijd.be/r/t/1/id/10687367",
-      "category": "Ondernemen",
-      "description": "De Belgische stroomproducenten hebben beroep aangetekend tegen de nieuwe hoogspanningsnettarieven die in 2028 ingaan. De uitbaters van elektriciteitscentrales en windparken dreigen voor het eerst aanzienlijk mee te moeten betalen voor de miljardeninvesteringen in het elektriciteitsnet.",
-      "pubDate": "Fri, 25 Sep 2026 02:30:00 GMT",
-      "score": 2,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:0kFYY6s3KLx8c02bW852mz&context=ONLINE&ratio=16/9&width=480&u=1790321399000"
-    },
-    {
-      "id": "10687296",
-      "title": "Drie op de vier Belgische werknemers ervaren ‘loonschroom’, vaker dan elders in Europa",
-      "link": "https://www.tijd.be/r/t/1/id/10687296",
-      "category": "Netto",
-      "description": "Belgen voelen zich opvallend minder comfortabel om over hun loon te praten dan werknemers elders in Europa. ‘Nochtans is dat gesprek belangrijk, want wat werknemers van hun loonpakket verwachten, verschilt sterk naargelang hun leeftijd.’",
-      "pubDate": "Fri, 25 Sep 2026 02:30:00 GMT",
-      "score": 4,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:79GLLKzia1vBMjbrgzxp4z&context=ONLINE&ratio=16/9&width=480&u=1790322892000"
-    },
-    {
-      "id": "10687167",
-      "title": "Margot Cloet (Zorgnet-Icuro): ‘Nog veel te rapen bij de ziekenhuizen? Dat is volksverlakkerij’",
-      "link": "https://www.tijd.be/r/t/1/id/10687167",
-      "category": "Dossiers",
-      "description": "‘Ik zou me beter voorzichtiger opstellen, maar ik wil het niet. Ik wil de boel wakker schudden.’ Margot Cloet, de topvrouw van Zorgnet-Icuro, vindt het misplaatst dat onze regeringen voor hun begroting in de richting van de social profit kijken. ‘De burger zal ervoor opdraaien.’",
-      "pubDate": "Fri, 25 Sep 2026 02:00:23 GMT",
-      "score": 3,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:ExUImT7NqeHA2hzbu0k5_i&context=ONLINE&ratio=16/9&width=480&u=1790272909000"
     }
   ]
 }
