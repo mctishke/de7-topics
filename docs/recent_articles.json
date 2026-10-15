@@ -1,6 +1,149 @@
 {
   "articles": [
     {
+      "id": "10695793",
+      "title": "Inval bij Hyloris rond oude Nederlandse zaak",
+      "link": "https://www.tijd.be/r/t/1/id/10695793",
+      "category": "Ondernemen",
+      "description": "Het Luikse farmabedrijf Hyloris meldt dat het woensdag bezoek heeft gekregen van de gerechtelijke autoriteiten over een omstreden Nederlandse deal. Het aandeel maakte daarbij bokkensprongen.",
+      "pubDate": "Thu, 15 Oct 2026 14:20:28 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:CZL3NO6KqD-ALdQk5fcdJ4&context=ONLINE&ratio=16/9&width=480&u=1792074031000"
+    },
+    {
+      "id": "10695786",
+      "title": "Wil De Wever markten kalmeren met ‘schuldenrem’ of zijn straatje schoonvegen?",
+      "link": "https://www.tijd.be/r/t/1/id/10695786",
+      "category": "Politiek & Economie",
+      "description": "De noodbegroting die premier Bart De Wever achter de hand wil hebben voor het geval zijn regering faalt, bestaat onder andere uit het niet-indexeren van de pensioenen en fiscale grensbedragen. Gruwelijk voor Vooruit en CD&V, maar wie weigert, dreigt de zwartepiet te krijgen.",
+      "pubDate": "Thu, 15 Oct 2026 14:00:12 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:7EYKzCOY4OP9PQihm3YVXT&context=ONLINE&ratio=16/9&width=480&u=1792072816000"
+    },
+    {
+      "id": "10695741",
+      "title": "Extra bedenktijd remt aantal maagverkleiningen amper af",
+      "link": "https://www.tijd.be/r/t/1/id/10695741",
+      "category": "Politiek & Economie",
+      "description": "Kiezen zwaarlijvigen niet te snel voor een maagverkleining? Vanuit die bezorgdheid installeerde ons land een verplichte bezinningsperiode van drie maanden. Die drempel doet vooralsnog weinig met het aantal obesitasingrepen, blijkt nu.",
+      "pubDate": "Thu, 15 Oct 2026 13:18:22 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:BmYk5gxP4agA1bYpxUrYPa&context=ONLINE&ratio=16/9&width=480&u=1792070306000"
+    },
+    {
+      "id": "10695768",
+      "title": "Belgisch Cobepa denkt aan (gedeeltelijke) exit uit keuringsreus Socotec",
+      "link": "https://www.tijd.be/r/t/1/id/10695768",
+      "category": "Ondernemen",
+      "description": "Cobepa bereidt een exit voor uit Socotec. Dat is een belangrijke internationale speler in keuringen, inspecties en certificeringen. De kans is groot dat de Belgische investeerder - nu nog meerderheidsaandeelhouder - niet volledig uit beeld verdwijnt.",
+      "pubDate": "Thu, 15 Oct 2026 13:00:00 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:DWDv_tmjKCWAjm_V0XvxG0&context=ONLINE&ratio=16/9&width=480&u=1792069543000"
+    },
+    {
+      "id": "10695778",
+      "title": "Vlaming betaalt straks 1.000 euro meer voor stroom en gas door Iran-oorlog",
+      "link": "https://www.tijd.be/r/t/1/id/10695778",
+      "category": "Ondernemen",
+      "description": "De oorlog in Iran jaagt de energieprijzen naar het hoogste niveau in bijna vier jaar. De verwachte jaarfactuur voor een Vlaams gezin werd al 1.000 euro duurder voor elektriciteit en aardgas samen.",
+      "pubDate": "Thu, 15 Oct 2026 12:47:40 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:Bbq2gU4g4Cx9mNgMiIP4Ef&context=ONLINE&ratio=16/9&width=480&u=1792071016000"
+    },
+    {
+      "id": "10695769",
+      "title": "Meer pensioenkosten, hoge rente en moeilijk te innen belastingen: Brusselse gemeentefinanciën onder druk",
+      "link": "https://www.tijd.be/r/t/1/id/10695769",
+      "category": "Politiek & Economie",
+      "description": "Hoewel de begrotingen van Brusselse lokale besturen nipt in evenwicht zijn, loeren de problemen om de hoek. Oplopende kosten voor de OCMW's, stijgende rentelasten en toenemende pensioenkosten zetten de lokale financiën onder druk, terwijl de inning van belastingen stokt.",
+      "pubDate": "Thu, 15 Oct 2026 12:10:25 GMT",
+      "score": 1,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:8dj5QxAlKGfApUU-DogjQS&context=ONLINE&ratio=16/9&width=480&u=1792070968000"
+    },
+    {
+      "id": "10695731",
+      "title": "Beleggersagenda van vrijdag 16 oktober: kan Schneider de belegger sussen?",
+      "link": "https://www.tijd.be/r/t/1/id/10695731",
+      "category": "Markten Live",
+      "description": "Schneider verloor een zesde van zijn beurswaarde sinds het Franse bedrijf, met zijn hardware voor datacenters een schaarse Europese AI-favoriet, met de miljardenovername van het Amerikaanse PTC all-in ging op software.",
+      "pubDate": "Thu, 15 Oct 2026 12:01:59 GMT",
+      "score": 0,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:D6sWd5NSaT8B7Nx9g4gzvJ&context=ONLINE&ratio=16/9&width=480&u=1792055207000"
+    },
+    {
+      "id": "10695409",
+      "title": "De renterisico-index van De Tijd: waarom België in het vizier van de financiële markten loopt",
+      "link": "https://www.tijd.be/r/t/1/id/10695409",
+      "category": "Dossiers",
+      "description": "Frankrijk op één, België daar kort achter. In vergelijking met de rest van de eurozone oogt dat duo het kwetsbaarst voor een razende rentestorm, blijkt uit de renterisico-index van De Tijd. De hoge en groeiende overheidsschuld in combinatie met weinig groei en het gebrek aan politieke standvastigheid duwt ons land in moeilijke papieren.",
+      "pubDate": "Thu, 15 Oct 2026 11:00:00 GMT",
+      "score": 1,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:7mqM4xHyq1Z8pTo39SqClU&context=ONLINE&ratio=16/9&width=480&u=1792066762000"
+    },
+    {
+      "id": "10695745",
+      "title": "Duitse groei op steroïden",
+      "link": "https://www.tijd.be/r/t/1/id/10695745",
+      "category": "Opinie",
+      "description": "Voor het eerst sinds 2022 lijkt de Duitse economie dit jaar met meer dan 1 procent te groeien. Op het eerste gezicht is dat een lichtpunt. Maar door de escalerende politieke spanningen dreigt het snel een eendagsvlieg te worden.",
+      "pubDate": "Thu, 15 Oct 2026 10:47:49 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:D5DwKo9nqDFBdCB34NZ6LE&context=ONLINE&ratio=16/9&width=480&u=1792061272000"
+    },
+    {
+      "id": "10695758",
+      "title": "Voor het eerst twee doden in Vlaanderen na besmetting met westnijlvirus",
+      "link": "https://www.tijd.be/r/t/1/id/10695758",
+      "category": "Politiek & Economie",
+      "description": "In Vlaanderen zijn twee personen overleden na een besmetting met het westnijlvirus. Het gaat om personen die behoorden tot een risicogroep voor een ernstig ziekteverloop. Dat meldt het Departement Zorg.",
+      "pubDate": "Thu, 15 Oct 2026 10:47:10 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:6bJAmJJ2Kln8ChQBqmduot&context=ONLINE&ratio=16/9&width=480&u=1792061233000"
+    },
+    {
+      "id": "10695713",
+      "title": "Mondriaan brengt 29,8 miljoen euro op",
+      "link": "https://www.tijd.be/r/t/1/id/10695713",
+      "category": "Cultuur",
+      "description": "Het topwerk 'Compositie III' van Piet Mondriaan heeft op een veiling bij Christie's in Londen woensdagavond 29,8 miljoen euro opgebracht, precies binnen de verwachte prijsvork. De 37 miljoen voor Wassily Kandinsky's 'Das bunte Leben' oversteeg de verwachtingen.",
+      "pubDate": "Thu, 15 Oct 2026 10:31:36 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:2MtDfQhnq1Y86HRuhlP3aD&context=ONLINE&ratio=16/9&width=480&u=1792060300000"
+    },
+    {
+      "id": "10695737",
+      "title": "‘Wondermiddel bestaat niet’, maar toch wordt Europa om plan tegen dure energie gevraagd",
+      "link": "https://www.tijd.be/r/t/1/id/10695737",
+      "category": "Politiek & Economie",
+      "description": "Wat kan Europa doen om de hoge energieprijzen aan te pakken? Dat is de vraag waarop de Europese leiders een antwoord zoeken op hun top in Brussel. ‘Dit is een hoofdpijndossier, waarvoor er geen wonderoplossing bestaat.’",
+      "pubDate": "Thu, 15 Oct 2026 10:01:07 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:AVC6t3oI4zP8eqyr9nlsUO&context=ONLINE&ratio=16/9&width=480&u=1792059204000"
+    },
+    {
+      "id": "10695740",
+      "title": "Anthropic verleidt investeerders met forse omzetgroei en winstbelofte",
+      "link": "https://www.tijd.be/r/t/1/id/10695740",
+      "category": "Ondernemen",
+      "description": "Anthropic, de bouwer van het AI-model Claude, heeft in een presentatie voor investeerders gezegd dat het winstgevend is geworden. De omzet in het derde kwartaal bedroeg 16,8 miljard dollar.",
+      "pubDate": "Thu, 15 Oct 2026 09:58:30 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:6qbrbDa9aknADZ7upAwUxC&context=ONLINE&ratio=16/9&width=480&u=1792074111000"
+    },
+    {
       "id": "10695704",
       "title": "Prijsbrekers trekken nettorente spaarverzekeringen op tot 3,25 procent",
       "link": "https://www.tijd.be/r/t/1/id/10695704",
@@ -802,7 +945,7 @@
       "pubDate": "Tue, 13 Oct 2026 15:49:50 GMT",
       "score": 0,
       "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:4Lm7zg6UK5C8Nd_rA0Ryqc&context=ONLINE&ratio=16/9&width=480&u=1791906593000"
+      "image": "https://images.tijd.be/view?iid=Elvis:4Lm7zg6UK5C8Nd_rA0Ryqc&context=ONLINE&ratio=16/9&width=480&u=1792062395000"
     },
     {
       "id": "10695480",
