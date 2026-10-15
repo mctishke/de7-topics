@@ -1,7 +1,217 @@
 {
-  "generated_at": "2026-10-14T22:15:45.977166+00:00",
+  "generated_at": "2026-10-15T09:30:41.059559+00:00",
   "date": "2026-10-15",
-  "de7_title": "14/10 | Kwart nieuwe artsen heeft buitenlands diploma | Vlaams 'taalplan' voor schoolkinderen kent trage start | Knokt Meta zich met Muse Wonder definitief in AI-race?",
+  "de7_title": "15/10 | De Wever wil begroting in twee stappen doen | Sanering GSK is rake klap voor slabakkende Belgische farma | Antwerpse ‘Patser’-drugsbaas uitgeleverd aan België",
   "de7_matched_count": 0,
-  "articles": []
+  "articles": [
+    {
+      "id": "10695692",
+      "title": "Met 'schuldenrem' wil De Wever druk zetten om toch nog 10 miljard te vinden",
+      "link": "https://www.tijd.be/r/t/1/id/10695692",
+      "category": "Dossiers",
+      "description": "Premier Bart De Wever wil snel een noodpakket aan begrotingsmaatregelen voor 2027 onderhandelen. Die 'schuldenrem' zal worden ingediend in de Kamer, maar wordt nog niet meteen goedgekeurd. Zo hoopt de N-VA de druk op de coalitiepartners hoog te houden om alsnog een meerjarenbegroting uit te werken.",
+      "pubDate": "Thu, 15 Oct 2026 07:55:32 GMT",
+      "score": 6,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:AfYR9MSQK3pB3h6m4F_pa1&context=ONLINE&ratio=16/9&width=480&u=1792053625000"
+    },
+    {
+      "id": "10695704",
+      "title": "Prijsbrekers trekken nettorente spaarverzekeringen op tot 3,25 procent",
+      "link": "https://www.tijd.be/r/t/1/id/10695704",
+      "category": "Netto",
+      "description": "De renteverhogingen op spaarverzekeringen gaan door. Prijsbrekers Patronale en Credimo trekken de nettorentes (na kosten en premietaks) op hun spaarverzekeringen op tot 3,25 procent. Bij de groepsverzekeringen verhoogt Vivium de gegarandeerde rente tot 2,75 procent.",
+      "pubDate": "Thu, 15 Oct 2026 09:23:28 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:Ai3VTaI7aVqA7INqP7aupo&context=ONLINE&ratio=16/9&width=480&u=1792056213000"
+    },
+    {
+      "id": "10675338",
+      "title": "Brussel bezoeken? Deze expo's en hotspots mag je niet missen",
+      "link": "https://www.tijd.be/r/t/1/id/10675338",
+      "category": "Sabato",
+      "description": "Op zoek naar leuke dingen om te zien en doen in Brussel? Dit zijn de favorieten van onze correspondent die de stad door en door kent.",
+      "pubDate": "Thu, 15 Oct 2026 08:55:44 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:7x6-dUNF4bn9J3GPSw5jZV&context=ONLINE&ratio=16/9&width=480&u=1792054543000"
+    },
+    {
+      "id": "10695689",
+      "title": "Zelensky: 'Oekraïne hervat aanvallen op Russische raffinaderijen'",
+      "link": "https://www.tijd.be/r/t/1/id/10695689",
+      "category": "Politiek & Economie",
+      "description": "Oekraïne gaat weer Russische olieraffinaderijen bestoken, omdat Rusland zich niet houdt aan het 'energiebestand'. Dat zegt de Oekraïense president Volodymyr Zelensky aan de Britse zakenkrant Financial Times.",
+      "pubDate": "Thu, 15 Oct 2026 08:01:49 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:D2BNLIUzqZHBsGosc1jvua&context=ONLINE&ratio=16/9&width=480&u=1792051312000"
+    },
+    {
+      "id": "10695578",
+      "title": "De Tijd sterkste groeier in krimpende krantenmarkt",
+      "link": "https://www.tijd.be/r/t/1/id/10695578",
+      "category": "Ondernemen",
+      "description": "De krant De Tijd bereikt 17,9 procent meer lezers dan vorig jaar. Het bereik van alle Vlaamse kranten samen daalde tegelijkertijd met 5,4 procent, leren de nieuwe CIM-cijfers.",
+      "pubDate": "Thu, 15 Oct 2026 07:00:00 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:8c0z97sRKhu8dWVwCjARQg&context=ONLINE&ratio=16/9&width=480&u=1792052988000"
+    },
+    {
+      "id": "10695661",
+      "title": "Met nieuwe fabriek van 100 miljoen kan pralinemaker Leonidas drie keer zo groot worden",
+      "link": "https://www.tijd.be/r/t/1/id/10695661",
+      "category": "Ondernemen",
+      "description": "Dankzij zijn nieuwe fabriek kan Leonidas drie keer zo groot worden. Maar de pralinemaker ondervond aan den lijve hoe moeilijk het is om je enige fabriek te verhuizen. ‘We zitten nu aan een productiviteit van 80 procent’, zegt CEO Philippe de Selliers.",
+      "pubDate": "Thu, 15 Oct 2026 03:10:57 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:1EZAhgyeKC1BgQcuQ0MVu6&context=ONLINE&ratio=16/9&width=480&u=1792047842000"
+    },
+    {
+      "id": "10695644",
+      "title": "Gasnetbeheerder Fluxys doet opmerkelijke diversificatie: drinkwaterproductie in Chili",
+      "link": "https://www.tijd.be/r/t/1/id/10695644",
+      "category": "Ondernemen",
+      "description": "De Belgische gasnetbeheerder Fluxys werkt aan een plan om drinkwater te produceren via de ontzilting van zeewater in Chili. Het project van 400 miljoen dollar heeft synergieën met een gasinvoerterminal waarin het Belgische bedrijf sinds enkele jaren participeert.",
+      "pubDate": "Thu, 15 Oct 2026 03:00:00 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:8zqIlwbGK9j8JZ6_vHbK3a&context=ONLINE&ratio=16/9&width=480&u=1792046238000"
+    },
+    {
+      "id": "10694895",
+      "title": "'Is dit een verbouwing? Hoeveel mensen ons dat al gevraagd hebben sinds we hier wonen...'",
+      "link": "https://www.tijd.be/r/t/1/id/10694895",
+      "category": "Sabato",
+      "description": "Als deze nieuwbouwbungalow in Hasselt er vertrouwd en doorleefd uitziet, dan komt dat door de subtiele referenties aan Neutra, Rietveld, Scarpa en Wright. Een hedendaagse klassieker van Altu uit Antwerpen.",
+      "pubDate": "Thu, 15 Oct 2026 04:46:51 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:FO1cYgSNK3ABoIZYnk0pGk&context=ONLINE&ratio=16/9&width=480&u=1791469671000"
+    },
+    {
+      "id": "10695734",
+      "title": "Chemiebedrijf Covestro wil 260 banen schrappen in Antwerpse haven",
+      "link": "https://www.tijd.be/r/t/1/id/10695734",
+      "category": "Ondernemen",
+      "description": "Het Duitse chemieconcern Covestro wil zijn productie in de Antwerpse haven fors terugschroeven. Daarbij staan 260 van de bijna 1.000 banen op de tocht. Het bedrijf wijst naar de groeiende concurrentie uit Azië, die de Europese chemiesector steeds verder onder druk zet.",
+      "pubDate": "Thu, 15 Oct 2026 09:15:13 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:2M2kx33haYlBCkRLwX_HXT&context=ONLINE&ratio=16/9&width=480&u=1792055807000"
+    },
+    {
+      "id": "10695325",
+      "title": "Wat zeggen de eigenaars van onze schuld? ‘Rentestijging is koopkans voor Belgische overheidsobligaties’",
+      "link": "https://www.tijd.be/r/t/1/id/10695325",
+      "category": "Politiek & Economie",
+      "description": "De oplopende inflatie en begrotingszorgen duwden de Belgische rente naar het hoogste punt in meer dan 15 jaar. Twee fondsbeheerders ontleden wat die druk betekent voor onze schuldhouders, en waarom het hoge rendement volgens hen vooral kansen biedt.",
+      "pubDate": "Thu, 15 Oct 2026 07:38:09 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:EsR-q-ii4NUBb17MmvEOSk&context=ONLINE&ratio=16/9&width=480&u=1792051094000"
+    },
+    {
+      "id": "10695468",
+      "title": "Maaltijdchequebedrijf Pluxee gaat ook aanvullende pensioenen aanbieden",
+      "link": "https://www.tijd.be/r/t/1/id/10695468",
+      "category": "Ondernemen",
+      "description": "Werkgevers die via Pluxee maaltijd- en ecocheques aan hun personeel aanbieden, kunnen straks ook aanvullende pensioenplannen voorschotelen via het dienstenbedrijf. Pluxee sluit daarvoor een exclusief samenwerkingsakkoord met de Gentse start-up Warren.",
+      "pubDate": "Thu, 15 Oct 2026 03:05:23 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:4dMMCwd_41sA6Wm6kBZXmG&context=ONLINE&ratio=16/9&width=480&u=1792008178000"
+    },
+    {
+      "id": "10695690",
+      "title": "CoreWeave ziet AI-droom bedreigd: obligatierente stijgt boven 15 procent uit",
+      "link": "https://www.tijd.be/r/t/1/id/10695690",
+      "category": "Markten Live",
+      "description": "De aandelen van CoreWeave hebben woensdag een klap van 17 procent gekregen. De uitbater van AI-datacenters krijgt stilaan met wurgrentes te maken.",
+      "pubDate": "Thu, 15 Oct 2026 08:07:32 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:73VWv4gxqoUB4aa1vD6Cqq&context=ONLINE&ratio=16/9&width=480&u=1792052501000"
+    },
+    {
+      "id": "10695291",
+      "title": "Van bloemen tot wasmiddel: antiverspillingsapp Too Good To Go breidt aanbod uit",
+      "link": "https://www.tijd.be/r/t/1/id/10695291",
+      "category": "Ondernemen",
+      "description": "Tien jaar nadat het voedseloverschotten is gaan verkopen, verbreedt Too Good To Go zijn aanbod. De Deense app wil nu ook de verspilling tegengaan van bloemen, verzorgingsproducten, dierenverzorging en was- en schoonmaakmiddelen.",
+      "pubDate": "Thu, 15 Oct 2026 07:30:00 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:F2FYGpcqaNEBNNZ7MB2H0j&context=ONLINE&ratio=16/9&width=480&u=1792051605000"
+    },
+    {
+      "id": "10695676",
+      "title": "EnergyVision kijkt naar overnames om groei te versnellen",
+      "link": "https://www.tijd.be/r/t/1/id/10695676",
+      "category": "Ondernemen",
+      "description": "De energieleverancier EnergyVision zag de omzet in de eerste negen maanden met ruim de helft toenemen. Het bedrijf, dat vorig jaar naar Euronext Brussel trok, bekijkt actief verschillende overnamedossiers om de groei nog te versnellen.",
+      "pubDate": "Thu, 15 Oct 2026 06:10:18 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:6mK-LRAd4qK8o_rzykrewO&context=ONLINE&ratio=16/9&width=480&u=1792044621000"
+    },
+    {
+      "id": "10695672",
+      "title": "Paul Stoffels start biotechbedrijf met kankerbehandelingen van Lakefront",
+      "link": "https://www.tijd.be/r/t/1/id/10695672",
+      "category": "Ondernemen",
+      "description": "Het nieuwe Belgische biotechbedrijf Armed Cell Therapeutics neemt kandidaat-kankerbehandelingen van Lakefront Biotherapeutics over. Paul Stoffels, de voormalige topman van Galapagos (tegenwoordig Lakefront), is er CEO.",
+      "pubDate": "Thu, 15 Oct 2026 05:20:17 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:AvU8zyk4as08nen-auuBaf&context=ONLINE&ratio=16/9&width=480&u=1792044472000"
+    },
+    {
+      "id": "10695549",
+      "title": "Dit zijn de genomineerden voor de Scale-up van het Jaar 2026",
+      "link": "https://www.tijd.be/r/t/1/id/10695549",
+      "category": "Ondernemen",
+      "description": "AmphiStar, Octave.energy, Qargo en Quality Guard zijn de kandidaten om Aikido op te volgen als Scale-up van het Jaar 2026.",
+      "pubDate": "Thu, 15 Oct 2026 03:15:13 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:3FdPdoxoKTQ8RgvPl9I6Q3&context=ONLINE&ratio=16/9&width=480&u=1792010162000"
+    },
+    {
+      "id": "10695701",
+      "title": "Europees Hof: bank moet slachtoffers phishing meteen terugbetalen, ook bij grove nalatigheid",
+      "link": "https://www.tijd.be/r/t/1/id/10695701",
+      "category": "Ondernemen",
+      "description": "Een bank moet een frauduleuze overschrijving onmiddellijk terugbetalen, ook als ze meent dat haar klant grof nalatig is geweest. Dat oordeel van het Europees Hof van Justitie ondergraaft de manier waarop Belgische banken handelen.",
+      "pubDate": "Thu, 15 Oct 2026 08:27:39 GMT",
+      "score": 1,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:1LL4ZXajavw9S8k8Ra1C3b&context=ONLINE&ratio=16/9&width=480&u=1792054729000"
+    },
+    {
+      "id": "10695588",
+      "title": "Al elf Europese landen in zee met omstreden techbedrijf Palantir, maar België houdt boot af",
+      "link": "https://www.tijd.be/r/t/1/id/10695588",
+      "category": "Politiek & Economie",
+      "description": "Al zeker elf Europese landen gebruiken software van het omstreden Amerikaanse datatechnologiebedrijf Palantir, onder meer bij defensie, politie en inlichtingendiensten. Dat blijkt uit een internationale rondvraag waaraan De Tijd deelnam. Maar Belgische overheidsdiensten houden de boot af.",
+      "pubDate": "Thu, 15 Oct 2026 04:00:00 GMT",
+      "score": 1,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:6EUblJkMqqdBZyvu5AbC-Y&context=ONLINE&ratio=16/9&width=480&u=1792041954000"
+    },
+    {
+      "id": "10695696",
+      "title": "Beleggers dumpen wereldwijd chipaandelen: wat is er aan de hand?",
+      "link": "https://www.tijd.be/r/t/1/id/10695696",
+      "category": "Markten Live",
+      "description": "Een groeivertraging bij AI-pionier Anthropic draagt bij tot een nieuwe verkoopgolf in AI- en chipaandelen.",
+      "pubDate": "Thu, 15 Oct 2026 08:17:03 GMT",
+      "score": 0,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:CiZw2dP94FdAOCbmowCcVL&context=ONLINE&ratio=16/9&width=480&u=1792053678000"
+    }
+  ]
 }
