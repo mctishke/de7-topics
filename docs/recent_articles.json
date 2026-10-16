@@ -1,6 +1,105 @@
 {
   "articles": [
     {
+      "id": "10696074",
+      "title": "Begrotingstekort VS flirt met kaap van 2.000 miljard dollar",
+      "link": "https://www.tijd.be/r/t/1/id/10696074",
+      "category": "Politiek & Economie",
+      "description": "In de Verenigde Staten is het tekort op de begroting in het budgettaire jaar 2026, dat eind september eindigde, met 217 miljard dollar aangedikt tot bijna 2.000 miljard. De reden: de terugbetaling van onterecht geïnde importtaksen en de rentelasten op de staatsschuld.",
+      "pubDate": "Fri, 16 Oct 2026 20:32:32 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:2OdsEtKFqi89W6ajQcqOoF&context=ONLINE&ratio=16/9&width=480&u=1792182756000"
+    },
+    {
+      "id": "10696068",
+      "title": "‘Woordvoerster Witte Huis na vijf dagen naar exit geduwd’",
+      "link": "https://www.tijd.be/r/t/1/id/10696068",
+      "category": "Politiek & Economie",
+      "description": "In de Verenigde Staten heeft het Witte Huis woordvoerster Katie Zacharia naar de uitgang begeleid, melden Amerikaanse media. De voormalige politieke commentator had haar eerste werkdag nochtans pas vijf dagen geleden, maar ze kreeg meteen de wind van voren.",
+      "pubDate": "Fri, 16 Oct 2026 19:11:35 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:7CGAc6rj4Uc9Ldum9ZbRlj&context=ONLINE&ratio=16/9&width=480&u=1792179707000"
+    },
+    {
+      "id": "10695914",
+      "title": "Kim Ghattas: 'Libanon is het slagveld waar rivaliteit tussen VS en Iran ontkiemde'",
+      "link": "https://www.tijd.be/r/t/1/id/10695914",
+      "category": "Dossiers",
+      "description": "De Libanese journaliste Kim Ghattas groeide op in Beiroet tijdens de burgeroorlog in de jaren 80. Daar lag volgens haar de kiem van de oorlog tussen de VS, Israël en Iran. 'Benjamin Netanyahu geeft vlakaf toe dat hij al 40 jaar van deze oorlog droomt.'",
+      "pubDate": "Fri, 16 Oct 2026 18:53:35 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:FwpFuFdm4-18ELMV4GHyt0&context=ONLINE&ratio=16/9&width=480&u=1792180324000"
+    },
+    {
+      "id": "10695642",
+      "title": "De comeback van Microsoft, en zijn loyaalste aandeelhouder",
+      "link": "https://www.tijd.be/r/t/1/id/10695642",
+      "category": "Markten Live",
+      "description": "Terwijl de oplopende inflatie en de hoge rente gaten slaan in de AI-euforie op de aandelenmarkten, sloop Microsoft de voorbije week geruisloos naar een recordkoers en een beurswaarde van meer dan 4.000 miljard dollar. Tot tevredenheid van ex-topman Steve Ballmer. Het pakketje Microsoft-aandelen dat hij in 1981 ontving, maakt hem bijna een halve eeuw later tot een van de rijkste mensen ter wereld.",
+      "pubDate": "Fri, 16 Oct 2026 18:47:17 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:0Pe7GGl6aC98ixY-2IicIS&context=ONLINE&ratio=16/9&width=480&u=1792181495000"
+    },
+    {
+      "id": "10695837",
+      "title": "Terwijl de waterstofmarkt sputtert, start familie Colruyt eigen productie",
+      "link": "https://www.tijd.be/r/t/1/id/10695837",
+      "category": "Ondernemen",
+      "description": "In Zeebrugge is Virya Energy zo goed als klaar om met de productie van groene waterstof te beginnen. De energiegroep van de familie Colruyt blijft erin geloven, ook nu de waterstofmarkt maar moeizaam op gang komt.",
+      "pubDate": "Fri, 16 Oct 2026 18:43:38 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:7x2fCafMKwj9UacjGH81_P&context=ONLINE&ratio=16/9&width=480&u=1792180027000"
+    },
+    {
+      "id": "10696063",
+      "title": "Poetin kondigt Russische 'veiligheidszone' in Oekraïne aan die 'niet te onderhandelen' valt",
+      "link": "https://www.tijd.be/r/t/1/id/10696063",
+      "category": "Dossiers",
+      "description": "De Russische leider Vladimir Poetin heeft zijn leger het bevel gegeven op het Oekraïense grondgebied een 'veiligheidszone' te creëren. Over de 660 kilometer lange strook langs de grens met Rusland 'valt niet te onderhandelen', klonk het.",
+      "pubDate": "Fri, 16 Oct 2026 18:42:55 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:AWyRJIWGqA89xn8XsfWnIL&context=ONLINE&ratio=16/9&width=480&u=1792176179000"
+    },
+    {
+      "id": "10695802",
+      "title": "Een zakdoek die troost: op zoek naar nieuwe vormen van rouwen",
+      "link": "https://www.tijd.be/r/t/1/id/10695802",
+      "category": "Cultuur",
+      "description": "Onze doden herdenken we op 1 november. Maar voor wie iemand verliest, is elke dag een beetje Allerheiligen. Gelukkig is er groeiende aandacht voor onze omgang met de dood. Een voorbeeld is de troostzakdoek, mee bedacht door kunstenaar Rinus Van de Velde.",
+      "pubDate": "Fri, 16 Oct 2026 18:31:33 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:9DFHevzi4uVBVuW3ekyx8o&context=ONLINE&ratio=16/9&width=480&u=1792158474000"
+    },
+    {
+      "id": "10695618",
+      "title": "Frangipane gebakken met een geit",
+      "link": "https://www.tijd.be/r/t/1/id/10695618",
+      "category": "Opinie",
+      "description": "Journalist en schrijver Rik Van Puymbroeck kijkt door zijn lens naar de wereld.",
+      "pubDate": "Fri, 16 Oct 2026 18:31:33 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:C32L_gRbqxpAL3NvJr8dDD&context=ONLINE&ratio=16/9&width=480&u=1791993032000"
+    },
+    {
+      "id": "10696061",
+      "title": "Vindt De Wever doorbraakje over noodbegroting?",
+      "link": "https://www.tijd.be/r/t/1/id/10696061",
+      "category": "Politiek & Economie",
+      "description": "Premier Bart De Wever brengt zaterdag zijn vicepremiers weer samen om op zijn minst de begroting van 2027 veilig te stellen. Of een week vol chaos en vijandigheden uitmondt in een doorbraakje of de verdere deconfiture van het Arizona-project, is onduidelijk.",
+      "pubDate": "Fri, 16 Oct 2026 18:22:38 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:F1_wI3_pKf_BgMz3quSBdU&context=ONLINE&ratio=16/9&width=480&u=1792178575000"
+    },
+    {
       "id": "10695983",
       "title": "De malaise in farma: ‘België is een slechte middenmoter in Europa’",
       "link": "https://www.tijd.be/r/t/1/id/10695983",
@@ -20,7 +119,7 @@
       "pubDate": "Fri, 16 Oct 2026 17:46:49 GMT",
       "score": 2,
       "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:ERom5V4baLW961mQu0rtB4&context=ONLINE&ratio=16/9&width=480&u=1792170363000"
+      "image": "https://images.tijd.be/view?iid=Elvis:ERom5V4baLW961mQu0rtB4&context=ONLINE&ratio=16/9&width=480&u=1792181471000"
     },
     {
       "id": "10695889",
@@ -42,7 +141,7 @@
       "pubDate": "Fri, 16 Oct 2026 17:14:01 GMT",
       "score": 2,
       "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:4j5dMtnGK0t9QB1vqwLLkm&context=ONLINE&ratio=16/9&width=480&u=1792170844000"
+      "image": "https://images.tijd.be/view?iid=Elvis:4j5dMtnGK0t9QB1vqwLLkm&context=ONLINE&ratio=16/9&width=480&u=1792176528000"
     },
     {
       "id": "10695244",
@@ -86,7 +185,7 @@
       "pubDate": "Fri, 16 Oct 2026 16:37:58 GMT",
       "score": 2,
       "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:4J770zzt40W8evxHA5fjv4&context=ONLINE&ratio=16/9&width=480&u=1792168682000"
+      "image": "https://images.tijd.be/view?iid=Elvis:4J770zzt40W8evxHA5fjv4&context=ONLINE&ratio=16/9&width=480&u=1792176890000"
     },
     {
       "id": "10695992",
@@ -119,7 +218,7 @@
       "pubDate": "Fri, 16 Oct 2026 15:51:01 GMT",
       "score": 2,
       "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:99ZTrLU8qW68LIZ9vvtlFB&context=ONLINE&ratio=16/9&width=480&u=1792170310000"
+      "image": "https://images.tijd.be/view?iid=Elvis:99ZTrLU8qW68LIZ9vvtlFB&context=ONLINE&ratio=16/9&width=480&u=1792172198000"
     },
     {
       "id": "10696039",
@@ -130,7 +229,7 @@
       "pubDate": "Fri, 16 Oct 2026 15:31:31 GMT",
       "score": 2,
       "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:9a_vNG7NqGt9nZd7ldm7op&context=ONLINE&ratio=16/9&width=480&u=1792165395000"
+      "image": "https://images.tijd.be/view?iid=Elvis:9a_vNG7NqGt9nZd7ldm7op&context=ONLINE&ratio=16/9&width=480&u=1792172652000"
     },
     {
       "id": "10696034",
