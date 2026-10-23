@@ -1,6 +1,248 @@
 {
   "articles": [
     {
+      "id": "10696812",
+      "title": "De richtlijn door Rik Van Cauwelaert | Aux armes, citoyens!",
+      "link": "https://www.tijd.be/r/t/1/id/10696812",
+      "category": "Opinie",
+      "description": "In de Europese hoofdkwartieren wordt gevreesd dat de Franse presidentsverkiezingen uitlopen op een confrontatie tussen de ultralinkse Jean-Luc Mélenchon en de extreemrechtse Marine Le Pen. De eerste wil ‘de citadel’ slopen, de tweede wil een nieuwe orde opleggen. Hoelang nog voor Frankrijk een Europees probleem wordt?",
+      "pubDate": "Fri, 23 Oct 2026 14:18:16 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:ErhT0tvzaZq8ZucZW_TqH7&context=ONLINE&ratio=16/9&width=480&u=1792687162000"
+    },
+    {
+      "id": "10696248",
+      "title": "‘Chez Matisse’ in Amsterdam: ‘Je kijkt niet naar een schilderij, maar naar een film’",
+      "link": "https://www.tijd.be/r/t/1/id/10696248",
+      "category": "Cultuur",
+      "description": "'Een schilderij in een interieur verspreidt vreugde met kleuren, die ons een lichter gevoel geven', zei de Franse kunstenaar Henri Matisse. Het H'art Museum in Amsterdam brengt een groot aantal van zijn topstukken samen, geleend van het Centre Pompidou in Parijs.",
+      "pubDate": "Fri, 23 Oct 2026 14:01:10 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:2-UecfVXqFyAhxqROeNrsz&context=ONLINE&ratio=16/9&width=480&u=1792758091000"
+    },
+    {
+      "id": "10694537",
+      "title": "Poolse uitdager van Palantir jaagt op Belgische deal, maar overheid is moeilijke klant",
+      "link": "https://www.tijd.be/r/t/1/id/10694537",
+      "category": "Ondernemen",
+      "description": "DataWalk, een Pools bedrijf dat met AI waardevolle inzichten kan halen uit massa's data, geniet interesse van de Belgische overheid. Maar krappe budgetten en lange procedures maken het zakendoen in België en Europa erg moeilijk, zegt CEO Pawel Wieczynski.",
+      "pubDate": "Fri, 23 Oct 2026 13:56:58 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:DWkBL5kOa9z8olSOc7zcXP&context=ONLINE&ratio=16/9&width=480&u=1792763824000"
+    },
+    {
+      "id": "10696945",
+      "title": "Maakt Lula ultieme comeback in finale van presidentsrace in Brazilië?",
+      "link": "https://www.tijd.be/r/t/1/id/10696945",
+      "category": "Politiek & Economie",
+      "description": "Brazilië maakt zich op voor de mogelijk spannendste ontknoping van een presidentsrace sinds de terugkeer van de democratie in 1985. Drijft de drang naar verandering het land in de armen van de ultrarechtse Flávio Bolsonaro? Of sleept de 80-jarige linkse aftredende leider Luiz Inácio 'Lula' da Silva op de valreep een vierde termijn uit de brand?",
+      "pubDate": "Fri, 23 Oct 2026 13:56:33 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:ACMxLkHfajOBAPH3z-cZEu&context=ONLINE&ratio=16/9&width=480&u=1792763797000"
+    },
+    {
+      "id": "10696972",
+      "title": "Jonge beleggers over charmeoffensief van banken: ‘Met een bankier beleggen voelt veiliger dan alleen’",
+      "link": "https://www.tijd.be/r/t/1/id/10696972",
+      "category": "Ondernemen",
+      "description": "Belgische banken richten zich steeds vaker op jonge beleggers, met allerlei jeugdvoordelen. Hoe kijken de jongeren daar zelf naar? Drie beleggende twintigers getuigen. ‘Er zit veel marketing bij, maar ik leer veel bij over mijn geldzaken én de economie.’",
+      "pubDate": "Fri, 23 Oct 2026 13:56:26 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:6MsiZEc1qXo8vrvtyAgWvh&context=ONLINE&ratio=16/9&width=480&u=1792764145000"
+    },
+    {
+      "id": "10696593",
+      "title": "Trixie Whitley zingt de demonen van zich af: ‘Ik wil bewogen worden en componeren als een danser’",
+      "link": "https://www.tijd.be/r/t/1/id/10696593",
+      "category": "Cultuur",
+      "description": "Op haar nieuwe studioalbum ‘Folded Time’ duikt de Gents-Amerikaanse muzikante Trixie Whitley in de plooien van de tijd. Haar composities tikken meer dan ooit op het ritme van haar kinetische persoonlijkheid. ‘Het is veel, ook qua emoties.’",
+      "pubDate": "Fri, 23 Oct 2026 13:32:34 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:5JZS11KJqRt9OUHVWnkHIe&context=ONLINE&ratio=16/9&width=480&u=1792685484000"
+    },
+    {
+      "id": "10697003",
+      "title": "Regering-Diependaele start belangenconflict tegen plan om meer vluchten over Vlaanderen te leiden",
+      "link": "https://www.tijd.be/r/t/1/id/10697003",
+      "category": "Politiek & Economie",
+      "description": "De Vlaamse regering start een belangenconflict tegen het plan van federaal minister van Mobiliteit Jean-Luc Crucke om minder vluchten te laten landen boven Brussel. Minister-president Matthias Diependaele vindt dat Crucke daarmee de geluidshinder 'onevenredig' afwentelt op Vlaanderen.",
+      "pubDate": "Fri, 23 Oct 2026 13:28:53 GMT",
+      "score": 1,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:51HU_mwjaND8mGHwrOOKBb&context=ONLINE&ratio=16/9&width=480&u=1792762515000"
+    },
+    {
+      "id": "10696907",
+      "title": "L'Oréal lichtpunt op Europese beurzen, met dank aan China, Ozempic en 'lipstick-effect'",
+      "link": "https://www.tijd.be/r/t/1/id/10696907",
+      "category": "Ondernemen",
+      "description": "Met verrassend sterke kwartaalcijfers laat L’Oréal de concurrentie ver achter zich. Die groei heeft de Franse beautyreus mede te danken aan afslankmedicatie, het 'lipstick-effect' en zijn voorsprong in Azië. 'Wij blijven aanzienlijk sneller groeien dan de wereldwijde markt voor schoonheidsproducten.'",
+      "pubDate": "Fri, 23 Oct 2026 13:06:20 GMT",
+      "score": 5,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:8PgGos3yaO58gk6kEE_k6G&context=ONLINE&ratio=16/9&width=480&u=1792763126000"
+    },
+    {
+      "id": "10696889",
+      "title": "Experts enthousiast over kankervaccin op maat van Moderna en Merck, analisten sceptisch",
+      "link": "https://www.tijd.be/r/t/1/id/10696889",
+      "category": "Ondernemen",
+      "description": "Data van de Amerikaanse farmabedrijven Moderna en Merck & Co. tonen dat de combinatie van een kankervaccin op maat en een bestaande behandeling aanslaat bij huidkanker. Terwijl analisten op meer hadden gehoopt, zijn kankerexperts enthousiast.",
+      "pubDate": "Fri, 23 Oct 2026 12:51:32 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:FJUZcdV_KiIB-p29y1bhpe&context=ONLINE&ratio=16/9&width=480&u=1792761286000"
+    },
+    {
+      "id": "10696993",
+      "title": "Dirigent die niet mocht optreden in Gent is nu toch kritisch voor Israëlisch geweld tegen Palestijnen",
+      "link": "https://www.tijd.be/r/t/1/id/10696993",
+      "category": "Politiek & Economie",
+      "description": "De Israëlische dirigent Lahav Shani, wiens concert in Gent vorig jaar geannuleerd werd vanwege ‘onduidelijkheid’ over zijn houding tegenover Israël, spreekt zich nu uit tegen het Israëlische geweld in Gaza en op de Westelijke Jordaanoever.",
+      "pubDate": "Fri, 23 Oct 2026 12:36:01 GMT",
+      "score": 1,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:Frg-Mxg_4sk9UfjXaPEEDW&context=ONLINE&ratio=16/9&width=480&u=1792761722000"
+    },
+    {
+      "id": "10697004",
+      "title": "BASF verhoogt overnamebod op Evonik tot ruim 11 miljard euro",
+      "link": "https://www.tijd.be/r/t/1/id/10697004",
+      "category": "Ondernemen",
+      "description": "De Duitse chemiegigant BASF heeft zijn overnamebod op sectorgenoot Evonik verhoogd tot meer dan 11 miljard euro. BASF belooft ook garanties voor de werkgelegenheid en de fabrieken van zijn concurrent. Beide bedrijven hebben grote productievestigingen in de Antwerpse haven.",
+      "pubDate": "Fri, 23 Oct 2026 12:10:26 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:4XwtxdZ0KwE9cae-VJDsNI&context=ONLINE&ratio=16/9&width=480&u=1792757429000"
+    },
+    {
+      "id": "10696999",
+      "title": "Mediahuis zet zich schrap voor nieuwe ontslagronde",
+      "link": "https://www.tijd.be/r/t/1/id/10696999",
+      "category": "Ondernemen",
+      "description": "Bij de krantenuitgever Mediahuis staat dinsdag een bijzondere ondernemingsraad op de agenda. Er wordt gevreesd voor nieuwe ontslagen, nu inkomsten onder druk staan en de kosten toenemen.",
+      "pubDate": "Fri, 23 Oct 2026 12:07:48 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:1j8GtafU4DS8UMrhdOcQoc&context=ONLINE&ratio=16/9&width=480&u=1792763025000"
+    },
+    {
+      "id": "10696985",
+      "title": "Heineken waarschuwt Britse pubs voor effect van afslankmiddelen",
+      "link": "https://www.tijd.be/r/t/1/id/10696985",
+      "category": "Ondernemen",
+      "description": "De bierbrouwer Heineken roept de Britse bars en pubs op om hun aanbod aan te passen. Want door het groeiende gebruik van afslankmiddelen neemt de consumptie van alcohol af, luidt het.",
+      "pubDate": "Fri, 23 Oct 2026 12:02:18 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:5DniBW0rqMIAm1xwRMtE2Z&context=ONLINE&ratio=16/9&width=480&u=1792761264000"
+    },
+    {
+      "id": "10696506",
+      "title": "De influencer | Grafisch kunstenaar Bert Dries: ‘Ik probeer zo veel mogelijk werken van Jan van Eyck in real life te zien’",
+      "link": "https://www.tijd.be/r/t/1/id/10696506",
+      "category": "Cultuur",
+      "description": "Behalve met zijn werk als Musketon pakt de internationaal gevierde illustrator Bert Dries (37) uit met Awkward Flyer, grappig bijtende portretjes over de archetypen die ruim 750.000 Instagram-volgers herkennen, in anderen én in zichzelf. Wat inspireert en pleziert hem?",
+      "pubDate": "Fri, 23 Oct 2026 12:00:00 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:6ivRmlg94Ed8RWn0uDq0_x&context=ONLINE&ratio=16/9&width=480&u=1792757586000"
+    },
+    {
+      "id": "10674948",
+      "title": "Onze favoriete restaurants in Brussel",
+      "link": "https://www.tijd.be/r/t/1/id/10674948",
+      "category": "Sabato",
+      "description": "Op zoek naar een goed restaurant in Brussel? Dit zijn de favoriete restaurants van onze correspondent die de stad door en door kent.",
+      "pubDate": "Fri, 23 Oct 2026 11:45:39 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:3p19F8fwqTTBJk_tYpw15A&context=ONLINE&ratio=16/9&width=480&u=1792755939000"
+    },
+    {
+      "id": "10688248",
+      "title": "Wat weet u nog van de week? Doe de Actuaquiz",
+      "link": "https://www.tijd.be/r/t/1/id/10688248",
+      "category": "Politiek & Economie",
+      "description": "Test elke week uw kennis van de businessactualiteit in tien vragen.",
+      "pubDate": "Fri, 23 Oct 2026 11:26:26 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": null
+    },
+    {
+      "id": "10696918",
+      "title": "Grote drugsbende gaat vrijuit omdat dossier te lang bleef liggen",
+      "link": "https://www.tijd.be/r/t/1/id/10696918",
+      "category": "Politiek & Economie",
+      "description": "Alle 31 beklaagden in een groot drugsproces in Hasselt gaan vrijuit, omdat justitie het dossier te lang liet liggen. Hoewel het onderzoek maar twee jaar in beslag nam, duurde het daarna bijna negen jaar voor de zaak voor de rechter kwam. Het federaal parket tekent beroep aan.",
+      "pubDate": "Fri, 23 Oct 2026 11:21:05 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:01u-Zz-kqg3BezauGhfNsC&context=ONLINE&ratio=16/9&width=480&u=1792758377000"
+    },
+    {
+      "id": "10696496",
+      "title": "Kunnen banken zich hip maken bij jonge beleggers?",
+      "link": "https://www.tijd.be/r/t/1/id/10696496",
+      "category": "Ondernemen",
+      "description": "Gratis aandelen, nultarieven voor beurstransacties en laagdrempelig advies. De Belgische banken trakteren tegenwoordig het ene rondje na het andere om jongere beleggers aan zich te binden. Logisch, zeggen waarnemers: anders missen banken toekomstige klanten. Maar volstaan de huidige campagnes om die nieuwe generatie te bereiken?",
+      "pubDate": "Fri, 23 Oct 2026 10:50:54 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:3iD8yP1DKvm9nPr4ytkLHm&context=ONLINE&ratio=16/9&width=480&u=1792752658000"
+    },
+    {
+      "id": "10696975",
+      "title": "'Kotmadam' Xior blijft worstelen met hoge schuldgraad",
+      "link": "https://www.tijd.be/r/t/1/id/10696975",
+      "category": "Ondernemen",
+      "description": "Xior kreeg vrijdag voor zijn kwartaalupdate niet meer dan een beleefd applausje, want ondanks het ‘sterkste verhuurseizoen uit de geschiedenis’ blijft de markt het moeilijk hebben met de hoge schuldgraad.",
+      "pubDate": "Fri, 23 Oct 2026 10:49:33 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:CA5oc9dEq6eAYwMRkTIayL&context=ONLINE&ratio=16/9&width=480&u=1792760040000"
+    },
+    {
+      "id": "10696731",
+      "title": "State of the Union | Trump heeft haast, Rusland en Iran hebben tijd",
+      "link": "https://www.tijd.be/r/t/1/id/10696731",
+      "category": "Opinie",
+      "description": "De Amerikaanse president Donald Trump zoekt een oktoberverrassing op twee fronten tegelijk: hij wil vrede in Oekraïne forceren en een plots einde maken aan de oorlog met Iran.",
+      "pubDate": "Fri, 23 Oct 2026 10:30:00 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:CSNUSHHKKeU905fV60vSOq&context=ONLINE&ratio=16/9&width=480&u=1792760510000"
+    },
+    {
+      "id": "10696790",
+      "title": "Ook uw effectenrekening ontsnapt niet meer aan het oog van de fiscus",
+      "link": "https://www.tijd.be/r/t/1/id/10696790",
+      "category": "Netto",
+      "description": "Begin december wordt het rekeningenregister bij de Nationale Bank opnieuw uitgebreid. Naast de saldi van uw zicht- en spaarrekeningen en uw financiële contracten zal het register dan ook het saldo van elke effectenrekening bevatten.",
+      "pubDate": "Fri, 23 Oct 2026 10:26:14 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:E-_UBvViKy39u0u4MbR69W&context=ONLINE&ratio=16/9&width=480&u=1792765076000"
+    },
+    {
+      "id": "10696917",
+      "title": "Voormalige ABN AMRO-topper Solange Rouschop gaat duurzame bank Triodos België leiden",
+      "link": "https://www.tijd.be/r/t/1/id/10696917",
+      "category": "Ondernemen",
+      "description": "De Nederlandse Solange Rouschop wordt de nieuwe topvrouw van de Belgische tak van de duurzame bank Triodos. De ABN AMRO-veterane kent de Belgische bankenmarkt door en door en was tot begin dit jaar chef duurzaamheid bij de Nederlandse bank.",
+      "pubDate": "Fri, 23 Oct 2026 10:26:06 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:2M87A2ZgKbZ84rr96PhVw1&context=ONLINE&ratio=16/9&width=480&u=1792751841000"
+    },
+    {
       "id": "10696510",
       "title": "AI hoeft niet tot professionele identiteitscrisissen te leiden",
       "link": "https://www.tijd.be/r/t/1/id/10696510",
@@ -54,6 +296,17 @@
       "score": 6,
       "in_de7": false,
       "image": "https://images.tijd.be/view?iid=Elvis:1UM74l-q4UD8e6XWoTUPXR&context=ONLINE&ratio=16/9&width=480&u=1792746537000"
+    },
+    {
+      "id": "10696780",
+      "title": "De matrix | De bitterzoete les van AI",
+      "link": "https://www.tijd.be/r/t/1/id/10696780",
+      "category": "Opinie",
+      "description": "Overal zien en horen we dat AI programmeren overneemt en zo computerwetenschappen nutteloos maakt. Toch smaakt die bittere les voor mij niet slecht.",
+      "pubDate": "Fri, 23 Oct 2026 09:01:00 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:Fp6trv7l4vn81CH3E5TMqm&context=ONLINE&ratio=16/9&width=480&u=1792759861000"
     },
     {
       "id": "10696885",
