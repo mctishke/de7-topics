@@ -1,6 +1,226 @@
 {
   "articles": [
     {
+      "id": "10697257",
+      "title": "IT-reus Microsoft biedt 60.000 werknemers vrijwillig vertrek aan",
+      "link": "https://www.tijd.be/r/t/1/id/10697257",
+      "category": "Ondernemen",
+      "description": "Microsoft, de Amerikaanse IT-reus, biedt zo'n 60.000 werknemers vrijwillig vertrek aan. Dat komt overeen met een kwart van het totale personeelsbestand.",
+      "pubDate": "Mon, 26 Oct 2026 16:49:09 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:ECI8mBV24RO8TIsUSDyPJl&context=ONLINE&ratio=16/9&width=480&u=1793033353000"
+    },
+    {
+      "id": "10697178",
+      "title": "Meta sloopt record met aandelenuitgifte van 95 miljard voor AI-uitbouw",
+      "link": "https://www.tijd.be/r/t/1/id/10697178",
+      "category": "Markten Live",
+      "description": "Meta Platforms wil 95 miljard dollar ophalen met wat de grootste aandelenuitgifte in de geschiedenis moet worden. Met die verbluffende kapitaaloperatie gaat CEO Mark Zuckerberg nog meer all-in op AI.",
+      "pubDate": "Mon, 26 Oct 2026 16:34:14 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:3z-oLEOTKObAVOTRNat3fR&context=ONLINE&ratio=16/9&width=480&u=1793032572000"
+    },
+    {
+      "id": "10697230",
+      "title": "Meerderheid van Belgen wil uitbreiding abortustermijn",
+      "link": "https://www.tijd.be/r/t/1/id/10697230",
+      "category": "Politiek & Economie",
+      "description": "Meer dan de helft van de Belgen is voorstander van een verlenging van de abortustermijn van 12 naar 18 weken of meer. Of dat straks ook politieke werkelijkheid wordt, hangt af van de regeringspartij CD&V.",
+      "pubDate": "Mon, 26 Oct 2026 16:25:25 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:2U2cTArx4FZBk6ZiFcoBek&context=ONLINE&ratio=16/9&width=480&u=1793032747000"
+    },
+    {
+      "id": "10697202",
+      "title": "Profiteert ASMI, het ‘kleine broertje van ASML’, optimaal van de AI-koorts?",
+      "link": "https://www.tijd.be/r/t/1/id/10697202",
+      "category": "Markten Live",
+      "description": "ASMI komt dinsdagavond met resultaten. De markt voorziet een sterke groei met dank aan de AI-boom. ‘De prognose voor 2027 is van belang’, klinkt het bij ING.",
+      "pubDate": "Mon, 26 Oct 2026 16:25:13 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:8nwSu6biacVAPpQEAIZvP6&context=ONLINE&ratio=16/9&width=480&u=1793031916000"
+    },
+    {
+      "id": "10697179",
+      "title": "Audi-CEO Döllner onder vuur voor optreden in campagne van Trump",
+      "link": "https://www.tijd.be/r/t/1/id/10697179",
+      "category": "Ondernemen",
+      "description": "'Zeer pijnlijk en onacceptabel', 'een schande' en 'om door de grond te zakken van schaamte'. Gernot Döllner, de CEO van het Duitse automerk Audi, ligt in eigen land zwaar onder vuur nadat hij de bouw van een Amerikaanse fabriek had aangekondigd tijdens een campagnebijeenkomst van president Donald Trump.",
+      "pubDate": "Mon, 26 Oct 2026 16:07:00 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:AKr_T-R4qnoBH8VeFEH01K&context=ONLINE&ratio=16/9&width=480&u=1793030825000"
+    },
+    {
+      "id": "10697150",
+      "title": "Recensie 'Der fliegende Holländer' | Milo Rau verbindt Duitsland met Israël via Richard Wagner",
+      "link": "https://www.tijd.be/r/t/1/id/10697150",
+      "category": "Cultuur",
+      "description": "Met 'Der fliegende Holländer' schreef Richard Wagner een opera over een verdoemde kapitein die eindeloos op zee ronddobbert. In een productie voor de Deutsche Oper Berlin vertaalt regisseur Milo Rau het werk naar de problematische relatie tussen Duitsland en Israël.",
+      "pubDate": "Mon, 26 Oct 2026 16:02:08 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:EpK5weeAq-l8xrntqmq3gk&context=ONLINE&ratio=16/9&width=480&u=1793032462000"
+    },
+    {
+      "id": "10697204",
+      "title": "Anthropic plant voor 800 miljard dollar AI-uitgaven, blijkt uit prospectus",
+      "link": "https://www.tijd.be/r/t/1/id/10697204",
+      "category": "Ondernemen",
+      "description": "Anthropic, de koploper in AI, loopt zich warm voor een langverwachte en mogelijke recordbeursgang. Het officiële papierwerk voor de nakende IPO toont de onwaarschijnlijke omvang van de ambities van het bedrijf achter de Claude-modellen.",
+      "pubDate": "Mon, 26 Oct 2026 15:47:10 GMT",
+      "score": 5,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:BKOqzr68aXuBnK35Bi0rOI&context=ONLINE&ratio=16/9&width=480&u=1793032443000"
+    },
+    {
+      "id": "10697182",
+      "title": "Franse grootbank Crédit Agricole stort zich op Belgische spaarder",
+      "link": "https://www.tijd.be/r/t/1/id/10697182",
+      "category": "Ondernemen",
+      "description": "De Franse grootbank Crédit Agricole start een verrassend online-offensief in België en mikt op spaarders met twee rekeningformules die een nettorente van 1,19 tot 2 procent beloven. Daarnaast pakken de Fransen hier ook uit met termijnrekeningen.",
+      "pubDate": "Mon, 26 Oct 2026 15:45:00 GMT",
+      "score": 5,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:EgFfa5Huas6AUJ73WLGgZq&context=ONLINE&ratio=16/9&width=480&u=1793029774000"
+    },
+    {
+      "id": "10697196",
+      "title": "UBS: 'Beleg in de tastbare economie'",
+      "link": "https://www.tijd.be/r/t/1/id/10697196",
+      "category": "Markten Live",
+      "description": "De Zwitserse bank UBS ziet dankzij de massale investeringen in AI en de zoektocht naar inflatiebescherming beleggingskansen in reële activa als vastgoed, infrastructuur, grondstoffen en goud.",
+      "pubDate": "Mon, 26 Oct 2026 15:32:35 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:Csvuu6YEaLn9q3r7Qf5zdz&context=ONLINE&ratio=16/9&width=480&u=1793031087000"
+    },
+    {
+      "id": "10697220",
+      "title": "Zwitserse luxehotelketen Kempinski in crisismodus",
+      "link": "https://www.tijd.be/r/t/1/id/10697220",
+      "category": "Ondernemen",
+      "description": "De Zwitsers-Arabische luxehotelketen Kempinski bevindt zich in een crisismodus. CEO Barbara Muckermann is vertrokken en de keten worstelt om niet nog meer hotels te verliezen.",
+      "pubDate": "Mon, 26 Oct 2026 15:21:52 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:4dojP_Me4pI9BygIMFLdGE&context=ONLINE&ratio=16/9&width=480&u=1793029079000"
+    },
+    {
+      "id": "10697163",
+      "title": "Demirs nieuwe minimumdoelen in middelbaar maken breuk met aanpak-Weyts compleet",
+      "link": "https://www.tijd.be/r/t/1/id/10697163",
+      "category": "Politiek & Economie",
+      "description": "Nadat haar voorganger en partijgenoot Ben Weyts (N-VA) drie jaar geleden nieuwe minimumdoelen ingevoerd heeft, schuift minister van Onderwijs Zuhal Demir ze alweer grotendeels aan de kant. 'Nu moeten we resoluut de nieuwe koers inzetten, met een ander pedagogisch model.'",
+      "pubDate": "Mon, 26 Oct 2026 14:54:38 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:A32MpK2zqCfA9XO0J858IT&context=ONLINE&ratio=16/9&width=480&u=1793031221000"
+    },
+    {
+      "id": "10697106",
+      "title": "Bouwsector roept regering op tot verlaging btw op nieuwbouw",
+      "link": "https://www.tijd.be/r/t/1/id/10697106",
+      "category": "Politiek & Economie",
+      "description": "De bouwfederatie Embuild herhaalt haar pleidooi om de btw op nieuwbouwwoningen- en appartementen te verlagen. De vraag is of de federale regering dat nog overweegt nu een bredere btw-deal van tafel is in de begrotingsgesprekken.",
+      "pubDate": "Mon, 26 Oct 2026 14:46:45 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:5qvkPo-oKNABiv8cw46vSX&context=ONLINE&ratio=16/9&width=480&u=1793009431000"
+    },
+    {
+      "id": "10675647",
+      "title": "Onze favoriete restaurants in Parijs",
+      "link": "https://www.tijd.be/r/t/1/id/10675647",
+      "category": "Sabato",
+      "description": "Op zoek naar een goed restaurant in Parijs? Dit zijn de favoriete restaurants van onze correspondent die de stad door en door kent.",
+      "pubDate": "Mon, 26 Oct 2026 14:28:01 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:D1J-EpfJaqgAgMXcBdYin0&context=ONLINE&ratio=16/9&width=480&u=1793024880000"
+    },
+    {
+      "id": "10697161",
+      "title": "D-day nadert voor mogelijk tweede medicijn van Argenx",
+      "link": "https://www.tijd.be/r/t/1/id/10697161",
+      "category": "Ondernemen",
+      "description": "Cruciale resultaten van een patiëntenstudie in december zullen uitwijzen of het Gentse biotechbedrijf Argenx er binnenkort naast het multi-inzetbare Vyvgart een tweede therapie bij kan krijgen.",
+      "pubDate": "Mon, 26 Oct 2026 13:50:17 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:DAJ5G3rcqbaBjBA2bnsQC_&context=ONLINE&ratio=16/9&width=480&u=1793028879000"
+    },
+    {
+      "id": "10697184",
+      "title": "Sarah J. Maas, de fantasyschrijfster voor wie Vlaamse boekhandels ’s nachts openen",
+      "link": "https://www.tijd.be/r/t/1/id/10697184",
+      "category": "Cultuur",
+      "description": "Vlaamse boekhandels openen rond middernacht voor het nieuwe fantasyboek van de Amerikaanse Sarah J. Maas. Met wereldwijd meer dan 75 miljoen verkochte boeken is ze een goudhaantje voor het beursgenoteerde Bloomsbury, ook de uitgever van ‘Harry Potter’.",
+      "pubDate": "Mon, 26 Oct 2026 12:48:24 GMT",
+      "score": 6,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:66O-Du3-qqCBhTz6fe2CoB&context=ONLINE&ratio=16/9&width=480&u=1793028673000"
+    },
+    {
+      "id": "10697162",
+      "title": "Brusselse energieconsultant 3E gaat zich met nieuwe eigenaar Hg versterken in AI",
+      "link": "https://www.tijd.be/r/t/1/id/10697162",
+      "category": "Ondernemen",
+      "description": "De Londense private-equitygroep Hg, een investeerder in bedrijven als Team.blue, wordt de meerderheidsaandeelhouder van het Brusselse energietechnologiebedrijf 3E. Hg wil er de ontwikkeling van producten met artificiële intelligentie versnellen en mikt op overnames.",
+      "pubDate": "Mon, 26 Oct 2026 12:39:17 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:FLmwyc4k4Qp97-M4Bf7QLQ&context=ONLINE&ratio=16/9&width=480&u=1793025218000"
+    },
+    {
+      "id": "10697173",
+      "title": "Hotelketen Fletcher komt in handen van Indiërs achter Belvilla",
+      "link": "https://www.tijd.be/r/t/1/id/10697173",
+      "category": "Ondernemen",
+      "description": "De Nederlandse hotelketen Fletcher, die ook actief is in ons land, komt in handen van haar Indiase sectorgenoot Sunday PropTech. Die hoort tot dezelfde groep als de bekende vakantiewoningverhuurder Belvilla.",
+      "pubDate": "Mon, 26 Oct 2026 12:27:40 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:7vo5e4s0aEE8OlvbIsNxB0&context=ONLINE&ratio=16/9&width=480&u=1793022159000"
+    },
+    {
+      "id": "10697155",
+      "title": "Verkiezingen bepalen of Israël verder afglijdt naar religieuze dictatuur",
+      "link": "https://www.tijd.be/r/t/1/id/10697155",
+      "category": "Politiek & Economie",
+      "description": "Rechters en journalisten staan onder druk, de politieke stem van Arabische burgers ligt onder vuur en religieuze partijen krijgen steeds meer macht. Bij de Israëlische verkiezingen staat dinsdag meer op het spel dan wie het land gaat regeren. ‘Wordt Israël opnieuw een liberale democratie of glijdt het verder af naar een religieuze dictatuur?’",
+      "pubDate": "Mon, 26 Oct 2026 12:14:20 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:DYghkB-kK4i9kFT_Ld966x&context=ONLINE&ratio=16/9&width=480&u=1793024590000"
+    },
+    {
+      "id": "10697099",
+      "title": "City Football Group pompt nog eens 23 miljoen euro in voetbalclub Lommel",
+      "link": "https://www.tijd.be/r/t/1/id/10697099",
+      "category": "Ondernemen",
+      "description": "De City Football Group heeft een kapitaalsverhoging van 23 miljoen euro doorgevoerd bij eersteklasser Lommel SK. De holding, die onder controle staat van een groep uit Abu Dhabi en ook Manchester City in handen heeft, pompte al bijna 100 miljoen in de club.",
+      "pubDate": "Mon, 26 Oct 2026 11:59:53 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:6at4dXeGam6992jEHjJ6Fl&context=ONLINE&ratio=16/9&width=480&u=1793004537000"
+    },
+    {
+      "id": "10697160",
+      "title": "'Exodus bij advocatenkantoor Weil, Gotshal & Manges bereikt toppunt'",
+      "link": "https://www.tijd.be/r/t/1/id/10697160",
+      "category": "Ondernemen",
+      "description": "De exodus bij het Amerikaanse advocatenkantoor Weil, Gotshal & Manges, dat ook in Brussel actief is, houdt aan. Zelfs in die mate dat het nieuwe hoofd van de firma niet begint aan haar nieuwe job, aldus de zakenkrant Financial Times.",
+      "pubDate": "Mon, 26 Oct 2026 10:57:20 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:1WhosxCV4ym8n-szVBptz9&context=ONLINE&ratio=16/9&width=480&u=1793022515000"
+    },
+    {
       "id": "10697135",
       "title": "Oppositieleidster Machado keert terug naar Venezuela en voedt hoop op democratische verkiezingen",
       "link": "https://www.tijd.be/r/t/1/id/10697135",
@@ -209,7 +429,7 @@
       "category": "Netto",
       "description": "Een schilderij of beeldhouwwerk op kantoor: kunst kan uw onderneming uitstraling geven. U mag een werk via uw vennootschap aankopen, maar huren kan fiscaal interessanter zijn. Alleen verdient de keuze van de overeenkomst minstens zoveel aandacht als die van het kunstwerk.",
       "pubDate": "Sat, 24 Oct 2026 03:01:57 GMT",
-      "image": null
+      "image": "https://images.tijd.be/view?iid=Elvis:3uulrV644XgBGDcIE7VrrF&context=ONLINE&ratio=16/9&width=480&u=1792788129000"
     },
     {
       "id": "10696834",
@@ -245,7 +465,7 @@
       "category": "Dossiers",
       "description": "Wie tot 31 oktober de tijd heeft om zijn belastingaangifte in te dienen, kijkt best nog eens goed na of hij zijn cryptorekening heeft gemeld. Met de uitbreiding van het rekeningenregister in december en de internationale gegevensuitwisseling sinds begin dit jaar krijgt de fiscus daar steeds beter zicht op.",
       "pubDate": "Sat, 24 Oct 2026 03:00:00 GMT",
-      "image": null
+      "image": "https://images.tijd.be/view?iid=Elvis:Ds5i2ci54XE8vgXnUh3wXy&context=ONLINE&ratio=16/9&width=480&u=1793027152000"
     },
     {
       "id": "10697035",
@@ -254,7 +474,7 @@
       "category": "Netto",
       "description": "Bijna de helft van de zelfstandigen weet niet dat ze een uitkering kunnen krijgen om inkomensverlies bij ziekte op te vangen. Welke systemen bestaan er om u te beschermen bij tegenslag?",
       "pubDate": "Sat, 24 Oct 2026 03:00:00 GMT",
-      "image": null
+      "image": "https://images.tijd.be/view?iid=Elvis:AlyrBalj4y7BResPwtBWTL&context=ONLINE&ratio=16/9&width=480&u=1793006472000"
     },
     {
       "id": "10696988",
@@ -263,7 +483,7 @@
       "category": "Netto",
       "description": "Groepsaankopen zijn een populaire manier om van energiecontract te veranderen voor veel Vlamingen, vaak in de overtuiging dat het om de goedkoopste optie gaat. Maar is dat ook zo? Hoe werkt een groepsaankoop precies? En wie verdient eraan?",
       "pubDate": "Sat, 24 Oct 2026 03:00:00 GMT",
-      "image": null
+      "image": "https://images.tijd.be/view?iid=Elvis:2GtgPrwiKaaBfvoTZBK3Ib&context=ONLINE&ratio=16/9&width=480&u=1793006309000"
     },
     {
       "id": "10697059",
