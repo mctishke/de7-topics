@@ -1,6 +1,193 @@
 {
   "articles": [
     {
+      "id": "10697645",
+      "title": "Advocatenkantoor Weil, Gotshal & Manges doekt zichzelf op",
+      "link": "https://www.tijd.be/r/t/1/id/10697645",
+      "category": "Ondernemen",
+      "description": "Het Amerikaanse advocatenkantoor Weil, Gotshal & Manges houdt ermee op, amper enkele dagen nadat duidelijk was geworden dat het in de gevarenzone was beland door het vertrek van advocaten en partners.",
+      "pubDate": "Wed, 28 Oct 2026 21:18:37 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:07RpDrBi4sQ8_wypgvN4cT&context=ONLINE&ratio=16/9&width=480&u=1793222521000"
+    },
+    {
+      "id": "10697614",
+      "title": "Het woord 'crash' valt weer na nieuwe provocaties Vooruit",
+      "link": "https://www.tijd.be/r/t/1/id/10697614",
+      "category": "Politiek & Economie",
+      "description": "Terwijl de N-VA al onder druk staat van haar ondernemende achterban, drijft Conner Rousseau de prijs van Vooruit nog op: hij wil 500 miljoen halen bij vennootschappen en 1 miljard bij mensen die meer dan 1 miljoen euro bezitten. Het woord 'crash' valt weer.",
+      "pubDate": "Wed, 28 Oct 2026 21:17:58 GMT",
+      "score": 6,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:ECtWojT1aRn8CFUWj5zr4_&context=ONLINE&ratio=16/9&width=480&u=1793222456000"
+    },
+    {
+      "id": "10697646",
+      "title": "Alphabet boekt giga-expansie Google Cloud, maar stelt teleur met omzet en winst",
+      "link": "https://www.tijd.be/r/t/1/id/10697646",
+      "category": "Markten Live",
+      "description": "Het Amerikaanse techreus Alphabet weet de forse AI-investeringen om te zetten in een verdubbeling van de omzet in de Google Cloud, zo blijkt uit het kwartaalrapport. Beleggers vallen echter over de tegenvallende omzet- en winstcijfers.",
+      "pubDate": "Wed, 28 Oct 2026 21:12:45 GMT",
+      "score": 0,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:EkExsyD2Kw-AeTJpq3mYMn&context=ONLINE&ratio=16/9&width=480&u=1793222526000"
+    },
+    {
+      "id": "10697635",
+      "title": "Fed laat rente ongewijzigd hoewel inflatie te hoog blijft",
+      "link": "https://www.tijd.be/r/t/1/id/10697635",
+      "category": "Markten Live",
+      "description": "De Amerikaanse centrale bank (Fed) heeft woensdag gekozen voor een pauze na de renteverhoging in september. De inflatie blijft te hoog, maar de inflatieverwachtingen evolueren gunstig, zei voorzitter Kevin Warsh.",
+      "pubDate": "Wed, 28 Oct 2026 20:43:12 GMT",
+      "score": 0,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:CvmEhEpzKfx8kU-rV76es7&context=ONLINE&ratio=16/9&width=480&u=1793220192000"
+    },
+    {
+      "id": "10697644",
+      "title": "Microsoft klopt marktverwachtingen dankzij ijzersterke clouddivisie",
+      "link": "https://www.tijd.be/r/t/1/id/10697644",
+      "category": "Ondernemen",
+      "description": "Microsoft springt in zijn eerste kwartaal fluks over de lat van Wall Street. De cloudpoot Azure groeide met 48 procent.",
+      "pubDate": "Wed, 28 Oct 2026 20:29:14 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:AD8gmLA7qHpAE4r3Y2-ksZ&context=ONLINE&ratio=16/9&width=480&u=1793219585000"
+    },
+    {
+      "id": "10697641",
+      "title": "Wall Street: schuldenberg Oracle blijkt vliegwiel in plaats van molensteen",
+      "link": "https://www.tijd.be/r/t/1/id/10697641",
+      "category": "Markten Live",
+      "description": "De Amerikaanse beurzen bleven kalm, ondanks de strenge taal van Fed-voorzitter Kevin Warsh. Oracle toont aan dat de forse AI-investeringen hun vruchten afwerpen. Als belangrijke ontvanger van die cashflows spint SK Hynix flink garen bij de AI-boom. Daarvoor wordt de belegger beloond.",
+      "pubDate": "Wed, 28 Oct 2026 20:07:31 GMT",
+      "score": 0,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:B3Uo8b6SqhpBQMqqHoZK5h&context=ONLINE&ratio=16/9&width=480&u=1793218051000"
+    },
+    {
+      "id": "10697330",
+      "title": "Dit zijn de winnaars van de Sabato Design Awards 2026",
+      "link": "https://www.tijd.be/r/t/1/id/10697330",
+      "category": "Sabato",
+      "description": "Tijdens de 2026-editie van de Sabato Design Awards zijn zes juryprijzen en twee publieksprijzen uitgereikt aan impactvolle Belgische designers en architecten.",
+      "pubDate": "Wed, 28 Oct 2026 20:07:26 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:EeQbs3T4K7iA5gnY9X0Koz&context=ONLINE&ratio=16/9&width=480&u=1793219645000"
+    },
+    {
+      "id": "10697523",
+      "title": "Nergens zonder weg in Waasmunster",
+      "link": "https://www.tijd.be/r/t/1/id/10697523",
+      "category": "Dossiers",
+      "description": "Verdwalend in eigen land kijkt Rik Van Puymbroeck naar wat verwondert en soms overdondert.",
+      "pubDate": "Wed, 28 Oct 2026 19:31:41 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:0zrfp0oi4Po8xbMCYeRt8P&context=ONLINE&ratio=16/9&width=480&u=1793182619000"
+    },
+    {
+      "id": "10697415",
+      "title": "Bart Verhaeghe zet dochter Lisa aan stuur van megaproject Broeklin",
+      "link": "https://www.tijd.be/r/t/1/id/10697415",
+      "category": "Ondernemen",
+      "description": "De werk-winkelwijk Broeklin (ex-Uplace) in Machelen krijgt Lisa Verhaeghe, de dochter van gangmaker Bart Verhaeghe, als nieuwe CEO. Het megacomplex moet eind 2029 de deuren openen.",
+      "pubDate": "Wed, 28 Oct 2026 19:31:24 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:26BVvLQs49EBDC6JPxJsTj&context=ONLINE&ratio=16/9&width=480&u=1793215889000"
+    },
+    {
+      "id": "10697627",
+      "title": "Europese banken gaan vol zelfvertrouwen herfstvakantie in",
+      "link": "https://www.tijd.be/r/t/1/id/10697627",
+      "category": "Ondernemen",
+      "description": "Ondanks de groeiende Europese schuldenstress en de povere economische groeicijfers kunnen banktoppers als BNP Paribas, Deutsche Bank en Santander uitpakken met sterke resultaten voor het derde kwartaal. Met dank aan bloeiende marktzalen en hogere rentevoeten.",
+      "pubDate": "Wed, 28 Oct 2026 19:15:23 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:EwqcGUS0qdQBwAVqDPjdbT&context=ONLINE&ratio=16/9&width=480&u=1793215776000"
+    },
+    {
+      "id": "10697600",
+      "title": "Midterms in de VS tonen aan: AI zit overal in het democratisch proces",
+      "link": "https://www.tijd.be/r/t/1/id/10697600",
+      "category": "Politiek & Economie",
+      "description": "De midterms van volgende week in de VS zijn behalve een cruciale stembusslag voor de rest van Donald Trumps termijn ook een experiment in democratie ten tijde van volle AI-hausse. Terwijl het wantrouwen groot is, wordt de technologie volop ingezet door kandidaten én kiezers. ‘We bevinden ons op onontgonnen terrein.’",
+      "pubDate": "Wed, 28 Oct 2026 19:13:14 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:2KkJJAOu4JtA_FHj0NplLd&context=ONLINE&ratio=16/9&width=480&u=1793220536000"
+    },
+    {
+      "id": "10697639",
+      "title": "Hyloris krijgt financieringspakket van 6 miljoen euro",
+      "link": "https://www.tijd.be/r/t/1/id/10697639",
+      "category": "Ondernemen",
+      "description": "Het Luikse farmabedrijf Hyloris krijgt toegang tot 6 miljoen euro aan financiering. Dat heeft het bedrijf woensdagavond bekendgemaakt.",
+      "pubDate": "Wed, 28 Oct 2026 19:13:03 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:ADPvNIpjaoA9wNn3rds0sD&context=ONLINE&ratio=16/9&width=480&u=1793215473000"
+    },
+    {
+      "id": "10697638",
+      "title": "Meta stelt omstreden gebruiksvoorwaarden voor onbepaalde tijd uit",
+      "link": "https://www.tijd.be/r/t/1/id/10697638",
+      "category": "Ondernemen",
+      "description": "Meta Platforms stelt de uitrol van nieuwe gebruiksvoorwaarden voor Facebook, Instagram en WhatsApp voor onbepaalde tijd uit, nadat uitgevers daartegen hadden geprotesteerd.",
+      "pubDate": "Wed, 28 Oct 2026 19:09:09 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:2qbpABV4Kg3APg2xsRRSCS&context=ONLINE&ratio=16/9&width=480&u=1793215132000"
+    },
+    {
+      "id": "10697581",
+      "title": "De eigenaar kan niet vluchten",
+      "link": "https://www.tijd.be/r/t/1/id/10697581",
+      "category": "Opinie",
+      "description": "De regering wil de vergoeding voor een eventuele onteigening van de kerncentrales zelf berekenen. Daarmee bevindt het energieconcern Engie zich in goed gezelschap: dat van alle eigenaars die de overheid kaalplukt.",
+      "pubDate": "Wed, 28 Oct 2026 17:00:48 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:4YJz0juW4-q9mGaxeP9eak&context=ONLINE&ratio=16/9&width=480&u=1793199843000"
+    },
+    {
+      "id": "10697623",
+      "title": "ArcelorMittal: ‘CO₂ afvangen kan uitstoot Gentse staalfabriek met kwart verminderen’",
+      "link": "https://www.tijd.be/r/t/1/id/10697623",
+      "category": "Ondernemen",
+      "description": "Een proefproject bij ArcelorMittal in Gent toont aan dat CO₂-afvang de uitstoot van de staalproductie aanzienlijk kan verminderen. Volgens de staalreus kan de CO₂-uitstoot per ton geproduceerd staal met bijna een kwart dalen. Een concrete investering is er nog niet.",
+      "pubDate": "Wed, 28 Oct 2026 16:57:21 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:EjZfJ5hXKzAAtYgUoc_41B&context=ONLINE&ratio=16/9&width=480&u=1793209723000"
+    },
+    {
+      "id": "10697573",
+      "title": "BASF boekt hogere winst, maar blijft nog jaren banen schrappen",
+      "link": "https://www.tijd.be/r/t/1/id/10697573",
+      "category": "Ondernemen",
+      "description": "De Duitse chemiereus BASF boekt opnieuw hogere winsten, maar dat betekent niet dat de crisis in de Europese chemie voorbij is. Integendeel: het concern kondigt aan dat het nog jarenlang zal blijven herstructureren en banen schrappen.",
+      "pubDate": "Wed, 28 Oct 2026 16:54:23 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:3ePk1nw9aj0ABGicUpQ4Kf&context=ONLINE&ratio=16/9&width=480&u=1793206479000"
+    },
+    {
+      "id": "10697624",
+      "title": "Voedingsbedrijf IFF schroeft sluiting Ieperse site terug",
+      "link": "https://www.tijd.be/r/t/1/id/10697624",
+      "category": "Ondernemen",
+      "description": "De Amerikaanse smaakstoffenproducent IFF gaat de geplande sluiting van zijn fabriek in Ieper terugschroeven. Op de site werken circa 80 mensen.",
+      "pubDate": "Wed, 28 Oct 2026 16:52:47 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:8z4rPg57K5k9KEYR5XZOWK&context=ONLINE&ratio=16/9&width=480&u=1793206370000"
+    },
+    {
       "id": "10697583",
       "title": "Britse regering belooft energiesteun in bescheiden begrotingsoefening",
       "link": "https://www.tijd.be/r/t/1/id/10697583",
