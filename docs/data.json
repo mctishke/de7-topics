@@ -1,7 +1,228 @@
 {
-  "generated_at": "2026-10-27T23:52:15.920330+00:00",
+  "generated_at": "2026-10-28T10:53:23.949722+00:00",
   "date": "2026-10-28",
-  "de7_title": "27/10 | Regering dreigt kerncentrales te nationaliseren | Anthropic plant potentieel grootste beursgang ooit | 'Romantasy'-boekenreeks ontpopt zich tot miljoenenbusiness",
-  "de7_matched_count": 0,
-  "articles": []
+  "de7_title": "28/10 | Verkiezingen Israël leveren nog geen duidelijke winnaar op | Bijna 3 op de 10 Belgische fabrieksmachines liggen stil | Kabinet-Verlinden in nauwe schoentjes na beschuldigingen van spionage",
+  "de7_matched_count": 2,
+  "articles": [
+    {
+      "id": "10697364",
+      "title": "Bijna drie op tien machines in Belgische fabrieken staan stil",
+      "link": "https://www.tijd.be/r/t/1/id/10697364",
+      "category": "Ondernemen",
+      "description": "De verzwakking van de industrie in België zet de jongste maanden sterk door. De bezettingsgraad van de productiecapaciteit is gezakt naar het laagste peil sinds het begin van de coronacrisis.",
+      "pubDate": "Wed, 28 Oct 2026 04:00:00 GMT",
+      "score": 13,
+      "in_de7": true,
+      "image": "https://images.tijd.be/view?iid=Elvis:Fq4FKhOxapbAEIbfA_u9vB&context=ONLINE&ratio=16/9&width=480&u=1793173903000"
+    },
+    {
+      "id": "10697447",
+      "title": "Alliantie rond Netanyahu staat op kop, maar grijpt naast meerderheid",
+      "link": "https://www.tijd.be/r/t/1/id/10697447",
+      "category": "Politiek & Economie",
+      "description": "De Israëlische premier Benjamin Netanyahu lijkt opnieuw aan zet na de verkiezingen van dinsdag. Zijn hardrechtse blok haalt evenwel geen meerderheid, waardoor een patstelling dreigt met mogelijk nieuwe verkiezingen.",
+      "pubDate": "Wed, 28 Oct 2026 08:31:50 GMT",
+      "score": 12,
+      "in_de7": true,
+      "image": "https://images.tijd.be/view?iid=Elvis:2mLUbwkTahCAIIvWr4qXRJ&context=ONLINE&ratio=16/9&width=480&u=1793184030000"
+    },
+    {
+      "id": "10697451",
+      "title": "Zuid-Koreaanse chipmaker SK Hynix: 'Chiptekort zal duren tot in 2030'",
+      "link": "https://www.tijd.be/r/t/1/id/10697451",
+      "category": "Ondernemen",
+      "description": "De Zuid-Koreaanse chipproducent SK Hynix legt indrukwekkende kwartaalresultaten neer en gaat via superdividenden en eigen aandelen 67 miljard euro doorschuiven naar de aandeelhouders.",
+      "pubDate": "Wed, 28 Oct 2026 06:21:14 GMT",
+      "score": 6,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:9QhH0SFwKBsAcrp3iRVDhn&context=ONLINE&ratio=16/9&width=480&u=1793168477000"
+    },
+    {
+      "id": "10697466",
+      "title": "Stevig winstalarm bij Ontex: 'Krachtenbundeling met Amerikaanse partner is mogelijk eindspel'",
+      "link": "https://www.tijd.be/r/t/1/id/10697466",
+      "category": "Ondernemen",
+      "description": "De Belgische luierfabrikant Ontex verlaagt de winstverwachtingen voor dit jaar met een stevige 16 procent. Dat zet de schijnwerpers nog maar eens op de kwetsbare schuldensituatie van het bedrijf. De mogelijkheid voor een krachtenbundeling met een Amerikaanse partner duikt weer op.",
+      "pubDate": "Wed, 28 Oct 2026 08:24:08 GMT",
+      "score": 5,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:7NDu80Quaf08ouRMZyFptS&context=ONLINE&ratio=16/9&width=480&u=1793183143000"
+    },
+    {
+      "id": "10697476",
+      "title": "‘VS waarschuwen Golfstaten voor mogelijke aanval op Iran’",
+      "link": "https://www.tijd.be/r/t/1/id/10697476",
+      "category": "Dossiers",
+      "description": "De Verenigde Staten hebben de Golfstaten gewaarschuwd dat ze nieuwe aanvallen overwegen op Iran na de midterms volgende week. Dat schrijft The Wall Street Journal. De olieprijs stijgt boven 115 dollar.",
+      "pubDate": "Wed, 28 Oct 2026 09:00:47 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:8ToMop1c4Xn9MAx7_rf_ZL&context=ONLINE&ratio=16/9&width=480&u=1793181597000"
+    },
+    {
+      "id": "10697454",
+      "title": "BNP Paribas klopt verwachtingen en sust over blootstelling aan Frankrijk",
+      "link": "https://www.tijd.be/r/t/1/id/10697454",
+      "category": "Ondernemen",
+      "description": "De Franse bankgroep BNP Paribas boekt meer winst dan verwacht in het derde kwartaal en gaat voor meer dan 1 miljard euro eigen aandelen inkopen. Ze zegt ook dat ze relatief beperkt is blootgesteld aan Frans staatspapier.",
+      "pubDate": "Wed, 28 Oct 2026 06:49:21 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:6mlV6ZfGqfrAIcb9qg9NIH&context=ONLINE&ratio=16/9&width=480&u=1793170519000"
+    },
+    {
+      "id": "10686903",
+      "title": "Vijf jaar later: België pionierde met antiwitwasregels in voetbal, maar werken ze ook?",
+      "link": "https://www.tijd.be/r/t/1/id/10686903",
+      "category": "Ondernemen",
+      "description": "De Belgische profvoetbalclubs zijn vijf jaar geleden, in de nasleep van het fraudeschandaal Operatie Zero, onderworpen aan strenge antiwitwasregels. Hoe succesvol blijkt die ingreep op het terrein? 'Een constructiefout in de wet is dat clubs zelf het risico op witwassen moeten inschatten.'",
+      "pubDate": "Wed, 28 Oct 2026 04:02:21 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:7uf5qlxX4t8B9CdwHUHtVN&context=ONLINE&ratio=16/9&width=480&u=1793139025000"
+    },
+    {
+      "id": "10697289",
+      "title": "Belgische kernenergiesector: ‘In twee jaar kunnen er 500 jobs bijkomen’",
+      "link": "https://www.tijd.be/r/t/1/id/10697289",
+      "category": "Ondernemen",
+      "description": "De Belgische kernenergiesector, een cluster van grote producenten en vele kleine toeleveranciers, ziet de komende jaren door grote en kleine reactoren mooie groeikansen. Maar dan moet de overheid snel veel onzekerheden wegnemen, klinkt het bij de technologiefederatie Agoria.",
+      "pubDate": "Wed, 28 Oct 2026 04:00:00 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:8iydHbIl4tT8Tc8Xp7xsn1&context=ONLINE&ratio=16/9&width=480&u=1793178191000"
+    },
+    {
+      "id": "10697158",
+      "title": "Denktank Vista Minds: ‘Meer zorg in private centra kan ons land miljoenen besparen’",
+      "link": "https://www.tijd.be/r/t/1/id/10697158",
+      "category": "Politiek & Economie",
+      "description": "Meer standaardingrepen kunnen goedkoper, beter en toegankelijker worden als ze buiten het ziekenhuis, in gespecialiseerde, private centra, plaatsvinden. Van dat idee is de onafhankelijke denktank Vista Minds overtuigd. Houdt dat steek? ‘Dit heeft niets met villageneeskunde te maken.’",
+      "pubDate": "Wed, 28 Oct 2026 04:31:27 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:3qkVSwsCqSWAtdabuRQlsl&context=ONLINE&ratio=16/9&width=480&u=1793139373000"
+    },
+    {
+      "id": "10697395",
+      "title": "Hoe skidorp Val d’Isère zijn sportziel bewaart terwijl de luxemachine oprukt",
+      "link": "https://www.tijd.be/r/t/1/id/10697395",
+      "category": "Sabato",
+      "description": "Val d’Isère was altijd al een dorp voor fanatieke skiërs. Nu strijken ook luxehotels, cocktailbars en gastronomische adressen neer aan de voet van de pistes. Wat gebeurt er met de ziel van een bergdorp wanneer luxe steeds nadrukkelijker mee aan tafel schuift?",
+      "pubDate": "Wed, 28 Oct 2026 05:46:38 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:CrcUnMliKqE9OlGf7jtFXR&context=ONLINE&ratio=16/9&width=480&u=1793112084000"
+    },
+    {
+      "id": "10697497",
+      "title": "Bodem in zicht bij crisis Stellantis",
+      "link": "https://www.tijd.be/r/t/1/id/10697497",
+      "category": "Ondernemen",
+      "description": "Peugeot- en Opel-moeder Stellantis kruipt langzaam uit het dal. Hoewel de winstmarges nog altijd flinterdun zijn, boekte het Frans-Italiaanse concern in het derde kwartaal betere resultaten dan een jaar geleden.",
+      "pubDate": "Wed, 28 Oct 2026 09:33:37 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:0UclhW2WKgP9oljBYTlIVw&context=ONLINE&ratio=16/9&width=480&u=1793180021000"
+    },
+    {
+      "id": "10697423",
+      "title": "Als de fabrieken stilvallen",
+      "link": "https://www.tijd.be/r/t/1/id/10697423",
+      "category": "Opinie",
+      "description": "Als we de start van de coronapandemie en het dieptepunt van de bankencrisis als referentiepunten nemen, dan mogen alle alarmbellen afgaan: de Belgische industrie bevindt zich op dat punt.",
+      "pubDate": "Wed, 28 Oct 2026 04:00:00 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:4UFOL9wtKYABrMNZse9-uZ&context=ONLINE&ratio=16/9&width=480&u=1793168435000"
+    },
+    {
+      "id": "10697512",
+      "title": "Vooruit nu ook kritisch voor Vlaams databedrijf dat Jan Jambon oprichtte",
+      "link": "https://www.tijd.be/r/t/1/id/10697512",
+      "category": "Politiek & Economie",
+      "description": "De Vlaamse meerderheidspartij Vooruit neemt nu ook Athumi, het databedrijf dat oud-minister-president Jan Jambon oprichtte, op de korrel. 'Dat is met veel poeha aangekondigd, maar blijkt vele jaren later een lege en dure doos te zijn.'",
+      "pubDate": "Wed, 28 Oct 2026 10:47:13 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:AohE6BUGKCJBJDg3Tczndi&context=ONLINE&ratio=16/9&width=480&u=1793184436000"
+    },
+    {
+      "id": "10697509",
+      "title": "Zware treinbotsing in Spanje: zeker 30 doden",
+      "link": "https://www.tijd.be/r/t/1/id/10697509",
+      "category": "Politiek & Economie",
+      "description": "In Spanje zijn twee hogesnelheidstreinen op elkaar ingereden. Lokale regeringsbronnen spreken van zeker 30 doden.",
+      "pubDate": "Wed, 28 Oct 2026 10:33:07 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:0uOuXnHZKaaAeCAwwZKhXl&context=ONLINE&ratio=16/9&width=480&u=1793184721000"
+    },
+    {
+      "id": "10697525",
+      "title": "Maar vier dagen school in Brussel? Waarom geen zes?",
+      "link": "https://www.tijd.be/r/t/1/id/10697525",
+      "category": "Opinie",
+      "description": "In 2025 waren er al 17 Nederlandstalige Brusselse basisscholen met een vierdaagse lesweek. Maar als we maatschappelijk rendement willen, moeten we geen schooldag schrappen, maar er een toevoegen.",
+      "pubDate": "Wed, 28 Oct 2026 10:33:02 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:BReCAInXqjNBnF9jjTCnTG&context=ONLINE&ratio=16/9&width=480&u=1793183587000"
+    },
+    {
+      "id": "10697362",
+      "title": "Demir hervormt volwassenenonderwijs dat veel kost, maar te weinig oplevert",
+      "link": "https://www.tijd.be/r/t/1/id/10697362",
+      "category": "Politiek & Economie",
+      "description": "Hoewel het Vlaamse volwassenenonderwijs kan rekenen op fors meer middelen dan in heel wat andere OESO-landen, vinden te weinig Vlamingen de weg naar het aanbod. Dat moet ‘anders en beter’, zegt minister van Onderwijs Zuhal Demir. ‘De uitdaging is om met dezelfde publieke middelen betere resultaten te behalen.’",
+      "pubDate": "Wed, 28 Oct 2026 10:30:48 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:EkxSsKLBKkcB_oiSg0NOWJ&context=ONLINE&ratio=16/9&width=480&u=1793183666000"
+    },
+    {
+      "id": "10697432",
+      "title": "Combell, Delaware en Imec bundelen krachten voor Europese AI-cloud",
+      "link": "https://www.tijd.be/r/t/1/id/10697432",
+      "category": "Ondernemen",
+      "description": "De Belgische techbedrijven Combell, Delaware en Imec lanceren een gecombineerd aanbod om bedrijven te helpen hun AI-gebruik beter te controleren.",
+      "pubDate": "Wed, 28 Oct 2026 05:03:04 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:5A6GL1Z14-oBVF_yR_jPXS&context=ONLINE&ratio=16/9&width=480&u=1793124425000"
+    },
+    {
+      "id": "10697275",
+      "title": "AI maakt werknemers onzeker over hun plek op de werkvloer",
+      "link": "https://www.tijd.be/r/t/1/id/10697275",
+      "category": "Ondernemen",
+      "description": "Een op de drie Belgische bedienden twijfelt aan zijn capaciteiten op het werk. Vooral jongeren en gebruikers van AI hebben er last van. Dat leert een onderzoek door het hr-bedrijf Bright Plus en de motivatie-experte Hermina Van Coillie.",
+      "pubDate": "Wed, 28 Oct 2026 05:02:57 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:6WQSHvPZ45I9dv-W3bILVH&context=ONLINE&ratio=16/9&width=480&u=1793173966000"
+    },
+    {
+      "id": "10697407",
+      "title": "Limburger Mathi Gijbels verschuift vastgoedfocus van Nederland naar België",
+      "link": "https://www.tijd.be/r/t/1/id/10697407",
+      "category": "Ondernemen",
+      "description": "Mathi Gijbels bouwt zijn vastgoedtak in Nederland af. Onder de merknaam Pylar wil de Limburgse zakenman meer bedrijfsvastgoed in België ontwikkelen, te beginnen met de voormalige site van Veldeman in Oudsbergen.",
+      "pubDate": "Wed, 28 Oct 2026 05:00:00 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:0O1y5zXwa_G8Hg6OlVV5WV&context=ONLINE&ratio=16/9&width=480&u=1793175564000"
+    },
+    {
+      "id": "10697515",
+      "title": "Oeganda ziet munt instorten door vlucht van beleggers",
+      "link": "https://www.tijd.be/r/t/1/id/10697515",
+      "category": "Markten Live",
+      "description": "De Oegandese shilling is  in vrije val. Kapitaalvlucht en een nijpend tekort aan dollars zetten de Afrikaanse economie onder druk, ondanks haar jonge bevolking en rijke grondstoffenvoorraden.",
+      "pubDate": "Wed, 28 Oct 2026 09:57:01 GMT",
+      "score": 0,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:4x9leZZ94Ns9w7SUrqsyAc&context=ONLINE&ratio=16/9&width=480&u=1793182199000"
+    }
+  ]
 }
