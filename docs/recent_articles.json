@@ -1,6 +1,270 @@
 {
   "articles": [
     {
+      "id": "10697758",
+      "title": "Brusselse beurs: China haalt schuimkraag van AB InBev",
+      "link": "https://www.tijd.be/r/t/1/id/10697758",
+      "category": "Markten Live",
+      "description": "De Europese beurzen kleurden overwegend groen. In de Bel20 bengelde AB InBev onderaan na een lauw onthaalde cijferupdate, terwijl UCB in de winning mood bleef. Op de brede markt werd Recticel herontdekt.",
+      "pubDate": "Thu, 29 Oct 2026 17:06:56 GMT",
+      "score": 0,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:BeX2oQww4-v9vKmuK7fkTT&context=ONLINE&ratio=16/9&width=480&u=1793293615000"
+    },
+    {
+      "id": "10697868",
+      "title": "Energiebedrijven krijgen 48 miljoen euro extra om te zorgen dat het licht blijft branden",
+      "link": "https://www.tijd.be/r/t/1/id/10697868",
+      "category": "Ondernemen",
+      "description": "In een nieuwe veilingronde hebben elektriciteitsbedrijven meer dan 48 miljoen euro subsidies toegewezen gekregen. De steun maakt deel uit van het CRM-mechanisme om de stroombevoorrading te garanderen nu vijf kerncentrales in België uit dienst zijn genomen.",
+      "pubDate": "Thu, 29 Oct 2026 16:54:40 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:AD91W_-xq-29fVO0fCyRJu&context=ONLINE&ratio=16/9&width=480&u=1793293151000"
+    },
+    {
+      "id": "10697775",
+      "title": "Op campagne in New York: 'Jaren voelde het alsof we geen verschil konden maken. Met deze midterms is dat anders'",
+      "link": "https://www.tijd.be/r/t/1/id/10697775",
+      "category": "Politiek & Economie",
+      "description": "Of de Democraten volgende maand het parlement heroveren, hangt af van enkele 'toss-up'-districten, waar de machtsbalans kan kantelen. District 17 in New York, waarin al 40 miljoen euro campagnegeld werd gepompt, is er zo één. 'Zijn jullie klaar om MAGA-Mike te ontslaan?'",
+      "pubDate": "Thu, 29 Oct 2026 16:23:23 GMT",
+      "score": 5,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:F3SpFvkx4LGBldEa1YuehA&context=ONLINE&ratio=16/9&width=480&u=1793293428000"
+    },
+    {
+      "id": "10697855",
+      "title": "Chinese sloop van Europese auto-industrie gaat steeds sneller",
+      "link": "https://www.tijd.be/r/t/1/id/10697855",
+      "category": "Ondernemen",
+      "description": "Dat de Europese auto-industrie in een crisis verkeert, is geen nieuws meer. Maar de jongste financiële resultaten laten zien dat het tempo waarin de Chinese spelers de klassieke westerse autobouwers de loef afsteken, hoger ligt dan bijna iedereen voor mogelijk hield.",
+      "pubDate": "Thu, 29 Oct 2026 16:20:01 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:AtWWk4UVq8F80h4XXK2P4s&context=ONLINE&ratio=16/9&width=480&u=1793290806000"
+    },
+    {
+      "id": "10697864",
+      "title": "Beurslegende Druckenmiller zet in op 24/7-beurshandel",
+      "link": "https://www.tijd.be/r/t/1/id/10697864",
+      "category": "Markten Live",
+      "description": "De Amerikaanse superbelegger Stanley Druckenmiller zet zijn schouders onder Trade[XYZ], een jong handelsplatform dat samen met de New York Stock Exchange de financiële markten 24 uur per dag wil openstellen voor beleggers.",
+      "pubDate": "Thu, 29 Oct 2026 16:01:46 GMT",
+      "score": 0,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:76nfqbY74hNAmKlZUYzrNp&context=ONLINE&ratio=16/9&width=480&u=1793290776000"
+    },
+    {
+      "id": "10697845",
+      "title": "Nasdaq onderuit door AI-vrees bij softwarespelers en hyperscalers",
+      "link": "https://www.tijd.be/r/t/1/id/10697845",
+      "category": "Markten Live",
+      "description": "De resultaten van Google-moeder Alphabet verpesten de sfeer op Wall Street, maar ook Microsoft verliest ondanks een sterke resultatenset. De softwarespeler ServiceNow dondert een kwart lager na tegenvallende prognoses.",
+      "pubDate": "Thu, 29 Oct 2026 16:00:33 GMT",
+      "score": 0,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:DPVxyXO14dP9oDyFTHtrmj&context=ONLINE&ratio=16/9&width=480&u=1793293496000"
+    },
+    {
+      "id": "10697769",
+      "title": "Mary Peltola, de inheemse politica die Trump een cruciale staat kan afsnoepen",
+      "link": "https://www.tijd.be/r/t/1/id/10697769",
+      "category": "Politiek & Economie",
+      "description": "Mary Peltola, een Democratische politica in de Verenigde Staten, lijkt goed op weg om de Senaatszetel voor Alaska binnen te halen. Maar volgens president Donald Trump pleegde ze kiesfraude door mensen met dezelfde naam als haar politieke tegenstander te overtuigen zich kandidaat te stellen.",
+      "pubDate": "Thu, 29 Oct 2026 15:52:30 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:64WiuYyiKfa9QGlGW637Ns&context=ONLINE&ratio=16/9&width=480&u=1793289154000"
+    },
+    {
+      "id": "10697030",
+      "title": "Van 0 naar 5 miljard euro in twee jaar: bedrijven vallen massaal voor AI-agents van Wonderful",
+      "link": "https://www.tijd.be/r/t/1/id/10697030",
+      "category": "Ondernemen",
+      "description": "Wonderful werd in amper twee jaar een van de snelst groeiende start-ups ter wereld. Met AI-agents die bedrijfsprocessen overnemen hertekent het de manier waarop bedrijven al jaren werken. ‘Ik ben geobsedeerd door snelheid’, zegt oprichter Bar Winkler.",
+      "pubDate": "Thu, 29 Oct 2026 15:47:09 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:8n2jwyHL4xFAfGVQZvBddv&context=ONLINE&ratio=16/9&width=480&u=1793293368000"
+    },
+    {
+      "id": "10696796",
+      "title": "In de toonzaal van de Chinese merken die België veroveren: 'Ik reed altijd Duits, maar het prijsverschil werd te groot'",
+      "link": "https://www.tijd.be/r/t/1/id/10696796",
+      "category": "Ondernemen",
+      "description": "De opmars van auto’s uit China lijkt niet te stoppen, ondanks verzet van Europa. In enkele Brusselse showrooms van Chinese merken blijkt waarom klanten overstag gaan. 'Vroeger was het van: oei, een Omoda. Nu kan je er aan de toog mee uitpakken.'",
+      "pubDate": "Thu, 29 Oct 2026 15:29:41 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:6lP4ZGQOKxZ8U45ik896dm&context=ONLINE&ratio=16/9&width=480&u=1793292333000"
+    },
+    {
+      "id": "10697801",
+      "title": "Kaaitheater heropent in september 2027",
+      "link": "https://www.tijd.be/r/t/1/id/10697801",
+      "category": "Cultuur",
+      "description": "Het Kaaitheater in Brussel heropent in september 2027 na een renovatie van vijf jaar de deuren voor het grote publiek. 'Het Kaaitheater kan eindelijk weer grote, nationale en internationale producties ontvangen.'",
+      "pubDate": "Thu, 29 Oct 2026 15:28:22 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:9tvSMV9jaxZAxCl-_IiaeL&context=ONLINE&ratio=16/9&width=480&u=1793293334000"
+    },
+    {
+      "id": "10697391",
+      "title": "Antwerpse haven verschuift meer transport naar nacht, maar magazijnen blijven knelpunt",
+      "link": "https://www.tijd.be/r/t/1/id/10697391",
+      "category": "Ondernemen",
+      "description": "Steeds meer vrachtwagens rijden 's avonds en 's nachts van en naar de Antwerpse containerterminals. Hun aandeel is in minder dan twee jaar gestegen van 20 naar ruim 27 procent. Maar de omschakeling botst op klanten die hun magazijnen niet buiten de gewone werkuren willen openen.",
+      "pubDate": "Thu, 29 Oct 2026 15:10:14 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:4y43i6H0q2ABvkZH7Pkqni&context=ONLINE&ratio=16/9&width=480&u=1793288319000"
+    },
+    {
+      "id": "10697773",
+      "title": "Francken eert zoon laatste Iraanse sjah, 50 verenigingen eisen annulering",
+      "link": "https://www.tijd.be/r/t/1/id/10697773",
+      "category": "Politiek & Economie",
+      "description": "De kritiek op het gastcollege dat Reza Pahlavi, de zoon van de laatste sjah van Iran, begin november aan de Koninklijke Militaire School zal geven, blijft maar aanzwellen. Terwijl minister van Defensie Theo Francken het een 'grote eer' vindt, roepen almaar meer Iraanse stemmen de regering-De Wever op ervan af te zien.",
+      "pubDate": "Thu, 29 Oct 2026 15:09:56 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:0QtBOq0Ja9r8pgaHI6dsnQ&context=ONLINE&ratio=16/9&width=480&u=1793290044000"
+    },
+    {
+      "id": "10697802",
+      "title": "Zakenman Paul Thiers stapt uit West-Vlaamse vastgoedgroep ION",
+      "link": "https://www.tijd.be/r/t/1/id/10697802",
+      "category": "Ondernemen",
+      "description": "De West-Vlaamse zakenman Paul Thiers verkoopt zijn belang in de vastgoedgroep ION aan de medeoprichters en co-CEO's Davy Demuynck en Kristof Vanfleteren.",
+      "pubDate": "Thu, 29 Oct 2026 15:03:34 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:DtaeJknjqZu8GgZZQup3k3&context=ONLINE&ratio=16/9&width=480&u=1793287578000"
+    },
+    {
+      "id": "10697795",
+      "title": "Rekenhof: 'Lerarentekort van 3,5 procent dwingt scholen tot noodgrepen'",
+      "link": "https://www.tijd.be/r/t/1/id/10697795",
+      "category": "Politiek & Economie",
+      "description": "Het totale lerarentekort in Vlaanderen bedraagt gemiddeld 3,5 procent, berekende het Rekenhof. Dat komt neer op ruim 38.000 lesuren zonder leerkracht. Scholen in Brussel, beroepsscholen of scholen met veel kansarme leerlingen kampen met de grootste tekorten.",
+      "pubDate": "Thu, 29 Oct 2026 15:00:54 GMT",
+      "score": 6,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:FtrpVJlTaMXAK5cDDzzOtr&context=ONLINE&ratio=16/9&width=480&u=1793290424000"
+    },
+    {
+      "id": "10696013",
+      "title": "Expo Musée d'Art Moderne de Paris | Amerikaanse schilder Kerry James Marshall kleurt kunstgeschiedenis opnieuw",
+      "link": "https://www.tijd.be/r/t/1/id/10696013",
+      "category": "Cultuur",
+      "description": "Kerry James Marshall is een van de invloedrijkste levende Amerikaanse artiesten. In zijn schilderijen zetten pikzwarte protagonisten de klassieke schilderkunst naar hun hand. Musée d’Art Moderne de Paris blikt in ‘The Histories’ terug op ruim vier decennia van zijn werk.",
+      "pubDate": "Thu, 29 Oct 2026 14:12:21 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:0ZAV_2rb4sVAXbFntEL_jA&context=ONLINE&ratio=16/9&width=480&u=1793291365000"
+    },
+    {
+      "id": "10697770",
+      "title": "Minder dan een jaar voor Meloni’s herverkiezingsrace mort het Italiaanse volk",
+      "link": "https://www.tijd.be/r/t/1/id/10697770",
+      "category": "Dossiers",
+      "description": "In Italië dreigt het openbare leven vrijdag voor een deel stil te vallen. Niet alleen roepen vakbonden de openbare en privésector op het werk neer te leggen, boze burgers trekken ook de straat op uit onvrede over de levensduurte en hogere defensie-uitgaven.",
+      "pubDate": "Thu, 29 Oct 2026 13:39:16 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:6HCL8TvDKUJ8SwKT0usQwC&context=ONLINE&ratio=16/9&width=480&u=1793292812000"
+    },
+    {
+      "id": "10697755",
+      "title": "Vastgoedanalist vervangt grootaandeelhouder als CFO van kotmadam Xior",
+      "link": "https://www.tijd.be/r/t/1/id/10697755",
+      "category": "Ondernemen",
+      "description": "De vastgoedanalist Frédéric Renard wordt de nieuwe financieel directeur van Xior. Hij moet de schuldgraad van de studentenkotenverhuurder naar beneden krijgen.",
+      "pubDate": "Thu, 29 Oct 2026 13:31:25 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:Ax6AC4gh4PzAxqfZeAJbiA&context=ONLINE&ratio=16/9&width=480&u=1793287826000"
+    },
+    {
+      "id": "10697789",
+      "title": "Kies vanaf vandaag zelf uw Vlaamse verkeersbelasting",
+      "link": "https://www.tijd.be/r/t/1/id/10697789",
+      "category": "Netto",
+      "description": "Vlaamse autobezitters kunnen vanaf vandaag zelf kiezen tussen de oude, Vlaamse verkeersbelasting en het nieuwe systeem, dat vanaf volgend jaar ingaat. Wie geen keuze maakt, blijft de oude verkeersbelasting betalen, wat duurder dreigt uit te vallen.",
+      "pubDate": "Thu, 29 Oct 2026 13:30:00 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:6YEFfwr94ZnB1bqgFmrUAk&context=ONLINE&ratio=16/9&width=480&u=1793288895000"
+    },
+    {
+      "id": "10697783",
+      "title": "Franse les voor Duitsland",
+      "link": "https://www.tijd.be/r/t/1/id/10697783",
+      "category": "Opinie",
+      "description": "Het idee dat forse staatsingrepen en hoge overheidsuitgaven structurele hervormingen kunnen vervangen, was jarenlang de rode draad van het Franse economische beleid. Nu waait het de Rijn over.",
+      "pubDate": "Thu, 29 Oct 2026 13:19:09 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:BcuG2Fi1aWd8JfAKdYlrpy&context=ONLINE&ratio=16/9&width=480&u=1793279953000"
+    },
+    {
+      "id": "10697756",
+      "title": "Raffinagebonanza bezorgt Shell en TotalEnergies miljardenwinsten",
+      "link": "https://www.tijd.be/r/t/1/id/10697756",
+      "category": "Ondernemen",
+      "description": "Historisch hoge raffinagemarges door de oorlogen in Oekraïne en het Midden-Oosten hebben de Europese oliemajors Shell en TotalEnergies beter dan verwachte winsten bezorgd. Aandeelhouders profiteren mee dankzij hoge dividenden en de inkoop van eigen aandelen.",
+      "pubDate": "Thu, 29 Oct 2026 13:18:26 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:6HqHFmRgKFs9fn3uJahysn&context=ONLINE&ratio=16/9&width=480&u=1793282803000"
+    },
+    {
+      "id": "10697774",
+      "title": "Chinese autobouwers exporteren zich naar winstgroei",
+      "link": "https://www.tijd.be/r/t/1/id/10697774",
+      "category": "Ondernemen",
+      "description": "BYD en Geely, de grootste Chinese autobouwers, hebben hun winst in het derde kwartaal fors zien groeien. Met dank aan een explosieve groei van de export naar onder andere Europa ontsnappen ze aan de crisis in eigen land.",
+      "pubDate": "Thu, 29 Oct 2026 13:12:05 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:FoStnDKV4198S4n3htiw_W&context=ONLINE&ratio=16/9&width=480&u=1793279528000"
+    },
+    {
+      "id": "10674921",
+      "title": "Antwerpen bezoeken? Mis deze plekken niet",
+      "link": "https://www.tijd.be/r/t/1/id/10674921",
+      "category": "Sabato",
+      "description": "Op zoek naar leuke dingen om te zien en doen in Antwerpen? Dit zijn de favorieten van onze correspondent die de stad door en door kent.",
+      "pubDate": "Thu, 29 Oct 2026 13:12:01 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:7VfI2j1U4V1BkxDYUGcGmY&context=ONLINE&ratio=16/9&width=480&u=1793279585000"
+    },
+    {
+      "id": "10697763",
+      "title": "Mounjaro-maker verhoogt verwachte jaaromzet tot 91 à 92 miljard dollar",
+      "link": "https://www.tijd.be/r/t/1/id/10697763",
+      "category": "Ondernemen",
+      "description": "Dankzij de aanhoudend sterke verkoop van Mounjaro (tegen diabetes) en Zepbound (obesitas) verhoogt het Amerikaanse Eli Lilly de omzetprognose voor 2026 naar 91 à 92 miljard dollar.",
+      "pubDate": "Thu, 29 Oct 2026 12:57:26 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:9DT7Jt2lKISAnYLLFHg7xF&context=ONLINE&ratio=16/9&width=480&u=1793291530000"
+    },
+    {
+      "id": "10697754",
+      "title": "Knokke-Heist trekt vergunningen voor 25 stranduitbatingen in",
+      "link": "https://www.tijd.be/r/t/1/id/10697754",
+      "category": "Politiek & Economie",
+      "description": "De kustgemeente Knokke-Heist trekt de vergunningen voor 25 stranduitbatingen volledig in. Dat heeft het gemeentebestuur donderdag beslist, nadat de Raad van State vorige week de toekenning van drie van de vier strandzones had geschorst.",
+      "pubDate": "Thu, 29 Oct 2026 12:10:47 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:9K-mMIlS4-kBScafYxUEyE&context=ONLINE&ratio=16/9&width=480&u=1793279605000"
+    },
+    {
       "id": "10697723",
       "title": "Belegger stuurt Europa's grootste huisbaas naar dieptepunt",
       "link": "https://www.tijd.be/r/t/1/id/10697723",
@@ -578,6 +842,15 @@
       "score": 2,
       "in_de7": false,
       "image": "https://images.tijd.be/view?iid=Elvis:07I7ehnk4tD9QWjBy4mxiC&context=ONLINE&ratio=16/9&width=480&u=1793195821000"
+    },
+    {
+      "id": "10674034",
+      "title": "Onze favoriete shopadressen in Gent",
+      "link": "https://www.tijd.be/r/t/1/id/10674034",
+      "category": "Sabato",
+      "description": "Op zoek naar de beste winkels in Gent? Dit zijn de favoriete shopadressen van onze correspondenten die de stad door en door kennen.",
+      "pubDate": "Wed, 28 Oct 2026 12:13:16 GMT",
+      "image": "https://images.tijd.be/view?iid=Elvis:C5mT7ssA4moBmC1ahItNG5&context=ONLINE&ratio=16/9&width=480&u=1793189672000"
     },
     {
       "id": "10697506",
