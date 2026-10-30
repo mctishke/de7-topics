@@ -1,6 +1,138 @@
 {
   "articles": [
     {
+      "id": "10698072",
+      "title": "Windparkontwikkelaar Storm tankt 20 miljoen euro, maar moet fors herstructureren",
+      "link": "https://www.tijd.be/r/t/1/id/10698072",
+      "category": "Ondernemen",
+      "description": "De beursgenoteerde infrastructuurinvesteerder TINC en de Vlaamse overheidsholding PMV investeren samen 20 miljoen euro in de Antwerpse windparkontwikkelaar Storm. Het bedrijf onderzoekt wel de afbouw van een aantal activiteiten, wat kan leiden tot een bijna-halvering van het personeelsbestand.",
+      "pubDate": "Fri, 30 Oct 2026 20:58:42 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:7r9MVnHcK8ZA6nY0Pk-c8L&context=ONLINE&ratio=16/9&width=480&u=1793395359000"
+    },
+    {
+      "id": "10697736",
+      "title": "Brussels The Signalling Company pioniert met automatische rem voor trein",
+      "link": "https://www.tijd.be/r/t/1/id/10697736",
+      "category": "Ondernemen",
+      "description": "De dodelijke treinramp in Spanje zet spoorveiligheid opnieuw hoog op de agenda. Europa heeft met ETCS een geavanceerd veiligheidssysteem, maar de uitrol verloopt traag. Een Brussels softwarebedrijf zag daarin een gat in de markt en bouwde een soort ‘Android voor treinen’.",
+      "pubDate": "Fri, 30 Oct 2026 20:37:44 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:9IV1cgGpK3P8bq39Q2GWwy&context=ONLINE&ratio=16/9&width=480&u=1793392672000"
+    },
+    {
+      "id": "10698037",
+      "title": "AI-twijfels doen in een knip 1.000 miljard dollar aan beurswaarde verdampen",
+      "link": "https://www.tijd.be/r/t/1/id/10698037",
+      "category": "Markten Live",
+      "description": "Alphabet, Intel, Amazon en Meta hebben de afgelopen dagen 1.000 miljard dollar beurswaarde in rook zien opgaan na teleurstellende kwartaalrapporten. ‘Big tech kan nog weinig goeds doen’, klinkt het bij strategen.",
+      "pubDate": "Fri, 30 Oct 2026 20:20:49 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:5dv0evHS453AeCvHxVcrKJ&context=ONLINE&ratio=16/9&width=480&u=1793391652000"
+    },
+    {
+      "id": "10698035",
+      "title": "Nasdaq kent slechtste dag sinds juni",
+      "link": "https://www.tijd.be/r/t/1/id/10698035",
+      "category": "Markten Live",
+      "description": "Wall Street kleurde bloedrood. Chipbakker Intel kende zijn slechtste beursdag in ruim 40 jaar. Ook Amazon kreeg geen beloning voor zijn kwartaalrapport en hoge AI-investeringen.",
+      "pubDate": "Fri, 30 Oct 2026 20:05:51 GMT",
+      "score": 0,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:6BrQhE58a1G93-nmfewEjY&context=ONLINE&ratio=16/9&width=480&u=1793391313000"
+    },
+    {
+      "id": "10697730",
+      "title": "Tijd voor meer Greggs",
+      "link": "https://www.tijd.be/r/t/1/id/10697730",
+      "category": "Opinie",
+      "description": "Journalist en schrijver Rik Van Puymbroeck kijkt door zijn lens naar de wereld.",
+      "pubDate": "Fri, 30 Oct 2026 19:31:30 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:D3ZNgatPKm_A_K1FnWFjEZ&context=ONLINE&ratio=16/9&width=480&u=1793367844000"
+    },
+    {
+      "id": "10698029",
+      "title": "'Regering scheert rakelings langs horrorscenario: in bestuurloosheid vallen'",
+      "link": "https://www.tijd.be/r/t/1/id/10698029",
+      "category": "Opinie",
+      "description": "Is iemand nog bezig met het redden van onze welvaart tijdens de begrotingsonderhandelingen? Terwijl de economie verzuipt, viert trumpiaanse retoriek hoogtij.",
+      "pubDate": "Fri, 30 Oct 2026 18:51:46 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:8PMyTRHGqUZ9ClIBlGAPNE&context=ONLINE&ratio=16/9&width=480&u=1793388915000"
+    },
+    {
+      "id": "10698068",
+      "title": "Brugs dronebedrijf Sol.One stopt vers geld in Option",
+      "link": "https://www.tijd.be/r/t/1/id/10698068",
+      "category": "Ondernemen",
+      "description": "Het Brugse dronebedrijf Sol.One neemt deel aan een kapitaalverhoging van 3 miljoen euro bij de Leuvense beursgenoteerde techonderneming Option. Dat meldt Option vrijdagavond.",
+      "pubDate": "Fri, 30 Oct 2026 18:37:11 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:DSN4x3OmqtJA_g0yjPoWUc&context=ONLINE&ratio=16/9&width=480&u=1793392752000"
+    },
+    {
+      "id": "10698000",
+      "title": "Maak plaats voor de keizers van de vrije kasstroom",
+      "link": "https://www.tijd.be/r/t/1/id/10698000",
+      "category": "Dossiers",
+      "description": "De afgelopen razend drukke resultatenweek toonde aan dat beleggers meer dan ooit focussen op de vrije cashflows van bedrijven. Een uitgavendrift die de inkomsten opvreet, wordt genadeloos afgestraft.",
+      "pubDate": "Fri, 30 Oct 2026 18:32:49 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:0zmb3mLkKbZBqri4sTHD8m&context=ONLINE&ratio=16/9&width=480&u=1793388935000"
+    },
+    {
+      "id": "10698056",
+      "title": "‘Presidentiële’ Von der Leyen krijgt Canadese boemerang vol in gezicht",
+      "link": "https://www.tijd.be/r/t/1/id/10698056",
+      "category": "Politiek & Economie",
+      "description": "Dat de landen van de Europese Unie niet willen weten van een ‘geassocieerd lidmaatschap’ voor Canada, lijkt Ursula von der Leyen niet te deren. Nochtans was het net de Commissievoorzitster die het voorstel had gelanceerd. ‘Europa heeft het al moeilijk genoeg, nu wordt het nog eens intern verzwakt ook.’",
+      "pubDate": "Fri, 30 Oct 2026 18:31:12 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:2qT5L6x-4f79HLyX43NGsz&context=ONLINE&ratio=16/9&width=480&u=1793385076000"
+    },
+    {
+      "id": "10698055",
+      "title": "Een vleugje protectionisme en een forse dosis AI is een cocktail om onze industrie te redden",
+      "link": "https://www.tijd.be/r/t/1/id/10698055",
+      "category": "Dossiers",
+      "description": "Om onze industrie, en dus onze welvaartsmotor, overeind te houden is tijdelijk een Europese verdedigingswal tegen China en de VS nodig. Maar protectionisme koopt alleen tijd: Europa moet die gebruiken om zijn fabrieken slimmer en productiever te maken.",
+      "pubDate": "Fri, 30 Oct 2026 18:24:13 GMT",
+      "score": 1,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:7ooygJZ6qqpALI_SByTunz&context=ONLINE&ratio=16/9&width=480&u=1793386706000"
+    },
+    {
+      "id": "10697972",
+      "title": "In Michigan, barometer voor de midterms: 'Vroeger vreesden we tornado's, nu Washington'",
+      "link": "https://www.tijd.be/r/t/1/id/10697972",
+      "category": "Politiek & Economie",
+      "description": "De hoge inflatie en de tarievenoorlog maken van de nakende midterms een referendum over het beleid van president Donald Trump. In Michigan, waar de autobouwers thuis zijn, voedt de charismatische kandidaat Abdul El-Sayed de hoop van de Democraten om de Senaat te veroveren. Ondanks een moddercampagne. 'Het is voor Republikeinen dansen op een heel slappe koord.'",
+      "pubDate": "Fri, 30 Oct 2026 17:27:12 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:EH-pna6P4kc9K6OoFZUUGm&context=ONLINE&ratio=16/9&width=480&u=1793381670000"
+    },
+    {
+      "id": "10698026",
+      "title": "Imec gaat militaire technologie ontwikkelen voor Belgisch leger",
+      "link": "https://www.tijd.be/r/t/1/id/10698026",
+      "category": "Ondernemen",
+      "description": "Het onderzoekscentrum Imec stelt zijn expertise ter beschikking van Defensie. Het Belgische leger hoopt dat in Leuven ‘potentiële militaire toptechnologie’ wordt ontwikkeld en heeft daar 50 miljoen euro voor veil.",
+      "pubDate": "Fri, 30 Oct 2026 17:07:55 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:6mh-jwqj4RxAnpn80G_7Z1&context=ONLINE&ratio=16/9&width=480&u=1793387521000"
+    },
+    {
       "id": "10697445",
       "title": "De Amerikaanse staat Georgia, waar Belgische bedrijven thuis zijn",
       "link": "https://www.tijd.be/r/t/1/id/10697445",
@@ -53,7 +185,7 @@
       "pubDate": "Fri, 30 Oct 2026 16:32:48 GMT",
       "score": 2,
       "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:3i_n1x3zKEuBaBVbTuSMSJ&context=ONLINE&ratio=16/9&width=480&u=1793377972000"
+      "image": "https://images.tijd.be/view?iid=Elvis:3i_n1x3zKEuBaBVbTuSMSJ&context=ONLINE&ratio=16/9&width=480&u=1793381253000"
     },
     {
       "id": "10698017",
@@ -64,7 +196,7 @@
       "pubDate": "Fri, 30 Oct 2026 16:29:59 GMT",
       "score": 2,
       "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:64yZOlRHKf-At09fFBGqU7&context=ONLINE&ratio=16/9&width=480&u=1793378457000"
+      "image": "https://images.tijd.be/view?iid=Elvis:64yZOlRHKf-At09fFBGqU7&context=ONLINE&ratio=16/9&width=480&u=1793390743000"
     },
     {
       "id": "10674904",
@@ -97,7 +229,7 @@
       "pubDate": "Fri, 30 Oct 2026 16:10:39 GMT",
       "score": 2,
       "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:7sxTQAQXKePAN9Vj8JauUs&context=ONLINE&ratio=16/9&width=480&u=1793376643000"
+      "image": "https://images.tijd.be/view?iid=Elvis:7sxTQAQXKePAN9Vj8JauUs&context=ONLINE&ratio=16/9&width=480&u=1793387364000"
     },
     {
       "id": "10698057",
@@ -141,7 +273,7 @@
       "pubDate": "Fri, 30 Oct 2026 15:19:34 GMT",
       "score": 2,
       "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:9cxq6bZEK9UBUpSwGxdrzy&context=ONLINE&ratio=16/9&width=480&u=1793373971000"
+      "image": "https://images.tijd.be/view?iid=Elvis:9cxq6bZEK9UBUpSwGxdrzy&context=ONLINE&ratio=16/9&width=480&u=1793383291000"
     },
     {
       "id": "10697987",
@@ -174,7 +306,7 @@
       "pubDate": "Fri, 30 Oct 2026 15:00:00 GMT",
       "score": 1,
       "in_de7": false,
-      "image": null
+      "image": "https://images.tijd.be/view?iid=Elvis:4C9KNrsYaHPBUlcLOjr-jL&context=ONLINE&ratio=16/9&width=480&u=1793381717000"
     },
     {
       "id": "10697945",
@@ -218,7 +350,7 @@
       "pubDate": "Fri, 30 Oct 2026 14:01:23 GMT",
       "score": 3,
       "in_de7": false,
-      "image": null
+      "image": "https://images.tijd.be/view?iid=Elvis:4IhRdmy34gw9L2bT6J_xml&context=ONLINE&ratio=16/9&width=480&u=1793366982000"
     },
     {
       "id": "10698004",
@@ -284,7 +416,7 @@
       "pubDate": "Fri, 30 Oct 2026 13:00:00 GMT",
       "score": 3,
       "in_de7": false,
-      "image": null
+      "image": "https://images.tijd.be/view?iid=Elvis:8E_AtqqRKQU8uI9Unr42fs&context=ONLINE&ratio=16/9&width=480&u=1793369151000"
     },
     {
       "id": "10697678",
@@ -317,7 +449,7 @@
       "pubDate": "Fri, 30 Oct 2026 12:42:41 GMT",
       "score": 4,
       "in_de7": false,
-      "image": null
+      "image": "https://images.tijd.be/view?iid=Elvis:9gnnvx654nG8ItyAqyVPKG&context=ONLINE&ratio=16/9&width=480&u=1793368552000"
     },
     {
       "id": "10697827",
@@ -3388,7 +3520,7 @@
       "pubDate": "Fri, 23 Oct 2026 11:45:39 GMT",
       "score": 2,
       "in_de7": false,
-      "image": null
+      "image": "https://images.tijd.be/view?iid=Elvis:FYRn7EHc4QG9e3Wjg1ddrl&context=ONLINE&ratio=16/9&width=480&u=1793364823000"
     },
     {
       "id": "10688248",
