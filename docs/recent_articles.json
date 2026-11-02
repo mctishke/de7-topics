@@ -1,6 +1,270 @@
 {
   "articles": [
     {
+      "id": "10698262",
+      "title": "Nasdaq sluit 1,1 procent lager door chipramsj",
+      "link": "https://www.tijd.be/r/t/1/id/10698262",
+      "category": "Markten Live",
+      "description": "De Nasdaq schoof uit, terwijl de Dow Jones standhield. De chipaandelen lagen opnieuw in de lappenmand. Beleggers straften Marvell af voor de stevige overname van Lumentum, maar analisten zien er wel heil in.",
+      "pubDate": "Mon, 02 Nov 2026 21:09:49 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:1Z9o7GPDaVUB5cDfkspAG5&context=ONLINE&ratio=16/9&width=480&u=1793654493000"
+    },
+    {
+      "id": "10698261",
+      "title": "Anthropic heeft uitgavenbeloftes ter waarde van 895 miljard dollar lopen",
+      "link": "https://www.tijd.be/r/t/1/id/10698261",
+      "category": "Ondernemen",
+      "description": "De AI-reus Anthropic heeft de komende jaren voor 895 miljard dollar aan investeringsbeloftes gedaan. Dat blijkt uit de publicatie van de resultaten over het derde kwartaal en voorafgaand aan de nakende beursgang.",
+      "pubDate": "Mon, 02 Nov 2026 20:51:36 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:5EA7sxoUqcr8P022xqinmp&context=ONLINE&ratio=16/9&width=480&u=1793652699000"
+    },
+    {
+      "id": "10697799",
+      "title": "Nergens zonder weg in Bekkevoort",
+      "link": "https://www.tijd.be/r/t/1/id/10697799",
+      "category": "Dossiers",
+      "description": "Verdwalend in eigen land kijkt Rik Van Puymbroeck naar wat verwondert en soms overdondert.",
+      "pubDate": "Mon, 02 Nov 2026 19:31:28 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:F6nckrQB43O9Sq9aogmB2k&context=ONLINE&ratio=16/9&width=480&u=1793601765000"
+    },
+    {
+      "id": "10698256",
+      "title": "Klanten halen 4,7 miljard dollar weg bij Binance na miljardenroof",
+      "link": "https://www.tijd.be/r/t/1/id/10698256",
+      "category": "Dossiers",
+      "description": "Klanten van Binance hebben de voorbije dagen voor 4,72 miljard dollar (4,23 miljard euro) aan tegoeden weggehaald bij het grootste cryptoplatform ter wereld. Ze reageren daarmee op de kraak die het bedrijf vorige week trof.",
+      "pubDate": "Mon, 02 Nov 2026 19:19:40 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:FSbCKVAD4FxAJoBWkm27Y6&context=ONLINE&ratio=16/9&width=480&u=1793647183000"
+    },
+    {
+      "id": "10698235",
+      "title": "Alles valt juist: nooit pakte iemand jonger dan Kimi Antonelli de wereldtitel formule 1",
+      "link": "https://www.tijd.be/r/t/1/id/10698235",
+      "category": "Ondernemen",
+      "description": "Het behalen van de wereldtitel in de formule 1 zegt veel over het uitzonderlijke talent van de 20-jarige Kimi Antonelli, maar vooral ook over de bijzondere begeleiding voor zijn Mercedes-Benz-raceteam in het algemeen en teambaas Toto Wolff in het bijzonder.",
+      "pubDate": "Mon, 02 Nov 2026 18:50:05 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:3QADYmsq4k-9TWgPauje3M&context=ONLINE&ratio=16/9&width=480&u=1793650688000"
+    },
+    {
+      "id": "10698252",
+      "title": "Het failliet van de deadlinepolitiek",
+      "link": "https://www.tijd.be/r/t/1/id/10698252",
+      "category": "Opinie",
+      "description": "Voor het tweede jaar op rij slaagt de regering-De Wever er niet in om tijdig een begroting af te leveren die nog goedgekeurd kan raken in het parlement. De aanpak om tegen de deadline aan slag te leveren rond tabellen met besparingen en belastingen is meer dan ooit op zijn limieten gestoten.",
+      "pubDate": "Mon, 02 Nov 2026 18:46:32 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:55npbSdA4Sp9wWjjcFtqeR&context=ONLINE&ratio=16/9&width=480&u=1793649343000"
+    },
+    {
+      "id": "10698195",
+      "title": "1.500 bedrijven en 5.000 huishoudens betalen straks hogere heffing voor lozing afvalwater",
+      "link": "https://www.tijd.be/r/t/1/id/10698195",
+      "category": "Politiek & Economie",
+      "description": "De Vlaamse regering verhoogt de afvalwaterheffing voor 1.500 bedrijven en 5.000 gezinnen die nog lozen in rivieren of beken. De maatregel moet vanaf 2027 jaarlijks 18 miljoen euro opbrengen.",
+      "pubDate": "Mon, 02 Nov 2026 18:42:16 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:AhZnt0R_KB082Vftx7uUgH&context=ONLINE&ratio=16/9&width=480&u=1793655582000"
+    },
+    {
+      "id": "10698217",
+      "title": "Partijvoorzitters aan zet om regering-De Wever te redden",
+      "link": "https://www.tijd.be/r/t/1/id/10698217",
+      "category": "Dossiers",
+      "description": "Nadat premier Bart De Wever zijn ontslag heeft aangeboden, houdt koning Filip de komende dagen consultaties met de partijvoorzitters. Om verkiezingen te vermijden, circuleren noodscenario’s zoals een conclaaf met die voorzitters.",
+      "pubDate": "Mon, 02 Nov 2026 18:04:19 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:9PKYSwJEaBU8n1afbSxm8E&context=ONLINE&ratio=16/9&width=480&u=1793648737000"
+    },
+    {
+      "id": "10698254",
+      "title": "Regering valt stil op slechtst denkbare moment",
+      "link": "https://www.tijd.be/r/t/1/id/10698254",
+      "category": "Opinie",
+      "description": "Ons land zit in de greep van een politieke patstelling, terwijl de economische uitdagingen toenemen.",
+      "pubDate": "Mon, 02 Nov 2026 17:59:06 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:9IKiG_qYKIPAn4g_ZV21C2&context=ONLINE&ratio=16/9&width=480&u=1793642349000"
+    },
+    {
+      "id": "10698188",
+      "title": "Zelfs Texas zou een Democraat naar de Senaat kunnen sturen: rolt een ‘blue wave’ over de midterms?",
+      "link": "https://www.tijd.be/r/t/1/id/10698188",
+      "category": "Politiek & Economie",
+      "description": "De Amerikanen - of toch zowat de helft die gemotiveerd is om te stemmen - kiezen dinsdag hun volksvertegenwoordigers en senatoren in de midterms. Halverwege de termijn van Donald Trump worden die verkiezingen vooral een referendum over de president. Wat moet u in de gaten houden?",
+      "pubDate": "Mon, 02 Nov 2026 17:45:42 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:1QiGHDpeKwl9Lxt406sEwG&context=ONLINE&ratio=16/9&width=480&u=1793656628000"
+    },
+    {
+      "id": "10698170",
+      "title": "Poolse premier Tusk worstelt met herstel van rechtsstaat en botst op verzet van president",
+      "link": "https://www.tijd.be/r/t/1/id/10698170",
+      "category": "Politiek & Economie",
+      "description": "De Poolse premier Donald Tusk zet vaart achter het herstel van de rechtsstaat. Een ingreep bij het Grondwettelijk Hof leidt tot een botsing met de conservatieve oppositie. ‘Tusk staat recht in zijn schoenen, maar het was dom om een oud-minister voor te dragen als rechter.’",
+      "pubDate": "Mon, 02 Nov 2026 17:33:21 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:75D0G-sg4eRBagV3Cywh-N&context=ONLINE&ratio=16/9&width=480&u=1793651677000"
+    },
+    {
+      "id": "10698196",
+      "title": "Recensie ‘De opstand van de gevels’ | Hoe de Gentenaars zelf een opera schreven",
+      "link": "https://www.tijd.be/r/t/1/id/10698196",
+      "category": "Cultuur",
+      "description": "Op 12 september trokken twee Gentse gevels in een grote stoet door de stad. Ze hebben tijdelijk onderdak gevonden bij NTGent, als decor van ‘De opstand van de gevels - de opera’, het grote participatieproject van Opera Ballet Vlaanderen.",
+      "pubDate": "Mon, 02 Nov 2026 16:52:33 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:FsgD6pXLa7sAdjW1gmU6Vr&context=ONLINE&ratio=16/9&width=480&u=1793638357000"
+    },
+    {
+      "id": "10698166",
+      "title": "Zijn de Europese jongeren die protesteren verwend?",
+      "link": "https://www.tijd.be/r/t/1/id/10698166",
+      "category": "Opinie",
+      "description": "De generatie van mei '68 verwachtte niet alles op een presenteerblaadje te krijgen. Maar de jongeren van toen wisten wel dat ze uiteindelijk een beter leven zouden leiden dan hun ouders.",
+      "pubDate": "Mon, 02 Nov 2026 16:31:27 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:2xytMc-vaDy8vPKcFN7vJt&context=ONLINE&ratio=16/9&width=480&u=1793624113000"
+    },
+    {
+      "id": "10698243",
+      "title": "Anthropic zakte in derde kwartaal stevig in het rood",
+      "link": "https://www.tijd.be/r/t/1/id/10698243",
+      "category": "Ondernemen",
+      "description": "De AI-ontwikkelaar Anthropic boekte in het derde kwartaal bijna 600 miljoen dollar operationele verliezen. Het heeft intussen al voor 895 miljard dollar voorschot genomen op toekomstige AI-capaciteit. Dat blijkt uit een nieuwe kennisgeving in aanloop naar de beursgang.",
+      "pubDate": "Mon, 02 Nov 2026 16:17:01 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:7TOXF5syqKp8bjLnjVjzg_&context=ONLINE&ratio=16/9&width=480&u=1793637652000"
+    },
+    {
+      "id": "10698228",
+      "title": "Hackers ontdooien koelinstallaties van tientallen supermarkten: ‘Toen ik in mijn winkel kwam, stonden alle vriezers uit’",
+      "link": "https://www.tijd.be/r/t/1/id/10698228",
+      "category": "Ondernemen",
+      "description": "In heel Europa zijn de koelinstallaties van supermarkten gehackt. Daardoor moesten winkels tonnen voedsel weggooien. De totale schade loopt mogelijk in de miljoenen. Nochtans waren de supermarkten gewaarschuwd: in Frankrijk vond eerder al een gelijkaardige cyberaanval plaats.",
+      "pubDate": "Mon, 02 Nov 2026 15:57:16 GMT",
+      "score": 5,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:2siHuY4x4qxB14y1VCt8sb&context=ONLINE&ratio=16/9&width=480&u=1793643981000"
+    },
+    {
+      "id": "10698229",
+      "title": "Hoop op diplomatiek overleg over Iran duwt olieprijs lager",
+      "link": "https://www.tijd.be/r/t/1/id/10698229",
+      "category": "Dossiers",
+      "description": "Na gesprekken tussen internationale bemiddelaars en Iran leeft onder beleggers weer een sprankeltje hoop op een diplomatieke exit uit het conflict met de Verenigde Staten en Israël. De olieprijs ging maandag lager. Maar komt er ook snel een doorbraak?",
+      "pubDate": "Mon, 02 Nov 2026 15:54:48 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:ENiKXy0RqfQBr2St4KAtvr&context=ONLINE&ratio=16/9&width=480&u=1793635793000"
+    },
+    {
+      "id": "10680392",
+      "title": "De militaire omslag van Duitsland: drones moeten industrie uit het slop halen",
+      "link": "https://www.tijd.be/r/t/1/id/10680392",
+      "category": "Politiek & Economie",
+      "description": "Volkswagen verkoopt zijn autofabriek in Osnabrück aan een Israëlisch defensiebedrijf en staat daarmee niet alleen. Nu de Duitse autobouwers het moeilijk hebben, hopen ze met de wapenindustrie een alternatief te hebben gevonden.",
+      "pubDate": "Mon, 02 Nov 2026 15:48:08 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:A_1_Q0oTqlQ9cykXOMGoZ6&context=ONLINE&ratio=16/9&width=480&u=1793650963000"
+    },
+    {
+      "id": "10698209",
+      "title": "Russisch leger lijdt recordverlies in Oekraïne",
+      "link": "https://www.tijd.be/r/t/1/id/10698209",
+      "category": "Dossiers",
+      "description": "Sinds de grootschalige Russische inval in Oekraïne begin 2022 zag het leger van Vladimir Poetin nooit zoveel soldaten sneuvelen of gewond uitvallen als in oktober. Voor de tweede maand op rij heroverde de Oekraïense krijgsmacht ook meer terrein dan dat de vijand er innam.",
+      "pubDate": "Mon, 02 Nov 2026 15:34:25 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:AfgyKkgkKHJAQ0rq_fibOg&context=ONLINE&ratio=16/9&width=480&u=1793649082000"
+    },
+    {
+      "id": "10698192",
+      "title": "Limburgse machinebouwer Keestrack wordt Amerikaans",
+      "link": "https://www.tijd.be/r/t/1/id/10698192",
+      "category": "Ondernemen",
+      "description": "Keestrack, de Limburgse multinational die onder meer mobiele breek- en zeefmachines maakt voor de mijnbouw en de recyclagesector, komt in handen van zijn grotere Amerikaanse sectorgenoot Terex.",
+      "pubDate": "Mon, 02 Nov 2026 15:24:30 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:5awjdav8K5r9DqHeTla1qT&context=ONLINE&ratio=16/9&width=480&u=1793633397000"
+    },
+    {
+      "id": "10674877",
+      "title": "Deze mensen zetten Gent op de kaart",
+      "link": "https://www.tijd.be/r/t/1/id/10674877",
+      "category": "Sabato",
+      "description": "Welke mensen maken Gent tot de stad die ze is? Dit zijn de favorieten van onze correspondenten die de stad door en door kennen.",
+      "pubDate": "Mon, 02 Nov 2026 15:20:30 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:2UZJ-4lWaq1BtwojqZlzx9&context=ONLINE&ratio=16/9&width=480&u=1793632829000"
+    },
+    {
+      "id": "10698225",
+      "title": "‘AI-brein’ moet Club Brugge helpen in zaken en scouting",
+      "link": "https://www.tijd.be/r/t/1/id/10698225",
+      "category": "Ondernemen",
+      "description": "De voetbalclub Club Brugge brengt data uit verschillende bronnen samen op één AI-platform. Het ‘AI-brein’ kan helpen met allerlei taken, van het communiceren met supporters tot het scouten van talent.",
+      "pubDate": "Mon, 02 Nov 2026 15:20:21 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:1M1OhqKGK8G9HMULmiWXpH&context=ONLINE&ratio=16/9&width=480&u=1793652493000"
+    },
+    {
+      "id": "10698208",
+      "title": "Wissel aan de top van Eurostar: CEO Cazenave vertrekt plots",
+      "link": "https://www.tijd.be/r/t/1/id/10698208",
+      "category": "Ondernemen",
+      "description": "Eurostar-CEO Gwendoline Cazenave vertrekt meteen bij de uitbater van het hogesnelheidsnetwerk. Ze wordt opgevolgd door Christophe Fanichet, voormalig directeur van de passagiersdivisie bij de Franse spoorwegmaatschappij SNCF.",
+      "pubDate": "Mon, 02 Nov 2026 15:14:41 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:23rHjnvDqDrAHLxDaw7DhS&context=ONLINE&ratio=16/9&width=480&u=1793633298000"
+    },
+    {
+      "id": "10698220",
+      "title": "Del Vecchio-erfgenaam probeert broers en zussen uit te kopen om Tsjechische overname familieholding te blokkeren",
+      "link": "https://www.tijd.be/r/t/1/id/10698220",
+      "category": "Ondernemen",
+      "description": "Leonardo Maria Del Vecchio, een van de erfgenamen van de overleden oprichter van EssilorLuxottica, werkt aan een bod op Delfin. Daarmee hoopt hij de familiale holding uit handen te houden van de Tsjechische miljardair Michal Strnad.",
+      "pubDate": "Mon, 02 Nov 2026 14:55:55 GMT",
+      "score": 1,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:EKuMBVws4vpASDM7W5JTuN&context=ONLINE&ratio=16/9&width=480&u=1793632136000"
+    },
+    {
+      "id": "10698172",
+      "title": "De onbreekbare band van singer-songwriter Heather Nova met haar Vlaamse fans",
+      "link": "https://www.tijd.be/r/t/1/id/10698172",
+      "category": "Cultuur",
+      "description": "Na enkele tegenslagen grijpt Heather Nova op haar sterke nieuwe album ‘The Orchard’ haar band met de natuur aan om voor hoop te kiezen. Volgend voorjaar volgt een dozijn optredens in Vlaanderen. ‘Telkens als ik terugkwam, stonden er meer mensen.’",
+      "pubDate": "Mon, 02 Nov 2026 14:21:42 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:57559T7UKu1AMsesop_ZPP&context=ONLINE&ratio=16/9&width=480&u=1793651971000"
+    },
+    {
       "id": "10698185",
       "title": "Amerikaanse chipontwikkelaar Marvell sluit megadeal van 115 miljard dollar",
       "link": "https://www.tijd.be/r/t/1/id/10698185",
@@ -194,7 +458,7 @@
       "category": "Dossiers",
       "description": "De Amerikaanse midterms van dinsdag zijn een kans om de autocratische neigingen van president Donald Trump af te remmen. Succes is allesbehalve gegarandeerd, ook niet als de Democraten winnen.",
       "pubDate": "Sun, 01 Nov 2026 19:53:40 GMT",
-      "image": null
+      "image": "https://images.tijd.be/view?iid=Elvis:9VyDAsUqanZANG8og5D36S&context=ONLINE&ratio=16/9&width=480&u=1793640361000"
     },
     {
       "id": "10698111",
@@ -230,7 +494,7 @@
       "category": "Sabato",
       "description": "Chef Géry Van Peteghem van bistro Kartouche in Elsene deelt zijn recept voor terrine van kool, gehakt, gerookt spek en stoemp. Een remake van de Franse klassieker ‘chou farci’.",
       "pubDate": "Sun, 01 Nov 2026 11:00:48 GMT",
-      "image": null
+      "image": "https://images.tijd.be/view?iid=Elvis:2iylLYsVqExB5Y-it7JdaY&context=ONLINE&ratio=16/9&width=480&u=1793274010000"
     },
     {
       "id": "10698092",
