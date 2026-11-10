@@ -1,6 +1,193 @@
 {
   "articles": [
     {
+      "id": "10699168",
+      "title": "Beleggersagenda van woensdag 11 november: ABN Amro rapporteert",
+      "link": "https://www.tijd.be/r/t/1/id/10699168",
+      "category": "Markten Live",
+      "description": "ABN Amro, met een winst van 45 procent een van de best presterende Europese bankaandelen van 2026, rapporteert de cijfers over het derde kwartaal.",
+      "pubDate": "Tue, 10 Nov 2026 13:00:45 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:E7NO_3bO4mDBVHq1H-Tw-u&context=ONLINE&ratio=16/9&width=480&u=1794306054000"
+    },
+    {
+      "id": "10699225",
+      "title": "Chemiebedrijf Vynova vraagt faillissement aan, 600 jobs op de helling in Limburg",
+      "link": "https://www.tijd.be/r/t/1/id/10699225",
+      "category": "Ondernemen",
+      "description": "Het chemiebedrijf Vynova Belgium in Tessenderlo-Ham vraagt na een lange lijdensweg het faillissement aan. Ruim 600 werknemers dreigen hun baan te verliezen.",
+      "pubDate": "Tue, 10 Nov 2026 12:41:39 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:9mmd9MiuKSzB3idrUDuwzs&context=ONLINE&ratio=16/9&width=480&u=1794315484000"
+    },
+    {
+      "id": "10674993",
+      "title": "Shopping in Brussel: eerste boetiek voor luxemerk Marie-Stella-Maris",
+      "link": "https://www.tijd.be/r/t/1/id/10674993",
+      "category": "Sabato",
+      "description": "Op zoek naar de beste en nieuwste winkels in Brussel? Dit zijn de favoriete shopadressen van onze correspondent die de stad door en door kent.",
+      "pubDate": "Tue, 10 Nov 2026 12:29:44 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:8fAmowZcaA991pDKo8KK6k&context=ONLINE&ratio=16/9&width=480&u=1794313784000"
+    },
+    {
+      "id": "10699258",
+      "title": "Europa geeft toestemming voor Belgische miljardenveiling offshorewind",
+      "link": "https://www.tijd.be/r/t/1/id/10699258",
+      "category": "Ondernemen",
+      "description": "De Europese Commissie stemt in met een subsidiemechanisme voor de bouw van een nieuw offshorewindpark voor de Belgische kust. Daarmee kan de aanbestedingsprocedure voor het miljardenproject worden opgestart.",
+      "pubDate": "Tue, 10 Nov 2026 12:09:33 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:2L-ZBbo6ayQBMG4KQYq4Od&context=ONLINE&ratio=16/9&width=480&u=1794314406000"
+    },
+    {
+      "id": "10699236",
+      "title": "Mazoutje revisited: Stella introduceert eerste gearomatiseerde variant in België",
+      "link": "https://www.tijd.be/r/t/1/id/10699236",
+      "category": "Sabato",
+      "description": "Honderd jaar nadat de eerste Stella Artois werd gebrouwen, is er voor het eerst een gearomatiseerde variant in België. Vanaf volgende week is Stella Artois Spiced Apple verkrijgbaar op vat en in blik. Sabato was bij de eerste proevers.",
+      "pubDate": "Tue, 10 Nov 2026 11:21:20 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:8HBijSHvKvzB54WwMQyHWL&context=ONLINE&ratio=16/9&width=480&u=1794309683000"
+    },
+    {
+      "id": "10699249",
+      "title": "Brusselse beurs: afstraffing voor cashbloedend Agfa-Gevaert",
+      "link": "https://www.tijd.be/r/t/1/id/10699249",
+      "category": "Markten Live",
+      "description": "De Europese beurzen veren andermaal op, met dank aan de tuimelende olieprijs. Agfa-Gevaert krijgt een opdoffer na slechte kwartaalcijfers.",
+      "pubDate": "Tue, 10 Nov 2026 11:20:10 GMT",
+      "score": 0,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:FLZSOn-74F88gHd7E6PKAb&context=ONLINE&ratio=16/9&width=480&u=1794310778000"
+    },
+    {
+      "id": "10699256",
+      "title": "Nieuwe staatsbons op komst op een, vijf en tien jaar",
+      "link": "https://www.tijd.be/r/t/1/id/10699256",
+      "category": "Markten Live",
+      "description": "De Belgische spaarder kan vanaf 25 november intekenen op staatsbons met een looptijd van een, vijf en tien jaar. In 2026 haalde de Schatkist zo al 1,8 miljard euro op.",
+      "pubDate": "Tue, 10 Nov 2026 10:57:09 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:4EoexSVnqei8EtfZOf0Ixr&context=ONLINE&ratio=16/9&width=480&u=1794313192000"
+    },
+    {
+      "id": "10699196",
+      "title": "Brit M. John Harrison oudste winnaar Booker Prize",
+      "link": "https://www.tijd.be/r/t/1/id/10699196",
+      "category": "Cultuur",
+      "description": "De Britse auteur M. John Harrison (81) wordt de oudste winnaar ooit van de prestigieuze Booker Prize. Hij krijgt die voor zijn postapocalyptische roman 'The End of Everything'.",
+      "pubDate": "Tue, 10 Nov 2026 10:56:01 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:7UF0IUDPq2kBCzdqsEqpeb&context=ONLINE&ratio=16/9&width=480&u=1794311144000"
+    },
+    {
+      "id": "10699242",
+      "title": "Trump: 'FBI kijkt naar affaire van Jensen Huang'",
+      "link": "https://www.tijd.be/r/t/1/id/10699242",
+      "category": "Ondernemen",
+      "description": "Volgens de Amerikaanse president Donald Trump is de federale politiedienst FBI een onderzoek gestart naar de affaire die Nvidia-CEO Jensen Huang zondag opbiechtte met een vermoedelijke Chinese spionne.",
+      "pubDate": "Tue, 10 Nov 2026 10:48:46 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:7RrgcDmNqnw9u6X_xo8tAX&context=ONLINE&ratio=16/9&width=480&u=1794307729000"
+    },
+    {
+      "id": "10699217",
+      "title": "Beursgang Anthropic: de belangrijkste data voor beleggers",
+      "link": "https://www.tijd.be/r/t/1/id/10699217",
+      "category": "Markten Live",
+      "description": "Anthropic, de AI-ontwikkelaar achter Claude, maakt zich op voor een van de grootste beursgangen ooit. Dit zijn de belangrijkste afspraken voor de beleggers, van de roadshow en het gesprek tussen CEO Dario Amodei en Jamie Dimon (CEO van JPMorgan) tot de eerste resultaten en de verkoopmogelijkheden voor de oprichters.",
+      "pubDate": "Tue, 10 Nov 2026 10:16:14 GMT",
+      "score": 0,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:8-rTSK034bf8ufzQf2cxy1&context=ONLINE&ratio=16/9&width=480&u=1794315953000"
+    },
+    {
+      "id": "10699185",
+      "title": "Nieuwe eigenaar moet gereedschapswinkels Toolstation in België redden",
+      "link": "https://www.tijd.be/r/t/1/id/10699185",
+      "category": "Ondernemen",
+      "description": "De Britse bouwmaterialengroep Travis Perkins ontdoet zich van de verlieslatende gereedschapswinkels van Toolstation in de Benelux. De Duitse investeerder Fidelium Partners neemt de activiteiten over voor een symbolische euro.",
+      "pubDate": "Tue, 10 Nov 2026 09:43:28 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:7F-6ej07qP2AM6w5UFp6JB&context=ONLINE&ratio=16/9&width=480&u=1794314655000"
+    },
+    {
+      "id": "10699183",
+      "title": "Agfa duikt dieper in de rode cijfers: koers keldert naar laagste punt ooit",
+      "link": "https://www.tijd.be/r/t/1/id/10699183",
+      "category": "Ondernemen",
+      "description": "Agfa Gevaert is in het derde kwartaal dieper in de rode cijfers gedoken. De ingezette herstructureringsmaatregelen en prijsverhogingen konden de krimp in de rest van het bedrijf niet compenseren.",
+      "pubDate": "Tue, 10 Nov 2026 09:03:22 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:30S18izMar_8GOanVPCOuC&context=ONLINE&ratio=16/9&width=480&u=1794311847000"
+    },
+    {
+      "id": "10699176",
+      "title": "Anthropic trapt roadshow voor beursgang af: waardering ligt pak lager dan raming van vorige maand",
+      "link": "https://www.tijd.be/r/t/1/id/10699176",
+      "category": "Ondernemen",
+      "description": "Claude-moeder Anthropic zet zijn beursplannen voortvarend verder. Later vandaag zou het AI-bedrijf al zijn roadshow op gang trekken, die vervolgens nog voor het einde van de maand moet leiden tot een notering op Wall Street.",
+      "pubDate": "Tue, 10 Nov 2026 07:14:12 GMT",
+      "score": 1,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:9d7D1mVBqo9BzdqtBl6MIB&context=ONLINE&ratio=16/9&width=480&u=1794310113000"
+    },
+    {
+      "id": "10699066",
+      "title": "‘Niet loyaal en weinig gemotiveerd’: jobhopper heeft minder kansen op arbeidsmarkt",
+      "link": "https://www.tijd.be/r/t/1/id/10699066",
+      "category": "Politiek & Economie",
+      "description": "Hoe meer kortere jobs een werknemer al achter de kiezen heeft, hoe minder aantrekkelijk die wordt voor een werkgever. Zogeheten jobhoppers zouden minder teamspirit, doorzettingsvermogen en verantwoordelijkheidszin hebben.",
+      "pubDate": "Tue, 10 Nov 2026 04:02:10 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:ARK0zbZkKl2AQJVTJzysHn&context=ONLINE&ratio=16/9&width=480&u=1794299506000"
+    },
+    {
+      "id": "10699127",
+      "title": "Gemiddelde huur studentenkot stijgt naar 600 euro",
+      "link": "https://www.tijd.be/r/t/1/id/10699127",
+      "category": "Netto",
+      "description": "De gemiddelde huurprijs van een studentenkot in België stijgt dit academiejaar met 1,7 procent en rondt voor het eerst de kaap van 600 euro. Opvallend: in Kortrijk werden koten juist goedkoper.",
+      "pubDate": "Tue, 10 Nov 2026 04:00:00 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:1fJjHydPqOX8ejnHyCjcpk&context=ONLINE&ratio=16/9&width=480&u=1794294022000"
+    },
+    {
+      "id": "10699144",
+      "title": "CO₂-afvoerleiding naar Noorwegen gaat niet door",
+      "link": "https://www.tijd.be/r/t/1/id/10699144",
+      "category": "Ondernemen",
+      "description": "Het energiebedrijf Equinor stopt de ontwikkeling van een pijpleiding om op grote schaal afgevangen CO₂ vanuit Zeebrugge af te voeren naar lege gasvelden in Noorwegen. De vraag naar de klimaatoplossing komt niet genoeg op gang.",
+      "pubDate": "Tue, 10 Nov 2026 04:00:00 GMT",
+      "score": 12,
+      "in_de7": true,
+      "image": "https://images.tijd.be/view?iid=Elvis:46bcZsH3KSpBhJYxS3M4R0&context=ONLINE&ratio=16/9&width=480&u=1794292142000"
+    },
+    {
+      "id": "10699151",
+      "title": "Familie Cracco opent kapitaal van hr-bedrijf Boemm: ‘Op naar 200 miljoen omzet’",
+      "link": "https://www.tijd.be/r/t/1/id/10699151",
+      "category": "Ondernemen",
+      "description": "De oprichterfamilies Cracco en Bonamie halen twee andere families aan boord om met overnames de omzet van het hr-bedrijf Boemm - onder meer bekend van Jobfixers - te doen groeien tot 200 miljoen euro in 2030. ‘We worden steeds meer een techbedrijf.’",
+      "pubDate": "Tue, 10 Nov 2026 04:00:00 GMT",
+      "score": 6,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:FIYJpnTZaARBmNf9WKvE4T&context=ONLINE&ratio=16/9&width=480&u=1794304486000"
+    },
+    {
       "id": "10699167",
       "title": "Republikein laat Amerikaans Huis stemmen over afzetting defensieminister Hegseth",
       "link": "https://www.tijd.be/r/t/1/id/10699167",
