@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-12T13:26:48.238911+00:00",
+  "generated_at": "2026-11-12T20:58:58.282388+00:00",
   "date": "2026-11-12",
-  "de7_title": "12/11 | Nvidia overweegt nu toch ontslag CEO Jensen Huang | Steeds meer 'stille faillissementen' in België | Europese top start in Dublin",
-  "de7_matched_count": 1,
+  "de7_title": "De 7 Extra | Exit Jensen Huang: einde van een tijdperk bij AI-boegbeeld Nvidia",
+  "de7_matched_count": 2,
   "articles": [
     {
       "id": "10698658",
@@ -14,6 +14,17 @@
       "score": 15,
       "in_de7": true,
       "image": "https://images.tijd.be/view?iid=Elvis:DcB-YgqvKAEA9VGl_HbKXR&context=ONLINE&ratio=16/9&width=480&u=1794470667000"
+    },
+    {
+      "id": "10699547",
+      "title": "Kan Nvidia zonder de man die ‘aan zijn bureau wilde sterven’?",
+      "link": "https://www.tijd.be/r/t/1/id/10699547",
+      "category": "Ondernemen",
+      "description": "Nvidia moet voort zonder zijn haast mythische CEO Jensen Huang, die de eer aan zichzelf houdt nadat problematische liefdesaffaires aan het licht zijn gekomen. De vraag is nu of de oprichter zich niet te belangrijk heeft gemaakt voor de chipgigant. ‘Zoals Jensen is er maar eentje.’",
+      "pubDate": "Thu, 12 Nov 2026 15:01:12 GMT",
+      "score": 14,
+      "in_de7": true,
+      "image": "https://images.tijd.be/view?iid=Elvis:FhcY0haPKqV8wgzIhISEu4&context=ONLINE&ratio=16/9&width=480&u=1794510768000"
     },
     {
       "id": "10699450",
@@ -93,6 +104,28 @@
       "image": "https://images.tijd.be/view?iid=Elvis:4ncuv4Bq4t4BZAoq2T6FYq&context=ONLINE&ratio=16/9&width=480&u=1794473886000"
     },
     {
+      "id": "10699646",
+      "title": "'Jensen Huang had ook met tweede Nvidia-medewerkster relatie'",
+      "link": "https://www.tijd.be/r/t/1/id/10699646",
+      "category": "Ondernemen",
+      "description": "Nadat Nvidia-CEO Jensen Huang is opgestapt vanwege twee problematische affaires, blijkt nu dat hij nog een buitenechtelijke relatie had met een derde vrouw. Zij werkte ook voor Nvidia. Dat meldt het persagentschap Reuters.",
+      "pubDate": "Thu, 12 Nov 2026 20:24:39 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:CfrU2BiRKFH9jP7bzNZXFT&context=ONLINE&ratio=16/9&width=480&u=1794517000000"
+    },
+    {
+      "id": "10699602",
+      "title": "Hoogste niveau in bijna vier jaar: energiefactuur Vlaming gaat richting 4.000 euro",
+      "link": "https://www.tijd.be/r/t/1/id/10699602",
+      "category": "Netto",
+      "description": "Wie deze maand een contract afsluit voor elektriciteit en aardgas, betaalt op jaarbasis gemiddeld bijna 4.000 euro. Dat blijkt uit nieuwe cijfers van de Vlaamse Nutsregulator. Daarmee staat de energiefactuur op het hoogste niveau in bijna vier jaar.",
+      "pubDate": "Thu, 12 Nov 2026 15:35:38 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:B-4Ns5mJqB79tWTHTWnM15&context=ONLINE&ratio=16/9&width=480&u=1794511928000"
+    },
+    {
       "id": "10688182",
       "title": "In kaart | De omstreden vliegroute boven de Brusselse noordrand",
       "link": "https://www.tijd.be/r/t/1/id/10688182",
@@ -124,6 +157,39 @@
       "score": 3,
       "in_de7": false,
       "image": "https://images.tijd.be/view?iid=Elvis:6gqsJt17aDP8aCeDRbEc_9&context=ONLINE&ratio=16/9&width=480&u=1794427646000"
+    },
+    {
+      "id": "10699560",
+      "title": "Eerst TikTok-storm, dan aangifte tegen 'Bruine Mehdi': 'Sociale media bieden iets wat justitie niet kan'",
+      "link": "https://www.tijd.be/r/t/1/id/10699560",
+      "category": "Politiek & Economie",
+      "description": "Drie vrouwen hebben aangifte gedaan tegen influencer Mehdi E.H. - bekend als 'Bruine Mehdi' - voor zedenfeiten, nadat beschuldigingen tegen hem eerst waren geëxplodeerd op TikTok en Instagram. Waarom delen vermeende slachtoffers hun verhaal eerst op sociale media?",
+      "pubDate": "Thu, 12 Nov 2026 20:19:36 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:D8bnDkkVaibBEwuYHC4kVH&context=ONLINE&ratio=16/9&width=480&u=1794516293000"
+    },
+    {
+      "id": "10699579",
+      "title": "Hoe efficiënt is het nieuwe actieplan tegen phishing?",
+      "link": "https://www.tijd.be/r/t/1/id/10699579",
+      "category": "Ondernemen",
+      "description": "Met een ambitieus nieuw actieplan trekt de federale overheid naast de banken nu ook telecomoperatoren, onlineplatformen, de politie en het gerecht mee in het bad om phishing en onlinefraude aan te pakken. Maar hoe efficiënt is dat plan? 'Een stap in de goede richting, maar de burger staat nog altijd te veel in de kou.'",
+      "pubDate": "Thu, 12 Nov 2026 17:38:17 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:Dj3v2a0R45y8X2CqO6mTXB&context=ONLINE&ratio=16/9&width=480&u=1794516486000"
+    },
+    {
+      "id": "10699553",
+      "title": "Brussel wil vliegroute aanvechten, maar dreigt te laat te komen na misser",
+      "link": "https://www.tijd.be/r/t/1/id/10699553",
+      "category": "Politiek & Economie",
+      "description": "De Brusselse regering sluit zich aan bij burgers en gemeenten die naar de rechter stappen tegen een landingsbaan op de luchthaven, die tot veel geluidsoverlast boven de hoofdstad leidt. Zelf een rechtszaak starten kan wellicht niet meer, nadat ze zich heeft misgekeken op een federale brief.",
+      "pubDate": "Thu, 12 Nov 2026 16:54:13 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:A1M9zz4F41qB-WTLjjXV0_&context=ONLINE&ratio=16/9&width=480&u=1794502456000"
     },
     {
       "id": "10674905",
@@ -247,6 +313,127 @@
       "image": "https://images.tijd.be/view?iid=Elvis:4j5dMtnGK0t9QB1vqwLLkm&context=ONLINE&ratio=16/9&width=480&u=1794427497000"
     },
     {
+      "id": "10699632",
+      "title": "Van nachtwinkels tot restaurants: Colruyt zoekt groei bij bedrijven",
+      "link": "https://www.tijd.be/r/t/1/id/10699632",
+      "category": "Ondernemen",
+      "description": "Terwijl haar supermarkten onder druk staan, zoekt de retailgroep Colruyt groei bij zakelijke klanten. De keten Colruyt Professionals verdubbelde haar aantal vestigingen dit jaar en de omzet van groothandel Solucious ging in korte tijd maal twee.",
+      "pubDate": "Thu, 12 Nov 2026 20:12:44 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:Cx-z-j8bqwPAcaZt6ga2Fs&context=ONLINE&ratio=16/9&width=480&u=1794514890000"
+    },
+    {
+      "id": "10699640",
+      "title": "Mercedes-Benz bevriest alle investeringen in dure Duitse fabrieken",
+      "link": "https://www.tijd.be/r/t/1/id/10699640",
+      "category": "Ondernemen",
+      "description": "Mercedes-Benz bevriest alle investeringen in zijn Duitse fabrieken. De directie van de autobouwer eist dat de vakbonden instemmen met lagere eindejaarspremies en langere werkweken, zonder dat daar extra loon tegenover staat.",
+      "pubDate": "Thu, 12 Nov 2026 19:43:54 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:Fk3bn0GtKa58Q1t6McZb3L&context=ONLINE&ratio=16/9&width=480&u=1794513168000"
+    },
+    {
+      "id": "10697820",
+      "title": "Nergens zonder weg in Leuven",
+      "link": "https://www.tijd.be/r/t/1/id/10697820",
+      "category": "Dossiers",
+      "description": "Verdwalend in eigen land kijkt Rik Van Puymbroeck naar wat verwondert en soms overdondert.",
+      "pubDate": "Thu, 12 Nov 2026 19:30:24 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:Em3Anp21Kti9DbiBAcQioo&context=ONLINE&ratio=16/9&width=480&u=1794466462000"
+    },
+    {
+      "id": "10699591",
+      "title": "Voor tweede dag op rij bommeldingen in Italiaanse scholen",
+      "link": "https://www.tijd.be/r/t/1/id/10699591",
+      "category": "Politiek & Economie",
+      "description": "Duizenden Italiaanse scholen werden voor de tweede dag op rij geconfronteerd met valse bommeldingen.",
+      "pubDate": "Thu, 12 Nov 2026 18:08:08 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:BZsnXqZNKsNAC5OnmdcXoN&context=ONLINE&ratio=16/9&width=480&u=1794506891000"
+    },
+    {
+      "id": "10699555",
+      "title": "Brusselse beurs: een traditionele 'slow clap' voor KBC",
+      "link": "https://www.tijd.be/r/t/1/id/10699555",
+      "category": "Markten Live",
+      "description": "De financiële markten hielden de blik gericht op het vertrek van Nvidia-topman Jensen Huang, maar de Bel20 speelde zijn rol van rustige vastheid. Ondanks een tik voor index-zwaargewicht KBC noteerde de Belgische sterrenkorf hoger.",
+      "pubDate": "Thu, 12 Nov 2026 17:09:36 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:BeX2oQww4-v9vKmuK7fkTT&context=ONLINE&ratio=16/9&width=480&u=1794507608000"
+    },
+    {
+      "id": "10699563",
+      "title": "SpaceX wil voor het eerst hele Starship-raket weer opvangen bij terugkeer naar aarde",
+      "link": "https://www.tijd.be/r/t/1/id/10699563",
+      "category": "Ondernemen",
+      "description": "Met een nieuwe lancering van een Starship-raket hoopt SpaceX-topman Elon Musk een volgende technologische mijlpaal te bereiken. Hij wil niet alleen de booster, maar ook de raket zelf weer opvangen na de ruimtereis.",
+      "pubDate": "Thu, 12 Nov 2026 14:24:03 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:2YQnkn0IqNCBbS457mdyDc&context=ONLINE&ratio=16/9&width=480&u=1794495523000"
+    },
+    {
+      "id": "10699564",
+      "title": "Oprichter en CEO Jensen Huang stapt op bij Nvidia",
+      "link": "https://www.tijd.be/r/t/1/id/10699564",
+      "category": "Ondernemen",
+      "description": "Nvidia-oprichter Jensen Huang verlaat het bedrijf dat hij in ruim drie decennia uitbouwde tot ’s werelds belangrijkste leverancier van AI-chips. Het uitlekken van een tweede buitenechtelijke affaire deed hem de das om. CFO Colette Kress volgt hem voorlopig op.",
+      "pubDate": "Thu, 12 Nov 2026 13:57:47 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:2XhgWWwwKCA9j4yk1caSA1&context=ONLINE&ratio=16/9&width=480&u=1794508653000"
+    },
+    {
+      "id": "10699615",
+      "title": "Europa onder druk om delegatie voor gesprekken met Rusland aan te duiden",
+      "link": "https://www.tijd.be/r/t/1/id/10699615",
+      "category": "Dossiers",
+      "description": "De Europese Unie staat onder een steeds grotere druk om te beslissen wie ze in haar naam laat deelnemen aan de onderhandelingen tussen de Verenigde Staten, Rusland en Oekraïne. Maar het ziet er nog steeds niet naar uit dat Europa op korte termijn ook echt met Moskou over vrede gaat praten.",
+      "pubDate": "Thu, 12 Nov 2026 16:46:47 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:48RLopYPaie9U1Yq2HCr4J&context=ONLINE&ratio=16/9&width=480&u=1794516267000"
+    },
+    {
+      "id": "10699583",
+      "title": "Maximumleeftijd kinderbijslag verlaagt dan toch niet tijdens academiejaar",
+      "link": "https://www.tijd.be/r/t/1/id/10699583",
+      "category": "Netto",
+      "description": "De maximumleeftijd om kinderbijslag te ontvangen, zal dit academiejaar op 25 jaar blijven liggen. De verlaging naar 24 jaar gaat pas in oktober 2027 in, en niet in januari, zoals eerst gepland was. De andere maatregelen worden wel vanaf Nieuwjaar ingevoerd.",
+      "pubDate": "Thu, 12 Nov 2026 16:11:14 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:DA8Mc0IiKiPAA92mEkdSOW&context=ONLINE&ratio=16/9&width=480&u=1794516596000"
+    },
+    {
+      "id": "10699552",
+      "title": "Eén nieuw windpark op zee maakt nog geen beleid",
+      "link": "https://www.tijd.be/r/t/1/id/10699552",
+      "category": "Opinie",
+      "description": "De beslissing over het eerste windpark in de Prinses Elisabethzone komt geen moment te vroeg.",
+      "pubDate": "Thu, 12 Nov 2026 13:46:19 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:4kMfGnNbqW5AOvCZHlwSeI&context=ONLINE&ratio=16/9&width=480&u=1794513837000"
+    },
+    {
+      "id": "10699582",
+      "title": "Europees Parlement verwerpt striktere beschermingsregels voor beleggers",
+      "link": "https://www.tijd.be/r/t/1/id/10699582",
+      "category": "Netto",
+      "description": "Het Europees Parlement heeft onverwacht een pakket maatregelen verworpen die beleggers beter moeten informeren en beschermen. Een aantal aanpassingen aan de gestandaardiseerde productfiches werd wel aangenomen.",
+      "pubDate": "Thu, 12 Nov 2026 14:50:45 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:8izVn1lP4AqB7CoB_u-Cyb&context=ONLINE&ratio=16/9&width=480&u=1794510593000"
+    },
+    {
       "id": "10699512",
       "title": "Nu Russische dreiging groeit, heeft Roemenië geld veil om Amerikaanse troepen in het land te houden",
       "link": "https://www.tijd.be/r/t/1/id/10699512",
@@ -256,28 +443,6 @@
       "score": 1,
       "in_de7": false,
       "image": "https://images.tijd.be/view?iid=Elvis:31L72jjGaE9AOo74P9TNh_&context=ONLINE&ratio=16/9&width=480&u=1794484415000"
-    },
-    {
-      "id": "10699493",
-      "title": "Festival Ars Musica | Kristine Tjøgersen, de componiste die toont hoe vleermuizen eigenlijk electro zingen",
-      "link": "https://www.tijd.be/r/t/1/id/10699493",
-      "category": "Cultuur",
-      "description": "De Noorse componiste Kristine Tjøgersen dacht aan biologie, maar ging alsnog muziek studeren. Nu is ze een van de meest innovatieve stemmen in het hedendaags klassieke veld en vormt de natuur de grootste inspiratiebron voor haar composities.",
-      "pubDate": "Thu, 12 Nov 2026 10:46:17 GMT",
-      "score": 1,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:BJh_I6CvayX90QpzEQZhFx&context=ONLINE&ratio=16/9&width=480&u=1794480384000"
-    },
-    {
-      "id": "10699568",
-      "title": "Burberry steekt luxesector op de beurs hart onder de riem",
-      "link": "https://www.tijd.be/r/t/1/id/10699568",
-      "category": "Markten Live",
-      "description": "De strategie van modehuis Burberry om prijzen te verlagen en zo klanten aan te spreken die naar het luxesegment willen doorgroeien, lijkt te werken. Opvallend is vooral de groei in China, tegen de stroom in van een sector die het wereldwijd moeilijker krijgt. Beleggers belonen dat meteen: het aandeel veert fors op.",
-      "pubDate": "Thu, 12 Nov 2026 12:33:45 GMT",
-      "score": 0,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:A15KIA_7qTd88rNojy6CP0&context=ONLINE&ratio=16/9&width=480&u=1794486828000"
     }
   ]
 }
