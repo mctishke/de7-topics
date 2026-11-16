@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T13:14:23.605677+00:00",
+  "generated_at": "2026-11-16T22:53:42.521702+00:00",
   "date": "2026-11-16",
   "de7_title": "16/11 | Vooruitblik met hoofdeconoom Carsten Brzeski van ING | Begrotingscrisis: 'Blijkbaar is de druk van de financiële markten op de Belgische regering nog niet groot genoeg' | 'We gaan naar een renteverhoging door de ECB in december'",
   "de7_matched_count": 0,
@@ -14,6 +14,17 @@
       "score": 5,
       "in_de7": false,
       "image": "https://images.tijd.be/view?iid=Elvis:8ZYDjzutKSu8LW3Kwinnvj&context=ONLINE&ratio=16/9&width=480&u=1794831372000"
+    },
+    {
+      "id": "10705738",
+      "title": "'Vatbaar voor de maffia': Italië plaatst Revolut onder toezicht wegens lakse witwascontroles",
+      "link": "https://www.tijd.be/r/t/1/id/10705738",
+      "category": "Ondernemen",
+      "description": "Volgens een Italiaanse rechtbank konden criminelen, onder wie ook leden van de maffia, ruim 76 miljoen euro misdaadgeld via Revolut versluizen of witwassen, omdat de smartphonebank haar controlesystemen niet op orde had. De Italiaanse activiteiten staan nu een jaar onder gerechtelijk toezicht.",
+      "pubDate": "Mon, 16 Nov 2026 14:43:51 GMT",
+      "score": 5,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:3_SYmyPnKVm9pa9FIusDMD&context=ONLINE&ratio=16/9&width=480&u=1794846400000"
     },
     {
       "id": "10705700",
@@ -46,7 +57,18 @@
       "pubDate": "Mon, 16 Nov 2026 05:45:46 GMT",
       "score": 4,
       "in_de7": false,
-      "image": null
+      "image": "https://images.tijd.be/view?iid=Elvis:CS60MZ3wKwLBU6uF7jP6oU&context=ONLINE&ratio=16/9&width=480&u=1794488925000"
+    },
+    {
+      "id": "10705815",
+      "title": "Vooruit-vicepremier Vandenbroucke: 'Stop die sinterklaaspolitiek voor topvoetballers'",
+      "link": "https://www.tijd.be/r/t/1/id/10705815",
+      "category": "Politiek & Economie",
+      "description": "Daags na het mislukte begrotingsoverleg, waarvan Vooruit de schuld krijgt, gaat de socialistische vicepremier Frank Vandenbroucke bij VTM en VRT in de tegenaanval. 'Stop die sinterklaaspolitiek voor topvoetballers', zo pookt hij het vuur verder op.",
+      "pubDate": "Mon, 16 Nov 2026 21:05:10 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:5sdVaUMxKxYBfL93Bc5UXg&context=ONLINE&ratio=16/9&width=480&u=1794863110000"
     },
     {
       "id": "10705714",
@@ -102,6 +124,50 @@
       "score": 3,
       "in_de7": false,
       "image": "https://images.tijd.be/view?iid=Elvis:3qkdw8AxqGiBcf2kSd3B9B&context=ONLINE&ratio=16/9&width=480&u=1794828069000"
+    },
+    {
+      "id": "10705758",
+      "title": "Hoe een appelboer hofleverancier werd met wijn: ‘Verschillende staatshoofden proefden al van Gloire de Duras’",
+      "link": "https://www.tijd.be/r/t/1/id/10705758",
+      "category": "Ondernemen",
+      "description": "Elf jaar geleden verruilde de Limburgse fruitteler Peter Nijskens (63) zijn appelbomen voor wijnranken. Nu produceert Gloire de Duras jaarlijks zo’n 45.000 flessen wijn en mag het zich als eerste Belgisch wijndomein hofleverancier noemen. ‘Als ik nog appelen had geteeld, hadden mijn kinderen het bedrijf niet mogen overnemen.’",
+      "pubDate": "Mon, 16 Nov 2026 18:59:41 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:8bLfnANlKtCBlYQ962QMBT&context=ONLINE&ratio=16/9&width=480&u=1794859511000"
+    },
+    {
+      "id": "10705810",
+      "title": "Begrotingscrisis gaat vooral nog tussen Rousseau en De Wever",
+      "link": "https://www.tijd.be/r/t/1/id/10705810",
+      "category": "Politiek & Economie",
+      "description": "Terwijl hun bromance ooit de basis was voor een geel-rode samenwerking, zijn de begrotingsgesprekken uitgedraaid op een krachtmeting tussen premier Bart De Wever en Vooruit-voorzitter Conner Rousseau. ‘Op den duur dreigen nieuwe verkiezingen nog de minst schadelijke optie te worden’, klinkt het.",
+      "pubDate": "Mon, 16 Nov 2026 18:16:08 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:DsB-5tU3agsB0AWoQ3vY2u&context=ONLINE&ratio=16/9&width=480&u=1794863604000"
+    },
+    {
+      "id": "10705773",
+      "title": "Kan Nvidia het ook zonder zijn leren jas?",
+      "link": "https://www.tijd.be/r/t/1/id/10705773",
+      "category": "Ondernemen",
+      "description": "Dinsdag nabeurs komt Nvidia voor het eerst sinds oprichter Jensen Huang ontslag nam met cijfers naar buiten. Overschaduwt het gerommel rond de voormalige CEO de naar alle waarschijnlijkheid weer verbluffende cijfers?",
+      "pubDate": "Mon, 16 Nov 2026 15:44:15 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:ClH73DfmaxY9PTq5rAR_X7&context=ONLINE&ratio=16/9&width=480&u=1794863476000"
+    },
+    {
+      "id": "10705701",
+      "title": "Vijf Europese landen sluiten eerste akkoord met Rwanda over terugkeerhub voor migranten",
+      "link": "https://www.tijd.be/r/t/1/id/10705701",
+      "category": "Politiek & Economie",
+      "description": "Duitsland, Nederland, Denemarken, Oostenrijk en Griekenland gaan als eerste afgewezen asielzoekers naar terugkeerhubs buiten de EU sturen. Ze hebben daarover een deal met Rwanda. België doet niet mee, maar volgt het initiatief 'op de voet'.",
+      "pubDate": "Mon, 16 Nov 2026 16:34:53 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:2tkCtpgMqtS9tqv2pb74mk&context=ONLINE&ratio=16/9&width=480&u=1794854585000"
     },
     {
       "id": "10705706",
@@ -192,6 +258,182 @@
       "image": "https://images.tijd.be/view?iid=Elvis:AQ4AEzUWq5u81gDmX9HiOO&context=ONLINE&ratio=16/9&width=480&u=1794826736000"
     },
     {
+      "id": "10697833",
+      "title": "Nergens zonder weg in Kortenberg",
+      "link": "https://www.tijd.be/r/t/1/id/10697833",
+      "category": "Dossiers",
+      "description": "Verdwalend in eigen land kijkt Rik Van Puymbroeck naar wat verwondert en soms overdondert.",
+      "pubDate": "Mon, 16 Nov 2026 19:30:00 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:FdUsvEtB4Ys8H6T9_-1imG&context=ONLINE&ratio=16/9&width=480&u=1794869030000"
+    },
+    {
+      "id": "10705760",
+      "title": "Schorskevers vergallen najaar Pairi Daiza",
+      "link": "https://www.tijd.be/r/t/1/id/10705760",
+      "category": "Ondernemen",
+      "description": "Invasieve Aziatische en Zuid-Amerikaanse schorskevers hebben het dierenpark Pairi Daiza in een houdgreep. De gloednieuwe topattractie Edenya gaat elf dagen dicht om het park van de amper enkele millimeters grote kevers te ontdoen. Honderden klanten zien daardoor hun geplande overnachting in de grootste overdekte tuin ter wereld wegvallen.",
+      "pubDate": "Mon, 16 Nov 2026 19:15:04 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:2mK_38LQK7c92PGkPnRsxQ&context=ONLINE&ratio=16/9&width=480&u=1794859432000"
+    },
+    {
+      "id": "10705774",
+      "title": "Romelu Lukaku, de rasspits die het Belgische voetbal op de rug nam",
+      "link": "https://www.tijd.be/r/t/1/id/10705774",
+      "category": "Ondernemen",
+      "description": "De beste spits die ons land ooit kende, stopt als Rode Duivel. Romelu Lukaku was een motorblok van de generatie die het Belgische voetbal uit de grijze anonimiteit tilde. Een ontembare drang om te winnen en zijn eeuwige critici de mond te snoeren, verklaart nu ook zijn ietwat abrupte exit.",
+      "pubDate": "Mon, 16 Nov 2026 19:12:45 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:DXaL8LQXavK9LX3yW39unC&context=ONLINE&ratio=16/9&width=480&u=1794862282000"
+    },
+    {
+      "id": "10705796",
+      "title": "I-Police: parket-generaal onderzoekt rol minister Verlinden",
+      "link": "https://www.tijd.be/r/t/1/id/10705796",
+      "category": "Politiek & Economie",
+      "description": "In het onderzoek naar belangenvermenging en verduistering in het i-Police-dossier, zal het Brusselse parket-generaal de rol van minister van Justitie Annelies Verlinden onder de loep nemen. Het is een nieuwe stap in de zaak over de toekenning van het geflopte digitaliseringsproject aan de Franse IT-reus Sopra Steria.",
+      "pubDate": "Mon, 16 Nov 2026 18:04:03 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:4qsZi8GqqFYBh5gwWlJZji&context=ONLINE&ratio=16/9&width=480&u=1794861447000"
+    },
+    {
+      "id": "10705799",
+      "title": "De miljardenjacht is een zoektocht naar vertrouwen geworden",
+      "link": "https://www.tijd.be/r/t/1/id/10705799",
+      "category": "Opinie",
+      "description": "Op papier lijken de dossiers die nog op de begrotingstafel liggen geen val van de regering waard. De echte vraag luidt of er nog voldoende vertrouwen tussen de coalitiepartners is.",
+      "pubDate": "Mon, 16 Nov 2026 17:41:05 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:4UFOL9wtKYABrMNZse9-uZ&context=ONLINE&ratio=16/9&width=480&u=1794850868000"
+    },
+    {
+      "id": "10705800",
+      "title": "Amateurkickbokser Eric Pulinx gaat Antwerpse Bank Van Breda leiden",
+      "link": "https://www.tijd.be/r/t/1/id/10705800",
+      "category": "Ondernemen",
+      "description": "Dirk Wouters zwaait na meer dan tien jaar af als CEO van Bank Van Breda, die zich toelegt op ondernemers en vrije beroepers. De bankenveteraan Eric Pulinx, een verwoed amateurkickboxer die de financiële dienstverlener BNY Europe leidt, volgt Wouters begin volgend jaar op.",
+      "pubDate": "Mon, 16 Nov 2026 17:39:15 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:7idpv9zFKG-8RQ09WoFoDz&context=ONLINE&ratio=16/9&width=480&u=1794851538000"
+    },
+    {
+      "id": "10705777",
+      "title": "Fluvius gooit handdoek voor uitbouw warmtenetten",
+      "link": "https://www.tijd.be/r/t/1/id/10705777",
+      "category": "Ondernemen",
+      "description": "Nadat de stroom- en gasnetbeheerder Fluvius de voorbije jaren fors heeft ingezet op warmtenetten als duurzaam alternatief voor verwarming, gooit het bedrijf nu de handdoek. Nieuwe projecten komen er niet en bestaande worden strategisch bekeken.",
+      "pubDate": "Mon, 16 Nov 2026 17:19:52 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:BWakeWJVK9L8dXjDs0q_x3&context=ONLINE&ratio=16/9&width=480&u=1794849595000"
+    },
+    {
+      "id": "10705791",
+      "title": "Nvidia-oprichter Huang is speelbal van grotere belangen",
+      "link": "https://www.tijd.be/r/t/1/id/10705791",
+      "category": "Ondernemen",
+      "description": "Bereidt Nvidia-oprichter Jensen Huang zijn comeback als CEO voor? Dat zo’n scenario überhaupt circuleert, toont aan dat er meer speelt dan een sappig seks- en spionageverhaal. Huang is de inzet van een strijd om macht en geld die tegelijk in Washington, Wall Street en Silicon Valley plaatsvindt.",
+      "pubDate": "Mon, 16 Nov 2026 16:28:49 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:F7mA0hAJqBlBbikEtAXlzr&context=ONLINE&ratio=16/9&width=480&u=1794851566000"
+    },
+    {
+      "id": "10705792",
+      "title": "Sluimerende softwarefout lag aan basis Microsoft-storing",
+      "link": "https://www.tijd.be/r/t/1/id/10705792",
+      "category": "Ondernemen",
+      "description": "De grootschalige storing die Microsoft-diensten de afgelopen week wereldwijd platlegde, was het gevolg van een ongelukkige samenloop van drie factoren. Dat blijkt uit een technische analyse die het bedrijf maandag deelde.",
+      "pubDate": "Mon, 16 Nov 2026 16:15:23 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:E3J8L88raJP8rnLL_xxs-c&context=ONLINE&ratio=16/9&width=480&u=1794846882000"
+    },
+    {
+      "id": "10705730",
+      "title": "Falende raket kost Amazon 40 satellieten in strijd met SpaceX",
+      "link": "https://www.tijd.be/r/t/1/id/10705730",
+      "category": "Ondernemen",
+      "description": "Het naar de ruimte brengen van 40 satellieten van Amazon, die het moeten opnemen tegen Starlink van rivaal SpaceX, is zondag mislukt door een falende raket van Boeing en Lockheed Martin. Dat is op meerdere vlakken slecht nieuws.",
+      "pubDate": "Mon, 16 Nov 2026 13:48:08 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:4j5l6yf44tbAuuokYW0wlg&context=ONLINE&ratio=16/9&width=480&u=1794836892000"
+    },
+    {
+      "id": "10705732",
+      "title": "Estland sluit volledig grenzen met Rusland na sabotagepogingen",
+      "link": "https://www.tijd.be/r/t/1/id/10705732",
+      "category": "Politiek & Economie",
+      "description": "Estland heeft zondag besloten zijn grenzen met Rusland vanaf 1 december te sluiten. De Baltische staat doet dat na pogingen tot sabotage bij een defensiebedrijf.",
+      "pubDate": "Mon, 16 Nov 2026 15:16:37 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:FksFuC5V4pTBevwj1VbUWS&context=ONLINE&ratio=16/9&width=480&u=1794855655000"
+    },
+    {
+      "id": "10705715",
+      "title": "Met acties in Bahrein stuurt Iran naar Trump signaal dat strijd niet stopt zonder deal",
+      "link": "https://www.tijd.be/r/t/1/id/10705715",
+      "category": "Dossiers",
+      "description": "Na ruim twee maanden relatieve rust heeft Iran de voorbije dagen weer drones afgevuurd op Amerikaanse doelwitten in Bahrein. Teheran lijkt het Witte Huis de boodschap te willen geven dat de rust in het Midden-Oosten niet zal weerkeren zonder bilaterale deal.",
+      "pubDate": "Mon, 16 Nov 2026 13:25:03 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:FF_f2XHqqSA8Vcumr8VQ-9&context=ONLINE&ratio=16/9&width=480&u=1794836740000"
+    },
+    {
+      "id": "10705779",
+      "title": "Robert Pattinson wordt nieuwe James Bond",
+      "link": "https://www.tijd.be/r/t/1/id/10705779",
+      "category": "Cultuur",
+      "description": "De Britse acteur Robert Pattinson (40) zal James Bond spelen in de 26ste film van de gelijknamige franchise. Hij volgt Daniel Craig op.",
+      "pubDate": "Mon, 16 Nov 2026 16:13:22 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:EeQdZt0_KZU9SNnMcPjCRQ&context=ONLINE&ratio=16/9&width=480&u=1794863528000"
+    },
+    {
+      "id": "10705754",
+      "title": "Haalt de groepsfoto van Trump, Xi en Poetin de geschiedenisboeken?",
+      "link": "https://www.tijd.be/r/t/1/id/10705754",
+      "category": "Opinie",
+      "description": "Formeel staat de oorlog in Oekraïne niet op de agenda in Shenzhen, maar de kans is groot dat Donald Trump, Xi Jinping en Vladimir Poetin het er toch over hebben.",
+      "pubDate": "Mon, 16 Nov 2026 14:58:13 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:0vxcaZeU4qYALqu7hDKmp1&context=ONLINE&ratio=16/9&width=480&u=1794860469000"
+    },
+    {
+      "id": "10705681",
+      "title": "Klimaattop in Turkije gaat tweede week in met patstelling over geld, uitstoot en wetenschap",
+      "link": "https://www.tijd.be/r/t/1/id/10705681",
+      "category": "Dossiers",
+      "description": "De klimaattop in het Turkse Antalya gaat de tweede week in zonder doorbraak in de grote dossiers. Over klimaatfinanciering, emissiereductie, maar ook over de timing van een belangrijk wetenschappelijk rapport liggen diepe kloven. De komst van de ministers moet de nodige politieke druk creëren.",
+      "pubDate": "Mon, 16 Nov 2026 19:02:56 GMT",
+      "score": 1,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:DBZ2jfxcqIY8AQ1huRG1-e&context=ONLINE&ratio=16/9&width=480&u=1794855780000"
+    },
+    {
+      "id": "10705786",
+      "title": "Nu het onderhandelaars heeft, zoekt Europa nog naar een strategie om met Rusland om de tafel te zitten",
+      "link": "https://www.tijd.be/r/t/1/id/10705786",
+      "category": "Dossiers",
+      "description": "Met welke strategie moet Europa aan de onderhandelingstafel met Rusland, Oekraïne en de Verenigde Staten gaan zitten? Dat is de vraag waarover Europese politici zich het hoofd breken nu ze de discussie over hun onderhandelaars achter de rug hebben. ‘We moeten ons constructief opstellen’, vindt Belgisch minister van Buitenlandse Zaken Maxime Prévot.",
+      "pubDate": "Mon, 16 Nov 2026 17:25:19 GMT",
+      "score": 1,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:1bjtJtpsaltBKwHdOQQPFm&context=ONLINE&ratio=16/9&width=480&u=1794859044000"
+    },
+    {
       "id": "10699346",
       "title": "Beleggersagenda van dinsdag 17 november: just do it, Nike",
       "link": "https://www.tijd.be/r/t/1/id/10699346",
@@ -201,17 +443,6 @@
       "score": 0,
       "in_de7": false,
       "image": "https://images.tijd.be/view?iid=Elvis:Fh1WHySk4D69ZB2OayXDR1&context=ONLINE&ratio=16/9&width=480&u=1794378125000"
-    },
-    {
-      "id": "10705687",
-      "title": "Beursrally Live: stel woensdag uw vraag aan de koplopers in de wedstrijd",
-      "link": "https://www.tijd.be/r/t/1/id/10705687",
-      "category": "Markten Live",
-      "description": "Elke woensdag van 12 tot 12.30 uur spreken we in Beursrally Live met een deelnemer uit de top van het klassement. Hoe kiest die zijn aandelen? En welke strategie zit achter de portefeuille? U kunt zelf vragen stellen.",
-      "pubDate": "Mon, 16 Nov 2026 12:16:03 GMT",
-      "score": 0,
-      "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:BqylLhbwKKaBzFJiPf5xdv&context=ONLINE&ratio=16/9&width=480&u=1794831367000"
     }
   ]
 }
