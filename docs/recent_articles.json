@@ -1,6 +1,391 @@
 {
   "articles": [
     {
+      "id": "10706491",
+      "title": "Gaan Frank Vandenbroucke en Vooruit nog ontwapenen?",
+      "link": "https://www.tijd.be/r/t/1/id/10706491",
+      "category": "Politiek & Economie",
+      "description": "Hebben de socialisten een kruis gemaakt over de regering-De Wever omdat een offensieve verkiezingscampagne over de rijken hen beter uitkomt dan het saneringsbeleid verdedigen? ‘Neen, wij willen een akkoord’, blijven ze beweren. Maar zit dat er nog in, nadat Frank Vandenbroucke het halve kernkabinet in zijn blootje heeft gezet?",
+      "pubDate": "Fri, 20 Nov 2026 21:18:04 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:0HHhf5C8KAY9mD6ajZoLal&context=ONLINE&ratio=16/9&width=480&u=1795209489000"
+    },
+    {
+      "id": "10706452",
+      "title": "Fitch houdt kredietscore België stabiel: ‘We rekenen op een begrotingsakkoord’",
+      "link": "https://www.tijd.be/r/t/1/id/10706452",
+      "category": "Politiek & Economie",
+      "description": "De kredietbeoordelaar Fitch gelooft voorlopig nog in de goede afloop van de begrotingsonderhandelingen en houdt de kredietscore van ons land stabiel. ‘Ik hoop dat bij iedereen die waarschuwing doordringt dat de hervormingstrein niet mag stilvallen’, reageert premier Bart De Wever.",
+      "pubDate": "Fri, 20 Nov 2026 21:10:00 GMT",
+      "score": 5,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:39Fnm3rS47oBW2yaMG8U6-&context=ONLINE&ratio=16/9&width=480&u=1795209159000"
+    },
+    {
+      "id": "10706506",
+      "title": "‘Beurswaakhond onderzoekt boekhoudpraktijken Nvidia’, aandeel 14 procent onderuit",
+      "link": "https://www.tijd.be/r/t/1/id/10706506",
+      "category": "Markten Live",
+      "description": "Net nu Nvidia in zijn grootste bestuurscrisis in 33 jaar zit, verschijnt er een bericht over de boekhoudpraktijken van de chipontwerper.",
+      "pubDate": "Fri, 20 Nov 2026 21:05:09 GMT",
+      "score": 5,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:38h8iNJZ4VLAQ7ZeDRxVBW&context=ONLINE&ratio=16/9&width=480&u=1795208710000"
+    },
+    {
+      "id": "10706501",
+      "title": "Tuimeling van Nvidia duwt Nasdaq ruim 5 procent lager",
+      "link": "https://www.tijd.be/r/t/1/id/10706501",
+      "category": "Markten Live",
+      "description": "Er rolde vrijdag een ware verkoopgolf over de Amerikaanse techbeurs Nasdaq. Vooral alles met AI ging de deur uit. Een bericht van Reuters over een boekhoudonderzoek naar Nvidia gooide nog wat olie op het vuur.",
+      "pubDate": "Fri, 20 Nov 2026 21:03:41 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:DqGTwBX74dG8QsXyfuC8ZC&context=ONLINE&ratio=16/9&width=480&u=1795208621000"
+    },
+    {
+      "id": "10706438",
+      "title": "Econoom Claudio Borio: 'Hoge overheidsschuld bemoeilijkt het leven van centraal bankiers'",
+      "link": "https://www.tijd.be/r/t/1/id/10706438",
+      "category": "Markten Live",
+      "description": "Het geloof dat de rente altijd laag zou blijven, heeft volgens econoom Claudio Borio een ‘schuldenval’ voor de wereldeconomie en overheden gecreëerd. Nu de rente heropleeft, luidt de vraag wat er zal breken. ‘Het kernprobleem is het onvermogen van de politiek om moeilijke begrotingsbeslissingen te nemen.’",
+      "pubDate": "Fri, 20 Nov 2026 19:44:23 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:5Ag_guw4KR5A5yiGMk81DD&context=ONLINE&ratio=16/9&width=480&u=1795203867000"
+    },
+    {
+      "id": "10706129",
+      "title": "Overmorgen wordt het warm",
+      "link": "https://www.tijd.be/r/t/1/id/10706129",
+      "category": "Opinie",
+      "description": "Journalist en schrijver Rik Van Puymbroeck kijkt door zijn lens naar de wereld.",
+      "pubDate": "Fri, 20 Nov 2026 19:30:00 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:EN6bg7GEaCnANJ9_qIEy5p&context=ONLINE&ratio=16/9&width=480&u=1795205365000"
+    },
+    {
+      "id": "10706248",
+      "title": "In Oekraïne worden zelfs clowns soldaten: ‘Na de foltering wilde ik mezelf opofferen voor mijn land’",
+      "link": "https://www.tijd.be/r/t/1/id/10706248",
+      "category": "Dossiers",
+      "description": "Volodymyr Tuka werkte als clown op kinderfeestjes in de Oekraïense stad Cherson. Nadat hij door de Russische bezetter opgepakt en mishandeld werd, meldde hij zich aan bij het leger. Nu heeft hij van zijn oorlogservaringen een toneelstuk gemaakt. ‘Aan mijn landgenoten bied ik humor, aan jullie de tragedie van de oorlog.’",
+      "pubDate": "Fri, 20 Nov 2026 19:15:27 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:6ImtKgzgKYyAbehtk5N2Hq&context=ONLINE&ratio=16/9&width=480&u=1795207202000"
+    },
+    {
+      "id": "10706496",
+      "title": "Na een week is regeringscrisis nog lang niet voorbij: ‘Als alles vastzit, mag je niet bang zijn van kiezer’",
+      "link": "https://www.tijd.be/r/t/1/id/10706496",
+      "category": "Dossiers",
+      "description": "Door Vooruit te laten sudderen, maakte premier Bart De Wever vrijdag nog eens duidelijk dat de N-VA, CD&V, de MR en Les Engagés niet van plan zijn om een akkoord te maken op de voorwaarden van Vooruit. ‘En als alles vastzit, dan mag je ook geen schrik hebben om de kiezer te laten spreken.’",
+      "pubDate": "Fri, 20 Nov 2026 19:11:21 GMT",
+      "score": 5,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:1VAOTcEpaWe8MaxYYw9_9p&context=ONLINE&ratio=16/9&width=480&u=1795203161000"
+    },
+    {
+      "id": "10706223",
+      "title": "De AI-sector wankelt, de 'Belgische techparel' EVS bezwijkt",
+      "link": "https://www.tijd.be/r/t/1/id/10706223",
+      "category": "Markten Live",
+      "description": "Zelfs de ijzersterke resultaten bij Nvidia en het laaiende beursdebuut van Anthropic konden de 'AI-trade' op de beurzen geen nieuw leven inblazen. Op de Brusselse beurs lijkt EVS, dat niet zo lang geleden nog werd beschouwd als een van die zeldzame Belgische techparels, het noorden al helemaal kwijt.",
+      "pubDate": "Fri, 20 Nov 2026 18:43:25 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:5zNoE9K8aLMA7Q6GhewtWu&context=ONLINE&ratio=16/9&width=480&u=1795209107000"
+    },
+    {
+      "id": "10706484",
+      "title": "Alleen Trump gelooft dat Poetin vrede wil",
+      "link": "https://www.tijd.be/r/t/1/id/10706484",
+      "category": "Dossiers",
+      "description": "De Russische president Vladimir Poetin vraagt de Europese landen hem te komen uitleggen wat zij uit de gesprekken over vrede in Oekraïne willen halen. Europa wil maar wat graag aan die onderhandelingen deelnemen, maar een gesterkte Poetin maakt de opdracht moeilijker.",
+      "pubDate": "Fri, 20 Nov 2026 18:40:02 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:4lgHTiC7qwwBxJGkmjYqkW&context=ONLINE&ratio=16/9&width=480&u=1795209162000"
+    },
+    {
+      "id": "10706403",
+      "title": "China blikt tevreden terug op top met VS en Rusland: ‘Dit is een mijlpaal voor de geschiedenisboeken’",
+      "link": "https://www.tijd.be/r/t/1/id/10706403",
+      "category": "Politiek & Economie",
+      "description": "Zowel Donald Trump als Vladimir Poetin keerde opgetogen terug van het ‘historische’ drielandenoverleg met Xi Jinping. Toch was het vooral de Chinese leider die de top naar zijn hand wist te zetten.",
+      "pubDate": "Fri, 20 Nov 2026 17:52:43 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:FbqAPJI34q7AGXXGPwZygO&context=ONLINE&ratio=16/9&width=480&u=1795199480000"
+    },
+    {
+      "id": "10706366",
+      "title": "De verpletterende kostprijs van niet-regeren",
+      "link": "https://www.tijd.be/r/t/1/id/10706366",
+      "category": "Opinie",
+      "description": "Als Sisyphus probeert premier Bart De Wever nog maar eens zijn coalitiepartners op één lijn te krijgen over de begroting. Ondertussen loopt de kostprijs van niet-regeren schrikbarend op.",
+      "pubDate": "Fri, 20 Nov 2026 17:46:02 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": null
+    },
+    {
+      "id": "10706463",
+      "title": "Bankenfederatie: ‘Meerwaardebelasting levert dit jaar minstens 250 miljoen euro op’",
+      "link": "https://www.tijd.be/r/t/1/id/10706463",
+      "category": "Netto",
+      "description": "Volgens ramingen van de bankenfederatie Febelfin zal de meerwaardebelasting dit jaar wellicht meer dan 250 miljoen euro opleveren, waardoor de gebudgetteerde inkomsten van de taks gehaald zouden worden.",
+      "pubDate": "Fri, 20 Nov 2026 17:28:34 GMT",
+      "score": 6,
+      "in_de7": false,
+      "image": null
+    },
+    {
+      "id": "10706430",
+      "title": "Telefoontaps, hacks en geheime video's: milieuproces tegen Tata Steel van start in Nederland",
+      "link": "https://www.tijd.be/r/t/1/id/10706430",
+      "category": "Ondernemen",
+      "description": "Vrijdag is bij de rechtbank in Amsterdam een proces gestart tegen de Nederlandse vestiging van Tata Steel. De staalproducent wordt beschuldigd van het illegaal en opzettelijk lozen van schadelijke stoffen in het milieu.",
+      "pubDate": "Fri, 20 Nov 2026 16:40:40 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:3P0deC_94veAIB4EQ_SJJ6&context=ONLINE&ratio=16/9&width=480&u=1795194046000"
+    },
+    {
+      "id": "10706325",
+      "title": "Toprapport Nvidia en beursdebuut Anthropic kunnen AI-zorgen niet sussen",
+      "link": "https://www.tijd.be/r/t/1/id/10706325",
+      "category": "Markten Live",
+      "description": "Sterke kwartaalcijfers van de AI-chipreus Nvidia en het geslaagde beursdebuut van Anthropic, het bedrijf achter de AI-chatbot Claude, kunnen het bloeden van de sector niet stelpen. Ontstaan er koopkansen? Of is de AI-leegloop pas begonnen?",
+      "pubDate": "Fri, 20 Nov 2026 16:31:46 GMT",
+      "score": 0,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:Dm9y9VDg4CLAVDaf5CqyTj&context=ONLINE&ratio=16/9&width=480&u=1795207891000"
+    },
+    {
+      "id": "10706456",
+      "title": "Regering-De Wever en Engie op ramkoers over overname kerncentrales: ‘Onmogelijke eisen’",
+      "link": "https://www.tijd.be/r/t/1/id/10706456",
+      "category": "Politiek & Economie",
+      "description": "De onderhandelingen tussen de federale regering en Engie over de overname van de nucleaire activiteiten stevenen af op een clash. De Belgische regering stelt ‘onmogelijke eisen’, luidt het in Engie-kringen. Als er binnen drie weken geen akkoord is, dreigt de ontmanteling van de kerncentrales te worden hervat.",
+      "pubDate": "Fri, 20 Nov 2026 16:30:23 GMT",
+      "score": 5,
+      "in_de7": false,
+      "image": null
+    },
+    {
+      "id": "10706425",
+      "title": "Betogingen in heel Europa tegen duur leven en toenemende 'militarisering'",
+      "link": "https://www.tijd.be/r/t/1/id/10706425",
+      "category": "Politiek & Economie",
+      "description": "In Italië, Nederland en het Verenigd Koninkrijk kwamen vrijdag duizenden demonstranten op straat tegen het steeds duurdere leven en de stijgende militaire uitgaven. Ook dit weekend gaan de acties verder in heel wat Europese steden.",
+      "pubDate": "Fri, 20 Nov 2026 16:20:40 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": null
+    },
+    {
+      "id": "10706435",
+      "title": "In 25 jaar verdween een vijfde van de Belgische chemiejobs",
+      "link": "https://www.tijd.be/r/t/1/id/10706435",
+      "category": "Ondernemen",
+      "description": "De fabriekssluiting van 3M en het faillissement van Vynova illustreren nogmaals de zwakte van de Belgische chemie. De tewerkstelling daalt en nieuwe investeringsprojecten blijven uit. ‘Deze crisis doet veel meer pijn.’",
+      "pubDate": "Fri, 20 Nov 2026 16:15:04 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:ElCPZxoyKRZBunUkBLbOk-&context=ONLINE&ratio=16/9&width=480&u=1795199217000"
+    },
+    {
+      "id": "10706461",
+      "title": "'Levensverzekeraar Athora overweegt verkoop Belgische tak'",
+      "link": "https://www.tijd.be/r/t/1/id/10706461",
+      "category": "Ondernemen",
+      "description": "Athora, de verzekeringsgroep die gelinkt is aan de Amerikaanse investeringsreus Apollo, is volgens mediaberichten van plan om zijn Belgische dochter van de hand te doen. Daarmee zou de groep na amper zeven jaar weer uit ons land verdwijnen.",
+      "pubDate": "Fri, 20 Nov 2026 16:05:31 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:58NupGFAKtN8FWz02PIlnP&context=ONLINE&ratio=16/9&width=480&u=1795191052000"
+    },
+    {
+      "id": "10706322",
+      "title": "De richtlijn door Rik Van Cauwelaert | Het gekeerde tij",
+      "link": "https://www.tijd.be/r/t/1/id/10706322",
+      "category": "Opinie",
+      "description": "De ontmoeting in Shenzhen tussen de Chinese leider Xi Jinping, de Russische president Vladimir Poetin en de Amerikaanse president Donald Trump was dan geen Jalta 2.0, de bijeenkomst illustreerde wel het gekeerde tij in de wereld. Een wereld waarin Europa toekijkt vanaf de zijlijn.",
+      "pubDate": "Fri, 20 Nov 2026 15:42:49 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": null
+    },
+    {
+      "id": "10706418",
+      "title": "Zetten Anthropic-miljardairs filantropische golf in gang?",
+      "link": "https://www.tijd.be/r/t/1/id/10706418",
+      "category": "Ondernemen",
+      "description": "De toplui van Anthropic beloven om, in lijn met hun altruïstische overtuigingen, tientallen miljarden dollars weg te schenken aan goede doelen. Maar komt het er ook echt van?",
+      "pubDate": "Fri, 20 Nov 2026 15:30:30 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:AeeMbE4sKHo8C8E7Num-T3&context=ONLINE&ratio=16/9&width=480&u=1795202902000"
+    },
+    {
+      "id": "10706172",
+      "title": "Van olijfolie tot boobstickers: 5 geschenken die blijven kleven",
+      "link": "https://www.tijd.be/r/t/1/id/10706172",
+      "category": "Sabato",
+      "description": "Vijf Belgische creatievelingen delen met Sabato hun signaturegeschenk: van olijfolie uit de eigen boomgaard tot boobstickers in alle mogelijke kleuren.",
+      "pubDate": "Fri, 20 Nov 2026 15:00:38 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": null
+    },
+    {
+      "id": "10706028",
+      "title": "Vier villa’s boven 10 miljoen euro verkocht in Knokke",
+      "link": "https://www.tijd.be/r/t/1/id/10706028",
+      "category": "Ondernemen",
+      "description": "Naast de iconische Roze Hoeve in het Zwin zijn deze zomer nog drie villa’s voor elk ruim 10 miljoen euro verkocht in Knokke-Zoute.",
+      "pubDate": "Fri, 20 Nov 2026 14:59:53 GMT",
+      "score": 6,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:9dB9-cXvKrPA3AqZcF2L-F&context=ONLINE&ratio=16/9&width=480&u=1795197508000"
+    },
+    {
+      "id": "10675338",
+      "title": "Op schattenjacht in Brussel? Brussels Design Market en vijf andere hotspots om dit weekend te bezoeken",
+      "link": "https://www.tijd.be/r/t/1/id/10675338",
+      "category": "Sabato",
+      "description": "Op zoek naar leuke dingen om te zien en doen in Brussel? Dit zijn de favorieten van onze correspondent die de stad door en door kent.",
+      "pubDate": "Fri, 20 Nov 2026 14:59:31 GMT",
+      "score": 1,
+      "in_de7": false,
+      "image": null
+    },
+    {
+      "id": "10706337",
+      "title": "Snelladen aan banden leggen? Dat is niet altijd de goede tactiek",
+      "link": "https://www.tijd.be/r/t/1/id/10706337",
+      "category": "Netto",
+      "description": "Steeds meer bedrijven zetten een rem op snelladen om de laadkosten van hun elektrische bedrijfswagens in te dammen. Traditioneel wordt aangenomen dat snelladen (fors) duurder is dan traag publiek laden. Maar klopt dat ook? En hoe weet u wat u betaalt?",
+      "pubDate": "Fri, 20 Nov 2026 14:48:28 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": null
+    },
+    {
+      "id": "10706324",
+      "title": "Koen Dejonckheere (Gimv): 'Ik snap niet dat onze politici er niet in slagen een plan te maken'",
+      "link": "https://www.tijd.be/r/t/1/id/10706324",
+      "category": "Politiek & Economie",
+      "description": "Artificiële intelligentie brengt ons aan de vooravond van een economische renaissance, zegt Koen Dejonckheere, de CEO van de investeringsmaatschappij Gimv. Maar de politieke wereld ziet het niet. 'Ik pleit voor een opstand van de jonge mensen.'",
+      "pubDate": "Fri, 20 Nov 2026 14:39:09 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": null
+    },
+    {
+      "id": "10706042",
+      "title": "Wat betekent de pensioenhervorming voor u?",
+      "link": "https://www.tijd.be/r/t/1/id/10706042",
+      "category": "Dossiers",
+      "description": "Vanaf volgend jaar treden verschillende maatregelen van de pensioenhervorming in werking die een impact kunnen hebben op uw pensioen. Wat moet u weten?",
+      "pubDate": "Fri, 20 Nov 2026 14:35:55 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:Ci5NTZ3UaYV9wq0yQVowjZ&context=ONLINE&ratio=16/9&width=480&u=1795185112000"
+    },
+    {
+      "id": "10706094",
+      "title": "Vijf tips voor de successieplanning van uw tweede verblijf",
+      "link": "https://www.tijd.be/r/t/1/id/10706094",
+      "category": "Dossiers",
+      "description": "Een tweede verblijf of vakantiewoning koopt u vooral om er een fijne tijd door te brengen, maar u staat ook het best stil bij minder goede tijden. ‘De aankoop is het uitgelezen moment om uw successieplanning uit te werken.’",
+      "pubDate": "Fri, 20 Nov 2026 14:35:37 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": null
+    },
+    {
+      "id": "10706208",
+      "title": "Zelfstandig ondernemer? Kom naar Finance Avenue en krijg tips voor uw zaak",
+      "link": "https://www.tijd.be/r/t/1/id/10706208",
+      "category": "Dossiers",
+      "description": "Voor het eerst komen er dit jaar op Finance Avenue verschillende specialisten tips geven voor wie werkt met een vennootschap.",
+      "pubDate": "Fri, 20 Nov 2026 14:35:37 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": null
+    },
+    {
+      "id": "10706000",
+      "title": "Waarom u maar beter kunt trouwen",
+      "link": "https://www.tijd.be/r/t/1/id/10706000",
+      "category": "Dossiers",
+      "description": "Samenwonen of trouwen? Het is een vraag die elk koppel zich weleens stelt. Voor velen hoeft trouwen niet, maar zo’n ‘boterbriefje’ maakt wel een verschil op het moment dat uw partner sterft of de relatie stukloopt.",
+      "pubDate": "Fri, 20 Nov 2026 14:31:33 GMT",
+      "score": 2,
+      "in_de7": false,
+      "image": null
+    },
+    {
+      "id": "10706179",
+      "title": "Recensie 'Het einde van alles' | Een overgave aan de vervreemding",
+      "link": "https://www.tijd.be/r/t/1/id/10706179",
+      "category": "Cultuur",
+      "description": "M. John Harrison kreeg deze maand de Booker Prize voor zijn dystopische roman ‘Het einde van alles’. Het boek laat zich lezen als een duistere droom, vol vragen en raadsels zonder enige verklaring.",
+      "pubDate": "Fri, 20 Nov 2026 14:31:32 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": null
+    },
+    {
+      "id": "10706299",
+      "title": "Van malarianetten naar AI-doemscenario’s: de invloedrijke filosofie achter Anthropic",
+      "link": "https://www.tijd.be/r/t/1/id/10706299",
+      "category": "Ondernemen",
+      "description": "De oprichters van Anthropic, auteurs van de grootste beursgang ooit, willen de good guys in AI zijn, en zelfs de enigen die de mensheid op een veilige manier naar ons technologisch lot kunnen loodsen. Vanwaar die overtuiging? Het antwoord ligt bij effectief altruïsme, de bijzonder invloedrijke filosofische beweging die in korte tijd is doorgedrongen tot de machtigste kringen.",
+      "pubDate": "Fri, 20 Nov 2026 14:12:04 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:ATwogEOSqJIAR84Gjngh16&context=ONLINE&ratio=16/9&width=480&u=1795202790000"
+    },
+    {
+      "id": "10683518",
+      "title": "Tom en Rudi: 'Zelfs tafelvoetbal voelt de turbulenties van de wereldpolitiek'",
+      "link": "https://www.tijd.be/r/t/1/id/10683518",
+      "category": "Ondernemen",
+      "description": "Tom Verluyten en Rudi Maes bouwen al bijna een kwarteeuw aan hun bedrijf Tom en Rudi rond hun hobby tafelvoetbal. 'Door het zakkende aantal jeugdhuizen en cafés mikken we nu meer op bedrijven, festivals en mensen thuis.'",
+      "pubDate": "Fri, 20 Nov 2026 14:10:54 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:2TruhtmDK9-Bi_CseX5HLt&context=ONLINE&ratio=16/9&width=480&u=1795190072000"
+    },
+    {
+      "id": "10706021",
+      "title": "De influencer | Dirigent Stephan Zilias: 'Maak je eigen fouten en wees er trots op'",
+      "link": "https://www.tijd.be/r/t/1/id/10706021",
+      "category": "Cultuur",
+      "description": "De Duitse dirigent Stephan Zilias (40) debuteerde vrijdag in Antwerpen als muziekdirecteur van Opera Ballet Vlaanderen met een symfonisch concert rond Schuberts Negende Symfonie. De voorbije zes jaar was hij Generalmusikdirektor van de Staatsoper Hannover. Wat inspireert en pleziert hem?",
+      "pubDate": "Fri, 20 Nov 2026 14:00:00 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": null
+    },
+    {
+      "id": "10706183",
+      "title": "Gezocht: presidentskandidaat die 'verweesde' centrumkiezer in Frankrijk enthousiasmeert",
+      "link": "https://www.tijd.be/r/t/1/id/10706183",
+      "category": "Politiek & Economie",
+      "description": "Verteerd door woede en desillusie lijken de Fransen de presidentsrace in 2027 naar een duel tussen de extremen te sturen. Gematigde kiezers kijken moedeloos naar het aanbod tussen de rechts-radicale Marine Le Pen en de ultralinkse Jean-Luc Mélenchon. 'Voor hen is het wachten tot iemand opstaat die moeilijke thema's kan brengen zonder te schofferen en zo Le Pen stemmen kan afsnoepen.'",
+      "pubDate": "Fri, 20 Nov 2026 13:52:07 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": null
+    },
+    {
       "id": "10706171",
       "title": "Op Van Eycks portretten is niets wat het lijkt",
       "link": "https://www.tijd.be/r/t/1/id/10706171",
@@ -9,7 +394,7 @@
       "pubDate": "Fri, 20 Nov 2026 13:38:04 GMT",
       "score": 2,
       "in_de7": false,
-      "image": null
+      "image": "https://images.tijd.be/view?iid=Elvis:3O2pguFuaoX8Ilvrm8Vq_M&context=ONLINE&ratio=16/9&width=480&u=1795197510000"
     },
     {
       "id": "10706012",
@@ -218,7 +603,7 @@
       "pubDate": "Fri, 20 Nov 2026 09:12:30 GMT",
       "score": 4,
       "in_de7": false,
-      "image": null
+      "image": "https://images.tijd.be/view?iid=Elvis:2T7myE4lqd089izS9qAdXO&context=ONLINE&ratio=16/9&width=480&u=1795166828000"
     },
     {
       "id": "10705809",
@@ -229,7 +614,7 @@
       "pubDate": "Fri, 20 Nov 2026 09:09:18 GMT",
       "score": 2,
       "in_de7": false,
-      "image": null
+      "image": "https://images.tijd.be/view?iid=Elvis:0kf3A2Xga-P9ToFWkuI83i&context=ONLINE&ratio=16/9&width=480&u=1794997103000"
     },
     {
       "id": "10706335",
@@ -251,7 +636,7 @@
       "pubDate": "Fri, 20 Nov 2026 09:02:52 GMT",
       "score": 2,
       "in_de7": false,
-      "image": null
+      "image": "https://images.tijd.be/view?iid=Elvis:4uPWMly_q_pBlGRmpWQbpE&context=ONLINE&ratio=16/9&width=480&u=1795199378000"
     },
     {
       "id": "10706319",
@@ -295,7 +680,7 @@
       "pubDate": "Fri, 20 Nov 2026 05:46:36 GMT",
       "score": 4,
       "in_de7": false,
-      "image": null
+      "image": "https://images.tijd.be/view?iid=Elvis:7IqjWutk4KpB6799g6M8Xl&context=ONLINE&ratio=16/9&width=480&u=1795102524000"
     },
     {
       "id": "10706292",
