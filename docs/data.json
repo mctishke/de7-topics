@@ -1,9 +1,31 @@
 {
-  "generated_at": "2026-11-27T14:29:45.429689+00:00",
+  "generated_at": "2026-11-27T22:51:50.568843+00:00",
   "date": "2026-11-27",
-  "de7_title": "De 7 Extra | Regeringscrisis: 'Het is op'",
+  "de7_title": "Slaag je voor een taalexamen dankzij Duolingo? | Het voedsel van de toekomst | Sport als medicijn | Mirumi",
   "de7_matched_count": 0,
   "articles": [
+    {
+      "id": "10707337",
+      "title": "Toestroom Chinese auto’s levert schatkist tot 1 miljard euro per jaar op",
+      "link": "https://www.tijd.be/r/t/1/id/10707337",
+      "category": "Ondernemen",
+      "description": "Alle Europese importheffingen ten spijt, gaat de opmars van automerken uit China door. De Vlaamse havens, de grootste toegangspoort van Europa, staan vol met tienduizenden Chinese wagens. De auto-invoer levert de schatkist al tot 1 miljard euro per jaar op.",
+      "pubDate": "Fri, 27 Nov 2026 19:44:06 GMT",
+      "score": 7,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:6eYwkPivKO_ApnvzymbsYW&context=ONLINE&ratio=16/9&width=480&u=1795814414000"
+    },
+    {
+      "id": "10707371",
+      "title": "Petroleumfederatie Energia: 'Eigen raffinaderijen helpen België door de energiecrisis'",
+      "link": "https://www.tijd.be/r/t/1/id/10707371",
+      "category": "Ondernemen",
+      "description": "De twee grote raffinaderijen in de Antwerpse haven leveren tijdens de huidige energiecrisis een grote bijdrage aan de energiebevoorrading in ons land. Maar die troefkaart behouden vergt zware investeringen. Er is 20 miljard euro nodig om ze tegen 2050 CO2-arm te maken.",
+      "pubDate": "Fri, 27 Nov 2026 17:53:20 GMT",
+      "score": 7,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:4yZPjmHn4NLA2NnDIN-G0J&context=ONLINE&ratio=16/9&width=480&u=1795802776000"
+    },
     {
       "id": "10707330",
       "title": "De 7 Extra | Regeringscrisis: 'Het is op'",
@@ -14,6 +36,17 @@
       "score": 5,
       "in_de7": false,
       "image": "https://images.tijd.be/view?iid=Elvis:D5qdfbSIKTz8cNh_7E2gDA&context=ONLINE&ratio=16/9&width=480&u=1795786840000"
+    },
+    {
+      "id": "10707171",
+      "title": "Bouwsector zoekt cash: ‘Wat heb je aan prachtconstructies neerzetten als ze niet opbrengen?’",
+      "link": "https://www.tijd.be/r/t/1/id/10707171",
+      "category": "Ondernemen",
+      "description": "Een rampwerf en een rechtszaak brachten het Wase bouwbedrijf Cordeel in moeilijkheden. Dat het stormt bij de nummer vier van het land, doet ook in de rest van de sector de onrust stijgen: de faillissementen pieken, de zoektocht naar cash wordt moeilijker en moeilijker. ‘Je kan niet eeuwig blijven hopen dat het beter gaat. Soms is het op.’",
+      "pubDate": "Fri, 27 Nov 2026 18:45:06 GMT",
+      "score": 5,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:Cc21XtTrq-894D8E_86fa5&context=ONLINE&ratio=16/9&width=480&u=1795810187000"
     },
     {
       "id": "10706777",
@@ -90,7 +123,7 @@
       "pubDate": "Fri, 27 Nov 2026 09:05:06 GMT",
       "score": 4,
       "in_de7": false,
-      "image": null
+      "image": "https://images.tijd.be/view?iid=Elvis:C5mT7ssA4moBmC1ahItNG5&context=ONLINE&ratio=16/9&width=480&u=1795774329000"
     },
     {
       "id": "10707017",
@@ -99,6 +132,50 @@
       "category": "Netto",
       "description": "Als u uw kind wil helpen om een huis of appartement te kopen, kunt u geld schenken of lenen. Dat lijkt heel eenvoudig, maar bij elke formule moet u goed nadenken om de familiale vrede te behouden.",
       "pubDate": "Thu, 26 Nov 2026 23:00:00 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:8ixDZAXIaW0A5yu3INv3Jz&context=ONLINE&ratio=16/9&width=480&u=1795788070000"
+    },
+    {
+      "id": "10707349",
+      "title": "Exit CEO en lege voorzittersstoel: Vlaamse machtsgreep bij luchthaven is worsteling",
+      "link": "https://www.tijd.be/r/t/1/id/10707349",
+      "category": "Politiek & Economie",
+      "description": "Een CEO die er de brui aan geeft, een voorzitter die nog geen voorzitter is en een opvolgingskwestie die hypergevoelig belooft te zijn. De machtsovername bij de luchthaven, waarvoor de Vlaamse regering vorig jaar 2,77 miljard neertelde, verloopt met horten en stoten.",
+      "pubDate": "Fri, 27 Nov 2026 19:46:22 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:AzpSXM_g44H8EusKwTN1dl&context=ONLINE&ratio=16/9&width=480&u=1795808790000"
+    },
+    {
+      "id": "10707351",
+      "title": "'Chips van Nvidia duiken op in Chinees datacenter gelinkt aan Alice Huang'",
+      "link": "https://www.tijd.be/r/t/1/id/10707351",
+      "category": "Dossiers",
+      "description": "Een Chinees datacenter werkt met krachtige Blackwell-chips van het Amerikaanse techbedrijf Nvidia. Het datacenter is gelinkt aan Alice Huang, de vermeende Chinese spionne met wie Nvidia-topman Jensen Huang een affaire had. Dat meldt het persbureau Bloomberg.",
+      "pubDate": "Fri, 27 Nov 2026 16:15:30 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:76F802LT4r_AHVhsjSBcHq&context=ONLINE&ratio=16/9&width=480&u=1795796381000"
+    },
+    {
+      "id": "10707113",
+      "title": "Expo 'The Infinite Woman' | De Mangbetu-vrouw weekt zich los van de koloniale blik",
+      "link": "https://www.tijd.be/r/t/1/id/10707113",
+      "category": "Cultuur",
+      "description": "De westerse blik objectiveerde de Mangbetu-vrouw een eeuw geleden tot een koloniale mascotte. In de expo ‘An Infinite Woman’ in Kanal eigenen 17 kunstenaars met Afrikaanse roots zich haar beeltenis opnieuw toe. ‘De archieven mogen de vertelling van de zwarte ervaring niet bepalen.’",
+      "pubDate": "Fri, 27 Nov 2026 15:00:00 GMT",
+      "score": 4,
+      "in_de7": false,
+      "image": null
+    },
+    {
+      "id": "10707360",
+      "title": "Kanal-architect Stephen Bates: ‘Met een museum alleen verander je een stad niet’",
+      "link": "https://www.tijd.be/r/t/1/id/10707360",
+      "category": "Sabato",
+      "description": "Na jaren vertraging opent Kanal dit weekend eindelijk voor het grote publiek. Directeur Yves Goldstein zwaait volgende week af, maar het architectenteam van Atelier Kanal – met onder meer Stephen Bates – is allesbehalve werkloos. Een gesprek over giftig staal, radicaal optimisme en het Guggenheim-effect. ‘Het is zo gemakkelijk om negatief te zijn.’",
+      "pubDate": "Fri, 27 Nov 2026 15:21:12 GMT",
       "score": 4,
       "in_de7": false,
       "image": null
@@ -157,6 +234,39 @@
       "score": 3,
       "in_de7": false,
       "image": "https://images.tijd.be/view?iid=Elvis:4GSNIIyMK718xo2ifq5SPN&context=ONLINE&ratio=16/9&width=480&u=1795730395000"
+    },
+    {
+      "id": "10707296",
+      "title": "Rauwe macht regeert, bewijst de Huang-saga: ‘Bananenrepubliek? Dat is een belediging voor landen die bananen exporteren’",
+      "link": "https://www.tijd.be/r/t/1/id/10707296",
+      "category": "Politiek & Economie",
+      "description": "De spectaculaire en snelle rehabilitatie van Jensen Huang bij Nvidia laat zien dat de absolute elite een grote mate van straffeloosheid geniet. ‘Staatskapitalisme? Dat is nog een veel te beleefde term.’",
+      "pubDate": "Fri, 27 Nov 2026 19:10:07 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:7RrgcDmNqnw9u6X_xo8tAX&context=ONLINE&ratio=16/9&width=480&u=1795815872000"
+    },
+    {
+      "id": "10707293",
+      "title": "BASF-baas Markus Kamieth: ‘We kunnen de meeste van onze 70.000 chemicaliën klimaatneutraal aanbieden. Maar niemand koopt ze’",
+      "link": "https://www.tijd.be/r/t/1/id/10707293",
+      "category": "Ondernemen",
+      "description": "BASF-CEO Markus Kamieth wil vaart maken met de transformatie van de Duitse chemiereus, die vecht tegen goedkope Chinese concurrenten en een krimpende markt. Maar het klimaatbeleid in de EU staat in de weg, vindt hij. 'Het dreigt economisch interessant te worden om een perfect competitieve fabriek in Europa te sluiten.'",
+      "pubDate": "Fri, 27 Nov 2026 17:53:42 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:6F0dZM0mauhARIoNW81GNb&context=ONLINE&ratio=16/9&width=480&u=1795814631000"
+    },
+    {
+      "id": "10707343",
+      "title": "Gesprekken hervorming loonnormwet gaan opnieuw naar kookpunt",
+      "link": "https://www.tijd.be/r/t/1/id/10707343",
+      "category": "Politiek & Economie",
+      "description": "De vakbonden en werkgevers zitten maandag opnieuw bijeen om een akkoord te vinden over een hervorming van de automatische indexering en de loonnormwet. Als het niet lukt, lijkt de tijd rijp om de stekker eruit te trekken.",
+      "pubDate": "Fri, 27 Nov 2026 16:48:47 GMT",
+      "score": 3,
+      "in_de7": false,
+      "image": "https://images.tijd.be/view?iid=Elvis:2PorkhpwaxYAKgY1btnXG4&context=ONLINE&ratio=16/9&width=480&u=1795800671000"
     },
     {
       "id": "10707314",
@@ -266,7 +376,7 @@
       "pubDate": "Fri, 27 Nov 2026 09:51:17 GMT",
       "score": 2,
       "in_de7": false,
-      "image": null
+      "image": "https://images.tijd.be/view?iid=Elvis:0kf3A2Xga-P9ToFWkuI83i&context=ONLINE&ratio=16/9&width=480&u=1795811592000"
     },
     {
       "id": "10706995",
@@ -277,7 +387,7 @@
       "pubDate": "Fri, 27 Nov 2026 09:30:46 GMT",
       "score": 2,
       "in_de7": false,
-      "image": null
+      "image": "https://images.tijd.be/view?iid=Elvis:DMrPxwH94MC92Z0TxbKFDV&context=ONLINE&ratio=16/9&width=480&u=1795625414000"
     },
     {
       "id": "10706608",
@@ -288,7 +398,7 @@
       "pubDate": "Fri, 27 Nov 2026 05:46:55 GMT",
       "score": 2,
       "in_de7": false,
-      "image": null
+      "image": "https://images.tijd.be/view?iid=Elvis:95x8euaJKa_9_qLjkSQHts&context=ONLINE&ratio=16/9&width=480&u=1795440263000"
     },
     {
       "id": "10707220",
@@ -299,40 +409,40 @@
       "pubDate": "Fri, 27 Nov 2026 04:01:30 GMT",
       "score": 2,
       "in_de7": false,
-      "image": null
+      "image": "https://images.tijd.be/view?iid=Elvis:5sLP-Ub-abj9dPQmbsiPGc&context=ONLINE&ratio=16/9&width=480&u=1795728247000"
     },
     {
-      "id": "10707267",
-      "title": "Strafhof opent proces tegen Filipijnse oud-president, terwijl Trump de VN-instelling wil slopen",
-      "link": "https://www.tijd.be/r/t/1/id/10707267",
+      "id": "10707395",
+      "title": "Hebben Rousseau en De Wever zich op elkaar verkeken?",
+      "link": "https://www.tijd.be/r/t/1/id/10707395",
       "category": "Politiek & Economie",
-      "description": "Voor het Internationaal Strafhof opent het proces tegen de Filipijnse oud-president Rodrigo Duterte wegens de duizenden doden die vielen tijdens zijn genadeloze oorlog tegen drugs. 'Ik deed wat ik moest doen, verwacht geen excuses.'",
-      "pubDate": "Fri, 27 Nov 2026 14:06:44 GMT",
-      "score": 1,
+      "description": "De regering-De Wever was altijd al een groter risico voor Vooruit dan voor de N-VA. Maar als net zijn trouwste bondgenoot de premier doet struikelen, beschadigt dat ook de Vlaams-nationalisten. ‘Er is nog altijd wederzijds begrip, maar daar kopen we allebei niets mee.’",
+      "pubDate": "Fri, 27 Nov 2026 20:40:05 GMT",
+      "score": 2,
       "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:0gmg81Jm4Te8xY4vID9A97&context=ONLINE&ratio=16/9&width=480&u=1795788408000"
+      "image": "https://images.tijd.be/view?iid=Elvis:8QWwUOOyqWj9DthR3CvVd1&context=ONLINE&ratio=16/9&width=480&u=1795814731000"
     },
     {
-      "id": "10707153",
-      "title": "Santiago Abascal, van irrelevante conservatieve dissident tot ultrarechtse kingmaker in Spanje",
-      "link": "https://www.tijd.be/r/t/1/id/10707153",
-      "category": "Politiek & Economie",
-      "description": "Ruim een halve eeuw na de dood van dictator Francisco Franco bonkt een uiterst rechtse partij weer op de poort van de macht in Spanje. Met een antimigratiebetoog surft Santiago Abascal op een golf van onvrede allicht naar de rol van kingmaker na de parlementsrace van zondag. Met mogelijke implicaties op het Europese toneel.",
-      "pubDate": "Fri, 27 Nov 2026 13:14:27 GMT",
-      "score": 1,
+      "id": "10706881",
+      "title": "U kunt heel wat hoger springen dan wat de staatsbon u biedt",
+      "link": "https://www.tijd.be/r/t/1/id/10706881",
+      "category": "Netto",
+      "description": "Beleggers kunnen momenteel inschrijven op nieuwe staatsbons op 1, 5 en 10 jaar. Welke beleggingen leveren nog betere rendementen op?",
+      "pubDate": "Fri, 27 Nov 2026 20:33:51 GMT",
+      "score": 2,
       "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:1VaE8kdYK-lAlECBwA5lyH&context=ONLINE&ratio=16/9&width=480&u=1795785272000"
+      "image": "https://images.tijd.be/view?iid=Elvis:2ygLk7nbqS888og5W8bvqA&context=ONLINE&ratio=16/9&width=480&u=1795811634000"
     },
     {
-      "id": "10696524",
-      "title": "Wijndiners met Pétrus en Yquem: Vincroyable zet oude topwijnen op het menu van sterrenrestaurants",
-      "link": "https://www.tijd.be/r/t/1/id/10696524",
-      "category": "Cultuur",
-      "description": "Waanzinnig unieke wijnen, grote gastronomie, amicale ambiance. Vincroyable gaat met zijn ‘wine dinners’ voor niets minder dan ongelofelijk.",
-      "pubDate": "Fri, 27 Nov 2026 08:10:22 GMT",
-      "score": 1,
+      "id": "10707373",
+      "title": "Vliegen zonder visie",
+      "link": "https://www.tijd.be/r/t/1/id/10707373",
+      "category": "Opinie",
+      "description": "De spanningen rond de luchthaven stapelen zich op. Heeft de Vlaamse regering eigenlijk wel een strategisch project voor die miljardeninvestering?",
+      "pubDate": "Fri, 27 Nov 2026 20:15:22 GMT",
+      "score": 2,
       "in_de7": false,
-      "image": "https://images.tijd.be/view?iid=Elvis:BBE8eq-naxC8OAd0EaQ28q&context=ONLINE&ratio=16/9&width=480&u=1795767943000"
+      "image": "https://images.tijd.be/view?iid=Elvis:8PMyTRHGqUZ9ClIBlGAPNE&context=ONLINE&ratio=16/9&width=480&u=1795814112000"
     }
   ]
 }
